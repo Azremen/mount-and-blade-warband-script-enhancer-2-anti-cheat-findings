@@ -358,6 +358,7 @@ anticheat_scripts = [
          
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_confirmed),
          (call_script, "script_cf_anticheat_enforce", ":player_no", ac_reason_seed_mismatch),
+         (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
 
        # -----------------------------------------------------------------------
        # CASE 2: Auto-Block Detection Sub-Signals
@@ -392,6 +393,7 @@ anticheat_scripts = [
 
          # Evaluate threat after sub-signal update
          (call_script, "script_cf_eval_player_threat", ":player_no", acd_auto_block),
+         (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
 
        # -----------------------------------------------------------------------
        # CASE 3: Client Clock Skew / Speedhack
@@ -400,6 +402,7 @@ anticheat_scripts = [
          (eq, ":type", acd_time_skew),
          (assign, reg0, 1), # module owns every acd_time_skew event, even sub-threshold ones
 
+         (set_fixed_point_multiplier, 1), # acs_* stats must be read as raw ints
          (player_get_anticheat_stat, ":max_skew", ":player_no", acs_time_skew_max),
          (call_script, "script_ensure_anticheat_config"),
          (dict_create, ":config_dict"),
@@ -412,10 +415,9 @@ anticheat_scripts = [
          (val_add, ":skew_cnt", 1),
          (player_set_slot, ":player_no", slot_player_cheat_clock_skew_count, ":skew_cnt"),
          (call_script, "script_cf_eval_player_threat", ":player_no", acd_time_skew),
+         (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
 
        (try_end),
-       # Persist counters after every event so reconnects do not reset this match's evidence.
-       (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
      (try_end),
    ]),
 
@@ -434,6 +436,7 @@ anticheat_scripts = [
      (dict_load_file_json, ":config_dict", s0, 0),
      
        # Fetch Live Summary Stats
+      (set_fixed_point_multiplier, 1), # acs_* stats must be read as raw ints
       (player_get_anticheat_stat, ":match_pct", ":player_no", acs_autoblock_match),
       (player_get_anticheat_stat, ":reaction_ms", ":player_no", acs_autoblock_reaction_ms),
       (player_get_anticheat_stat, ":max_skew", ":player_no", acs_time_skew_max),
@@ -808,3 +811,34 @@ anticheat_scripts = [
 - `enforcement_mode=2` has not been validated against a live ban in the
   available logs. Keep enforcement opt-in until a controlled test confirms the
   `ban_player` path and configured duration.
+- `reg0` is now set to `1` as soon as the event's type matches
+  `acd_auto_block`/`acd_time_skew`/`acd_seed_mismatch`, before the branch's own
+  internal sub-threshold gate (`ge, ":value", ":threshold"` /
+  `ge, ":max_skew", ":clock_skew_threshold"`) is evaluated. Previously `reg0`
+  was only set after that gate passed, so an event of a type the module does
+  handle, but that fails the module's own accumulation gate, fell through to
+  native WSE2 action - bypassing the module's own `enforcement_mode` even in
+  silent mode. Native fallback is now reserved strictly for the five
+  completely unscored types (`10`, `12`, `13`, `15`, `17`).
+- `set_fixed_point_multiplier` is set to `1` immediately before every
+  `player_get_anticheat_stat` read of `acs_autoblock_match`,
+  `acs_autoblock_reaction_ms`, and `acs_time_skew_max`. The multiplier is
+  global, mutable state shared with every other script in the module (several
+  presentation and scene-prop scripts set it to `100` or `1000`), so a stat
+  read without first pinning the multiplier would be comparing an unknown
+  unit against the plain-integer thresholds (`65`, `500`, `10`, `85`) used
+  throughout this module. `ANTICHEAT_SERVER_GUIDE.md`'s documented ranges
+  (e.g. `autoblock_match_pct` 50-85 honest / 95-100 bot) confirm these three
+  stats are plain percent/ms values, not fixed-point-scaled, but pinning the
+  multiplier removes the dependency on that assumption entirely.
+- `script_cf_save_anticheat_player_history` (a full JSON load + save of the
+  history file) now only runs for the three types the module scores
+  (`acd_seed_mismatch`, `acd_auto_block`, `acd_time_skew`), not on every
+  `ti_on_cheat_detected` firing. The five unscored types don't touch any
+  slot counter, so saving history for them was a pure I/O cost with nothing
+  new to persist; `slot_player_cheat_total_detections` (which does still
+  increment for those types) is telemetry only and is not read by any
+  evaluator rule, so it may lag slightly on a reconnect that follows only
+  unscored-type events. Config is still read from disk on every scored
+  event (no caching layer); this remains a known cost under high detection
+  volume and would require a mission-start-cached config to remove.

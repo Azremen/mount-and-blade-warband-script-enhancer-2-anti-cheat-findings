@@ -61,6 +61,7 @@ The central goal is not to punish a player for one suspicious action. It is to m
 | Auto attack (`type 15`) | Finding the uncovered side and reacting to feints/chambers | Strong duelists require care |
 | Attack cadence (`type 13`) | Suspicious animation speed | Disabled by default; fast weapons can trigger it |
 | Clock skew (`type 11`) | Positive client clock deviation | Negative skew is lag; ESP/wallhacks are not detected |
+| Client integrity (`types 20-24`) | SDK-defined client module, thread, hook, signature, and text-hash checks | Available in the SDK; runtime behavior is not evidenced by the logs in this archive |
 
 ## Decision Flow
 
@@ -122,7 +123,7 @@ This list is not a universal cheat database or a legal judgment. The same name c
 ## Known Limitations and Risks
 
 - ESP and wallhacks are invisible to the server; this version does not detect them.
-- Modified client module files are not checked in this version.
+- The WSE2 SDK defines client-integrity detections for client modules, threads, hooks, signatures, and text hashes (`types 20-24`). This archive does not include the non-public engine source or log evidence proving which of these checks are active in the deployed build; their runtime behavior must be verified against that build before being treated as enabled or disabled.
 - Statistical detectors can produce false positives; enforcement must not be enabled without calibration.
 - Bans are tied to the unique ID and may be bypassed with another serial key or a VPN.
 - The source may not exactly match this archive's specification. Documented differences include the seed mismatch counter not being incremented, the JSON clock threshold not being used by the handler, the `max_matchrate_spikes` setting not being read, and the whitelist file being recreated.
