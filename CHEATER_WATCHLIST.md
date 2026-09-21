@@ -116,6 +116,17 @@ log was captured. The developer has since root-caused and fixed the clock-skew d
 an old, too-loose threshold (now fixed and lowered).
 (auto block) evidence above.
 
+## Special Thanks
+
+Special thanks to the anti-cheat testers and sponsor who helped validate the
+detector during calibration:
+
+- `63rd_OZBEK`
+- `63rd_Kurdishim_Abo` (primarily known as `Fred`)
+- `63rd_Rgl_ramadan_baighara`
+- `63rd_Col_Edward` / `63rd_BOZBEK`
+- `63rd_General_Eternal`
+
 ## Maintenance
 
 When a new session is reviewed:
