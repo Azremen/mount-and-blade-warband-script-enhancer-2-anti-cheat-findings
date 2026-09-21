@@ -458,7 +458,6 @@ anticheat_scripts = [
       # EVALUATION RULE 1: Noise Filter
        # -----------------------------------------------------------------------
       (try_begin),
-       (else_try),
         (eq, ":detection_type", acd_auto_block),
         (lt, ":match_pct", ":noise_max_match_pct"),
          (gt, ":reaction_ms", ":noise_min_reaction_ms"),
