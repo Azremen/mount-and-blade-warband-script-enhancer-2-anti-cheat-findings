@@ -23,6 +23,23 @@ for the full log evidence behind each entry.
 | `87th_Irish_LtCol_Khizar` | `2484596` | Autoblock | 4 detections in 21 min (`12.09.2026`); match-rate spike reaching `95/90`, plus 3x offscreen (`6/6`). |
 | `Nr31[FKR]_KFwb_Arkan` | `2116360` | Autoblock | 3 type `14` offscreen crossings (`10/6`, `6/6`, `6/6`) in `63rd Server/server_log_16.09.2026.txt`. |
 
+## Offscreen-related observations
+
+The accounts below produced repeated offscreen autoblock signals. They remain in the confirmed table
+above because that table records the current project verdicts, but offscreen evidence must not be
+treated as conclusive on its own.
+
+A player using an FOV setting above the default may see attacks that the detector classifies as outside
+its assumed view cone. Higher-than-default FOV can therefore produce offscreen detections without proving
+autoblock. Confirmation requires independent corroboration such as match-rate or feint-follow crossings,
+owner confirmation, or other reliable evidence.
+
+| Name(s) seen | Unique ID | Offscreen evidence |
+|---|---|---|
+| `[Legion_SvD]_Hm` / `108th_Rodina_Mat_Saratova` | `2031011` | 8 offscreen detections on `13.09.2026`; later sessions used the same GUID. |
+| `108th_Saratov_02` | `2298580` | 7 detections with repeated offscreen alerts. |
+| `Nr31[FKR]_KFwb_Arkan` | `2116360` | 3 offscreen threshold crossings: `10/6`, `6/6`, and `6/6`. |
+
 Note: `lebrun` was initially reported as speedhack + autoblock, but the developer's investigation
 confirmed his tool never touches the game clock, so the speedhack label has been removed for this
 account; his confirmed cheat is autoblock only, on solid type `14` evidence.
