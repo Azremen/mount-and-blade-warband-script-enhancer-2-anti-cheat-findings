@@ -22,6 +22,24 @@ This work is intentionally split into two layers:
 
 The project purpose is not to punish on a single suspicious value. It is to preserve evidence, compare live player behavior against baseline ranges, and only escalate once multiple signals point in the same direction. Deterministic issues such as seed mismatch are handled as zero-tolerance events; statistical issues such as autoblock need corroboration.
 
+## Action Steps for Server Owners
+
+- Read [ANTICHEAT_SERVER_GUIDE.md](ANTICHEAT_SERVER_GUIDE.md) before enabling anything.
+- Start in silent mode with `iMode=1` and collect a week of baseline data.
+- Compare `anticheat,summary` rows and detection patterns against your normal player population before switching to enforce mode.
+- Treat offscreen warnings as a pattern check, not a final verdict by themselves.
+- Apply enforcement gradually: first one threshold, then another, rather than flipping all settings on at once.
+- Keep the GUID and raw evidence together when reviewing suspicious sessions.
+
+## Action Steps for Module System Developers
+
+- Read [MODULE_ANTICHEAT_SPEC.md](MODULE_ANTICHEAT_SPEC.md) first for the current decision logic and exception handling.
+- Verify that the trigger suppresses native action only for the scored types and leaves unhandled types to the native WSE2 fallback.
+- Review seed mismatch, autoblock sub-signals, and clock-skew logic separately; they are not interchangeable signals.
+- Check the JSON config, whitelist, admin GUIDs, and history files as separate responsibilities.
+- Validate the module against the exact deployed WSE2 build because the engine source is not included here.
+- Compare the documented behavior with the actual runtime logs before treating a fix as complete.
+
 ## Current Scope and Decisions
 
 - WSE2 1.5.2 is a non-public build and is not open source.
