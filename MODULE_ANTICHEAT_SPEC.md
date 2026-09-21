@@ -58,7 +58,6 @@ slot_player_cheat_matchrate_spikes    = 153
 slot_player_cheat_feint_follows       = 154
 slot_player_cheat_clock_skew_count    = 155
 slot_player_cheat_seed_mismatches     = 156
-slot_player_cheat_last_detection_time = 157
 slot_player_cheat_autoblock_detections = 158
 
 threat_level_none       = 0
@@ -365,8 +364,8 @@ anticheat_scripts = [
        # -----------------------------------------------------------------------
        (else_try),
          (eq, ":type", acd_auto_block),
+         (assign, reg0, 1), # module owns every acd_auto_block event, even sub-threshold ones
          (ge, ":value", ":threshold"),
-         (assign, reg0, 1),
          (player_get_slot, ":autoblock_detections", ":player_no", slot_player_cheat_autoblock_detections),
          (val_add, ":autoblock_detections", 1),
          (player_set_slot, ":player_no", slot_player_cheat_autoblock_detections, ":autoblock_detections"),
@@ -399,7 +398,8 @@ anticheat_scripts = [
        # -----------------------------------------------------------------------
        (else_try),
          (eq, ":type", acd_time_skew),
-         
+         (assign, reg0, 1), # module owns every acd_time_skew event, even sub-threshold ones
+
          (player_get_anticheat_stat, ":max_skew", ":player_no", acs_time_skew_max),
          (call_script, "script_ensure_anticheat_config"),
          (dict_create, ":config_dict"),
@@ -408,7 +408,6 @@ anticheat_scripts = [
          (str_store_string, s0, "@clock_skew_threshold_pct"),
          (dict_get_int, ":clock_skew_threshold", ":config_dict", s0, ac_conf_clock_skew_threshold_pct),
          (ge, ":max_skew", ":clock_skew_threshold"),
-         (assign, reg0, 1),
          (player_get_slot, ":skew_cnt", ":player_no", slot_player_cheat_clock_skew_count),
          (val_add, ":skew_cnt", 1),
          (player_set_slot, ":player_no", slot_player_cheat_clock_skew_count, ":skew_cnt"),
@@ -798,8 +797,6 @@ anticheat_scripts = [
   when the file is missing or empty.
 - Admin GUID entries are used for admin authorization. They are not recipients
   of targeted anti-cheat notifications.
-- `slot_player_cheat_last_detection_time` is reserved but not currently set or
-  read anywhere in the source.
 - Previously, the trigger suppressed native WSE2 action for every detection
   type unconditionally, so types `10` (aim snap), `12` (spread luck), `13`
   (attack cadence), `15` (auto attack), and `17` (aim lead) were silently
