@@ -242,7 +242,38 @@ while the separate admin dictionary controls which GUIDs retain admin status.
 
 ---
 
-## 5. Module System Evaluation & Enforcement Scripts (`module_scripts.py`)
+## 5. Anti-Cheat Strings (`module_strings.py`)
+
+The join-admission and alert scripts use these string records from the hardwired
+prefix of `module_strings.py`:
+
+```python
+("ac_reason_seed_mismatch", "Seed mismatch exploit"),
+("ac_reason_sustained_autoblock", "Sustained auto-block"),
+("ac_reason_repeated_offscreen", "Repeated offscreen auto-block"),
+("ac_reason_matchrate_watchlist", "Auto-block match-rate watchlist"),
+("ac_reason_speedhack", "Client clock speedhack"),
+("ac_reason_multisignal_autoblock", "Auto-block multi-signal suspicion"),
+("ac_whitelist_join_denied", "Connection denied by player whitelist"),
+("ac_whitelist_join_denied_player", "You are not on the player whitelist."),
+```
+
+The corresponding generated IDs in `ID_strings.py` are:
+
+```python
+str_ac_reason_seed_mismatch         = 4
+str_ac_reason_sustained_autoblock   = 5
+str_ac_reason_repeated_offscreen    = 6
+str_ac_reason_matchrate_watchlist   = 7
+str_ac_reason_speedhack             = 8
+str_ac_reason_multisignal_autoblock = 9
+str_ac_whitelist_join_denied        = 10
+str_ac_whitelist_join_denied_player = 11
+```
+
+---
+
+## 6. Module System Evaluation & Enforcement Scripts (`module_scripts.py`)
 
 The records below are a decision-logic reference. The actual source appends
 the named scripts directly to `scripts = [...]`; it does not define an
@@ -639,7 +670,7 @@ anticheat_scripts = [
 
 ---
 
-## 6. Current Source Behavior
+## 7. Current Source Behavior
 
 1. **Mission start**: `multiplayer_server_ensure_anticheat_json` creates the
   admin GUID, player whitelist, configuration, and history files when absent
