@@ -15,7 +15,6 @@ for the full log evidence behind each entry.
 | `108th_Rodina_Mat_Saratova` | `2031011` | Autoblock | 6 detections with repeated offscreen signals; final match rate `82%`, reaction `240 ms`. Same GUID as the earlier `[Legion_SvD]_Hm` account. |
 | `108th_Saratov_02` | `2298580` | Autoblock | 7 detections and repeated offscreen alerts; final match rate `32%`, reaction `1435 ms`. |
 | `[Legion_SvD]_Hm` | `2031011` | Autoblock | 8 offscreen detections in 39 min (`13.09.2026`); automation marked this account threat level 4. |
-| `63rd_lebrun` | `1832685` | Autoblock | Different account from confirmed `63rd_lebrun` (`2226106`): 4 detections in 19 min, including offscreen, feint-follow, and match-rate `90/90` signals. |
 | `63rd_Rec_Fiszek` | `1098052` | Autoblock | Across two separate server sessions, triggered all three autoblock sub-signals at least once each (offscreen, match-rate `90/90`, feint-follow `8/8`); final offscreen snapshot `4`. |
 | `Asassins_Wilhelm` | `2508655` | Autoblock | Single session; one match-rate crossing (`90/90`) and a final offscreen snapshot of `4`, above the honest 0-2 ceiling. |
 | `87th_Irish_LnCpl_Wolk` | `2026867` | Autoblock | 5 detections in 78 min (`12.09.2026`); match-rate spikes reaching `92/90` and `95/90`, plus feint-follow (`8/8`) and offscreen (`6/6`). |
@@ -25,14 +24,21 @@ for the full log evidence behind each entry.
 
 ## Offscreen-related observations
 
-The table below is a complete GUID-based inventory of type `14` offscreen threshold crossings
-(`threshold=6`) in the available `63rd Server` logs. It is a detector inventory, not a list of confirmed
-cheaters. The match-rate and feint columns show other type `14` sub-signals found for the same GUID.
+The table below is a GUID-based inventory of type `14` offscreen threshold crossings (`threshold=6`)
+for non-test accounts in the available `63rd Server` logs. Credited testers and the test sponsor are
+excluded. It is a detector inventory, not a list of confirmed cheaters. The match-rate and feint columns
+show other type `14` sub-signals found for the same GUID.
 
 A player using an FOV setting above the default may see attacks that the detector classifies as outside
 its assumed view cone. Higher-than-default FOV can therefore produce offscreen detections without proving
 autoblock. Confirmation requires independent corroboration such as match-rate or feint-follow crossings,
 owner confirmation, or other reliable evidence.
+
+GUID `1832685` used the name `63rd_lebrun`, but it is not linked to confirmed GUID `2226106` merely
+because the nickname matches. It produced 4 type `14` detections (2 offscreen, 1 match-rate, and 1
+feint-follow), below the 8-detection confirmation threshold. Its final summary reported
+`autoblock_match_pct=7`, `autoblock_reaction_ms=564`, `autoblock_offscreen=0`, and
+`autoblock_feints=0`. It therefore remains an unconfirmed observation in the inventory below.
 
 | Name(s) seen | Unique ID | Offscreen | Match-rate | Feint-follow | Log date(s) |
 |---|---:|---:|---:|---:|---|
@@ -51,7 +57,7 @@ owner confirmation, or other reliable evidence.
 | `108th_Osian` | `2492309` | 2 | 0 | 0 | `14.09.2026` |
 | `108th_Saratov_Artem` / `63rd_Artem` | `2445527` | 9 | 0 | 1 | `14.09.2026` |
 | `108th_Saratov_Boeboba` | `2225407` | 1 | 0 | 0 | `14.09.2026` |
-| `108th_Saratov_Messi` / `9_BOPOH` | `1738245` | 14 | 0 | 0 | `14.09.2026` |
+| `Asassins_Ceed` / `108th_Saratov_Messi` / `9_BOPOH` | `1738245` | 14 | 0 | 0 | `14.09.2026` |
 | `12th_CplFoP_Movement` | `1269742` | 1 | 0 | 1 | `15.09.2026` |
 | `12th_GOAT_Flo` | `9318` | 7 | 0 | 0 | `15.09.2026` |
 | `12th_Greg_Gorgo` | `372274` | 4 | 0 | 0 | `15.09.2026` |
@@ -66,22 +72,17 @@ owner confirmation, or other reliable evidence.
 | `63rd_blowjob` | `1589927` | 7 | 0 | 0 | `11.09.2026`, `13.09.2026` |
 | `63rd_Bluzbek` | `1146243` | 3 | 0 | 1 | `15.09.2026` |
 | `63rd_Bob` | `2560835` | 4 | 1 | 0 | `13.09.2026`, `14.09.2026` |
-| `63rd_BOZBEK` / `63rd_Col_Edward` / `63rd_LCpl_Edward` | `2272988` | 8 | 1 | 3 | `11.09.2026`, `12.09.2026`, `14.09.2026`-`16.09.2026` |
 | `63rd_Cpl_fatihmehmet` | `1928336` | 1 | 0 | 0 | `12.09.2026` |
-| `63rd_General_Eternal` / `Eto` | `2289446` | 17 | 4 | 4 | `12.09.2026`-`16.09.2026` |
 | `63rd_GJack` | `2087362` | 1 | 0 | 0 | `16.09.2026` |
 | `63rd_Gren_Ingemard` | `2551450` | 1 | 1 | 0 | `11.09.2026` |
 | `63rd_gren_jack` / `63rd_jack` / `63rd_lazsiken_jack` | `1724198` | 8 | 1 | 0 | `14.09.2026`, `16.09.2026` |
 | `63rd_Gren_SteeL` / `63rd_SteeL` | `2065478` | 13 | 0 | 2 | `14.09.2026`-`16.09.2026` |
 | `63rd_Kgm_Nedim` | `395164` | 10 | 2 | 0 | `14.09.2026`, `16.09.2026` |
-| `63rd_Kurdishim` / `63rd_Kurdishim_Abo` | `2231675` | 37 | 11 | 3 | `12.09.2026`-`14.09.2026`, `16.09.2026` |
 | `63rd_lebrun` | `1832685` | 2 | 1 | 1 | `13.09.2026` |
 | `63rd_lenox` / `LenoX` | `2226106` | 18 | 3 | 0 | `11.09.2026`, `14.09.2026` |
-| `63rd_OZBEK` / `OZBEKK` | `2002752` | 26 | 3 | 5 | `12.09.2026`-`16.09.2026` |
 | `63rd_Ozbeki` | `1513490` | 2 | 1 | 1 | `15.09.2026` |
 | `63rd_Pwt_Klaused` | `1524719` | 1 | 1 | 0 | `16.09.2026` |
 | `63rd_Rec_Fiszek` | `1098052` | 10 | 0 | 1 | `11.09.2026`, `14.09.2026` |
-| `63rd_Rgl_ramadan_baighara` | `2336726` | 3 | 0 | 0 | `14.09.2026` |
 | `63rd_Zeyden` | `1556384` | 3 | 0 | 0 | `15.09.2026` |
 | `87th_Irish_Gren_TalatPashaa` | `2484125` | 4 | 1 | 0 | `12.09.2026` |
 | `87th_Irish_Gren_Warwilk` | `1882337` | 1 | 0 | 0 | `12.09.2026` |
@@ -104,7 +105,7 @@ owner confirmation, or other reliable evidence.
 | `Nr31[FKR]_StObjg_BlBA` | `2552880` | 1 | 0 | 1 | `16.09.2026` |
 | `Nr31[FKR]_UJg_MrRifleman` | `2570456` | 8 | 1 | 2 | `16.09.2026` |
 
-Note: `lebrun` was initially reported as speedhack + autoblock, but the developer's investigation
+Note: confirmed GUID `2226106` was initially reported as speedhack + autoblock, but the developer's investigation
 confirmed his tool never touches the game clock, so the speedhack label has been removed for this
 account; his confirmed cheat is autoblock only, on solid type `14` evidence.
 
@@ -116,8 +117,9 @@ an old, too-loose threshold (now fixed and lowered).
 
 ## Special Thanks
 
-Special thanks to `63rd_OZBEK`, `63rd_Kurdishim_Abo` (primarily known as `Fred`), and
-`63rd_Rgl_ramadan_baighara` for serving as anti-cheat testers, and to
+Special thanks to `63rd_OZBEK`, `63rd_Kurdishim_Abo` (primarily known as `Fred`),
+`63rd_Rgl_ramadan_baighara`, and `63rd_Col_Edward` / `63rd_BOZBEK` for serving as anti-cheat testers,
+and to
 `63rd_General_Eternal` for sponsoring their testing work.
 
 ## Maintenance
