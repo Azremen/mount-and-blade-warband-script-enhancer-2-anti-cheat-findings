@@ -25,20 +25,84 @@ for the full log evidence behind each entry.
 
 ## Offscreen-related observations
 
-The accounts below produced repeated offscreen autoblock signals. They remain in the confirmed table
-above because that table records the current project verdicts, but offscreen evidence must not be
-treated as conclusive on its own.
+The table below is a complete GUID-based inventory of type `14` offscreen threshold crossings
+(`threshold=6`) in the available `63rd Server` logs. It is a detector inventory, not a list of confirmed
+cheaters. The match-rate and feint columns show other type `14` sub-signals found for the same GUID.
 
 A player using an FOV setting above the default may see attacks that the detector classifies as outside
 its assumed view cone. Higher-than-default FOV can therefore produce offscreen detections without proving
 autoblock. Confirmation requires independent corroboration such as match-rate or feint-follow crossings,
 owner confirmation, or other reliable evidence.
 
-| Name(s) seen | Unique ID | Offscreen evidence |
-|---|---|---|
-| `[Legion_SvD]_Hm` / `108th_Rodina_Mat_Saratova` | `2031011` | 8 offscreen detections on `13.09.2026`; later sessions used the same GUID. |
-| `108th_Saratov_02` | `2298580` | 7 detections with repeated offscreen alerts. |
-| `Nr31[FKR]_KFwb_Arkan` | `2116360` | 3 offscreen threshold crossings: `10/6`, `6/6`, and `6/6`. |
+| Name(s) seen | Unique ID | Offscreen | Match-rate | Feint-follow | Log date(s) |
+|---|---:|---:|---:|---:|---|
+| `*_[Legion_SvD]_LJE-MARAT` / `[Legion_SvD]_Mokrif` | `2492046` | 2 | 0 | 0 | `13.09.2026` |
+| `[Legion_SvD]_Chell00212` | `2593302` | 4 | 0 | 1 | `13.09.2026` |
+| `[Legion_Svd]_Fuhrer_GIORGI` | `2433518` | 2 | 0 | 0 | `13.09.2026` |
+| `[Legion_SvD]_Hm` / `108th_Rodina_Mat_Saratova` | `2031011` | 13 | 0 | 1 | `13.09.2026`, `14.09.2026` |
+| `[Legion_SvD]_k_La_Furia_Roja` / `9th_Rus_Mjr_karpik_` | `1342193` | 6 | 0 | 0 | `13.09.2026`, `14.09.2026` |
+| `[Legion_SvD]_Maj_Evil_Xomik` | `2491664` | 3 | 1 | 1 | `13.09.2026` |
+| `[Legion_SvD]_ZeroTwo` / `108th_Saratov_02` / `9th_ZeroTwo` | `2298580` | 13 | 1 | 2 | `13.09.2026`, `14.09.2026` |
+| `[Legion_SvD]Amelie_Lampard` | `2557146` | 2 | 1 | 1 | `13.09.2026` |
+| `[LegionSvD]_Igorrr_` / `9th_Rus_efr_ISOctober` | `2583313` | 3 | 0 | 1 | `13.09.2026`, `14.09.2026` |
+| `[Legion-SvD]Verhovna_rada` | `2040869` | 1 | 1 | 0 | `13.09.2026` |
+| `108th[OG]SPIDI` / `63rd_Rec_Maxitan[ChmoPetuh]` / `63rd_Rec_SPIDI` | `2441522` | 3 | 1 | 1 | `13.09.2026`, `14.09.2026` |
+| `108th_KurdCommunist` / `9th_AdrianHepard` | `2448918` | 6 | 0 | 0 | `14.09.2026` |
+| `108th_Osian` | `2492309` | 2 | 0 | 0 | `14.09.2026` |
+| `108th_Saratov_Artem` / `63rd_Artem` | `2445527` | 9 | 0 | 1 | `14.09.2026` |
+| `108th_Saratov_Boeboba` | `2225407` | 1 | 0 | 0 | `14.09.2026` |
+| `108th_Saratov_Messi` / `9_BOPOH` | `1738245` | 14 | 0 | 0 | `14.09.2026` |
+| `12th_CplFoP_Movement` | `1269742` | 1 | 0 | 1 | `15.09.2026` |
+| `12th_GOAT_Flo` | `9318` | 7 | 0 | 0 | `15.09.2026` |
+| `12th_Greg_Gorgo` | `372274` | 4 | 0 | 0 | `15.09.2026` |
+| `12th_LCpl_Denis` | `635181` | 2 | 0 | 0 | `15.09.2026` |
+| `12th_LtCol_Nova` | `1637460` | 1 | 0 | 0 | `15.09.2026` |
+| `12th_OG_Lefty` | `1389481` | 1 | 0 | 0 | `15.09.2026` |
+| `12th_rec_Luke` | `1594268` | 3 | 0 | 0 | `15.09.2026` |
+| `12th_Rundeen` | `2283886` | 3 | 0 | 0 | `15.09.2026` |
+| `12th_Sjt_Jake` | `2189042` | 2 | 1 | 1 | `15.09.2026` |
+| `12th_Slut_Jack` | `1153761` | 1 | 0 | 0 | `15.09.2026` |
+| `63rd_AntiDi` | `1979846` | 1 | 0 | 1 | `14.09.2026` |
+| `63rd_blowjob` | `1589927` | 7 | 0 | 0 | `11.09.2026`, `13.09.2026` |
+| `63rd_Bluzbek` | `1146243` | 3 | 0 | 1 | `15.09.2026` |
+| `63rd_Bob` | `2560835` | 4 | 1 | 0 | `13.09.2026`, `14.09.2026` |
+| `63rd_BOZBEK` / `63rd_Col_Edward` / `63rd_LCpl_Edward` | `2272988` | 8 | 1 | 3 | `11.09.2026`, `12.09.2026`, `14.09.2026`-`16.09.2026` |
+| `63rd_Cpl_fatihmehmet` | `1928336` | 1 | 0 | 0 | `12.09.2026` |
+| `63rd_General_Eternal` / `Eto` | `2289446` | 17 | 4 | 4 | `12.09.2026`-`16.09.2026` |
+| `63rd_GJack` | `2087362` | 1 | 0 | 0 | `16.09.2026` |
+| `63rd_Gren_Ingemard` | `2551450` | 1 | 1 | 0 | `11.09.2026` |
+| `63rd_gren_jack` / `63rd_jack` / `63rd_lazsiken_jack` | `1724198` | 8 | 1 | 0 | `14.09.2026`, `16.09.2026` |
+| `63rd_Gren_SteeL` / `63rd_SteeL` | `2065478` | 13 | 0 | 2 | `14.09.2026`-`16.09.2026` |
+| `63rd_Kgm_Nedim` | `395164` | 10 | 2 | 0 | `14.09.2026`, `16.09.2026` |
+| `63rd_Kurdishim` / `63rd_Kurdishim_Abo` | `2231675` | 37 | 11 | 3 | `12.09.2026`-`14.09.2026`, `16.09.2026` |
+| `63rd_lebrun` | `1832685` | 2 | 1 | 1 | `13.09.2026` |
+| `63rd_lenox` / `LenoX` | `2226106` | 18 | 3 | 0 | `11.09.2026`, `14.09.2026` |
+| `63rd_OZBEK` / `OZBEKK` | `2002752` | 26 | 3 | 5 | `12.09.2026`-`16.09.2026` |
+| `63rd_Ozbeki` | `1513490` | 2 | 1 | 1 | `15.09.2026` |
+| `63rd_Pwt_Klaused` | `1524719` | 1 | 1 | 0 | `16.09.2026` |
+| `63rd_Rec_Fiszek` | `1098052` | 10 | 0 | 1 | `11.09.2026`, `14.09.2026` |
+| `63rd_Rgl_ramadan_baighara` | `2336726` | 3 | 0 | 0 | `14.09.2026` |
+| `63rd_Zeyden` | `1556384` | 3 | 0 | 0 | `15.09.2026` |
+| `87th_Irish_Gren_TalatPashaa` | `2484125` | 4 | 1 | 0 | `12.09.2026` |
+| `87th_Irish_Gren_Warwilk` | `1882337` | 1 | 0 | 0 | `12.09.2026` |
+| `87th_Irish_LnCpl_Wolk` | `2026867` | 2 | 2 | 1 | `12.09.2026` |
+| `87th_Irish_LtCol_Khizar` | `2484596` | 3 | 1 | 0 | `12.09.2026` |
+| `87th_Irish_Merc_nuBo_O6oLoHb` | `2289436` | 3 | 0 | 0 | `12.09.2026` |
+| `87th_Irish_Mus_GROMOBOY` | `2563664` | 1 | 2 | 0 | `12.09.2026` |
+| `87th_Irish_Pvt_Fexius` | `2584760` | 5 | 0 | 0 | `12.09.2026` |
+| `9th_BARARARARARARARABLUD` | `2238437` | 3 | 1 | 1 | `14.09.2026` |
+| `9th_Bieber` | `1235888` | 3 | 1 | 0 | `14.09.2026` |
+| `9th_IMAM_ALI_ALLAX_ISLAM` | `2429903` | 4 | 0 | 0 | `14.09.2026` |
+| `KloryTear` | `2122761` | 3 | 0 | 0 | `11.09.2026` |
+| `Nr31[FKR]_Albert_Epstein` / `Nr31[FKR]_Ujg_SiGmaSvin` | `2300331` | 7 | 1 | 1 | `16.09.2026` |
+| `Nr31[FKR]_Hptm_BIBA` | `2498648` | 1 | 0 | 0 | `16.09.2026` |
+| `Nr31[FKR]_KFwb_Arkan` | `2116360` | 3 | 0 | 0 | `16.09.2026` |
+| `Nr31[FKR]_Kpl_Fonifon` | `2523481` | 1 | 0 | 0 | `16.09.2026` |
+| `Nr31[FKR]_Lt_Generadier` | `2525779` | 2 | 1 | 0 | `16.09.2026` |
+| `Nr31[FKR]_Maj_GodyX` | `2515702` | 3 | 4 | 0 | `16.09.2026` |
+| `Nr31[FKR]_StObJg_Ben` | `1282828` | 2 | 0 | 0 | `16.09.2026` |
+| `Nr31[FKR]_StObjg_BlBA` | `2552880` | 1 | 0 | 1 | `16.09.2026` |
+| `Nr31[FKR]_UJg_MrRifleman` | `2570456` | 8 | 1 | 2 | `16.09.2026` |
 
 Note: `lebrun` was initially reported as speedhack + autoblock, but the developer's investigation
 confirmed his tool never touches the game clock, so the speedhack label has been removed for this
