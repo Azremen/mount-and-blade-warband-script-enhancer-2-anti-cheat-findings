@@ -1,0 +1,1549 @@
+soundsfile version 3
+1068
+ drum_3.wav 257
+ rain_1.wav 1267
+ snow.wav 1267
+ sword_clank_metal_09.wav 2352
+ sword_clank_metal_09b.wav 2352
+ sword_clank_metal_10.wav 2352
+ sword_clank_metal_10b.wav 2352
+ sword_clank_metal_12.wav 2352
+ sword_clank_metal_12b.wav 2352
+ sword_clank_metal_13.wav 2352
+ sword_clank_metal_13b.wav 2352
+ weapon_sabre01.wav 2352
+ weapon_sabre02.wav 2352
+ weapon_sabre03.wav 2352
+ s_swordSwing.wav 2080
+ footstep_1.wav 1040
+ footstep_2.wav 1040
+ footstep_3.wav 1040
+ footstep_4.wav 1040
+ footstep_wood_1.wav 1552
+ footstep_wood_2.wav 1552
+ footstep_wood_4.wav 1552
+ water_walk_1.wav 784
+ water_walk_2.wav 784
+ water_walk_3.wav 784
+ water_walk_4.wav 784
+ s_footstep_horse_4b.wav 2176
+ s_footstep_horse_4f.wav 2176
+ s_footstep_horse_5b.wav 2176
+ s_footstep_horse_5f.wav 2176
+ s_footstep_horse_2b.wav 2176
+ s_footstep_horse_2f.wav 2176
+ s_footstep_horse_3b.wav 2176
+ s_footstep_horse_3f.wav 2176
+ jump_begin.wav 1936
+ jump_end.wav 1424
+ jump_begin_water.wav 1168
+ jump_end_water.wav 1168
+ horse_jump_begin.wav 2192
+ horse_jump_end.wav 2192
+ throw_stone_1.wav 1792
+ reload_musket.wav 528
+ bulletpass1.wav 0
+ bulletpass2.wav 0
+ bulletpass3.wav 0
+ bulletpass4.wav 0
+ musket_groundhit.wav 2672
+ musket_groundhit1.wav 2672
+ draw_sword.wav 784
+ draw_sword2.wav 784
+ put_back_sword.wav 784
+ draw_greatsword.wav 784
+ draw_mace.wav 784
+ put_back_to_holster.wav 784
+ draw_greataxe.wav 784
+ put_back_to_leather.wav 784
+ draw_spear.wav 784
+ draw_crossbow.wav 784
+ draw_other3.wav 784
+ draw_from_holster.wav 784
+ draw_dagger.wav 784
+ put_back_dagger.wav 784
+ draw_other.wav 784
+ draw_other2.wav 784
+ body_fall_small_1.wav 2656
+ body_fall_small_2.wav 2656
+ body_fall_1.wav 2656
+ body_fall_2.wav 2656
+ body_fall_3.wav 2656
+ horse_body_fall_begin_1.wav 2656
+ horse_body_fall_end_1.wav 2656
+ hit_wood_wood_1.wav 1888
+ hit_wood_wood_2.wav 1888
+ hit_wood_wood_3.wav 1888
+ hit_wood_wood_4.wav 1888
+ hit_wood_metal_4.wav 1888
+ hit_wood_metal_5.wav 1888
+ hit_wood_metal_6.wav 1888
+ hit_metal_metal_3.wav 1888
+ hit_metal_metal_4.wav 1888
+ hit_metal_metal_5.wav 1888
+ hit_metal_metal_6.wav 1888
+ hit_metal_metal_7.wav 1888
+ hit_metal_metal_8.wav 1888
+ hit_metal_metal_9.wav 1888
+ hit_metal_metal_10.wav 1888
+ clang_metal_1.wav 1888
+ clang_metal_2.wav 1888
+ hit_metal_metal_1.wav 1888
+ hit_metal_metal_2.wav 1888
+ hit_wood_metal_7.wav 1888
+ man_pain_1.wav 1872
+ man_pain_2.wav 1872
+ man_pain_3.wav 1872
+ man_pain_4.wav 1872
+ man_pain_5.wav 1872
+ man_pain_6.wav 1872
+ man_pain_7.wav 1872
+ man_pain_8.wav 1872
+ man_pain_9.wav 1872
+ man_pain_10.wav 1872
+ man_pain_11.wav 1872
+ man_pain_12.wav 1872
+ man_pain_13.wav 1872
+ man_pain_14.wav 1872
+ man_pain_15.wav 1872
+ man_pain_16.wav 1872
+ man_pain_17.wav 1872
+ man_pain_18.wav 1872
+ man_pain_19.wav 1872
+ man_pain_20.wav 1872
+ man_pain_21.wav 1872
+ man_pain_22.wav 1872
+ man_pain_23.wav 1872
+ man_pain_24.wav 1872
+ man_pain_25.wav 1872
+ man_pain_26.wav 1872
+ man_pain_27.wav 1872
+ man_pain_28.wav 1872
+ man_pain_29.wav 1872
+ man_death_1.wav 2144
+ man_death_2.wav 2144
+ man_death_3.wav 2144
+ man_death_4.wav 2144
+ man_death_5.wav 2144
+ man_death_6.wav 2144
+ man_death_7.wav 2144
+ man_death_8.wav 2144
+ man_death_9.wav 2144
+ man_death_10.wav 2144
+ man_death_11.wav 2144
+ man_death_12.wav 2144
+ man_death_13.wav 2144
+ man_death_14.wav 2144
+ man_death_15.wav 2144
+ man_death_16.wav 2144
+ man_death_17.wav 2144
+ man_death_18.wav 2144
+ man_death_19.wav 2144
+ man_death_20.wav 2144
+ man_death_21.wav 2144
+ man_death_22.wav 2144
+ man_death_23.wav 2144
+ man_death_24.wav 2144
+ man_death_25.wav 2144
+ man_death_26.wav 2144
+ man_death_27.wav 2144
+ man_death_28.wav 2144
+ man_death_29.wav 2144
+ man_death_30.wav 2144
+ man_death_31.wav 2144
+ man_death_32.wav 2144
+ woman_hit_2.wav 1872
+ woman_hit_3.wav 1872
+ woman_hit_b_2.wav 1872
+ woman_hit_b_4.wav 1872
+ woman_hit_b_6.wav 1872
+ woman_hit_b_7.wav 1872
+ woman_hit_b_8.wav 1872
+ woman_hit_b_11.wav 1872
+ woman_hit_b_14.wav 1872
+ woman_hit_b_16.wav 1872
+ woman_pain_1.wav 1872
+ woman_pain_2.wav 1872
+ woman_pain_3.wav 1872
+ woman_pain_4.wav 1872
+ woman_pain_5.wav 1872
+ woman_pain_6.wav 1872
+ woman_pain_7.wav 1872
+ woman_pain_8.wav 1872
+ woman_pain_9.wav 1872
+ woman_pain_10.wav 1872
+ woman_pain_11.wav 1872
+ woman_pain_12.wav 1872
+ woman_fall_1.wav 2144
+ woman_hit_b_5.wav 2144
+ woman_death_1.wav 2144
+ woman_death_2.wav 2144
+ woman_death_3.wav 2144
+ woman_death_4.wav 2144
+ woman_death_5.wav 2144
+ woman_death_6.wav 2144
+ woman_death_7.wav 2144
+ woman_death_8.wav 2144
+ woman_death_9.wav 2144
+ woman_death_10.wav 2144
+ woman_death_11.wav 2144
+ woman_death_12.wav 2144
+ woman_death_13.wav 2144
+ woman_death_14.wav 2144
+ woman_death_15.wav 2144
+ woman_death_16.wav 2144
+ woman_death_17.wav 2144
+ woman_death_18.wav 2144
+ woman_death_19.wav 2144
+ woman_death_20.wav 2144
+ woman_death_21.wav 2144
+ woman_death_22.wav 2144
+ woman_death_23.wav 2144
+ horse_exterior_whinny_01.wav 1616
+ horse_exterior_whinny_02.wav 1616
+ horse_exterior_whinny_03.wav 1616
+ horse_exterior_whinny_04.wav 1616
+ horse_exterior_whinny_05.wav 1616
+ horse_whinny.wav 1616
+ horse_gallop_3.wav 896
+ horse_gallop_4.wav 896
+ horse_gallop_5.wav 896
+ body_hit_1.wav 1872
+ body_hit_2.wav 1872
+ body_hit_3.wav 1872
+ impact_body2.wav 1872
+ impact_body6.wav 1872
+ sword_hit_lo_armor_lo_dmg_1.wav 1872
+ sword_hit_lo_armor_lo_dmg_2.wav 1872
+ sword_hit_lo_armor_lo_dmg_3.wav 1872
+ sword_hit_lo_armor_hi_dmg_1.wav 1872
+ sword_hit_lo_armor_hi_dmg_2.wav 1872
+ impact_body1.wav 1872
+ impact_body3.wav 1872
+ impact_body4.wav 1872
+ impact_body5.wav 1872
+ sword_hit_lo_armor_hi_dmg_3.wav 1872
+ sword_impact.wav 1872
+ metal_hit_high_armor_low_damage.wav 1872
+ metal_hit_high_armor_low_damage_2.wav 1872
+ metal_hit_high_armor_low_damage_3.wav 1872
+ sword_hit_hi_armor_hi_dmg_1.wav 1872
+ sword_hit_hi_armor_hi_dmg_2.wav 1872
+ sword_hit_hi_armor_hi_dmg_3.wav 1872
+ blunt_hit_low_1.wav 1872
+ blunt_hit_low_2.wav 1872
+ blunt_hit_low_3.wav 1872
+ blunt_hit_high_1.wav 1872
+ blunt_hit_high_2.wav 1872
+ blunt_hit_high_3.wav 1872
+ wooden_hit_high_armor_low_damage_1.wav 1872
+ wooden_hit_high_armor_low_damage_2.wav 1872
+ mp_arrow_hit_target.wav 2465
+ punch_1.wav 1872
+ punch_3.wav 1872
+ punch_4.wav 1872
+ punch_5.wav 1872
+ man_excercise_1.wav 1088
+ man_excercise_2.wav 1088
+ man_excercise_4.wav 1088
+ man_ugh_1.wav 1840
+ man_ugh_2.wav 1840
+ man_ugh_4.wav 1840
+ man_ugh_7.wav 1840
+ man_ugh_12.wav 1840
+ man_ugh_13.wav 1840
+ man_ugh_17.wav 1840
+ man_stun_1.wav 2096
+ man_grunt_1.wav 1872
+ man_grunt_2.wav 1872
+ man_grunt_3.wav 1872
+ man_grunt_4.wav 1872
+ man_grunt_5.wav 1872
+ man_grunt_6.wav 1872
+ man_grunt_7.wav 1872
+ man_grunt_8.wav 1872
+ man_grunt_9.wav 1872
+ man_grunt_10.wav 1872
+ man_grunt_11.wav 1872
+ man_grunt_12.wav 1872
+ man_grunt_13.wav 1872
+ man_grunt_14.wav 1872
+ man_grunt_15.wav 1872
+ man_grunt_16.wav 1872
+ man_grunt_17.wav 1872
+ man_grunt_18.wav 1872
+ man_grunt_19.wav 1872
+ man_grunt_20.wav 1872
+ horse_walk_1.wav 1376
+ horse_walk_2.wav 1376
+ horse_walk_3.wav 1376
+ horse_walk_4.wav 1376
+ horse_trot_1.wav 1648
+ horse_trot_2.wav 1648
+ horse_trot_3.wav 1648
+ horse_trot_4.wav 1648
+ horse_canter_1.wav 1920
+ horse_canter_2.wav 1920
+ horse_canter_3.wav 1920
+ horse_canter_4.wav 1920
+ horse_gallop_6.wav 2176
+ horse_gallop_7.wav 2176
+ horse_gallop_8.wav 2176
+ horse_gallop_9.wav 2176
+ horse_breath_4.wav 1040
+ horse_breath_5.wav 1040
+ horse_breath_6.wav 1040
+ horse_breath_7.wav 1040
+ horse_snort_1.wav 528
+ horse_snort_2.wav 528
+ horse_snort_3.wav 528
+ horse_snort_4.wav 528
+ horse_snort_5.wav 528
+ horse_whinny-1.wav 3072
+ horse_whinny-2.wav 3072
+ block_fist_3.wav 1328
+ block_fist_4.wav 1328
+ brit_huzzah1.wav 3456
+ brit_godsave2.wav 3456
+ brit_king2.wav 3456
+ brit_rule1.wav 3456
+ brit_nosey1.wav 3456
+ fren_empereur1.wav 3456
+ fren_empereur3.wav 3456
+ fren_vivala1.wav 3456
+ fren_vibatrie1.wav 3456
+ fren_alabataille1.wav 3456
+ prus_fuerkoenig1.wav 3456
+ prus_gottschuetze3.wav 3456
+ prus_fuervater2.wav 3456
+ prus_hurra1.wav 3456
+ prus_schlagt2.wav 3456
+ rus_battlecry3.wav 3456
+ rus_battlecry9.wav 3456
+ rus_battlecry5.wav 3456
+ rus_battlecry8.wav 3456
+ rus_battlecry11.wav 3456
+ aus_kaiser1.wav 3456
+ aus_gottschuetzekaiser1.wav 3456
+ man_victory_4.ogg 3456
+ man_victory_5.ogg 3456
+ Fire_Torch_Loop3.wav 1174
+ shield_hit_cut_3.wav 144
+ shield_hit_cut_5.wav 144
+ shield_broken.ogg 144
+ cue_failure.ogg 1793
+ your_flag_taken.ogg 2289
+ enemy_flag_taken.ogg 2289
+ your_flag_returned.ogg 2289
+ you_scored_a_point.ogg 2289
+ enemy_scored_a_point.ogg 2289
+ woman_exercise_1.wav 1088
+ woman_exercise_2.wav 1088
+ woman_exercise_3.wav 1088
+ woman_exercise_4.wav 1088
+ woman_exercise_5.wav 1088
+ woman_exercise_6.wav 1088
+ woman_exercise_7.wav 1088
+ woman_exercise_8.wav 1088
+ brit_f_battlecry_1.wav 3456
+ brit_f_battlecry_2.wav 3456
+ brit_f_battlecry_3.wav 3456
+ brit_f_battlecry_4.wav 3456
+ brit_f_battlecry_5.wav 3456
+ french_f_battlecry_1.wav 3456
+ french_f_battlecry_2.wav 3456
+ french_f_battlecry_3.wav 3456
+ french_f_battlecry_4.wav 3456
+ french_f_battlecry_5.wav 3456
+ prus_f_battlecry_1.wav 3456
+ prus_f_battlecry_2.wav 3456
+ prus_f_battlecry_3.wav 3456
+ prus_f_battlecry_4.wav 3456
+ prus_f_battlecry_5.wav 3456
+ rus_f_battlecry1.wav 3456
+ rus_f_battlecry2.wav 3456
+ rus_f_battlecry3.wav 3456
+ rus_f_battlecry4.wav 3456
+ rus_f_battlecry5.wav 3456
+ aus_f_battlecry_1.wav 3456
+ aus_f_battlecry_2.wav 3456
+ aus_f_battlecry_3.wav 3456
+ aus_f_battlecry_4.wav 3456
+ musket2.wav 4080
+ musket3.wav 4080
+ musket4.wav 4080
+ musket5.wav 4080
+ musket_shot01.wav 4080
+ musket_shot02.wav 4080
+ musket_shot03.wav 4080
+ musket_shot04.wav 4080
+ musket_shot05.wav 4080
+ rifle.wav 4080
+ musket1.wav 4080
+ canon01.ogg 4080
+ canon02.ogg 4080
+ canon03.ogg 4080
+ canon04.ogg 4080
+ canon05.ogg 4080
+ canon06.ogg 4080
+ rocket_launch.wav 4080
+ rocket_launch2.wav 4080
+ rocket_launch1.wav 4080
+ cannon_hit.ogg 2672
+ cannon_hit2.ogg 2672
+ cannonhitground.ogg 2416
+ walls_destroy1.ogg 4000
+ walls_destroy2.ogg 4000
+ wallhit_wood.wav 4000
+ fuse.ogg 768
+ cannonball.ogg 768
+ shell1.ogg 4080
+ shell2.ogg 4080
+ shell3.ogg 4080
+ holy_grenade.ogg 4000
+ admin_banhammer.ogg 4081
+ admin_shotgun.ogg 4081
+ admin_rocketlauncher.ogg 4081
+ glass.ogg 2672
+ flagloop.wav 2162
+ thunder1.wav 4081
+ thunder2.wav 4081
+ thunder3.wav 4081
+ thunder4.wav 4081
+ crate_fuse.wav 2672
+ bandaging1.ogg 2672
+ bandaging1_1.ogg 2672
+ churchbells.wav 4080
+ boat_sinking.ogg 3448
+ ball_loop.wav 1522
+ fuse.wav 1778
+ hammer1.wav 1792
+ hammer3.wav 1792
+ hammer2.wav 1792
+ shovel1.wav 1792
+ shovel2.wav 1792
+ shovel4.wav 1792
+ shovel3.wav 1792
+ ramrod.ogg 3840
+ door_open.ogg 1280
+ door_close.ogg 1280
+ door_locked.ogg 1280
+ underwater.wav 1907
+ gurgle1.wav 1904
+ gurgle2.wav 1904
+ gurgle3.wav 1904
+ gurgle4.wav 1904
+ gurgle5.wav 1904
+ gurgle6.wav 1904
+ gurgle7.wav 1904
+ gurgle8.wav 1904
+ gurgle9.wav 1904
+ gurgle10.wav 1904
+ breathe1.wav 1904
+ breathe2.wav 1904
+ breathe3.wav 1904
+ bird1_notmany.wav 1782
+ birds1_many.wav 1782
+ oceanwaves.wav 2806
+ crickets_many.wav 1782
+ crickets.wav 1782
+ river.wav 3062
+ seagulls.wav 1782
+ fly.wav 1670
+ night_forest.wav 1782
+ Rain_heavy_roof.wav 1782
+ Rain_heavy_stone.wav 1782
+ windmill_fan.wav 1782
+ night.ogg 2811
+ beach.ogg 2811
+ farmland_sound_new.ogg 2811
+ farmland_sound_new_evening.ogg 2811
+ empty_farmland.ogg 2811
+ empty_city.ogg 2811
+ buzzard.wav 4080
+ crow.wav 4080
+ win.ogg 2297
+ win1.ogg 2297
+ win2.ogg 2297
+ win4.ogg 2297
+ loose.ogg 2297
+ loose1.ogg 2297
+ brit_huzzah2.wav 3456
+ brit_godsave1.wav 3456
+ brit_rule2.wav 3456
+ brit_nosey2.wav 3456
+ brit_king1.wav 3456
+ fren_empereur2.wav 3456
+ fren_enavant1.wav 3456
+ fren_enavant2.wav 3456
+ fren_vivala2.wav 3456
+ fren_alatacke1.wav 3456
+ fren_alatacke2.wav 3456
+ fren_alabataille2.wav 3456
+ fren_vibatrie2.wav 3456
+ fren_ecrazes1.wav 3456
+ fren_onvaleur1.wav 3456
+ prus_fuerkoenig2.wav 3456
+ prus_gottschuetze1.wav 3456
+ prus_gottschuetze2.wav 3456
+ prus_fuervater1.wav 3456
+ prus_fuervater3.wav 3456
+ prus_fuervater4.wav 3456
+ prus_schlagt1.wav 3456
+ prus_hurra2.wav 3456
+ prus_hurra3.wav 3456
+ prus_hurra4.wav 3456
+ prus_aufgehts1.wav 3456
+ prus_aufgehts2.wav 3456
+ rus_battlecry1.wav 3456
+ rus_battlecry2.wav 3456
+ rus_battlecry4.wav 3456
+ rus_battlecry6.wav 3456
+ rus_battlecry7.wav 3456
+ rus_battlecry10.wav 3456
+ rus_battlecry12.wav 3456
+ rus_battlecry13.wav 3456
+ aus_kaiser2.wav 3456
+ aus_kaiser3.wav 3456
+ aus_gottschuetzekaiser2.wav 3456
+ aus_gottschuetzekaiser3.wav 3456
+ aus_gottschuetzekaiser4.wav 3456
+ brit_bastard1.wav 3456
+ brit_bastard2.wav 3456
+ brit_scotland1.wav 3456
+ brit_scotland2.wav 3456
+ brit_sonsof1.wav 3456
+ brit_sonsof2.wav 3456
+ brit_bydand1.wav 3456
+ brit_bydand2.wav 3456
+ ukr_battlecry1.wav 3456
+ ukr_battlecry2.wav 3456
+ ukr_battlecry3.wav 3456
+ pirate_1.wav 3456
+ pirate_2.wav 3456
+ pirate_3.wav 3456
+ pirate_4.wav 3456
+ pirate_5.wav 3456
+ pirate_6.wav 3456
+ pirate_7.wav 3456
+ pirate_8.wav 3456
+ pirate_9.wav 3456
+ pirate_10.wav 3456
+ pirate_11.wav 3456
+ pirate_12.wav 3456
+ pirate_13.wav 3456
+ pirate_14.wav 3456
+ brit_surr1.wav 3464
+ brit_surr2.wav 3464
+ brit_surr3.wav 3464
+ brit_dont1.wav 3464
+ brit_dont2.wav 3464
+ brit_dont3.wav 3464
+ brit_spare1.wav 3464
+ brit_spare2.wav 3464
+ fren_jemerend1.wav 3464
+ fren_onserend1.wav 3464
+ fren_legarde1.wav 3464
+ fren_netirez1.wav 3464
+ fren_savquie1.wav 3464
+ prus_ichergebe1.wav 3464
+ prus_ichergebe2.wav 3464
+ prus_ichergebe3.wav 3464
+ prus_ichgebe1.wav 3464
+ prus_nichtschiessen1.wav 3464
+ prus_nichtschiessen2.wav 3464
+ rus_surrender1.wav 3464
+ rus_surrender2.wav 3464
+ rus_surrender3.wav 3464
+ rus_surrender4.wav 3464
+ rus_surrender5.wav 3464
+ rus_surrender6.wav 3464
+ rus_surrender7.wav 3464
+ rus_surrender8.wav 3464
+ ukr_surrender1.wav 3464
+ ukr_surrender2.wav 3464
+ ukr_surrender3.wav 3464
+ ukr_surrender4.wav 3464
+ brit_ready1.wav 3464
+ brit_ready2.wav 3464
+ brit_ready3.wav 3464
+ fren_armes1.wav 3464
+ fren_armes2.wav 3464
+ fren_armes3.wav 3464
+ prus_bereit1.wav 3464
+ prus_bereit2.wav 3464
+ prus_bereit3.wav 3464
+ prus_bereit4.wav 3464
+ prus_bereit5.wav 3464
+ rus_ready1.wav 3464
+ rus_ready2.wav 3464
+ rus_ready3.wav 3464
+ ukr_ready1.wav 3464
+ ukr_ready2.wav 3464
+ brit_pres1.wav 3464
+ brit_pres2.wav 3464
+ brit_pres3.wav 3464
+ brit_pres4.wav 3464
+ brit_pres5.wav 3464
+ fren_enjou1.wav 3464
+ fren_enjou2.wav 3464
+ fren_enjou3.wav 3464
+ prus_anlegen1.wav 3464
+ prus_anlegen2.wav 3464
+ prus_anlegen3.wav 3464
+ prus_anlegen4.wav 3464
+ rus_present1.wav 3464
+ rus_present2.wav 3464
+ ukr_present1.wav 3464
+ ukr_present2.wav 3464
+ brit_fire1.wav 3464
+ brit_fire2.wav 3464
+ brit_fire3.wav 3464
+ brit_fire4.wav 3464
+ fren_feau1.wav 3464
+ fren_feau2.wav 3464
+ fren_feau3.wav 3464
+ prus_feuer1.wav 3464
+ prus_feuer2.wav 3464
+ prus_feuer3.wav 3464
+ rus_fire1.wav 3464
+ rus_fire2.wav 3464
+ rus_fire3.wav 3464
+ ukr_fire1.wav 3464
+ ukr_fire2.wav 3464
+ brit_charge1.wav 3464
+ brit_charge2.wav 3464
+ brit_charge3.wav 3464
+ fren_charge1.wav 3464
+ fren_bayonet1.wav 3464
+ fren_bayonet2.wav 3464
+ fren_bayonet3.wav 3464
+ fren_bayonet4.wav 3464
+ prus_nahkampfangriff1.wav 3464
+ prus_angriff1.wav 3464
+ prus_angriff2.wav 3464
+ prus_attacke1.wav 3464
+ prus_attacke2.wav 3464
+ prus_attacke3.wav 3464
+ prus_inden1.wav 3464
+ prus_inden2.wav 3464
+ prus_inden3.wav 3464
+ rus_charge1.wav 3464
+ rus_charge2.wav 3464
+ rus_charge3.wav 3464
+ rus_charge4.wav 3464
+ brit_advance1.wav 3464
+ brit_advance2.wav 3464
+ brit_advance3.wav 3464
+ brit_advance4.wav 3464
+ brit_advance5.wav 3464
+ brit_advance6.wav 3464
+ fren_avance1.wav 3464
+ fren_march1.wav 3464
+ fren_enaveant1.wav 3464
+ fren_compagnie1.wav 3464
+ prus_kompanie1.wav 3464
+ prus_kompanie2.wav 3464
+ prus_kompanie3.wav 3464
+ prus_vorruecken1.wav 3464
+ prus_vorruecken2.wav 3464
+ rus_advance1.wav 3464
+ rus_advance2.wav 3464
+ rus_advance3.wav 3464
+ rus_advance4.wav 3464
+ rus_advance5.wav 3464
+ ukr_onme1.wav 3464
+ ukr_onme2.wav 3464
+ brit_hold1.wav 3464
+ brit_hold2.wav 3464
+ brit_hold3.wav 3464
+ brit_hold4.wav 3464
+ brit_hold5.wav 3464
+ fren_tenezcette1.wav 3464
+ fren_tenezlapos1.wav 3464
+ fren_defendez1.wav 3464
+ prus_dieposition1.wav 3464
+ prus_dieposition2.wav 3464
+ prus_haltet1.wav 3464
+ prus_haltet2.wav 3464
+ prus_haltet3.wav 3464
+ prus_verteidigt1.wav 3464
+ prus_verteidigt2.wav 3464
+ prus_verteidigt3.wav 3464
+ prus_verteidigt4.wav 3464
+ rus_holdpos1.wav 3464
+ rus_holdpos2.wav 3464
+ rus_holdpos3.wav 3464
+ ukr_holdpos1.wav 3464
+ ukr_holdpos2.wav 3464
+ ukr_holdpos3.wav 3464
+ brit_fireatwill1.wav 3464
+ brit_fireatwill2.wav 3464
+ brit_fireatwill3.wav 3464
+ fren_volon1.wav 3464
+ fren_volon2.wav 3464
+ prus_feuernach1.wav 3464
+ prus_feuernach2.wav 3464
+ prus_feuernach3.wav 3464
+ prus_feuerfrei1.wav 3464
+ prus_feuerfrei2.wav 3464
+ prus_feuerfrei3.wav 3464
+ rus_fireatwill1.wav 3464
+ rus_fireatwill2.wav 3464
+ ukr_fireatwill1.wav 3464
+ brit_onme1.wav 3464
+ brit_onme2.wav 3464
+ brit_onme3.wav 3464
+ brit_onme4.wav 3464
+ fren_avec1.wav 3464
+ fren_avec2.wav 3464
+ fren_avec3.wav 3464
+ fren_avec4.wav 3464
+ fren_avec5.wav 3464
+ prus_zumir1.wav 3464
+ prus_zumir2.wav 3464
+ prus_zumir3.wav 3464
+ rus_onme1.wav 3464
+ rus_onme2.wav 3464
+ rus_onme3.wav 3464
+ ukr_onme3.wav 3464
+ ukr_onme4.wav 3464
+ brit_fallback1.wav 3464
+ brit_fallback2.wav 3464
+ brit_fallback3.wav 3464
+ fren_ret1.wav 3464
+ fren_ret2.wav 3464
+ fren_ret3.wav 3464
+ prus_zurueck1.wav 3464
+ prus_zurueck2.wav 3464
+ rus_all_retreat1.wav 3464
+ rus_retreat1.wav 3464
+ rus_fallback1.wav 3464
+ ukr_all_retreat1.wav 3464
+ ukr_retreat1.wav 3464
+ ukr_fallback1.wav 3464
+ brit_f_battlecry_6.wav 3456
+ brit_f_battlecry_7.wav 3456
+ brit_f_battlecry_8.wav 3456
+ brit_f_battlecry_9.wav 3456
+ brit_f_battlecry_10.wav 3456
+ brit_f_battlecry_11.wav 3456
+ brit_f_battlecry_12.wav 3456
+ brit_f_battlecry_13.wav 3456
+ brit_f_battlecry_14.wav 3456
+ french_f_battlecry_6.wav 3456
+ french_f_battlecry_7.wav 3456
+ french_f_battlecry_8.wav 3456
+ french_f_battlecry_9.wav 3456
+ french_f_battlecry_10.wav 3456
+ french_f_battlecry_11.wav 3456
+ french_f_battlecry_12.wav 3456
+ french_f_battlecry_13.wav 3456
+ french_f_battlecry_14.wav 3456
+ french_f_battlecry_15.wav 3456
+ french_f_battlecry_16.wav 3456
+ french_f_battlecry_17.wav 3456
+ french_f_battlecry_18.wav 3456
+ french_f_battlecry_19.wav 3456
+ french_f_battlecry_20.wav 3456
+ prus_f_battlecry_6.wav 3456
+ prus_f_battlecry_7.wav 3456
+ prus_f_battlecry_8.wav 3456
+ prus_f_battlecry_9.wav 3456
+ prus_f_battlecry_10.wav 3456
+ rus_f_battlecry6.wav 3456
+ rus_f_battlecry7.wav 3456
+ rus_f_battlecry8.wav 3456
+ rus_f_battlecry9.wav 3456
+ ukr_f_battlecry_1.wav 3456
+ ukr_f_battlecry_2.wav 3456
+ brit_f_surrender_1.wav 3464
+ brit_f_surrender_2.wav 3464
+ brit_f_surrender_3.wav 3464
+ brit_f_surrender_4.wav 3464
+ brit_f_surrender_5.wav 3464
+ french_f_surrender_1.wav 3464
+ french_f_surrender_2.wav 3464
+ french_f_surrender_3.wav 3464
+ french_f_surrender_4.wav 3464
+ prus_f_surrender_1.wav 3464
+ prus_f_surrender_2.wav 3464
+ prus_f_surrender_3.wav 3464
+ rus_f_surrender1.wav 3464
+ rus_f_surrender2.wav 3464
+ rus_f_surrender3.wav 3464
+ rus_f_surrender4.wav 3464
+ rus_f_surrender5.wav 3464
+ rus_f_surrender6.wav 3464
+ rus_f_surrender7.wav 3464
+ rus_f_surrender8.wav 3464
+ ukr_f_surrender_1.wav 3464
+ ukr_f_surrender_2.wav 3464
+ ukr_f_surrender_3.wav 3464
+ ukr_f_surrender_4.wav 3464
+ ukr_f_surrender_5.wav 3464
+ ukr_f_surrender_6.wav 3464
+ brit_f_ready_1.wav 3464
+ brit_f_ready_2.wav 3464
+ brit_f_ready_3.wav 3464
+ french_f_ready_1.wav 3464
+ french_f_ready_2.wav 3464
+ french_f_ready_3.wav 3464
+ french_f_ready_5.wav 3464
+ prus_f_ready_1.wav 3464
+ prus_f_ready_2.wav 3464
+ rus_f_ready1.wav 3464
+ rus_f_ready2.wav 3464
+ rus_f_ready3.wav 3464
+ ukr_f_ready_1.wav 3464
+ ukr_f_ready_2.wav 3464
+ ukr_f_ready_3.wav 3464
+ brit_f_present_1.wav 3464
+ brit_f_present_2.wav 3464
+ french_f_present_1.wav 3464
+ french_f_present_2.wav 3464
+ french_f_present_3.wav 3464
+ prus_f_present_1.wav 3464
+ prus_f_present_2.wav 3464
+ rus_f_present1.wav 3464
+ rus_f_present2.wav 3464
+ ukr_f_present_1.wav 3464
+ ukr_f_present_2.wav 3464
+ brit_f_fire_1.wav 3464
+ brit_f_fire_2.wav 3464
+ brit_f_fire_3.wav 3464
+ brit_f_fire_4.wav 3464
+ french_f_fire_1.wav 3464
+ french_f_fire_2.wav 3464
+ french_f_fire_3.wav 3464
+ french_f_fire_4.wav 3464
+ prus_f_fire_1.wav 3464
+ prus_f_fire_2.wav 3464
+ rus_f_fire1.wav 3464
+ rus_f_fire2.wav 3464
+ ukr_f_fire_1.wav 3464
+ ukr_f_fire_2.wav 3464
+ brit_f_charge_1.wav 3464
+ brit_f_charge_2.wav 3464
+ brit_f_charge_3.wav 3464
+ brit_f_charge_4.wav 3464
+ french_f_charge_1.wav 3464
+ french_f_charge_2.wav 3464
+ french_f_charge_3.wav 3464
+ french_f_charge_4.wav 3464
+ french_f_charge_5.wav 3464
+ french_f_charge_6.wav 3464
+ prus_f_charge_1.wav 3464
+ prus_f_charge_2.wav 3464
+ prus_f_charge_3.wav 3464
+ prus_f_charge_4.wav 3464
+ prus_f_charge_5.wav 3464
+ rus_f_charge1.wav 3464
+ rus_f_charge2.wav 3464
+ rus_f_charge3.wav 3464
+ rus_f_charge4.wav 3464
+ rus_f_charge5.wav 3464
+ rus_f_charge6.wav 3464
+ rus_f_charge7.wav 3464
+ brit_f_advance_1.wav 3464
+ brit_f_advance_2.wav 3464
+ brit_f_advance_3.wav 3464
+ brit_f_advance_4.wav 3464
+ brit_f_advance_5.wav 3464
+ brit_f_advance_6.wav 3464
+ brit_f_advance_7.wav 3464
+ brit_f_advance_8.wav 3464
+ brit_f_advance_9.wav 3464
+ french_f_advance_1.wav 3464
+ french_f_advance_2.wav 3464
+ french_f_advance_3.wav 3464
+ french_f_advance_4.wav 3464
+ french_f_advance_5.wav 3464
+ french_f_advance_6.wav 3464
+ prus_f_advance_1.wav 3464
+ prus_f_advance_2.wav 3464
+ prus_f_advance_3.wav 3464
+ rus_f_advance1.wav 3464
+ rus_f_advance2.wav 3464
+ rus_f_advance3.wav 3464
+ rus_f_advance4.wav 3464
+ ukr_f_advance_1.wav 3464
+ ukr_f_advance_2.wav 3464
+ ukr_f_advance_3.wav 3464
+ ukr_f_advance_4.wav 3464
+ brit_f_holdpos_1.wav 3464
+ brit_f_holdpos_2.wav 3464
+ brit_f_holdpos_3.wav 3464
+ brit_f_holdpos_4.wav 3464
+ brit_f_holdpos_5.wav 3464
+ brit_f_holdpos_6.wav 3464
+ french_f_holdpos_1.wav 3464
+ french_f_holdpos_2.wav 3464
+ french_f_holdpos_3.wav 3464
+ french_f_holdpos_4.wav 3464
+ prus_f_holdpos_1.wav 3464
+ prus_f_holdpos_2.wav 3464
+ prus_f_holdpos_3.wav 3464
+ rus_f_holdpos1.wav 3464
+ rus_f_holdpos2.wav 3464
+ ukr_f_holdpos_1.wav 3464
+ ukr_f_holdpos_2.wav 3464
+ brit_f_fireatwill_1.wav 3464
+ brit_f_fireatwill_2.wav 3464
+ brit_f_fireatwill_3.wav 3464
+ brit_f_fireatwill_4.wav 3464
+ brit_f_fireatwill_5.wav 3464
+ brit_f_fireatwill_6.wav 3464
+ french_f_fireatwill_1.wav 3464
+ french_f_fireatwill_2.wav 3464
+ french_f_fireatwill_3.wav 3464
+ prus_f_fireatwill_1.wav 3464
+ prus_f_fireatwill_2.wav 3464
+ prus_f_fireatwill_3.wav 3464
+ rus_f_fireatwill1.wav 3464
+ rus_f_fireatwill2.wav 3464
+ ukr_f_fireatwill_1.wav 3464
+ ukr_f_fireatwill_2.wav 3464
+ brit_f_onme_1.wav 3464
+ brit_f_onme_2.wav 3464
+ brit_f_onme_3.wav 3464
+ french_f_onme_1.wav 3464
+ french_f_onme_2.wav 3464
+ french_f_onme_3.wav 3464
+ french_f_onme_4.wav 3464
+ french_f_onme_5.wav 3464
+ french_f_onme_6.wav 3464
+ french_f_onme_7.wav 3464
+ french_f_onme_8.wav 3464
+ prus_f_onme_1.wav 3464
+ prus_f_onme_2.wav 3464
+ rus_f_onme1.wav 3464
+ rus_f_onme2.wav 3464
+ ukr_f_onme_1.wav 3464
+ ukr_f_onme_2.wav 3464
+ brit_f_fallback_1.wav 3464
+ brit_f_fallback_2.wav 3464
+ brit_f_fallback_3.wav 3464
+ french_f_fallback_1.wav 3464
+ french_f_fallback_2.wav 3464
+ french_f_fallback_3.wav 3464
+ french_f_fallback_4.wav 3464
+ french_f_fallback_5.wav 3464
+ french_f_fallback_6.wav 3464
+ prus_f_retreat_1.wav 3464
+ prus_f_retreat_2.wav 3464
+ rus_f_retreat1.wav 3464
+ rus_f_retreat2.wav 3464
+ rus_f_retreat3.wav 3464
+ rus_f_retreat4.wav 3464
+ ukr_f_retreat_1.wav 3464
+ ukr_f_retreat_2.wav 3464
+ ukr_f_retreat_3.wav 3464
+ ukr_f_retreat_4.wav 3464
+ ukr_f_retreat_5.wav 3464
+ ukr_f_retreat_6.wav 3464
+ brit_britishgrenadiers.ogg 1052664
+ brit_girlileftbehindme.ogg 1052664
+ brit_lili.ogg 1052664
+ brit_menofharlech.ogg 1052664
+ brit_rulebritannia.ogg 1052664
+ french_drum_aux_champs.ogg 1052664
+ fren_lacharge.ogg 1052664
+ fren_diane.ogg 1052664
+ fren_grenadiere.ogg 1052664
+ fren_lapascadence.ogg 1052664
+ prus_yorkscher.ogg 1052664
+ prussian_drum_hohenfriedberger.ogg 1052664
+ prussian_drum_lockmarsch.ogg 1052664
+ prussian_drum_parademarsch.ogg 1052664
+ prussian_drum_praesentiermarsch.ogg 1052664
+ russian_drum_grenadiers.ogg 1052664
+ russian_drum_izmailovsky.ogg 1052664
+ russian_drum_march_of_attacking.ogg 1052664
+ russian_drum_preabrazhensky.ogg 1052664
+ russian_drum_semenovsky.ogg 1052664
+ austrian_drum_grenadiersmarsch.ogg 1052664
+ austrian_drum_koburg.ogg 1052664
+ austrian_drum_pappenheimer.ogg 1052664
+ austrian_drum_pariser_einzugsmarsch.ogg 1052664
+ austrian_drum_prinz_von_eugen.ogg 1052664
+ british_drum_blue_bonnets.ogg 1052664
+ british_drum_bonnie_dundee.ogg 1052664
+ drum_signal_camp_taps.ogg 1052664
+ drum_signal_cease_fire.ogg 1052664
+ drum_signal_drummers_call.ogg 1052664
+ british_fife_british_grenadiers.ogg 1052664
+ british_fife_girl_i_left_behind.ogg 1052664
+ british_fife_lilliburlero.ogg 1052664
+ british_fife_men_of_harlech.ogg 1052664
+ british_fife_rule_brit.ogg 1052664
+ french_fife_aux_champs.ogg 1052664
+ french_fife_la_charge.ogg 1052664
+ french_fife_la_diane.ogg 1052664
+ french_fife_la_grenadiere.ogg 1052664
+ french_fife_la_pa_cadence.ogg 1052664
+ prussian_fife_yorckscher.ogg 1052664
+ prussian_fife_hohenfriedeberger.ogg 1052664
+ prussian_fife_lockmarsch.ogg 1052664
+ prussian_fife_parademarsch_der_spielleute.ogg 1052664
+ prussian_fife_praesentiermarsch.ogg 1052664
+ russian_fife_grenadiers_march.ogg 1052664
+ russian_fife_izmailovsky.ogg 1052664
+ russian_fife_of_attacking.ogg 1052664
+ russian_fife_preobrazhensky.ogg 1052664
+ russian_fife_semenovsky.ogg 1052664
+ austrian_fife_grenadiermarsch.ogg 1052664
+ austrian_fife_derkoburger.ogg 1052664
+ austrian_fife_pappenheimer.ogg 1052664
+ austrian_fife_pariser.ogg 1052664
+ austrian_fife_prinzeugen.ogg 1052664
+ bugle_british_boots.ogg 1052664
+ british_light_inf.ogg 1052664
+ bugle_french_danslehussards.ogg 1052664
+ bugle_french_lamarche.ogg 1052664
+ bugle_prussian_althessischer.ogg 1052664
+ bugle_prussian_fehrbell.ogg 1052664
+ bugle_prussian_freiwilligen.ogg 1052664
+ bugle_russian_marchartillery.ogg 1052664
+ bugle_russian_jaegers.ogg 1052664
+ bugle_russian_musketeers.ogg 1052664
+ bugle_austrian_leban.ogg 1052664
+ bugle_austrian_strauch.ogg 1052664
+ bugle_call_assamble.ogg 1052664
+ bugle_call_extend.ogg 1052664
+ bugle_call_closeranks.ogg 1052664
+ bugle_call_ondiscenemy.ogg 1052664
+ bugle_call_fire.ogg 1052664
+ bluebonnets.ogg 1052664
+ bonniedundee.ogg 1052664
+ blackbear.ogg 1052664
+ amazing.ogg 1052664
+ balmoral.ogg 1052664
+ cockothenorth.ogg 1052664
+ highlandcathedral.ogg 1052664
+ myhome.ogg 1052664
+ scotlandthebrave.ogg 1052664
+ skyeboatsong.ogg 1052664
+ piano_beethoven_fur_elise.ogg 1051896
+ piano_beethoven_ecossaise.ogg 1051896
+ piano_erik_satie_gymnopedie_3.ogg 1051896
+ piano_beethoven_laendler.ogg 1051896
+ piano_lift_motif.ogg 1051896
+ piano_bach_prelude.ogg 1051896
+ piano_wagner_bridal_chorus.ogg 1051896
+ piano_schubert_ave_maria.ogg 1051896
+ organ_bach_toccata_and_fugue.ogg 1052664
+ organ_bach_toccata_and_fugue_2.ogg 1052664
+ organ_bach_prelude_and_fugue.ogg 1052664
+ organ_buxtehude_prelude.ogg 1052664
+ organ_tiny_fugue.ogg 1052664
+ organ_wagner_bridal_chorus.ogg 1052664
+ organ_bach_chromatic_fuge.ogg 1052664
+ organ_bach_chromatic_fantasia.ogg 1052664
+ tutorial_voice_1.ogg 4009
+ tutorial_voice_4.ogg 4009
+ tutorial_voice_5.ogg 4009
+ tutorial_voice_6.ogg 4009
+ tutorial_voice_8.ogg 4009
+ tutorial_voice_9.ogg 4009
+ tutorial_voice_10.ogg 4009
+ tutorial_voice_11.ogg 4009
+ tutorial_voice_12.ogg 4009
+ tutorial_voice_13.ogg 4009
+ tutorial_voice_14.ogg 4009
+ tutorial_voice_15.ogg 4009
+ tutorial_voice_16.ogg 4009
+ tutorial_voice_17.ogg 4009
+ tutorial_voice_18.ogg 4009
+ tutorial_voice_19.ogg 4009
+ tutorial_voice_20.ogg 4009
+ tutorial_voice_21.ogg 4009
+ tutorial_voice_22.ogg 4009
+ tutorial_voice_23.ogg 4009
+ tutorial_voice_24.ogg 4009
+ tutorial_voice_25.ogg 4009
+ tutorial_voice_26.ogg 4009
+ tutorial_voice_27.ogg 4009
+ tutorial_voice_28.ogg 4009
+ tutorial_voice_29.ogg 4009
+ tutorial_voice_30.ogg 4009
+ mission_narrator_1.wav 4009
+478
+snd_click 257 1 0 0 
+snd_gong 1937 0 
+snd_quest_taken 1937 0 
+snd_quest_completed 1937 0 
+snd_quest_succeeded 1937 0 
+snd_quest_concluded 1937 0 
+snd_quest_failed 1937 0 
+snd_quest_cancelled 1937 0 
+snd_rain 1267 1 1 0 
+snd_snow 1267 1 2 0 
+snd_money_received 1697 0 
+snd_money_paid 2721 0 
+snd_sword_clash_1 2352 11 3 0 4 0 5 0 6 0 7 0 8 0 9 0 10 0 11 0 12 0 13 0 
+snd_sword_clash_2 0 0 
+snd_sword_clash_3 0 0 
+snd_sword_swing 2080 1 14 0 
+snd_footstep_grass 1040 4 15 0 16 0 17 0 18 0 
+snd_footstep_wood 1552 3 19 0 20 0 21 0 
+snd_footstep_water 784 4 22 0 23 0 24 0 25 0 
+snd_footstep_horse 2176 0 
+snd_footstep_horse_1b 2176 4 26 0 27 0 28 0 29 0 
+snd_footstep_horse_1f 2176 4 30 0 31 0 32 0 33 0 
+snd_footstep_horse_2b 2176 1 30 0 
+snd_footstep_horse_2f 2176 1 31 0 
+snd_footstep_horse_3b 2176 1 32 0 
+snd_footstep_horse_3f 2176 1 33 0 
+snd_footstep_horse_4b 2176 1 26 0 
+snd_footstep_horse_4f 2176 1 27 0 
+snd_footstep_horse_5b 2176 1 28 0 
+snd_footstep_horse_5f 2176 1 29 0 
+snd_jump_begin 1936 1 34 0 
+snd_jump_end 1424 1 35 0 
+snd_jump_begin_water 1168 1 36 0 
+snd_jump_end_water 1168 1 37 0 
+snd_horse_jump_begin 2192 1 38 0 
+snd_horse_jump_end 2192 1 39 0 
+snd_horse_jump_begin_water 1680 1 36 0 
+snd_horse_jump_end_water 1680 1 37 0 
+snd_release_bow 1280 0 
+snd_release_crossbow 256 0 
+snd_throw_javelin 1280 0 
+snd_throw_axe 1792 0 
+snd_throw_knife 1280 0 
+snd_throw_stone 1792 1 40 0 
+snd_reload_crossbow 528 1 41 0 
+snd_reload_crossbow_continue 560 0 
+snd_pull_bow 1024 0 
+snd_pull_arrow 1280 0 
+snd_arrow_pass_by 0 0 
+snd_bolt_pass_by 0 4 42 0 43 0 44 0 45 0 
+snd_javelin_pass_by 0 0 
+snd_stone_pass_by 2304 0 
+snd_axe_pass_by 0 0 
+snd_knife_pass_by 0 0 
+snd_bullet_pass_by 0 4 42 0 43 0 44 0 45 0 
+snd_incoming_arrow_hit_ground 1904 0 
+snd_incoming_bolt_hit_ground 2672 2 46 0 47 0 
+snd_incoming_javelin_hit_ground 1904 0 
+snd_incoming_stone_hit_ground 1904 0 
+snd_incoming_axe_hit_ground 1904 0 
+snd_incoming_knife_hit_ground 1904 0 
+snd_incoming_bullet_hit_ground 2672 2 46 0 47 0 
+snd_outgoing_arrow_hit_ground 1904 0 
+snd_outgoing_bolt_hit_ground 2672 2 46 0 47 0 
+snd_outgoing_javelin_hit_ground 2672 0 
+snd_outgoing_stone_hit_ground 1904 0 
+snd_outgoing_axe_hit_ground 1904 0 
+snd_outgoing_knife_hit_ground 1904 0 
+snd_outgoing_bullet_hit_ground 2672 2 46 0 47 0 
+snd_draw_sword 784 2 48 0 49 0 
+snd_put_back_sword 784 1 50 0 
+snd_draw_greatsword 784 1 51 0 
+snd_put_back_greatsword 784 1 50 0 
+snd_draw_axe 784 1 52 0 
+snd_put_back_axe 784 1 53 0 
+snd_draw_greataxe 784 1 54 0 
+snd_put_back_greataxe 784 1 55 0 
+snd_draw_spear 784 1 56 0 
+snd_put_back_spear 784 1 55 0 
+snd_draw_crossbow 784 2 57 0 58 0 
+snd_put_back_crossbow 784 1 55 0 
+snd_draw_revolver 784 1 59 0 
+snd_put_back_revolver 784 1 53 0 
+snd_draw_dagger 784 1 60 0 
+snd_put_back_dagger 784 1 61 0 
+snd_draw_bow 784 0 
+snd_put_back_bow 784 0 
+snd_draw_shield 784 0 
+snd_put_back_shield 784 0 
+snd_draw_other 784 1 62 0 
+snd_put_back_other 784 1 63 0 
+snd_body_fall_small 2656 2 64 0 65 0 
+snd_body_fall_big 2656 3 66 0 67 0 68 0 
+snd_horse_body_fall_begin 2656 1 69 0 
+snd_horse_body_fall_end 2656 2 70 0 67 0 
+snd_hit_wood_wood 1888 7 71 0 72 0 73 0 74 0 75 0 76 0 77 0 
+snd_hit_metal_metal 1888 13 78 0 79 0 80 0 81 0 82 0 83 0 84 0 85 0 86 0 87 0 11 0 12 0 13 0 
+snd_hit_wood_metal 1888 3 88 0 89 0 90 0 
+snd_shield_hit_wood_wood 2672 0 
+snd_shield_hit_metal_metal 2672 0 
+snd_shield_hit_wood_metal 2672 0 
+snd_shield_hit_metal_wood 2672 0 
+snd_shield_broken 144 0 
+snd_man_hit 1872 29 91 0 92 0 93 0 94 0 95 0 96 0 97 0 98 0 99 0 100 0 101 0 102 0 103 0 104 0 105 0 106 0 107 0 108 0 109 0 110 0 111 0 112 0 113 0 114 0 115 0 116 0 117 0 118 0 119 0 
+snd_man_die 2144 32 120 0 121 0 122 0 123 0 124 0 125 0 126 0 127 0 128 0 129 0 130 0 131 0 132 0 133 0 134 0 135 0 136 0 137 0 138 0 139 0 140 0 141 0 142 0 143 0 144 0 145 0 146 0 147 0 148 0 149 0 150 0 151 0 
+snd_woman_hit 1872 22 152 0 153 0 154 0 155 0 156 0 157 0 158 0 159 0 160 0 161 0 162 0 163 0 164 0 165 0 166 0 167 0 168 0 169 0 170 0 171 0 172 0 173 0 
+snd_woman_die 2144 25 174 0 175 0 176 0 177 0 178 0 179 0 180 0 181 0 182 0 183 0 184 0 185 0 186 0 187 0 188 0 189 0 190 0 191 0 192 0 193 0 194 0 195 0 196 0 197 0 198 0 
+snd_woman_yell 2720 0 
+snd_hide 0 0 
+snd_unhide 0 0 
+snd_neigh 1616 6 199 0 200 0 201 0 202 0 203 0 204 0 
+snd_gallop 896 3 205 0 206 0 207 0 
+snd_battle 1024 0 
+snd_arrow_hit_body 1872 5 208 0 209 0 210 0 211 0 212 0 
+snd_metal_hit_low_armor_low_damage 1872 3 213 0 214 0 215 0 
+snd_metal_hit_low_armor_high_damage 1872 8 216 0 217 0 218 0 219 0 220 0 221 0 222 0 223 0 
+snd_metal_hit_high_armor_low_damage 1872 3 224 0 225 0 226 0 
+snd_metal_hit_high_armor_high_damage 1872 8 227 0 228 0 218 0 219 0 220 0 221 0 229 0 223 0 
+snd_wooden_hit_low_armor_low_damage 1872 3 230 0 231 0 232 0 
+snd_wooden_hit_low_armor_high_damage 1872 3 233 0 234 0 235 0 
+snd_wooden_hit_high_armor_low_damage 1872 2 236 0 237 0 
+snd_wooden_hit_high_armor_high_damage 1872 3 233 0 234 0 235 0 
+snd_mp_arrow_hit_target 2465 1 238 0 
+snd_blunt_hit 1872 4 239 0 240 0 241 0 242 0 
+snd_player_hit_by_arrow 1872 5 208 0 209 0 210 0 211 0 212 0 
+snd_pistol_shot 4080 0 
+snd_release_crossbow_medium 4048 0 
+snd_release_crossbow_far 4032 0 
+snd_bullet_hit_body 1872 5 208 0 209 0 210 0 211 0 212 0 
+snd_player_hit_by_bullet 1872 5 208 0 209 0 210 0 211 0 212 0 
+snd_man_grunt 1088 3 243 0 244 0 245 0 
+snd_man_breath_hard 1840 7 246 0 247 0 248 0 249 0 250 0 251 0 252 0 
+snd_man_stun 2096 1 253 0 
+snd_man_grunt_long 1872 20 254 0 255 0 256 0 257 0 258 0 259 0 260 0 261 0 262 0 263 0 264 0 265 0 266 0 267 0 268 0 269 0 270 0 271 0 272 0 273 0 
+snd_man_yell 2160 0 
+snd_man_warcry 96 0 
+snd_horse_walk 1376 4 274 0 275 0 276 0 277 0 
+snd_horse_trot 1648 4 278 0 279 0 280 0 281 0 
+snd_horse_canter 1920 4 282 0 283 0 284 0 285 0 
+snd_horse_gallop 2176 4 286 0 287 0 288 0 289 0 
+snd_horse_breath 1040 4 290 0 291 0 292 0 293 0 
+snd_horse_snort 528 5 294 0 295 0 296 0 297 0 298 0 
+snd_horse_low_whinny 3072 2 299 0 300 0 
+snd_block_fist 1328 2 301 0 302 0 
+snd_man_hit_blunt_weak 1872 24 91 0 92 0 93 0 94 0 95 0 96 0 97 0 98 0 99 0 100 0 101 0 102 0 103 0 104 0 105 0 106 0 107 0 108 0 109 0 110 0 111 0 112 0 113 0 114 0 
+snd_man_hit_blunt_strong 1872 24 91 0 92 0 93 0 94 0 95 0 96 0 97 0 98 0 99 0 100 0 101 0 102 0 103 0 104 0 105 0 106 0 107 0 108 0 109 0 110 0 111 0 112 0 113 0 114 0 
+snd_man_hit_pierce_weak 1872 24 91 0 92 0 93 0 94 0 95 0 96 0 97 0 98 0 99 0 100 0 101 0 102 0 103 0 104 0 105 0 106 0 107 0 108 0 109 0 110 0 111 0 112 0 113 0 114 0 
+snd_man_hit_pierce_strong 1872 24 91 0 92 0 93 0 94 0 95 0 96 0 97 0 98 0 99 0 100 0 101 0 102 0 103 0 104 0 105 0 106 0 107 0 108 0 109 0 110 0 111 0 112 0 113 0 114 0 
+snd_man_hit_cut_weak 1872 24 91 0 92 0 93 0 94 0 95 0 96 0 97 0 98 0 99 0 100 0 101 0 102 0 103 0 104 0 105 0 106 0 107 0 108 0 109 0 110 0 111 0 112 0 113 0 114 0 
+snd_man_hit_cut_strong 1872 24 91 0 92 0 93 0 94 0 95 0 96 0 97 0 98 0 99 0 100 0 101 0 102 0 103 0 104 0 105 0 106 0 107 0 108 0 109 0 110 0 111 0 112 0 113 0 114 0 
+snd_man_victory 3456 32 303 6 304 6 305 6 306 6 307 6 308 7 309 7 310 7 311 7 312 7 313 8 314 8 315 8 316 8 317 8 318 9 319 9 320 9 321 9 322 9 323 10 324 10 315 10 316 10 317 10 313 11 314 11 315 11 316 11 317 11 325 0 326 0 
+snd_fire_loop 1174 1 327 0 
+snd_torch_loop 1174 1 327 0 
+snd_dummy_hit 144 2 328 0 329 0 
+snd_dummy_destroyed 144 1 330 0 
+snd_gourd_destroyed 144 1 330 0 
+snd_tutorial_fail 1793 1 331 0 
+snd_your_flag_taken 2289 1 332 0 
+snd_enemy_flag_taken 2289 1 333 0 
+snd_flag_returned 2289 1 334 0 
+snd_team_scored_a_point 2289 1 335 0 
+snd_enemy_scored_a_point 2289 1 336 0 
+snd_woman_grunt 1088 8 337 0 338 0 339 0 340 0 341 0 342 0 343 0 344 0 
+snd_woman_victory 3456 29 345 6 346 6 347 6 348 6 349 6 350 7 351 7 352 7 353 7 354 7 355 8 356 8 357 8 358 8 359 8 360 9 361 9 362 9 363 9 364 9 365 10 366 10 367 10 368 10 355 11 356 11 357 11 358 11 359 11 
+snd_musket 4080 9 369 0 370 0 371 0 372 0 373 0 374 0 375 0 376 0 377 0 
+snd_rifle 4080 1 378 0 
+snd_pistol 4080 1 379 0 
+snd_cannon 4080 6 380 0 381 0 382 0 383 0 384 0 385 0 
+snd_rocket_launch 4080 3 386 0 387 0 388 0 
+snd_cannon_hit 2672 2 389 0 390 0 
+snd_cannon_hit_ground 2416 1 391 0 
+snd_cannon_hit_wall 4000 2 392 0 393 0 
+snd_cannon_hit_wood_wall 4000 1 394 0 
+snd_cannon_fuse 768 1 395 0 
+snd_cannon_ball 768 1 396 0 
+snd_explosion 4080 3 397 0 398 0 399 0 
+snd_holy_call 4000 1 400 0 
+snd_admin_banhammer 4081 1 401 0 
+snd_admin_shotgun 4081 1 402 0 
+snd_admin_rocketlauncher 4081 1 403 0 
+snd_glass_break 2672 1 404 0 
+snd_flag_loop 2162 1 405 0 
+snd_thunder 4081 4 406 0 407 0 408 0 409 0 
+snd_crate_fuse 2672 1 410 0 
+snd_bandaging 2672 2 411 0 412 0 
+snd_church_bell 4080 1 413 0 
+snd_boat_sinking 3448 1 414 0 
+snd_cannonball_loop 1522 1 415 0 
+snd_rocket_loop 1778 1 416 0 
+snd_hammer 1792 3 417 0 418 0 419 0 
+snd_shovel 1792 4 420 0 421 0 422 0 423 0 
+snd_ramrod 3840 1 424 0 
+snd_door_open 1280 1 425 0 
+snd_door_close 1280 1 426 0 
+snd_door_lock 1280 1 427 0 
+snd_underwater_noise 1907 1 428 0 
+snd_drown 1904 10 429 0 430 0 431 0 432 0 433 0 434 0 435 0 436 0 437 0 438 0 
+snd_come_up 1904 3 439 0 440 0 441 0 
+snd_ambient_birds 1782 1 442 0 
+snd_ambient_birds_many 1782 1 443 0 
+snd_ambient_ocean 2806 1 444 0 
+snd_ambient_crickets_many 1782 1 445 0 
+snd_ambient_crickets_few 1782 1 446 0 
+snd_ambient_river 3062 1 447 0 
+snd_ambient_seagulls 1782 1 448 0 
+snd_ambient_fly 1670 1 449 0 
+snd_ambient_night 1782 1 450 0 
+snd_ambient_roof 1782 1 451 0 
+snd_ambient_stone 1782 1 452 0 
+snd_ambient_windmill 1782 1 453 0 
+snd_global_ambient_night 2811 1 454 0 
+snd_global_ambient_beach 2811 1 455 0 
+snd_global_ambient_farmland 2811 1 456 0 
+snd_global_ambient_farmland_evening 2811 1 457 0 
+snd_global_ambient_farmland_empty 2811 1 458 0 
+snd_global_ambient_city_empty 2811 1 459 0 
+snd_ambient_buzzard 4080 1 460 0 
+snd_ambient_crow 4080 1 461 0 
+snd_win_tune_brit 2297 1 462 0 
+snd_win_tune_fren 2297 1 463 0 
+snd_win_tune_prus 2297 1 464 0 
+snd_win_tune_russ 2297 1 465 0 
+snd_win_tune_aust 2297 1 464 0 
+snd_win_tune_rhen 2297 1 464 0 
+snd_loose_tune_brit 2297 1 466 0 
+snd_loose_tune_fren 2297 1 467 0 
+snd_loose_tune_prus 2297 1 466 0 
+snd_loose_tune_russ 2297 1 467 0 
+snd_loose_tune_aust 2297 1 466 0 
+snd_loose_tune_rhen 2297 1 466 0 
+snd_voice_cry_brit 3456 10 303 0 468 0 469 0 304 0 306 0 470 0 307 0 471 0 472 0 305 0 
+snd_voice_cry_fren 3456 15 308 0 473 0 309 0 474 0 475 0 310 0 476 0 477 0 478 0 312 0 479 0 311 0 480 0 481 0 482 0 
+snd_voice_cry_prus 3456 17 313 0 483 0 484 0 485 0 314 0 486 0 315 0 487 0 488 0 489 0 317 0 316 0 490 0 491 0 492 0 493 0 494 0 
+snd_voice_cry_russ 3456 13 495 0 496 0 318 0 497 0 320 0 498 0 499 0 321 0 319 0 500 0 322 0 501 0 502 0 
+snd_voice_cry_aust 3456 15 323 0 503 0 504 0 324 0 505 0 506 0 507 0 489 0 317 0 316 0 490 0 491 0 492 0 493 0 494 0 
+snd_voice_cry_brit_scot 3456 8 508 0 509 0 510 0 511 0 512 0 513 0 514 0 515 0 
+snd_voice_cry_russ_ukr 3456 7 516 0 517 0 518 0 318 0 500 0 322 0 501 0 
+snd_voice_cry_rhen 3456 12 486 0 315 0 487 0 488 0 489 0 317 0 316 0 490 0 491 0 492 0 493 0 494 0 
+snd_voice_cry_pirate 3456 14 519 0 520 0 521 0 522 0 523 0 524 0 525 0 526 0 527 0 528 0 529 0 530 0 531 0 532 0 
+snd_voice_surrender_brit 3464 8 533 0 534 0 535 0 536 0 537 0 538 0 539 0 540 0 
+snd_voice_surrender_fren 3464 5 541 0 542 0 543 0 544 0 545 0 
+snd_voice_surrender_prus 3464 6 546 0 547 0 548 0 549 0 550 0 551 0 
+snd_voice_surrender_russ 3464 8 552 0 553 0 554 0 555 0 556 0 557 0 558 0 559 0 
+snd_voice_surrender_ukra 3464 4 560 0 561 0 562 0 563 0 
+snd_voice_comm_ready_brit 3464 3 564 0 565 0 566 0 
+snd_voice_comm_ready_fren 3464 3 567 0 568 0 569 0 
+snd_voice_comm_ready_prus 3464 5 570 0 571 0 572 0 573 0 574 0 
+snd_voice_comm_ready_russ 3464 3 575 0 576 0 577 0 
+snd_voice_comm_ready_ukra 3464 2 578 0 579 0 
+snd_voice_comm_present_brit 3464 5 580 0 581 0 582 0 583 0 584 0 
+snd_voice_comm_present_fren 3464 3 585 0 586 0 587 0 
+snd_voice_comm_present_prus 3464 4 588 0 589 0 590 0 591 0 
+snd_voice_comm_present_russ 3464 2 592 0 593 0 
+snd_voice_comm_present_ukra 3464 2 594 0 595 0 
+snd_voice_comm_fire_brit 3464 4 596 0 597 0 598 0 599 0 
+snd_voice_comm_fire_fren 3464 3 600 0 601 0 602 0 
+snd_voice_comm_fire_prus 3464 3 603 0 604 0 605 0 
+snd_voice_comm_fire_russ 3464 3 606 0 607 0 608 0 
+snd_voice_comm_fire_ukra 3464 2 609 0 610 0 
+snd_voice_comm_charge_brit 3464 3 611 0 612 0 613 0 
+snd_voice_comm_charge_fren 3464 5 614 0 615 0 616 0 617 0 618 0 
+snd_voice_comm_charge_prus 3464 9 619 0 620 0 621 0 622 0 623 0 624 0 625 0 626 0 627 0 
+snd_voice_comm_charge_russ 3464 4 628 0 629 0 630 0 631 0 
+snd_voice_comm_charge_ukra 3464 4 628 0 629 0 630 0 631 0 
+snd_voice_comm_advance_brit 3464 6 632 0 633 0 634 0 635 0 636 0 637 0 
+snd_voice_comm_advance_fren 3464 4 638 0 639 0 640 0 641 0 
+snd_voice_comm_advance_prus 3464 5 642 0 643 0 644 0 645 0 646 0 
+snd_voice_comm_advance_russ 3464 5 647 0 648 0 649 0 650 0 651 0 
+snd_voice_comm_advance_ukra 3464 2 652 0 653 0 
+snd_voice_comm_hold_brit 3464 5 654 0 655 0 656 0 657 0 658 0 
+snd_voice_comm_hold_fren 3464 3 659 0 660 0 661 0 
+snd_voice_comm_hold_prus 3464 9 662 0 663 0 664 0 665 0 666 0 667 0 668 0 669 0 670 0 
+snd_voice_comm_hold_russ 3464 3 671 0 672 0 673 0 
+snd_voice_comm_hold_ukra 3464 3 674 0 675 0 676 0 
+snd_voice_comm_fire_at_will_brit 3464 3 677 0 678 0 679 0 
+snd_voice_comm_fire_at_will_fren 3464 2 680 0 681 0 
+snd_voice_comm_fire_at_will_prus 3464 6 682 0 683 0 684 0 685 0 686 0 687 0 
+snd_voice_comm_fire_at_will_russ 3464 2 688 0 689 0 
+snd_voice_comm_fire_at_will_ukra 3464 1 690 0 
+snd_voice_comm_on_me_brit 3464 4 691 0 692 0 693 0 694 0 
+snd_voice_comm_on_me_fren 3464 5 695 0 696 0 697 0 698 0 699 0 
+snd_voice_comm_on_me_prus 3464 3 700 0 701 0 702 0 
+snd_voice_comm_on_me_russ 3464 3 703 0 704 0 705 0 
+snd_voice_comm_on_me_ukra 3464 4 652 0 653 0 706 0 707 0 
+snd_voice_comm_fall_back_brit 3464 3 708 0 709 0 710 0 
+snd_voice_comm_fall_back_fren 3464 3 711 0 712 0 713 0 
+snd_voice_comm_fall_back_prus 3464 2 714 0 715 0 
+snd_voice_comm_fall_back_russ 3464 3 716 0 717 0 718 0 
+snd_voice_comm_fall_back_ukra 3464 3 719 0 720 0 721 0 
+snd_voice_cry_fem_brit 3456 14 345 0 346 0 347 0 348 0 349 0 722 0 723 0 724 0 725 0 726 0 727 0 728 0 729 0 730 0 
+snd_voice_cry_fem_fren 3456 20 350 0 351 0 352 0 353 0 354 0 731 0 732 0 733 0 734 0 735 0 736 0 737 0 738 0 739 0 740 0 741 0 742 0 743 0 744 0 745 0 
+snd_voice_cry_fem_prus 3456 10 355 0 356 0 357 0 358 0 359 0 746 0 747 0 748 0 749 0 750 0 
+snd_voice_cry_fem_russ 3456 9 360 0 361 0 362 0 363 0 364 0 751 0 752 0 753 0 754 0 
+snd_voice_cry_fem_aust 3456 10 365 0 366 0 367 0 368 0 358 0 359 0 746 0 748 0 749 0 750 0 
+snd_voice_cry_fem_russ_ukr 3456 4 755 0 756 0 360 0 361 0 
+snd_voice_cry_fem_rhen 3456 6 358 0 359 0 746 0 748 0 749 0 750 0 
+snd_voice_surrender_fem_brit 3464 5 757 0 758 0 759 0 760 0 761 0 
+snd_voice_surrender_fem_fren 3464 4 762 0 763 0 764 0 765 0 
+snd_voice_surrender_fem_prus 3464 3 766 0 767 0 768 0 
+snd_voice_surrender_fem_russ 3464 8 769 0 770 0 771 0 772 0 773 0 774 0 775 0 776 0 
+snd_voice_surrender_fem_ukra 3464 6 777 0 778 0 779 0 780 0 781 0 782 0 
+snd_voice_comm_ready_fem_brit 3464 3 783 0 784 0 785 0 
+snd_voice_comm_ready_fem_fren 3464 4 786 0 787 0 788 0 789 0 
+snd_voice_comm_ready_fem_prus 3464 2 790 0 791 0 
+snd_voice_comm_ready_fem_russ 3464 3 792 0 793 0 794 0 
+snd_voice_comm_ready_fem_ukra 3464 3 795 0 796 0 797 0 
+snd_voice_comm_present_fem_brit 3464 2 798 0 799 0 
+snd_voice_comm_present_fem_fren 3464 3 800 0 801 0 802 0 
+snd_voice_comm_present_fem_prus 3464 2 803 0 804 0 
+snd_voice_comm_present_fem_russ 3464 2 805 0 806 0 
+snd_voice_comm_present_fem_ukra 3464 2 807 0 808 0 
+snd_voice_comm_fire_fem_brit 3464 4 809 0 810 0 811 0 812 0 
+snd_voice_comm_fire_fem_fren 3464 4 813 0 814 0 815 0 816 0 
+snd_voice_comm_fire_fem_prus 3464 2 817 0 818 0 
+snd_voice_comm_fire_fem_russ 3464 2 819 0 820 0 
+snd_voice_comm_fire_fem_ukra 3464 2 821 0 822 0 
+snd_voice_comm_charge_fem_brit 3464 4 823 0 824 0 825 0 826 0 
+snd_voice_comm_charge_fem_fren 3464 6 827 0 828 0 829 0 830 0 831 0 832 0 
+snd_voice_comm_charge_fem_prus 3464 5 833 0 834 0 835 0 836 0 837 0 
+snd_voice_comm_charge_fem_russ 3464 7 838 0 839 0 840 0 841 0 842 0 843 0 844 0 
+snd_voice_comm_charge_fem_ukra 3464 1 842 0 
+snd_voice_comm_advance_fem_brit 3464 9 845 0 846 0 847 0 848 0 849 0 850 0 851 0 852 0 853 0 
+snd_voice_comm_advance_fem_fren 3464 6 854 0 855 0 856 0 857 0 858 0 859 0 
+snd_voice_comm_advance_fem_prus 3464 3 860 0 861 0 862 0 
+snd_voice_comm_advance_fem_russ 3464 4 863 0 864 0 865 0 866 0 
+snd_voice_comm_advance_fem_ukra 3464 6 867 0 868 0 869 0 870 0 863 0 864 0 
+snd_voice_comm_hold_fem_brit 3464 6 871 0 872 0 873 0 874 0 875 0 876 0 
+snd_voice_comm_hold_fem_fren 3464 4 877 0 878 0 879 0 880 0 
+snd_voice_comm_hold_fem_prus 3464 3 881 0 882 0 883 0 
+snd_voice_comm_hold_fem_russ 3464 2 884 0 885 0 
+snd_voice_comm_hold_fem_ukra 3464 2 886 0 887 0 
+snd_voice_comm_fire_at_will_fem_brit 3464 6 888 0 889 0 890 0 891 0 892 0 893 0 
+snd_voice_comm_fire_at_will_fem_fren 3464 3 894 0 895 0 896 0 
+snd_voice_comm_fire_at_will_fem_prus 3464 3 897 0 898 0 899 0 
+snd_voice_comm_fire_at_will_fem_russ 3464 2 900 0 901 0 
+snd_voice_comm_fire_at_will_fem_ukra 3464 2 902 0 903 0 
+snd_voice_comm_on_me_fem_brit 3464 3 904 0 905 0 906 0 
+snd_voice_comm_on_me_fem_fren 3464 8 907 0 908 0 909 0 910 0 911 0 912 0 913 0 914 0 
+snd_voice_comm_on_me_fem_prus 3464 2 915 0 916 0 
+snd_voice_comm_on_me_fem_russ 3464 2 917 0 918 0 
+snd_voice_comm_on_me_fem_ukra 3464 2 919 0 920 0 
+snd_voice_comm_fall_back_fem_brit 3464 3 921 0 922 0 923 0 
+snd_voice_comm_fall_back_fem_fren 3464 6 924 0 925 0 926 0 927 0 928 0 929 0 
+snd_voice_comm_fall_back_fem_prus 3464 2 930 0 931 0 
+snd_voice_comm_fall_back_fem_russ 3464 4 932 0 933 0 934 0 935 0 
+snd_voice_comm_fall_back_fem_ukra 3464 6 936 0 937 0 938 0 939 0 940 0 941 0 
+snd_drum_britain_1 1052664 1 942 0 
+snd_drum_britain_2 1052664 1 943 0 
+snd_drum_britain_3 1052664 1 944 0 
+snd_drum_britain_4 1052664 1 945 0 
+snd_drum_britain_5 1052664 1 946 0 
+snd_drum_france_1 1052664 1 947 0 
+snd_drum_france_2 1052664 1 948 0 
+snd_drum_france_3 1052664 1 949 0 
+snd_drum_france_4 1052664 1 950 0 
+snd_drum_france_5 1052664 1 951 0 
+snd_drum_prussia_1 1052664 1 952 0 
+snd_drum_prussia_3 1052664 1 953 0 
+snd_drum_prussia_4 1052664 1 954 0 
+snd_drum_prussia_5 1052664 1 955 0 
+snd_drum_prussia_6 1052664 1 956 0 
+snd_drum_russia_1 1052664 1 957 0 
+snd_drum_russia_2 1052664 1 958 0 
+snd_drum_russia_3 1052664 1 959 0 
+snd_drum_russia_4 1052664 1 960 0 
+snd_drum_russia_5 1052664 1 961 0 
+snd_drum_austria_1 1052664 1 962 0 
+snd_drum_austria_2 1052664 1 963 0 
+snd_drum_austria_3 1052664 1 964 0 
+snd_drum_austria_4 1052664 1 965 0 
+snd_drum_austria_5 1052664 1 966 0 
+snd_drum_highland_1 1052664 1 967 0 
+snd_drum_highland_2 1052664 1 968 0 
+snd_drum_signal_1 1052664 1 969 0 
+snd_drum_signal_2 1052664 1 970 0 
+snd_drum_signal_3 1052664 1 971 0 
+snd_fife_britain_1 1052664 1 972 0 
+snd_fife_britain_2 1052664 1 973 0 
+snd_fife_britain_3 1052664 1 974 0 
+snd_fife_britain_4 1052664 1 975 0 
+snd_fife_britain_5 1052664 1 976 0 
+snd_fife_france_1 1052664 1 977 0 
+snd_fife_france_2 1052664 1 978 0 
+snd_fife_france_3 1052664 1 979 0 
+snd_fife_france_4 1052664 1 980 0 
+snd_fife_france_5 1052664 1 981 0 
+snd_fife_prussia_1 1052664 1 982 0 
+snd_fife_prussia_2 1052664 1 983 0 
+snd_fife_prussia_3 1052664 1 984 0 
+snd_fife_prussia_4 1052664 1 985 0 
+snd_fife_prussia_5 1052664 1 986 0 
+snd_fife_russia_1 1052664 1 987 0 
+snd_fife_russia_2 1052664 1 988 0 
+snd_fife_russia_3 1052664 1 989 0 
+snd_fife_russia_4 1052664 1 990 0 
+snd_fife_russia_5 1052664 1 991 0 
+snd_fife_austria_1 1052664 1 992 0 
+snd_fife_austria_2 1052664 1 993 0 
+snd_fife_austria_3 1052664 1 994 0 
+snd_fife_austria_4 1052664 1 995 0 
+snd_fife_austria_5 1052664 1 996 0 
+snd_bugle_britain_1 1052664 1 997 0 
+snd_bugle_britain_2 1052664 1 998 0 
+snd_bugle_france_1 1052664 1 999 0 
+snd_bugle_france_2 1052664 1 1000 0 
+snd_bugle_prussia_1 1052664 1 1001 0 
+snd_bugle_prussia_2 1052664 1 1002 0 
+snd_bugle_prussia_3 1052664 1 1003 0 
+snd_bugle_russia_1 1052664 1 1004 0 
+snd_bugle_russia_2 1052664 1 1005 0 
+snd_bugle_russia_3 1052664 1 1006 0 
+snd_bugle_austria_1 1052664 1 1007 0 
+snd_bugle_austria_2 1052664 1 1008 0 
+snd_bugle_signal_1 1052664 1 1009 0 
+snd_bugle_signal_2 1052664 1 1010 0 
+snd_bugle_signal_3 1052664 1 1011 0 
+snd_bugle_signal_4 1052664 1 1012 0 
+snd_bugle_signal_5 1052664 1 1013 0 
+snd_bagpipes_britain_1 1052664 1 1014 0 
+snd_bagpipes_britain_2 1052664 1 1015 0 
+snd_bagpipes_extra_1 1052664 1 1016 0 
+snd_bagpipes_extra_2 1052664 1 1017 0 
+snd_bagpipes_extra_3 1052664 1 1018 0 
+snd_bagpipes_extra_4 1052664 1 1015 0 
+snd_bagpipes_extra_5 1052664 1 1019 0 
+snd_bagpipes_extra_6 1052664 1 1020 0 
+snd_bagpipes_extra_7 1052664 1 1021 0 
+snd_bagpipes_extra_8 1052664 1 1022 0 
+snd_bagpipes_extra_9 1052664 1 1023 0 
+snd_piano_loop_1 1051896 1 1024 0 
+snd_piano_loop_2 1051896 1 1025 0 
+snd_piano_loop_3 1051896 1 1026 0 
+snd_piano_loop_4 1051896 1 1027 0 
+snd_piano_loop_5 1051896 1 1028 0 
+snd_piano_loop_6 1051896 1 1029 0 
+snd_piano_loop_7 1051896 1 1030 0 
+snd_piano_loop_8 1051896 1 1031 0 
+snd_organ_loop_1 1052664 1 1032 0 
+snd_organ_loop_2 1052664 1 1033 0 
+snd_organ_loop_3 1052664 1 1034 0 
+snd_organ_loop_4 1052664 1 1035 0 
+snd_organ_loop_5 1052664 1 1036 0 
+snd_organ_loop_6 1052664 1 1037 0 
+snd_organ_loop_7 1052664 1 1038 0 
+snd_organ_loop_8 1052664 1 1039 0 
+snd_instruments_end 0 0 
+snd_tutorial_voice_start_1 4009 1 1040 0 
+snd_tutorial_voice_1 4009 1 1041 0 
+snd_tutorial_voice_2 4009 1 1042 0 
+snd_tutorial_voice_3 4009 1 1043 0 
+snd_tutorial_voice_4 4009 1 1044 0 
+snd_tutorial_voice_5 4009 1 1045 0 
+snd_tutorial_voice_6 4009 1 1046 0 
+snd_tutorial_voice_7 4009 1 1047 0 
+snd_tutorial_voice_8 4009 1 1048 0 
+snd_tutorial_voice_9 4009 1 1049 0 
+snd_tutorial_voice_10 4009 1 1050 0 
+snd_tutorial_voice_11 4009 1 1051 0 
+snd_tutorial_voice_12 4009 1 1052 0 
+snd_tutorial_voice_13 4009 1 1053 0 
+snd_tutorial_voice_14 4009 1 1054 0 
+snd_tutorial_voice_15 4009 1 1055 0 
+snd_tutorial_voice_16 4009 1 1056 0 
+snd_tutorial_voice_17 4009 1 1057 0 
+snd_tutorial_voice_18 4009 1 1058 0 
+snd_tutorial_voice_19 4009 1 1059 0 
+snd_tutorial_voice_20 4009 1 1060 0 
+snd_tutorial_voice_21 4009 1 1061 0 
+snd_tutorial_voice_22 4009 1 1062 0 
+snd_tutorial_voice_23 4009 1 1063 0 
+snd_tutorial_voice_24 4009 1 1064 0 
+snd_tutorial_voice_25 4009 1 1065 0 
+snd_tutorial_voice_26 4009 1 1066 0 
+snd_mission_narrator_1 4009 1 1067 0 
+snd_mission_narrator_2 4009 1 1067 0 
+snd_mission_narrator_3 4009 1 1067 0 
+snd_mission_narrator_4 4009 1 1067 0 
+snd_sounds_end 0 0 

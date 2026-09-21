@@ -1,0 +1,3787 @@
+itemsfile version 3
+943
+ itm_no_item INVALID_ITEM INVALID_ITEM 1  invalid_item 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
+ 0
+0
+
+ itm_french_cav_pistol Pistol Pistol 1  french_cav_pistol 0  4503599631630352 483721150464 230 0 1.500000 100 0 0 25 0 0 30 200 0 1 316 0
+ 0
+0
+
+ itm_french_officer_pistol Pistol Pistol 1  french_officer_pistol 0  4503599631630352 483721150464 230 0 1.500000 100 0 0 25 0 0 30 200 0 1 316 0
+ 0
+0
+
+ itm_french_pistol_1766 Pistol Pistol 1  french_pistol_1766 0  4503599631630352 483721150464 230 0 1.500000 100 0 0 25 0 0 30 200 0 1 316 0
+ 0
+0
+
+ itm_french_pistol_1777 Pistol Pistol 1  french_pistol_1777 0  4503599631630352 483721150464 230 0 1.500000 100 0 0 25 0 0 30 200 0 1 316 0
+ 0
+0
+
+ itm_russian_pistol Pistol Pistol 1  Russian_pistol 0  4503599631630352 483721150464 230 0 1.500000 100 0 0 25 0 0 30 200 0 1 316 0
+ 0
+0
+
+ itm_british_pistol Pistol Pistol 1  new_land_pattern_pistol 0  4503599631630352 483721150464 230 0 1.500000 100 0 0 25 0 0 30 200 0 1 316 0
+ 0
+0
+
+ itm_french_mousquiton Cavalry_Carbine Cavalry_Carbine 1  french_mousquiton 0  4573968914776073 5637668864 683 0 3.000000 100 0 0 65 0 0 27 250 0 1 356 0
+ 0
+0
+
+ itm_french_mousquiton_melee Cavalry_Carbine Cavalry_Carbine 1  french_mousquiton 0  12384898979463172 58265325816250560 180 0 0.000000 100 0 0 0 0 23552 86 0 76 0 524 535
+ 0
+0
+
+ itm_french_mousquiton_ai Cavalry_Carbine Cavalry_Carbine 1  french_mousquiton 0  4573968377905161 5637668864 683 0 3.000000 100 0 0 65 0 0 27 250 0 1 356 0
+ 0
+0
+
+ itm_french_mousquiton_light Light_Cavalry_Carbine Light_Cavalry_Carbine 1  french_mousquiton_light 0  4573968914776073 5637668864 683 0 3.000000 100 0 0 65 0 0 27 250 0 1 356 0
+ 0
+0
+
+ itm_french_mousquiton_light_melee Light_Cavalry_Carbine Light_Cavalry_Carbine 1  french_mousquiton_light 0  12384898979463172 58265325816250560 180 0 0.000000 100 0 0 0 0 23552 86 0 76 0 524 535
+ 0
+0
+
+ itm_french_mousquiton_light_ai Light_Cavalry_Carbine Light_Cavalry_Carbine 1  french_mousquiton_light 0  4573968377905161 5637668864 683 0 3.000000 100 0 0 65 0 0 27 250 0 1 356 0
+ 0
+0
+
+ itm_french_dragoon_musket Cavalry_Musket Cavalry_Musket 1  french_dragoon_musket 0  4573968914776073 5637668864 683 0 3.000000 100 0 0 72 0 0 25 250 0 1 356 0
+ 0
+0
+
+ itm_french_dragoon_musket_melee Cavalry_Musket Cavalry_Musket 1  french_dragoon_musket 0  12384898979463172 58265325816250560 180 0 0.000000 100 0 0 0 0 20480 86 0 115 0 524 532
+ 0
+0
+
+ itm_french_dragoon_musket_ai Cavalry_Musket Cavalry_Musket 1  french_dragoon_musket 0  4573968377905161 5637668864 683 0 3.000000 100 0 0 72 0 0 25 250 0 1 356 0
+ 0
+0
+
+ itm_russian_dragoon_musket Cavalry_Musket Cavalry_Musket 1  Russian_dragoon_musket 0  4573968914776073 5637668864 683 0 3.000000 100 0 0 72 0 0 25 250 0 1 356 0
+ 0
+0
+
+ itm_russian_dragoon_musket_melee Cavalry_Musket Cavalry_Musket 1  Russian_dragoon_musket 0  12384898979463172 58265325816250560 180 0 0.000000 100 0 0 0 0 20480 86 0 115 0 524 532
+ 0
+0
+
+ itm_russian_dragoon_musket_ai Cavalry_Musket Cavalry_Musket 1  Russian_dragoon_musket 0  4573968377905161 5637668864 683 0 3.000000 100 0 0 72 0 0 25 250 0 1 356 0
+ 0
+0
+
+ itm_russian_cavalry_stutzer_1803 Short_Carbine Short_Carbine 1  Russian_cavalry_stutzer_1803 0  4573968377905161 5637668864 683 0 3.000000 100 0 0 40 0 0 29 250 0 1 356 0
+ 0
+0
+
+ itm_russian_gusarskiy_karabin Musketoon Musketoon 1  Russian_gusarskiy_karabin 0  4573968914776073 5637668864 683 0 3.000000 100 0 0 54 0 0 18 180 0 1 326 0
+ 0
+1
+-51.000000  16 1073742241 0 2147484067 0 2071 1 1224979098644774912 31 2 1224979098644774912 1224979098644774912 700 2 22 1 721 2 22 110 6 3 1224979098644774913 0 4 700 2 23 22 2136 3 1224979098644774914 -15 16 2136 3 1224979098644774915 -15 16 723 2 23 1224979098644774914 725 2 23 1224979098644774915 2124 1 100 2136 3 1224979098644774916 12000 16000 1829 7 1224979098644774912 23 1224979098644774916 34 0 119 0 3 0 
+
+ itm_russian_gusarskiy_karabin_melee Musketoon Musketoon 1  Russian_gusarskiy_karabin 0  12384898979463172 58265325816250560 180 0 0.000000 100 0 0 0 0 22528 86 0 58 0 524 534
+ 0
+0
+
+ itm_russian_gusarskiy_karabin_ai Musketoon Musketoon 1  Russian_gusarskiy_karabin 0  4573968377905161 5637668864 683 0 3.000000 100 0 0 54 0 0 18 180 0 1 326 0
+ 0
+1
+-51.000000  16 1073742241 0 2147484067 0 2071 1 1224979098644774912 31 2 1224979098644774912 1224979098644774912 700 2 22 1 721 2 22 110 6 3 1224979098644774913 0 4 700 2 23 22 2136 3 1224979098644774914 -15 16 2136 3 1224979098644774915 -15 16 723 2 23 1224979098644774914 725 2 23 1224979098644774915 2124 1 100 2136 3 1224979098644774916 12000 16000 1829 7 1224979098644774912 23 1224979098644774916 34 0 119 0 3 0 
+
+ itm_british_carbine Cavalry_Carbine Cavalry_Carbine 1  paget_carabine 0  4573968914776073 5637668864 683 0 3.000000 100 0 0 65 0 0 27 250 0 1 356 0
+ 0
+0
+
+ itm_british_carbine_melee Cavalry_Carbine Cavalry_Carbine 1  paget_carabine 0  12384898979463172 58265325816250560 180 0 0.000000 100 0 0 0 0 23552 86 0 50 0 524 535
+ 0
+0
+
+ itm_british_carbine_ai Cavalry_Carbine Cavalry_Carbine 1  paget_carabine 0  4573968377905161 5637668864 683 0 3.000000 100 0 0 65 0 0 27 250 0 1 356 0
+ 0
+0
+
+ itm_russian_rifle_1805 Rifle Rifle 1  Russian_rifle_1805 0  70369288454153 5637668864 683 0 3.000000 100 0 0 87 0 0 18 250 0 1 356 0
+ 0
+0
+
+ itm_russian_rifle_1805_melee Rifle Rifle 1  Russian_rifle_1805 0  12385173857370116 58265325816250560 180 0 0.000000 100 0 0 0 0 23552 85 0 74 0 534 535
+ 0
+0
+
+ itm_british_baker_rifle Rifle Rifle 1  baker_rifle 0  70369288454153 5637668864 683 0 3.000000 100 0 0 87 0 0 18 250 0 1 356 0
+ 0
+0
+
+ itm_british_baker_rifle_melee Rifle Rifle 1  baker_rifle 0  12385173857370116 58265325816250560 180 0 0.000000 100 0 0 0 0 23552 85 0 85 0 534 535
+ 0
+0
+
+ itm_sniper_rifle Sniper_Rifle Sniper_Rifle 1  Russian_rifle_1805 0  6357001 486674006016 683 0 3.000000 100 0 0 100 0 0 44 250 0 40 300 0
+ 0
+0
+
+ itm_blunderbluss Blunderbluss Blunderbluss 1  Russian_gusarskiy_karabin 0  6357001 5637668864 683 0 3.000000 100 0 0 75 0 0 150 200 0 1 300 0
+ 0
+1
+-51.000000  16 1073742241 0 2147484067 0 2071 1 1224979098644774912 31 2 1224979098644774912 1224979098644774912 700 2 22 1 721 2 22 110 6 3 1224979098644774913 0 29 700 2 23 22 2136 3 1224979098644774914 -7 8 2136 3 1224979098644774915 -10 11 723 2 23 1224979098644774914 725 2 23 1224979098644774915 2124 1 100 2136 3 1224979098644774916 12000 19000 1829 7 1224979098644774912 23 1224979098644774916 34 0 119 0 3 0 
+
+ itm_sniper_rifle_ball Sniper_Rifle Sniper_Rifle 1  Russian_rifle_1805 0  6357001 486674006016 683 0 3.000000 100 0 0 100 0 0 44 250 0 40 300 0
+ 0
+1
+-51.000000  42 1073742241 0 2147484067 0 2071 1 1224979098644774912 31 2 1224979098644774912 1224979098644774912 2124 1 100 701 1 9 719 2 9 1 742 2 1224979098644774913 1 740 2 1224979098644774914 1 2105 2 1224979098644774914 90 2133 2 1224979098644774915 1224979098644774913 4 0 32 2 1224979098644774915 179 2106 2 1224979098644774915 360 3 0 2107 2 1224979098644774915 -1 725 2 9 1224979098644774914 2133 2 1224979098644774916 45 2133 2 1224979098644774917 1478 2133 2 1224979098644774918 187 2124 1 1000 2107 2 1224979098644774915 1000 2128 2 1224979098644774919 1224979098644774915 2122 3 1224979098644774920 1224979098644774919 1224979098644774916 2108 2 1224979098644774920 10 2127 2 1224979098644774921 1224979098644774915 2122 3 1224979098644774922 1224979098644774921 1224979098644774916 2108 2 1224979098644774922 10 2107 2 1224979098644774922 -1 2124 1 100 700 2 49 9 1 5 182 1224979098644774917 0 0 0 2133 2 1224979098644774923 72057594037927936 510 3 1224979098644774923 4 1 510 3 1224979098644774923 5 1224979098644774920 510 3 1224979098644774923 6 0 510 3 1224979098644774923 7 1224979098644774922 510 3 1224979098644774923 19 0 510 3 1224979098644774923 20 0 510 3 1224979098644774923 55 1224979098644774912 510 3 1224979098644774923 31 1 1 5 245 1224979098644774923 1 1224979098644774918 1 
+
+ itm_cannon_ball_dummy {!}cannon_ball_dummy {!}cannon_ball_dummy 1  Russian_gusarskiy_karabin 0  72057594044284937 5637668864 683 0 3.000000 100 0 0 75 0 0 150 200 0 100 300 0
+ 0
+0
+
+ itm_cannon_canister_dummy {!}cannon_canister_dummy {!}cannon_canister_dummy 1  Russian_gusarskiy_karabin 0  144115188082212873 5637668864 683 0 3.000000 100 0 0 75 0 0 150 200 0 100 300 0
+ 0
+0
+
+ itm_cannon_explosion_dummy {!}cannon_ball_dummy {!}cannon_ball_dummy 1  Russian_gusarskiy_karabin 0  216172782120140809 5637668864 683 0 3.000000 100 0 0 75 0 0 150 200 0 100 300 0
+ 0
+0
+
+ itm_drown_dummy {!}cannon_ball_dummy {!}cannon_ball_dummy 1  Russian_gusarskiy_karabin 0  288230376158068745 5637668864 683 0 3.000000 100 0 0 75 0 0 150 200 0 100 300 0
+ 0
+0
+
+ itm_admin_kill_dummy {!}cannon_ball_dummy {!}cannon_ball_dummy 1  Russian_gusarskiy_karabin 0  360287970195996681 5637668864 683 0 3.000000 100 0 0 75 0 0 150 200 0 100 300 0
+ 0
+0
+
+ itm_french_charleville Infantry_Musket Infantry_Musket 1  french_charleville 0  70369556889609 5637668864 683 0 3.500000 100 0 0 75 0 0 23 250 0 1 356 0
+ 0
+0
+
+ itm_french_charleville_melee Infantry_Musket Infantry_Musket 1  french_charleville 0  11821949294477316 13229329743872256 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_french_versailles Infantry_Musket Infantry_Musket 1  french_versailles 0  70369556889609 5637668864 683 0 3.500000 100 0 0 75 0 0 23 250 0 1 356 0
+ 0
+0
+
+ itm_french_versailles_melee Infantry_Musket Infantry_Musket 1  french_versailles 0  11821949294477316 13229329743872256 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_british_brown_bess Infantry_Musket Infantry_Musket 1  brown_bess_musket 0  70369556889609 5637668864 683 0 3.500000 100 0 0 75 0 0 23 250 0 1 356 0
+ 0
+0
+
+ itm_british_brown_bess_melee Infantry_Musket Infantry_Musket 1  brown_bess_musket 0  11821949294477316 13229329743872256 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_russian_musket_1808 Infantry_Musket Infantry_Musket 1  Russian_musket_1808 0  70369556889609 5637668864 683 0 3.500000 100 0 0 75 0 0 23 250 0 1 356 0
+ 0
+0
+
+ itm_russian_musket_1808_melee Infantry_Musket Infantry_Musket 1  Russian_musket_1808 0  11821949294477316 13229329743872256 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_austrian_musket Infantry_Musket Infantry_Musket 1  austrian_musket 0  70369556889609 5637668864 683 0 3.500000 100 0 0 75 0 0 23 250 0 1 356 0
+ 0
+0
+
+ itm_austrian_musket_melee Infantry_Musket Infantry_Musket 1  austrian_musket 0  11821949294477316 13229329743872256 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_prussian_potsdam Infantry_Musket Infantry_Musket 1  potsdam_musket 0  70369556889609 5637668864 683 0 3.500000 100 0 0 75 0 0 23 250 0 1 356 0
+ 0
+0
+
+ itm_prussian_potsdam_melee Infantry_Musket Infantry_Musket 1  potsdam_musket 0  11821949294477316 13229329743872256 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_prussian_musket_1806 Infantry_Musket Infantry_Musket 1  prussian_kuhfuss 0  70369556889609 5637668864 683 0 3.500000 100 0 0 75 0 0 23 250 0 1 356 0
+ 0
+0
+
+ itm_prussian_musket_1806_melee Infantry_Musket Infantry_Musket 1  prussian_kuhfuss 0  11821949294477316 13229329743872256 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_french_art_off_sword Artillery_Officer_Sword Artillery_Officer_Sword 2  Artillery_officer_sword 0  Artillery_officer_sword_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 32768 92 0 108 0 285 32
+ 0
+0
+
+ itm_french_carabineer_sword Heavy_Cavalry_Sword Heavy_Cavalry_Sword 2  Carabineer_sword 0  Carabineer_sword_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 3.000000 100 0 0 0 0 36864 91 0 111 0 288 36
+ 0
+0
+
+ itm_french_briquet_garde Guard_Sabre_Briquet Guard_Sabre_Briquet 2  Garde_briquet 0  Guard_briquet_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 77 0 276 22
+ 0
+0
+
+ itm_french_light_cav_sabre_garde Light_Cavalry_Sabre Light_Cavalry_Sabre 2  Garde_light_cav_sabre 0  Garde_light_cav_sabre_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 2.000000 100 0 0 0 0 33792 93 0 102 0 286 33
+ 0
+0
+
+ itm_french_heavy_cav_sabre_garde Heavy_Cavalry_Sabre Heavy_Cavalry_Sabre 2  Guard_heavy_cavalry_sabre 0  Guard_heavy_cavalry_sabre_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 3.000000 100 0 0 0 0 36864 91 0 111 0 288 36
+ 0
+0
+
+ itm_french_inf_off_sabre_garde Imperial_Guard_Officer_Sabre Imperial_Guard_Officer_Sabre 2  Guard_infantry_officer_sabre 0  Guard_infantry_officer_sabre_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 32768 95 0 97 0 285 32
+ 0
+0
+
+ itm_french_heavy_cav_off_sabre Heavy_Cavalry_Sabre Heavy_Cavalry_Sabre 2  Officer_heavy_cavalry_sword 0  Officer_heavy_cavalry_sword_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 3.000000 100 0 0 0 0 36864 91 0 111 0 288 36
+ 0
+0
+
+ itm_french_inf_off_sabre Infantry_Sabre Infantry_Sabre 2  Infantry_officer_sword 0  Infantry_officer_sword_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 32768 95 0 100 0 285 32
+ 0
+0
+
+ itm_french_light_cav_off_sabre Light_Cavalry_Sabre Light_Cavalry_Sabre 2  Officer_light_cav_sabre 0  Officer_light_cav_sabre_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 2.000000 100 0 0 0 0 33792 93 0 102 0 286 33
+ 0
+0
+
+ itm_french_light_inf_off_sabre Light_Infantry_Sabre Light_Infantry_Sabre 2  Saber_voltigeur 0  Saber_voltigeur_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 32768 95 0 97 0 285 32
+ 0
+0
+
+ itm_french_line_cav_sabre Line_Cavalry_Sabre Line_Cavalry_Sabre 2  Line_cav_ANXIII 0  Line_cav_ANXIII_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 3.000000 100 0 0 0 0 36864 91 0 111 0 288 36
+ 0
+0
+
+ itm_french_briquet Sabre_Briquet Sabre_Briquet 2  Sabre_briquet_french 0  Sabre_briquet_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_french_light_cav_sabre Light_Cavalry_Sabre Light_Cavalry_Sabre 2  Sabre_cavalerie_legere 0  Sabre_cavalerie_legere_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 2.000000 100 0 0 0 0 33792 93 0 102 0 286 33
+ 0
+0
+
+ itm_french_sappeur_sword Sapper_Sword Sapper_Sword 2  Sappeur_sword 0  Sappeur_sword_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 72 0 276 22
+ 0
+0
+
+ itm_russian_sabre_1798 Light_Cavalry_Sabre Light_Cavalry_Sabre 2  Russian_sabre_1798 0  Russian_sabre_1798_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 2.000000 100 0 0 0 0 33792 93 0 102 0 286 33
+ 0
+0
+
+ itm_russian_sabre_1809 Light_Cavalry_Sabre Light_Cavalry_Sabre 2  Russian_sabre_1809 0  Russian_sabre_1809_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 2.000000 100 0 0 0 0 33792 93 0 102 0 286 33
+ 0
+0
+
+ itm_russian_sword_1810 Dragoon_Sword Dragoon_Sword 2  Russian_sword_1810 0  Russian_sword_1810_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 2.000000 100 0 0 0 0 33792 91 0 111 0 286 33
+ 0
+0
+
+ itm_russian_guard_sword_1799 Heavy_Cavalry_Sword Heavy_Cavalry_Sword 2  Russian_guard_sword_1799 0  Russian_guard_sword_1799_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 3.000000 100 0 0 0 0 36864 91 0 111 0 288 36
+ 0
+0
+
+ itm_russian_briquet_1807 Sabre_Briquet Sabre_Briquet 2  Russian_briquet_1807 0  Tesak_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_russian_jaeger_bayonet Sword_Bayonet Sword_Bayonet 2  Russian_jaeger_bayonet 0  Kortik_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_russian_jaeger_bayonet_jaeger Sword_Bayonet Sword_Bayonet 2  Russian_jaeger_bayonet 0  Kortik_jaeger_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_russian_officer_sword Officer_Sword Officer_Sword 2  Russian_officer_sword 0  Russian_officer_sword_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 32768 95 0 100 0 285 32
+ 0
+0
+
+ itm_russian_officer_sword_jaeger Officer_Sword Officer_Sword 2  Russian_officer_sword 0  jaeger_officer_sword_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 32768 95 0 100 0 285 32
+ 0
+0
+
+ itm_russian_peasant_axe Hand_Axe Hand_Axe 1  Russian_peasant_axe 0  80019458 9223388529822793742 87 262164 1.500000 100 0 0 0 9 33792 90 0 50 0 256 33
+ 0
+0
+
+ itm_brokenbottle Broken_Vodka_Bottle Broken_Vodka_Bottle 1  Russian_vodka_bottle 0  536936458 65536 360 0 1.000000 100 0 0 0 0 0 90 16 33 1 33 0
+ 0
+1
+-52.000000  5 1073742241 0 2147484067 0 1969 3 72 1 10 700 2 56 1 1 2 179 180 
+
+ itm_brokenbottle_melee Broken_Vodka_Bottle Broken_Vodka_Bottle 1  Russian_vodka_bottle 0  4210690 9223372036879941647 210 155668 1.000000 100 0 0 0 0 22528 95 0 29 0 276 534
+ 0
+0
+
+ itm_russian_kindjal Cossack_Knife Cossack_Knife 1  Russian_kindjal 0  12664834 9223372037685248015 210 155668 1.000000 100 0 0 0 0 18432 96 0 45 0 274 18
+ 0
+0
+
+ itm_russian_guard_off_sword Officer_Sword Officer_Sword 2  Russian_guard_off_sword 0  Russian_guard_off_sword_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 33792 95 0 100 0 285 33
+ 0
+0
+
+ itm_russian_sappeur_dagger Short_Sword Short_Sword 2  Russian_sappeur_dagger 0  Sappeur_dagger_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 64 0 276 22
+ 0
+0
+
+ itm_russian_sappeur_dagger_invis Short_Sword Short_Sword 2  Russian_sappeur_dagger 0  mm_invisible 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 64 0 276 22
+ 0
+0
+
+ itm_russian_peasant_knife Knife Knife 1  Russian_peasant_knife 0  12664834 9223372037685248015 210 155668 1.000000 100 0 0 0 0 18432 96 0 27 0 274 18
+ 0
+0
+
+ itm_russian_peasant_serp Sickle Sickle 1  Russian_peasant_serp 0  12664834 9223372037685248014 210 155668 1.000000 100 0 0 0 0 18432 96 0 35 0 256 18
+ 0
+0
+
+ itm_british_highlander_officer_sword Highlander_Officer_Sword Highlander_Officer_Sword 2  scottish_broadsword 0  scottish_broadsword_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 32768 95 0 95 0 285 32
+ 0
+0
+
+ itm_british_heavy_cav_sword Heavy_Cavalry_Sword Heavy_Cavalry_Sword 2  1796_heavy_cavalry_sword 0  1796_heavy_cavalry_sword_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 3.000000 100 0 0 0 0 36864 91 0 111 0 288 36
+ 0
+0
+
+ itm_british_light_cav_sabre Light_Cavalry_Sabre Light_Cavalry_Sabre 2  1796_light_cavalry_saber 0  1796_light_cavalry_saber_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 2.000000 100 0 0 0 0 33792 93 0 102 0 286 33
+ 0
+0
+
+ itm_british_baker_bayonet Sword_Bayonet Sword_Bayonet 2  British_baker_bayonet 0  British_baker_bayonet_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_british_musician_sword Short_Sword Short_Sword 2  British_musician_sword 0  British_musician_sword_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_british_musician_sword_invis Short_Sword Short_Sword 2  British_musician_sword 0  mm_invisible 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_british_officer_sword Officer_Sword Officer_Sword 2  Russian_officer_sword 0  British_officer_sword_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 1.500000 100 0 0 0 0 32768 95 0 100 0 285 32
+ 0
+0
+
+ itm_austrian_infantry_briquet Sword_Bayonet Sword_Bayonet 2  Austrian_infantry_briquet 0  Austrian_infantry_briquet_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_austrian_infantry_briquet_black Sword_Bayonet Sword_Bayonet 2  Austrian_infantry_briquet 0  Austrian_infantry_briquet_black_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_austrian_jaeger_bayonet Sword_Bayonet Sword_Bayonet 2  Austrian_jaeger_bayonet 0  Austrian_jaeger_bayonet_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_austrian_jaeger_bayonet_invis Sword_Bayonet Sword_Bayonet 2  Austrian_jaeger_bayonet 0  mm_invisible 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_russian_briquet_1807_black Sabre_Briquet Sabre_Briquet 2  Russian_briquet_1807 0  Tesak_black_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_russian_briquet_1807_black_blackbelt Sabre_Briquet Sabre_Briquet 2  Russian_briquet_1807 0  Tesak_black_blackbelt_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_russian_briquet_1807_landwehr Sabre_Briquet Sabre_Briquet 2  Russian_briquet_1807 0  Tesak_landwehr_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 22528 95 0 63 0 276 22
+ 0
+0
+
+ itm_russian_peasant_axe_landwehr Hand_Axe Hand_Axe 2  Russian_peasant_axe 0  Axe_landwehr_scabbard 3458764513820540928  80019458 9223388564182532110 87 262164 0.000000 100 0 0 0 9 33792 90 0 50 0 256 33
+ 0
+0
+
+ itm_training_officer_sword Officer_Training_Sword Officer_Training_Sword 1  training_officer_sword 0  4653058 9223388529822793743 210 155668 1.500000 100 0 0 0 0 32768 95 0 100 0 285 32
+ 0
+0
+
+ itm_training_heavy_sword Heavy_Training_Sword Heavy_Training_Sword 1  training_heavy_sword 0  4653058 9223388529822793743 210 155668 3.000000 100 0 0 0 0 36864 91 0 111 0 288 36
+ 0
+0
+
+ itm_training_light_sabre Light_Training_Sabre Light_Training_Sabre 1  training_light_sabre 0  4653058 9223388529822793743 210 155668 2.000000 100 0 0 0 0 33792 93 0 102 0 286 33
+ 0
+0
+
+ itm_french_briquet_garde_fake Sabre_Briquet Sabre_Briquet 2  Garde_briquet 0  Guard_briquet_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 1024 1 0 1 0 257 1
+ 0
+0
+
+ itm_french_briquet_fake Sabre_Briquet Sabre_Briquet 2  Sabre_briquet_french 0  Sabre_briquet_in_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 1024 1 0 1 0 257 1
+ 0
+0
+
+ itm_russian_briquet_1807_fake Sabre_Briquet Sabre_Briquet 2  Russian_briquet_1807 0  Tesak_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 1024 1 0 1 0 257 1
+ 0
+0
+
+ itm_russian_briquet_1807_black_fake Sabre_Briquet Sabre_Briquet 2  Russian_briquet_1807 0  Tesak_black_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 1024 1 0 1 0 257 1
+ 0
+0
+
+ itm_russian_briquet_1807_black_blackbelt_fake Sabre_Briquet Sabre_Briquet 2  Russian_briquet_1807 0  Tesak_black_blackbelt_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 1024 1 0 1 0 257 1
+ 0
+0
+
+ itm_russian_briquet_1807_landwehr_fake Sabre_Briquet Sabre_Briquet 2  Russian_briquet_1807 0  Tesak_landwehr_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 1024 1 0 1 0 257 1
+ 0
+0
+
+ itm_russian_peasant_axe_landwehr_fake Hand_Axe Hand_Axe 2  Russian_peasant_axe 0  Axe_landwehr_scabbard 3458764513820540928  80019458 9223388564182532110 87 262164 0.000000 100 0 0 0 0 1024 1 0 1 0 257 1
+ 0
+0
+
+ itm_austrian_infantry_briquet_fake Sword_Bayonet Sword_Bayonet 2  Austrian_infantry_briquet 0  Austrian_infantry_briquet_scabbard 3458764513820540928  4259842 9223388564182532111 210 155668 0.000000 100 0 0 0 0 1024 1 0 1 0 257 1
+ 0
+0
+
+ itm_banhammer Banhammer Banhammer 1  ban_hammer 0  280253169668 9223635919670608096 169 8202 10.000000 100 0 0 0 0 59392 86 0 170 0 762 762
+ 0
+0
+
+ itm_drumstick_right Drum Drum 1  drumstick_right 0  137443409922 1879048192 210 155668 1.500000 100 0 0 0 0 3072 93 0 102 0 276 3
+ 0
+0
+
+ itm_flute Flute Flute 1  mm_fife 0  137443409922 1342177280 210 155668 1.500000 100 0 0 0 0 3072 93 0 102 0 276 3
+ 0
+0
+
+ itm_horn Horn Horn 1  horn 0  137443409922 268435456 210 155668 1.500000 100 0 0 0 0 3072 93 0 102 0 276 3
+ 0
+0
+
+ itm_trumpet Trumpet Trumpet 1  trumpet 0  137443409922 268435456 210 155668 1.500000 100 0 0 0 0 3072 93 0 102 0 276 3
+ 0
+0
+
+ itm_bugle Bugle Bugle 1  bugle 0  137443409922 268435456 210 155668 1.500000 100 0 0 0 0 3072 93 0 102 0 276 3
+ 0
+0
+
+ itm_bagpipe Bagpipes Bagpipes 1  mm_invisible 0  137443409922 268435456 210 155668 1.500000 100 0 0 0 0 3072 93 0 102 0 276 3
+ 0
+0
+
+ itm_bullets Cartridges Cartridges 3  cartridge_box_mesh 0  bullet_projectile 2305843009213693952  cartridge_a 1152921504606846976  16875526 0 64 4398046511112 2.000000 100 0 0 0 0 0 0 0 1 30 257 0
+ 0
+1
+-52.000000  3 700 2 63 1 2072 1 1224979098644774912 1 2 261 1224979098644774912 
+
+ itm_pistol_ammo Pistol_Cartridges Pistol_Cartridges 3  cartridge_box_mesh 0  bullet_projectile 2305843009213693952  cartridge_a 1152921504606846976  16842770 0 200 4398046511112 1.000000 100 0 0 0 0 0 0 0 1 18 257 0
+ 0
+1
+-52.000000  3 700 2 63 1 2072 1 1224979098644774912 1 2 261 1224979098644774912 
+
+ itm_canister_ammo Cartridges Cartridges 2  cartridge_a 0  bullet_projectile 2305843009213693952  16842758 0 64 4398046511112 2.000000 100 0 0 0 0 0 0 0 1 1 356 0
+ 0
+1
+-52.000000  3 700 2 63 1 2072 1 1224979098644774912 1 2 261 1224979098644774912 
+
+ itm_shell_fragment Shell_Fragments Shell_Fragments 2  cartridge_a 0  prtcl_dust_e 2305843009213693952  16842758 0 64 4398046511112 2.000000 100 0 0 0 0 0 0 0 3 1 500 0
+ 0
+1
+-52.000000  3 700 2 63 1 2072 1 1224979098644774912 1 2 261 1224979098644774912 
+
+ itm_explosive_bullets Cartridges Cartridges 2  rocket 0  rocket 2305843009213693952  422212481843206 0 64 4398046511112 2.000000 100 0 0 0 0 0 0 0 100 120 356 0
+ 0
+1
+-52.000000  5 1073742241 0 2147484067 0 2071 1 1224979098644774912 700 2 47 1 1 4 234 1224979098644774912 500 500 
+
+ itm_cannon_cartridge_round Round_Shot Round_Shot 1  cannonball_cartridge 0  65546 0 360 0 5.000000 100 0 0 0 0 0 70 0 5 1 513 0
+ 0
+0
+
+ itm_cannon_cartridge_shell Shell_(Explosive) Shell_(Explosive) 1  bomb_cartridge 0  65546 0 360 0 5.000000 100 0 0 0 0 0 70 0 5 1 513 0
+ 0
+0
+
+ itm_cannon_cartridge_canister Canister_Shot Canister_Shot 1  canister_cartridge 0  65546 0 360 0 5.000000 100 0 0 0 0 0 70 0 5 1 513 0
+ 0
+0
+
+ itm_cannon_cartridge_bomb Mortar_Bomb Mortar_Bomb 1  mortar_cartdridge 0  65546 0 360 0 5.000000 100 0 0 0 0 0 70 0 5 1 513 0
+ 0
+0
+
+ itm_rockets Rockets Rockets 1  rocket 0  65546 0 360 0 5.000000 100 0 0 0 0 0 70 0 5 100 513 0
+ 0
+0
+
+ itm_french_lance Lance Lance 1  Lance_french 0  11821952381763588 9007199456067840 180 8202 2.500000 100 0 0 0 0 25600 76 0 185 0 286 281
+ 0
+0
+
+ itm_prussian_lance Lance Lance 1  lance_prussia 0  11821952381763588 9007199456067840 180 8202 2.500000 100 0 0 0 0 25600 76 0 185 0 286 281
+ 0
+0
+
+ itm_austrian_lance Lance Lance 1  lance_austria 0  11821952381763588 9007199456067840 180 8202 2.500000 100 0 0 0 0 25600 76 0 185 0 286 281
+ 0
+0
+
+ itm_saxon_lance Lance Lance 1  saxon_ulan_pike 0  11821952381763588 9007199456067840 180 8202 2.500000 100 0 0 0 0 25600 76 0 185 0 286 281
+ 0
+0
+
+ itm_russian_cossack_pike Lance Lance 1  Russian_cossack_pike 0  11821952381763588 9007199456067840 180 8202 2.500000 100 0 0 0 0 25600 76 0 185 0 286 281
+ 0
+0
+
+ itm_russian_lancer_pike Lance Lance 1  Russian_lancer_pike 0  11821952381763588 9007199456067840 180 8202 2.500000 100 0 0 0 0 25600 76 0 185 0 286 281
+ 0
+0
+
+ itm_russian_opolcheniye_pike Pike Pike 1  Russian_opolcheniye_pike 0  11821949431119876 13229324106727680 125 8202 3.000000 100 0 0 0 0 0 70 0 188 0 286 512
+ 0
+0
+
+ itm_russian_peasant_kosa Scythe Scythe 1  Russian_peasant_kosa 0  2814750176378884 4222124851990272 125 8202 2.500000 100 0 0 0 0 20480 70 0 170 0 276 20
+ 0
+0
+
+ itm_russian_peasant_fork Wooden_Fork Wooden_Fork 1  Russian_peasant_fork 0  11821949431119876 13229324106727680 125 8202 2.500000 100 0 0 0 0 6144 75 0 145 0 281 518
+ 0
+0
+
+ itm_russian_peasant_pitchfork Pitchfork Pitchfork 1  Russian_peasant_pitchfork 0  9007199664013316 13229324106727680 125 8202 2.500000 100 0 0 0 0 6144 75 0 145 0 281 518
+ 0
+0
+
+ itm_russian_peasant_sap Rake Rake 1  Russian_peasant_sap 0  2251800222957572 4222124851990272 125 8202 2.500000 100 0 0 0 0 18432 75 0 119 0 517 274
+ 0
+0
+
+ itm_birch_trunk Birch_Trunk Birch_Trunk 1  Birch_trunk 0  2252113755570180 9227594161530601952 125 8202 10.000000 100 0 0 0 0 30720 67 0 104 0 520 542
+ 0
+0
+
+ itm_russian_peasant_kosa2 Scythe Scythe 1  Russian_peasant_kosa2 0  2251800222957572 4222124650663424 125 8202 2.500000 100 0 0 0 0 25600 74 0 115 0 256 25
+ 0
+0
+
+ itm_russian_peasant_club Club Club 1  Russian_peasant_club 0  2252075100864516 9227594161530601952 125 8202 3.250000 100 0 0 0 0 20480 70 0 90 0 517 532
+ 0
+0
+
+ itm_russian_peasant_birch_club Birch_Club Birch_Club 1  Russian_peasant_birch_club 0  2252075100864516 9227594161530601952 125 8202 3.250000 100 0 0 0 0 20480 70 0 90 0 517 532
+ 0
+0
+
+ itm_russian_peasant_pike Pike Pike 1  Russian_peasant_pike 0  11821949430874116 9007199456067840 125 8202 3.000000 100 0 0 0 0 0 70 0 258 0 286 512
+ 0
+0
+
+ itm_russian_peasant_kuvalda Sledgehammer Sledgehammer 1  Russian_peasant_kuvalda 0  2251800222957572 9227594161530601696 125 8202 2.500000 100 0 0 0 0 30720 75 0 64 0 517 542
+ 0
+0
+
+ itm_russian_peasant_2handed_axe Lumber_Axe Lumber_Axe 1  Russian_peasant_2handed_axe 0  2251800222957572 9227594161530601696 125 8202 2.500000 100 0 0 0 0 35840 70 0 64 0 256 35
+ 0
+0
+
+ itm_russian_peasant_rogatina Hunting_Spear Hunting_Spear 1  Russian_peasant_rogatina 0  11821949431119876 13229324106727680 125 8202 2.500000 100 0 0 0 0 6144 75 0 159 0 281 518
+ 0
+0
+
+ itm_sapper_axe_ship Axe Axe 1  sapper_axe 0  476381188 9227594165825568992 125 8202 2.500000 100 0 0 0 0 40960 70 0 73 0 256 40
+ 0
+0
+
+ itm_sapper_axe_rus_ship Axe Axe 1  Russian_sappeur_axe 0  476381188 9227594165825568992 125 8202 2.500000 100 0 0 0 0 40960 70 0 58 0 256 40
+ 0
+0
+
+ itm_french_mousquiton_melee_gf Cavalry_Carbine Cavalry_Carbine 1  french_mousquiton 0  12384898979463172 58265326353121472 180 0 0.000000 100 0 0 0 0 23552 86 0 76 0 524 535
+ 0
+0
+
+ itm_french_mousquiton_light_melee_gf Light_Cavalry_Carbine Light_Cavalry_Carbine 1  french_mousquiton_light 0  12384898979463172 58265326353121472 180 0 0.000000 100 0 0 0 0 23552 86 0 76 0 524 535
+ 0
+0
+
+ itm_french_dragoon_musket_melee_gf Cavalry_Musket Cavalry_Musket 1  french_dragoon_musket 0  12384898979463172 58265326353121472 180 0 0.000000 100 0 0 0 0 20480 86 0 115 0 524 532
+ 0
+0
+
+ itm_russian_dragoon_musket_melee_gf Cavalry_Musket Cavalry_Musket 1  Russian_dragoon_musket 0  12384898979463172 58265326353121472 180 0 0.000000 100 0 0 0 0 20480 86 0 115 0 524 532
+ 0
+0
+
+ itm_russian_gusarskiy_karabin_melee_gf Musketoon Musketoon 1  Russian_gusarskiy_karabin 0  12384898979463172 58265326353121472 180 0 0.000000 100 0 0 0 0 22528 86 0 58 0 524 534
+ 0
+0
+
+ itm_british_carbine_melee_gf Cavalry_Carbine Cavalry_Carbine 1  paget_carabine 0  12384898979463172 58265326353121472 180 0 0.000000 100 0 0 0 0 23552 86 0 50 0 524 535
+ 0
+0
+
+ itm_russian_rifle_1805_melee_gf Rifle Rifle 1  Russian_rifle_1805 0  12385173857370116 58265326353121472 180 0 0.000000 100 0 0 0 0 23552 85 0 74 0 534 535
+ 0
+0
+
+ itm_british_baker_rifle_melee_gf Rifle Rifle 1  baker_rifle 0  12385173857370116 58265326353121472 180 0 0.000000 100 0 0 0 0 23552 85 0 85 0 534 535
+ 0
+0
+
+ itm_french_charleville_melee_gf Infantry_Musket Infantry_Musket 1  french_charleville 0  11821949294477316 13229330280743168 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_french_versailles_melee_gf Infantry_Musket Infantry_Musket 1  french_versailles 0  11821949294477316 13229330280743168 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_british_brown_bess_melee_gf Infantry_Musket Infantry_Musket 1  brown_bess_musket 0  11821949294477316 13229330280743168 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_russian_musket_1808_melee_gf Infantry_Musket Infantry_Musket 1  Russian_musket_1808 0  11821949294477316 13229330280743168 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_austrian_musket_melee_gf Infantry_Musket Infantry_Musket 1  austrian_musket 0  11821949294477316 13229330280743168 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_prussian_potsdam_melee_gf Infantry_Musket Infantry_Musket 1  potsdam_musket 0  11821949294477316 13229330280743168 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_prussian_musket_1806_melee_gf Infantry_Musket Infantry_Musket 1  prussian_kuhfuss 0  11821949294477316 13229330280743168 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_training_musket Training_Musket Training_Musket 1  training_musket 0  11821949294870532 13229330280743168 180 0 0.000000 100 0 0 0 0 40960 85 0 138 0 301 296
+ 0
+0
+
+ itm_flag_france_45e French_Line_Infantry_Colour French_Line_Infantry_Colour 1  france_colour_45e 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_france_84e French_Line_Infantry_Colour French_Line_Infantry_Colour 1  france_colour_84e 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_france_vistula Vistula_Legion_Colour Vistula_Legion_Colour 1  france_colour_vistula 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_france_grenadiers French_Guard_Infantry_Colour French_Guard_Infantry_Colour 1  france_colour_1ergarde 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_france_15 French_Light_Infantry_Colour French_Light_Infantry_Colour 1  france_colour_15eme 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_france_hussard French_Hussar_Colour French_Hussar_Colour 1  france_colour_hussards 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_flag_france_carab French_Carabinier_Colour French_Carabinier_Colour 1  france_colour_lanciers 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_flag_france_cuirassier French_Cuirassier_Colour French_Cuirassier_Colour 1  france_colour_cuirassiers 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_flag_france_cheval French_Grenadiers_a_Cheval_Colour French_Grenadiers_a_Cheval_Colour 1  france_colour_gren_a_cheval 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_flag_france_dragon French_Dragoon_Colour French_Dragoon_Colour 1  france_colour_dragons 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_flag_france_lancier French_Lancer_Colour French_Lancer_Colour 1  france_colour_lanciers 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_flag_russia_opolcheniye Russian_St_Petersburg's_Opolcheniye_Flag Russian_St_Petersburg's_Opolcheniye_Flag 1  russian_colour_opolcheniye 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_russia_pavlovsk_color Russian_Pavlovskiy_Regimental_Colour Russian_Pavlovskiy_Regimental_Colour 1  russian_colour_pavlovsk_color 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_russia_pavlovsk_white Russian_Pavlovskiy_White_Flag Russian_Pavlovskiy_White_Flag 1  russian_colour_pavlovsk_white 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_russia_preobragenskiy_color Russian_Preobrazhenskiy_Regimental_Colour Russian_Preobrazhenskiy_Regimental_Colour 1  russian_colour_preobragenskiy_color 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_russia_preobragenskiy_white Russian_Preobrazhenskiy_White_Flag Russian_Preobrazhenskiy_White_Flag 1  russian_colour_preobragenskiy_white 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_russia_simbirsk_color Russian_Simbirskiy_Regimental_Colour Russian_Simbirskiy_Regimental_Colour 1  russian_colour_simbirsk_color 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_russia_simbirsk_white Russian_Simbirskiy_White_Flag Russian_Simbirskiy_White_Flag 1  russian_colour_simbirsk_white 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_flag_russia_kyiv_dragoon Russian_Kyiv_Dragoons_Guidon Russian_Kyiv_Dragoons_Guidon 1  russian_colour_kyiv_dragoon 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_britain_colour_33rd_regt British_33rd_Reg._Colour British_33rd_Reg._Colour 1  britain_colour_33rd_regt 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_33rd_king British_33rd_King's_Colour British_33rd_King's_Colour 1  britain_colour_33rd_king 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_42nd_regt British_42nd_Reg._Colour British_42nd_Reg._Colour 1  britain_colour_42nd_regt 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_42nd_king British_42nd_King's_Colour British_42nd_King's_Colour 1  britain_colour_42nd_king 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_2nd_regt British_2nd_Reg._Colour British_2nd_Reg._Colour 1  britain_colour_2nd_king 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_2nd_king British_2nd_King's_Colour British_2nd_King's_Colour 1  britain_colour_2nd_regt 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_51st_regt British_51st_Reg._Colour British_51st_Reg._Colour 1  britain_colour_51st_regt 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_51st_king British_51st_King's_Colour British_51st_King's_Colour 1  britain_colour_51st_king 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_kgl_regt British_KGL_Reg._Colour British_KGL_Reg._Colour 1  britain_colour_kgl_regt 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_kgl_king British_KGL_King's_Colour British_KGL_King's_Colour 1  britain_colour_kgl_king 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_britain_colour_blues British_Horse_Guards_Colour British_Horse_Guards_Colour 1  britain_colour_blues 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_prussia_colour_infantry Prussian_Infantry_Colour Prussian_Infantry_Colour 1  flag_prussia_infantry 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_prussia_colour_infantry2 Prussian_Infantry_Colour Prussian_Infantry_Colour 1  flag_prussia_infantry2 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_prussia_colour_guard Prussian_Guard_Infantry_Colour Prussian_Guard_Infantry_Colour 1  flag_prussia_guard 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_prussia_colour_landwehr Prussian_Landwehr_Colour Prussian_Landwehr_Colour 1  flag_prussia_landwehr 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_prussia_colour_hussard Prussian_Hussar_Colour Prussian_Hussar_Colour 1  flag_prussia_hussard 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_austria_colour_leibfahne Austrian_Leibfahne Austrian_Leibfahne 1  austria_colour_leibfahne 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_austria_colour_ordinarfahne Austrian_Ordinarfahne Austrian_Ordinarfahne 1  austria_colour_ordinarfahne 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_austria_colour_ordinarfahne_cav Austrian_Ordinarfahne Austrian_Ordinarfahne 1  austria_colour_ordinarfahne_cav 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_bavarian_flag_national Bavarian_National_Colour Bavarian_National_Colour 1  bavarian_flag_national 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_bavarian_flag_regimental Bavarian_Reg._Colour Bavarian_Reg._Colour 1  bavarian_flag_regimental 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_saxon_flag_infantry Saxon_Infantry_Colour Saxon_Infantry_Colour 1  saxon_infantry_flag 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_saxon_flag_uhlan Saxon_Uhlan_Standard Saxon_Uhlan_Standard 1  saxon_ulan_standard 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_hessian_flag_infantry Hessian_Infantry_Colour Hessian_Infantry_Colour 1  hessen_infantry_flag 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_westphalian_flag_infantry Westphalian_Infantry_Colour Westphalian_Infantry_Colour 1  west_gr_flag 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_baden_flag_dragoon Baden_Dragoon_Standard Baden_Dragoon_Standard 1  baden_dragoons_standard 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_westphalian_flag_cuirassier Westphalian_Cuirassier_Standard Westphalian_Cuirassier_Standard 1  westphalian_cuirassier_standard 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_saxon_flag_garde Saxon_Garde_du_Corps_Standard Saxon_Garde_du_Corps_Standard 1  standart_garde_du_corps 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 140 0 256 1
+ 0
+0
+
+ itm_wurttemberg_flag_infantry Wurttemberg_Infantry_Colour Wurttemberg_Infantry_Colour 1  wurttemberg_infantry_flag 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_wurttemberg_flag_infantry2 Wurttemberg_Infantry_Colour Wurttemberg_Infantry_Colour 1  wurttemberg_grenadiers_flag 0  6553603 4222124650659840 390 0 0.500000 100 0 0 0 0 1024 50 0 320 0 256 1
+ 0
+0
+
+ itm_cannon_lighter Cannon_Lighter Cannon_Lighter 1  lighter 0  4521986 9223388530896535566 210 155668 1.500000 100 0 0 0 0 10240 95 0 58 0 256 522
+ 0
+0
+
+ itm_ramrod Ramrod Ramrod 1  ramrod 0  9007200333004804 13229330280743168 85 8202 3.000000 100 0 0 0 0 10240 81 0 135 0 524 522
+ 0
+0
+
+ itm_rocket_placement Rocket_Launcher Rocket_Launcher 1  rocket_launcher_folded 0  1078263812 6174015488 85 8202 15.000000 100 0 0 0 0 10240 81 0 135 0 524 522
+ 0
+0
+
+ itm_spyglass Spyglass Spyglass 1  spyglass 0  4456450 0 210 155668 0.000000 100 0 0 0 0 30720 93 0 102 0 286 30
+ 0
+0
+
+ itm_key Key Key 1  key 0  4456450 0 210 155668 0.000000 100 0 0 0 0 30720 93 0 102 0 286 30
+ 0
+0
+
+ itm_key_gold Golden_Key Golden_Key 1  key_gold 0  4456450 0 210 155668 0.000000 100 0 0 0 0 30720 93 0 102 0 286 30
+ 0
+0
+
+ itm_drinking_cup Cup Cup 2  drinking_cup_carry 0  drinking_cup 3458764513820540928  4456451 0 210 155668 1.000000 100 0 0 0 0 24576 90 0 32 0 530 536
+ 0
+0
+
+ itm_drinking_tea_cup Tea_Cup Tea_Cup 2  drinking_tea_cup_carry 0  drinking_tea_cup 3458764513820540928  4456450 0 210 155668 1.000000 100 0 0 0 0 24576 90 0 32 0 530 536
+ 0
+0
+
+ itm_drinking_tea_cup_plate Tea_Cup Tea_Cup 2  drinking_tea_cup_plate_carry 0  drinking_tea_cup_plate 3458764513820540928  4456450 0 210 155668 1.000000 100 0 0 0 0 24576 90 0 32 0 530 536
+ 0
+0
+
+ itm_drinking_bottle Bottle Bottle 2  drinking_bottle_carry 0  drinking_bottle 3458764513820540928  541327362 0 210 155668 1.000000 100 0 0 0 0 24576 90 0 32 0 530 536
+ 0
+0
+
+ itm_drinking_bottle_melee Bottle Bottle 2  drinking_bottle_carry 0  drinking_bottle 3458764513820540928  3377699724738562 9223372036879941647 210 155668 1.000000 100 0 0 0 0 24576 90 0 32 0 530 536
+ 0
+0
+
+ itm_cane Drill_Cane Drill_Cane 1  drill_cane 0  541523970 0 210 155668 1.000000 100 0 0 0 0 10240 95 0 90 0 522 522
+ 0
+0
+
+ itm_cane_melee Drill_Cane Drill_Cane 1  drill_cane 0  4653058 9223388529554358287 210 155668 1.000000 100 0 0 0 0 10240 95 0 90 0 522 522
+ 0
+0
+
+ itm_bandages Bandages Bandages 1  bandage 0  4210690 9223372039564296206 210 155668 1.500000 100 0 0 0 0 10240 65 0 25 0 256 522
+ 0
+0
+
+ itm_grenade Holy_Handgrenade Holy_Handgrenade 1  hhg 0  4194314 65536 1 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 100 523 0
+ 0
+2
+-51.000000  2 700 2 56 1 1 2 179 176 
+-52.000000  3 2071 1 1224979098644774912 700 2 47 1 1 4 234 1224979098644774912 500 500 
+
+ itm_sapper_axe Sapper_Axe Sapper_Axe 1  sapper_axe 0  476381188 9227594165825568992 125 8202 2.500000 100 0 0 0 0 40960 70 0 100 0 256 40
+ 0
+0
+
+ itm_sapper_axe_rus Sapper_Axe Sapper_Axe 1  Russian_sappeur_axe 0  476381188 9227594165825568992 125 8202 2.500000 100 0 0 0 0 40960 70 0 100 0 256 40
+ 0
+0
+
+ itm_construction_hammer Construction_Hammer Construction_Hammer 1  sapper_hammer 0  4276226 9223388531433406478 210 155668 1.500000 100 0 0 0 0 4096 92 0 120 0 256 516
+ 0
+0
+
+ itm_shovel Spade Spade 1  shovel 0  9007200200884228 4222130757566720 125 8202 2.500000 100 0 0 0 0 6144 75 0 140 0 272 518
+ 0
+0
+
+ itm_shovel_undig Spade Spade 1  shovel 0  9007199664013316 4222130757566720 125 8202 2.500000 100 0 0 0 0 6144 75 0 140 0 272 518
+ 0
+0
+
+ itm_french_bomb Explosives Explosives 1  barreltriangulated 0  65546 65536 360 0 5.000000 100 0 0 0 0 0 70 0 5 1 513 0
+ 0
+1
+-52.000000  2 2071 1 1224979098644774912 1 3 172 1224979098644774912 1455 
+
+ itm_french_voltigeur_body_officer French_Voltigeur_Uniform French_Voltigeur_Uniform 1  french_voltigeur_body_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_voltigeur_body_ranker French_Voltigeur_Uniform French_Voltigeur_Uniform 1  french_voltigeur_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_voltigeur_body_sarge French_Voltigeur_Uniform French_Voltigeur_Uniform 1  french_voltigeur_body_sarge 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_45e_body_officer French_Infantry_Uniform French_Infantry_Uniform 1  french_45e_body_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_45e_body_colours French_Infantry_Uniform French_Infantry_Uniform 1  french_45e_body_flagcarrier 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_45e_body_ranker French_Infantry_Uniform French_Infantry_Uniform 1  french_45e_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_84e_body_officer French_Infantry_Uniform French_Infantry_Uniform 1  french_84e_body_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_84e_body_ranker French_Infantry_Uniform French_Infantry_Uniform 1  french_84e_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_84e_body_sarge French_Infantry_Uniform French_Infantry_Uniform 1  french_84e_body_flagcarrier 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_dragoon_body_ranker French_Dragoon_Uniform French_Dragoon_Uniform 1  french_dragoon_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_dragoon_body_officer French_Dragoon_Uniform French_Dragoon_Uniform 1  french_dragoon_body_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_general_body_boney Napoleon's_Uniform Napoleon's_Uniform 1  french_general_body_boney 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_grenadiers_a_cheval_body_colours French_Horse_Grenadier_Uniform French_Horse_Grenadier_Uniform 1  french_grenadiers_a_cheval_body_flagman 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_grenadiers_a_cheval_body_ranker French_Horse_Grenadier_Uniform French_Horse_Grenadier_Uniform 1  french_grenadiers_a_cheval_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_grenadiers_a_cheval_body_officer French_Horse_Grenadier_Uniform French_Horse_Grenadier_Uniform 1  french_grenadiers_a_cheval_body_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_gap_body_colours French_Grenadier_Uniform French_Grenadier_Uniform 1  french_GRaP_body_flagman 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_gap_body_ranker French_Grenadier_Uniform French_Grenadier_Uniform 1  french_GRaP_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_gap_body_officer French_Grenadier_Uniform French_Grenadier_Uniform 1  french_GRaP_body_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_art_ranker_body French_Artillery_Uniform French_Artillery_Uniform 1  french_art_ranker_body 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_art_ranker_body_alt French_Artillery_Uniform French_Artillery_Uniform 1  french_art_ranker_body_alt 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_art_officer_body French_Artillery_Uniform French_Artillery_Uniform 1  french_art_officer_body 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_body_ranker Vistula_Legion_Uniform Vistula_Legion_Uniform 1  french_vistula_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_body_colours Vistula_Legion_Uniform Vistula_Legion_Uniform 1  french_vistula_body_flagcarrier 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_body_officer Vistula_Legion_Uniform Vistula_Legion_Uniform 1  french_vistula_body_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_lancer_body_ranker French_Guard_Lancer_Uniform French_Guard_Lancer_Uniform 1  french_lancer_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_lancer_body_colours French_Guard_Lancer_Uniform French_Guard_Lancer_Uniform 1  french_lancer_flagcarrier_body 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_lancer_body_officer French_Guard_Lancer_Uniform French_Guard_Lancer_Uniform 1  french_lancer_officer_body 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_cuirassier_ranker French_Cuirassier_Uniform French_Cuirassier_Uniform 1  fr_cuirassier_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_cuirassier_colours French_Cuirassier_Uniform French_Cuirassier_Uniform 1  fr_cuirassier_body_porte_aigle 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_cuirassier_officer French_Cuirassier_Uniform French_Cuirassier_Uniform 1  fr_cuirassier_body_officer 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_carabineer_ranker French_Carabineer_Uniform French_Carabineer_Uniform 1  fr_carabineer_ranker 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_carabineer_colours French_Carabineer_Uniform French_Carabineer_Uniform 1  fr_carabineer_porte_aigle 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_carabineer_officer French_Carabineer_Uniform French_Carabineer_Uniform 1  fr_carabineer_officer 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussards_ranker French_Hussar_Uniform French_Hussar_Uniform 1  french_hussards_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussards_nco French_Hussar_Uniform French_Hussar_Uniform 1  french_hussards_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussards_officer French_Hussar_Uniform French_Hussar_Uniform 1  french_hussards_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussards_trumpeter French_Hussar_Uniform French_Hussar_Uniform 1  french_hussards_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_sapper French_Sapper_Uniform French_Sapper_Uniform 1  french_sappeur 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_grap_body_drummer French_Drummer_Uniform French_Drummer_Uniform 1  french_GRaP_body_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_grap_body_flautist French_Flautist_Uniform French_Flautist_Uniform 1  french_GRaP_body_flautist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_voltigeur_body_hornist French_Voltigeur_Uniform French_Voltigeur_Uniform 1  french_voltigeur_body_hornist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_45e_body_drummer French_Drummer_Uniform French_Drummer_Uniform 1  french_45e_body_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_45e_body_flautist French_Flautist_Uniform French_Flautist_Uniform 1  french_45e_body_flautist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_84e_body_drummer French_Drummer_Uniform French_Drummer_Uniform 1  french_84e_body_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_84e_body_flautist French_Flautist_Uniform French_Flautist_Uniform 1  french_84e_body_flautist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fr_carabineer_trumpeter French_Trumpeter_Uniform French_Trumpeter_Uniform 1  fr_carabineer_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fr_cuirassier_body_trumpeter French_Trumpeter_Uniform French_Trumpeter_Uniform 1  fr_cuirassier_body_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_dragoon_body_trumpeter French_Trumpeter_Uniform French_Trumpeter_Uniform 1  french_dragoon_body_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_lancer_trumpeter_body French_Trumpeter_Uniform French_Trumpeter_Uniform 1  french_lancer_trumpeter_body 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_body_drummer Vistula_Legion_Uniform Vistula_Legion_Uniform 1  french_vistula_body_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_body_flautist Vistula_Legion_Uniform Vistula_Legion_Uniform 1  french_vistula_body_flautist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_dragoon_body_sargent French_Dragoon_Uniform French_Dragoon_Uniform 1  french_dragoon_body_sargent 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_arty_train French_Artillery_Train_Uniform French_Artillery_Train_Uniform 1  french_arty_train 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_grenadier_a_cheval_body_trumpeter French_Trumpeter_Uniform French_Trumpeter_Uniform 1  french_grenadier_a_cheval_body_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_captain french_captain french_captain 1  french_captain 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_equipage_batallion french_equipage_batallion french_equipage_batallion 1  french_equipage_batallion 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_surgeon Surgeon_Outfit Surgeon_Outfit 1  french_surgeon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_infantry_ranker British_Infantry_Uniform British_Infantry_Uniform 1  british_infantry_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_infantry_sarge British_Infantry_Uniform British_Infantry_Uniform 1  british_infantry_sarge 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_infantry_officer British_Infantry_Uniform British_Infantry_Uniform 1  british_infantry_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_infantry_drum British_Infantry_Uniform British_Infantry_Uniform 1  british_infantry_drum 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_infantry_flute British_Infantry_Uniform British_Infantry_Uniform 1  british_infantry_flute 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_ranker KGL_Infantry_Uniform KGL_Infantry_Uniform 1  british_kgl_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_sarge KGL_Infantry_Uniform KGL_Infantry_Uniform 1  british_kgl_sarge 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_officer KGL_Infantry_Uniform KGL_Infantry_Uniform 1  british_kgl_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_drum KGL_Infantry_Uniform KGL_Infantry_Uniform 1  british_kgl_drum 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_flute KGL_Infantry_Uniform KGL_Infantry_Uniform 1  british_kgl_flute 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_ranker British_Highland_Infantry_Uniform British_Highland_Infantry_Uniform 1  british_highland_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_sarge British_Highland_Infantry_Uniform British_Highland_Infantry_Uniform 1  british_highland_sarge 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_officer British_Highland_Infantry_Uniform British_Highland_Infantry_Uniform 1  british_highland_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_drummer British_Highland_Infantry_Uniform British_Highland_Infantry_Uniform 1  british_highland_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_piper British_Highland_Infantry_Uniform British_Highland_Infantry_Uniform 1  british_highland_piper 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_piper_2 British_Highland_Infantry_Uniform British_Highland_Infantry_Uniform 1  british_highland_piper_2 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_guard_ranker British_Guard_Infantry_Uniform British_Guard_Infantry_Uniform 1  british_guard_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_guard_sarge British_Guard_Infantry_Uniform British_Guard_Infantry_Uniform 1  british_guard_sarge 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_guard_officer British_Guard_Infantry_Uniform British_Guard_Infantry_Uniform 1  british_guard_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_guard_drum British_Guard_Infantry_Uniform British_Guard_Infantry_Uniform 1  british_guard_drum 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_guard_flute British_Guard_Infantry_Uniform British_Guard_Infantry_Uniform 1  british_guard_flute 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_ranker British_Light_Infantry_Uniform British_Light_Infantry_Uniform 1  british_light_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_sarge British_Light_Infantry_Uniform British_Light_Infantry_Uniform 1  british_light_sarge 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_officer British_Light_Infantry_Uniform British_Light_Infantry_Uniform 1  british_light_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_bugler British_Light_Infantry_Uniform British_Light_Infantry_Uniform 1  british_light_bugler 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_ranker British_Rifleman_Uniform British_Rifleman_Uniform 1  british_rifle_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_sarge British_Rifleman_Uniform British_Rifleman_Uniform 1  british_rifle_sarge 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_captain British_Rifleman_Uniform British_Rifleman_Uniform 1  british_rifle_captain 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_bugler British_Rifleman_Uniform British_Rifleman_Uniform 1  british_rifle_bugler 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_artillery_ranker British_Artillery_Uniform British_Artillery_Uniform 1  british_artillery_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_artillery_officer British_Artillery_Uniform British_Artillery_Uniform 1  british_artillery_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_artillery_train British_Artillery_Uniform British_Artillery_Uniform 1  british_artillery_train 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_dragoon British_Light_Dragoon_Uniform British_Light_Dragoon_Uniform 1  british_light_dragoon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_dragoon_officer British_Light_Dragoon_Uniform British_Light_Dragoon_Uniform 1  british_light_dragoon_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_inniskilling_ranker British_Dragoon_Uniform British_Dragoon_Uniform 1  british_iniskilling_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_inniskilling_officer British_Dragoon_Uniform British_Dragoon_Uniform 1  british_iniskilling_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_blue_ranker British_Horse_Guard_Uniform British_Horse_Guard_Uniform 1  british_blue_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_blue_officer British_Horse_Guard_Uniform British_Horse_Guard_Uniform 1  british_blue_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_hussar_ranker British_Horse_Guard_Uniform British_Horse_Guard_Uniform 1  KGL_hussar_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_hussar_officer British_Horse_Guard_Uniform British_Horse_Guard_Uniform 1  KGL_hussar_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_hussar_trumpeter British_Horse_Guard_Uniform British_Horse_Guard_Uniform 1  KGL_hussar_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_wellington British_Wellington_Uniform British_Wellington_Uniform 1  wellington_coat 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rocketeer British_Rocketeer_Uniform British_Rocketeer_Uniform 1  british_rocketeer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_sapper British_Sapper_Uniform British_Sapper_Uniform 1  british_sapper 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_captain British_Captain_Uniform British_Captain_Uniform 1  british_captain 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_royal_marine British_Royal_Marine_Uniform British_Royal_Marine_Uniform 1  british_royal_marine 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_naked_female_body naked_female_body naked_female_body 1  0 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_naked_male_body naked_male_body naked_male_body 1  0 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_surgeon Surgeon_Outfit Surgeon_Outfit 1  uk_surgeon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry_ranker Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_8_infantry_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry_nco Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_8_infantry_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry_officer Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_8_infantry_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry_drum Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_8_infantry_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry_flute Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_8_infantry_fifer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_dragoon_ranker Prussian_Dragoon_Uniform Prussian_Dragoon_Uniform 1  prus_dragoon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_dragoon_nco Prussian_Dragoon_Uniform Prussian_Dragoon_Uniform 1  prus_dragoon_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_dragoon_officer Prussian_Dragoon_Uniform Prussian_Dragoon_Uniform 1  prus_dragoon_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_dragoon_trumpet Prussian_Dragoon_Uniform Prussian_Dragoon_Uniform 1  prus_dragoon_trumpet 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_jaeger_ranker Prussian_Jaeger_Uniform Prussian_Jaeger_Uniform 1  prussian_silesian_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_jaeger_ranker_alt Prussian_Jaeger_Uniform Prussian_Jaeger_Uniform 1  prussian_silesian_ranker_variant 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_jaeger_nco Prussian_Jaeger_Uniform Prussian_Jaeger_Uniform 1  prussian_silesian_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_jaeger_officer Prussian_Jaeger_Uniform Prussian_Jaeger_Uniform 1  prussian_silesian_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_jaeger_hornist Prussian_Jaeger_Uniform Prussian_Jaeger_Uniform 1  prussian_silesian_hornist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_ranker Prussian_Foot_Guard_Uniform Prussian_Foot_Guard_Uniform 1  prussian_gzf_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_nco Prussian_Foot_Guard_Uniform Prussian_Foot_Guard_Uniform 1  prussian_gzf_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_officer Prussian_Foot_Guard_Uniform Prussian_Foot_Guard_Uniform 1  prussian_gzf_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_drummer Prussian_Foot_Guard_Uniform Prussian_Foot_Guard_Uniform 1  prussian_gzf_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_flute Prussian_Foot_Guard_Uniform Prussian_Foot_Guard_Uniform 1  prussian_gzf_fifer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_arty_ranker Prussian_Artillery_Uniform Prussian_Artillery_Uniform 1  prussian_artillery_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_arty_train Prussian_Artillery_Uniform Prussian_Artillery_Uniform 1  prussian_artillery_train 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_arty_officer Prussian_Artillery_Uniform Prussian_Artillery_Uniform 1  prussian_artillery_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_ranker Prussian_Hussar_Uniform Prussian_Hussar_Uniform 1  prussian_hussar_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_nco Prussian_Hussar_Uniform Prussian_Hussar_Uniform 1  prussian_hussar_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_officer Prussian_Hussar_Uniform Prussian_Hussar_Uniform 1  prussian_hussar_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_officer_variant Prussian_Hussar_Uniform Prussian_Hussar_Uniform 1  prussian_hussar_officer_variant 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_trumpet Prussian_Hussar_Uniform Prussian_Hussar_Uniform 1  prussian_hussar_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry2_ranker Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_23_infantry_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry2_nco Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_23_infantry_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry2_officer Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_23_infantry_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry2_drum Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_23_infantry_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry2_flute Prussian_Infantry_Uniform Prussian_Infantry_Uniform 1  prussian_23_infantry_fifer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_ranker Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_ranker_alt Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_ranker_variant 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_nco Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_officer Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_drum Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_flute Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_fifer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_cav_ranker Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_cavalry_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_cav_nco Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_cavalry_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_cav_officer Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_cavalry_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_cav_trumpet Prussian_Landwehr_Uniform Prussian_Landwehr_Uniform 1  prussian_landwehr_cavalry_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_blucher Blucher's_Uniform Blucher's_Uniform 1  blucher 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_cuirassier_ranker Prussian_Cuirassier_Uniform Prussian_Cuirassier_Uniform 1  prussian_cuirassier_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_cuirassier_nco Prussian_Cuirassier_Uniform Prussian_Cuirassier_Uniform 1  prussian_cuirassier_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_cuirassier_officer Prussian_Cuirassier_Uniform Prussian_Cuirassier_Uniform 1  prussian_cuirassier_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_cuirassier_trumpet Prussian_Cuirassier_Uniform Prussian_Cuirassier_Uniform 1  prussian_cuirassier_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_freikorps_ranker Prussian_Freikorps_Uniform Prussian_Freikorps_Uniform 1  prussian_lutzov_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_freikorps_nco Prussian_Freikorps_Uniform Prussian_Freikorps_Uniform 1  prussian_lutzov_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_freikorps_officer Prussian_Freikorps_Uniform Prussian_Freikorps_Uniform 1  prussian_lutzov_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_freikorps_drum Prussian_Freikorps_Uniform Prussian_Freikorps_Uniform 1  prussian_lutzov_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_freikorps_flute Prussian_Freikorps_Uniform Prussian_Freikorps_Uniform 1  prussian_lutzov_fifer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_pioneer Prussian_Pioneer_Uniform Prussian_Pioneer_Uniform 1  prussian_pioneer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_surgeon Surgeon_Outfit Surgeon_Outfit 1  prussia_surgeon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_infantry1 Russian_Infantry_Uniform Russian_Infantry_Uniform 1  rus_musketeer1 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_infantry_nco Russian_Infantry_Uniform Russian_Infantry_Uniform 1  rus_musketeer_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_infantry_officer Russian_Infantry_Uniform Russian_Infantry_Uniform 1  rus_musketeer_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_drummer Russian_Infantry_Uniform Russian_Infantry_Uniform 1  rus_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_flautist Russian_Infantry_Uniform Russian_Infantry_Uniform 1  rus_flautist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_hussar_officer Russian_Hussar_Uniform Russian_Hussar_Uniform 1  rus_hussards_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_hussar_nco Russian_Hussar_Uniform Russian_Hussar_Uniform 1  rus_hussards_sarg 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_hussar_ranker Russian_Hussar_Uniform Russian_Hussar_Uniform 1  rus_hussards_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_hussar_trumpeter Russian_Hussar_Uniform Russian_Hussar_Uniform 1  rus_hussards_trump 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_horse_guard Russian_Chevalier-Garde_Uniform Russian_Chevalier-Garde_Uniform 1  rus_chevalier 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_horse_guard_nco Russian_Chevalier-Garde_Uniform Russian_Chevalier-Garde_Uniform 1  rus_chevalier_nco 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_horse_guard_officer Russian_Chevalier-Garde_Uniform Russian_Chevalier-Garde_Uniform 1  rus_chevalier_off 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_horse_guard_trumpeter Russian_Chevalier-Garde_Uniform Russian_Chevalier-Garde_Uniform 1  rus_chevalier_trump 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_cossack_officer Russian_Cossack_Uniform Russian_Cossack_Uniform 1  rus_cossack_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_cossack Russian_Cossack_Uniform Russian_Cossack_Uniform 1  rus_cossack_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kutuzov Kutuzov_Uniform Kutuzov_Uniform 1  rus_kutuzov 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_militia_officer Russian_Militia_Officer_Uniform Russian_Militia_Officer_Uniform 1  rus_militia_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_militia_ranker Russian_Militia_Uniform Russian_Militia_Uniform 1  rus_militia_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_guard_officer Russian_Guard_Infantry_Uniform Russian_Guard_Infantry_Uniform 1  rus_preobr_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_guard_nco Russian_Guard_Infantry_Uniform Russian_Guard_Infantry_Uniform 1  rus_preobr_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_guard_ranker Russian_Guard_Infantry_Uniform Russian_Guard_Infantry_Uniform 1  rus_preobr_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_guard_drummer Russian_Guard_Infantry_Uniform Russian_Guard_Infantry_Uniform 1  rus_preobr_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_guard_flautist Russian_Guard_Infantry_Uniform Russian_Guard_Infantry_Uniform 1  rus_flautist_preobr 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_jaeger_officer Russian_Jaeger_Uniform Russian_Jaeger_Uniform 1  rus_jaeger_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_jaeger_nco Russian_Jaeger_Uniform Russian_Jaeger_Uniform 1  rus_jaeger_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_jaeger_ranker Russian_Jaeger_Uniform Russian_Jaeger_Uniform 1  rus_jaeger 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_jaeger_musician Russian_Jaeger_Uniform Russian_Jaeger_Uniform 1  rus_jaeger_drum 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_gren_officer Russian_Infantry_Uniform Russian_Infantry_Uniform 1  rus_pavlo_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_gren_nco Russian_Infantry_Uniform Russian_Infantry_Uniform 1  rus_pavlo_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_gren_ranker Russian_Infantry_Uniform Russian_Infantry_Uniform 1  rus_pavlo_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_arty_officer Russian_Artillery_Uniform Russian_Artillery_Uniform 1  rus_arty_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_arty_nco Russian_Artillery_Uniform Russian_Artillery_Uniform 1  rus_arty_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_arty_ranker Russian_Artillery_Uniform Russian_Artillery_Uniform 1  rus_arty_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_dragoon_officer Russian_Dragoon_Uniform Russian_Dragoon_Uniform 1  rus_dragoon_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_dragoon_nco Russian_Dragoon_Uniform Russian_Dragoon_Uniform 1  rus_dragoon_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_dragoon_ranker Russian_Dragoon_Uniform Russian_Dragoon_Uniform 1  rus_dragoon_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_dragoon_trumpeter Russian_Dragoon_Uniform Russian_Dragoon_Uniform 1  rus_dragoon_trump 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_partizan1 Russian_Great_Coat Russian_Great_Coat 1  rus_partizan 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_partizan2 Russian_Great_Coat Russian_Great_Coat 1  rus_partizan1 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_uhlan_officer Russian_Uhlan_Uniform Russian_Uhlan_Uniform 1  rus_uhlan_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_uhlan_nco Russian_Uhlan_Uniform Russian_Uhlan_Uniform 1  rus_uhlan_NCO 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_uhlan_ranker Russian_Uhlan_Uniform Russian_Uhlan_Uniform 1  rus_uhlan_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_uhlan_trumpeter Russian_Uhlan_Uniform Russian_Uhlan_Uniform 1  rus_uhlan_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_pioneer Russian_Pioneer_Uniform Russian_Pioneer_Uniform 1  rus_pioneer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_russian_surgeon Surgeon_Outfit Surgeon_Outfit 1  russia_surgeon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry Austrian_Infantry_Uniform Austrian_Infantry_Uniform 1  austrian_infantry 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry_nco Austrian_Infantry_Uniform Austrian_Infantry_Uniform 1  austrian_infantry_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry_officer Austrian_Infantry_Uniform Austrian_Infantry_Uniform 1  austrian_infantry_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry_drummer Austrian_Infantry_Uniform Austrian_Infantry_Uniform 1  austrian_infantry_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry_fifer Austrian_Infantry_Uniform Austrian_Infantry_Uniform 1  austrian_infantry_musician 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry2 Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_infantry2 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry2_nco Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_infantry2_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry2_officer Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_infantry2_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry2_drummer Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_infantry2_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry2_fifer Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_infantry2_musician 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenadier Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_grenadier 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenadier_alt Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_grenadier_var1 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenadier_nco Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_grenadier_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenadier_officer Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_grenadier_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenadier_drummer Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_grenadier_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenadier_fifer Hungarian_Infantry_Uniform Hungarian_Infantry_Uniform 1  austrian_grenadier_musician 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenzer Austrian_Grenzer_Uniform Austrian_Grenzer_Uniform 1  austrian_grenzer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenzer_nco Austrian_Grenzer_Uniform Austrian_Grenzer_Uniform 1  austrian_grenzer_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenzer_officer Austrian_Grenzer_Uniform Austrian_Grenzer_Uniform 1  austrian_grenzer_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenzer_drummer Austrian_Grenzer_Uniform Austrian_Grenzer_Uniform 1  austrian_grenzer_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_grenzer_fifer Austrian_Grenzer_Uniform Austrian_Grenzer_Uniform 1  austrian_grenzer_musician 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_jaeger Austrian_Jaeger_Uniform Austrian_Jaeger_Uniform 1  austrian_jaeger 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_jaeger_nco Austrian_Jaeger_Uniform Austrian_Jaeger_Uniform 1  austrian_jaeger_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_jaeger_officer Austrian_Jaeger_Uniform Austrian_Jaeger_Uniform 1  austrian_jaeger_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_jaeger_hornist Austrian_Jaeger_Uniform Austrian_Jaeger_Uniform 1  austrian_jaeger_hornist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_lightcav Austrian_Chevau-leger_Uniform Austrian_Chevau-leger_Uniform 1  austrian_lightcav 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_lightcav_nco Austrian_Chevau-leger_Uniform Austrian_Chevau-leger_Uniform 1  austrian_lightcav_flag_bearer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_lightcav_trumpet Austrian_Chevau-leger_Uniform Austrian_Chevau-leger_Uniform 1  austrian_lightcav_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_lightcav_officer Austrian_Chevau-leger_Uniform Austrian_Chevau-leger_Uniform 1  austrian_lightcav_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_dragoon Austrian_Dragoon_Uniform Austrian_Dragoon_Uniform 1  austrian_dragoon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_dragoon_nco Austrian_Dragoon_Uniform Austrian_Dragoon_Uniform 1  austrian_dragoon_flag_bearer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_dragoon_trumpet Austrian_Dragoon_Uniform Austrian_Dragoon_Uniform 1  austrian_dragoon_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_dragoon_officer Austrian_Dragoon_Uniform Austrian_Dragoon_Uniform 1  austrian_dragoon_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_uhlan Austrian_Uhlan_Uniform Austrian_Uhlan_Uniform 1  austrian_uhlan 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_uhlan_nco Austrian_Uhlan_Uniform Austrian_Uhlan_Uniform 1  austrian_uhlan_flag_bearer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_uhlan_trumpet Austrian_Uhlan_Uniform Austrian_Uhlan_Uniform 1  austrian_uhlan_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_uhlan_officer Austrian_Uhlan_Uniform Austrian_Uhlan_Uniform 1  austrian_uhlan_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_arty Austrian_Artillery_Uniform Austrian_Artillery_Uniform 1  austrian_arty 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_arty_train Austrian_Artillery_Uniform Austrian_Artillery_Uniform 1  austrian_arty_train 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_arty_officer Austrian_Artillery_Uniform Austrian_Artillery_Uniform 1  austrian_arty_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_pioneer Austrian_Pioneer_Uniform Austrian_Pioneer_Uniform 1  austrian_pioneer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_hussar Austrian_Hussar_Uniform Austrian_Hussar_Uniform 1  austrian_hussar 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_hussar_nco Austrian_Hussar_Uniform Austrian_Hussar_Uniform 1  austrian_hussar_flag_bearer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_hussar_trumpet Austrian_Hussar_Uniform Austrian_Hussar_Uniform 1  austrian_hussar_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_hussar_officer Austrian_Hussar_Uniform Austrian_Hussar_Uniform 1  austrian_hussar_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_cuiraisser Austrian_Cuirassier_Uniform Austrian_Cuirassier_Uniform 1  austrian_cuirassier_ranker 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_cuiraisser_nco Austrian_Cuirassier_Uniform Austrian_Cuirassier_Uniform 1  austrian_cuirassier_flag_bearer 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_cuiraisser_trumpet Austrian_Cuirassier_Uniform Austrian_Cuirassier_Uniform 1  austrian_cuirassier_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_cuiraisser_officer Austrian_Cuirassier_Uniform Austrian_Cuirassier_Uniform 1  austrian_cuirassier_officer 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_schwarzenberg Schwarzenberg's_Uniform Schwarzenberg's_Uniform 1  schwarzenberg 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_surgeon Surgeon_Outfit Surgeon_Outfit 1  austria_surgeon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_inf_ranker Bavarian_Uniform Bavarian_Uniform 1  bavarian_inf_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_inf_flagcarrier Bavarian_Uniform Bavarian_Uniform 1  bavarian_inf_flagcarrier 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_inf_officer Bavarian_Uniform Bavarian_Uniform 1  bavarian_inf_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_inf_drummer Bavarian_Uniform Bavarian_Uniform 1  bavarian_inf_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_inf_flutist Bavarian_Uniform Bavarian_Uniform 1  bavarian_inf_flutist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_jaeger_ranker Bavarian_Uniform Bavarian_Uniform 1  bavarian_jaeger_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_jaeger_nco Bavarian_Uniform Bavarian_Uniform 1  bavarian_jaeger_body_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_jaeger_officer Bavarian_Uniform Bavarian_Uniform 1  bavarian_jaeger_body_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_jaeger_hornist Bavarian_Uniform Bavarian_Uniform 1  bavarian_jaeger_body_hornist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_artillery_ranker Bavarian_Uniform Bavarian_Uniform 1  bavarian_artillery_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_artillery_train Bavarian_Uniform Bavarian_Uniform 1  bavarian_artillery_train_body 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_artillery_officer Bavarian_Uniform Bavarian_Uniform 1  bavarian_artillery_officer_body 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_inf_ranker Saxon_Uniform Saxon_Uniform 1  saxon_infantry_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_inf_nco Saxon_Uniform Saxon_Uniform 1  saxon_infantry_body_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_inf_officer Saxon_Uniform Saxon_Uniform 1  saxon_infantry_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_inf_drummer Saxon_Uniform Saxon_Uniform 1  saxon_infantry_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_inf_fifer Saxon_Uniform Saxon_Uniform 1  saxon_inf_flutist 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_ranker Saxon_Uniform Saxon_Uniform 1  saxon_ulan_private 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_ranker_alt Saxon_Uniform Saxon_Uniform 1  saxon_ulan_private_2 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_nco Saxon_Uniform Saxon_Uniform 1  saxon_ulan_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_officer Saxon_Uniform Saxon_Uniform 1  saxon_ulan_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_trumpet Saxon_Uniform Saxon_Uniform 1  saxon_ulan_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hessian_inf_ranker Hessian_Uniform Hessian_Uniform 1  hessen_infantry_private 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hessian_inf_nco Hessian_Uniform Hessian_Uniform 1  hessen_infantry_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hessian_inf_officer Hessian_Uniform Hessian_Uniform 1  hessen_infantry_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rhine_surgeon Surgeon_Outfit Surgeon_Outfit 1  rhine_surgeon 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_guard_ranker Westphalian_Uniform Westphalian_Uniform 1  west_gr_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_guard_nco Westphalian_Uniform Westphalian_Uniform 1  west_gr_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_guard_officer Westphalian_Uniform Westphalian_Uniform 1  west_gr_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_guard_drummer Westphalian_Uniform Westphalian_Uniform 1  west_gr_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_guard_fifer Westphalian_Uniform Westphalian_Uniform 1  west_gr_fifer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_king Royal_Outfit Royal_Outfit 1  saxonyking 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nassau_jaeger_ranker Nassauer_Uniform Nassauer_Uniform 1  nassau_ranker 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nassau_jaeger_nco Nassauer_Uniform Nassauer_Uniform 1  nassau_nco 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nassau_jaeger_officer Nassauer_Uniform Nassauer_Uniform 1  nassau_off 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nassau_jaeger_trumpet Nassauer_Uniform Nassauer_Uniform 1  nassau_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_inf_ranker wurttemberg_Uniform wurttemberg_Uniform 1  wurttemberg_private 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_inf_flagcarrier wurttemberg_Uniform wurttemberg_Uniform 1  wurttemberg_NCO 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_inf_officer wurttemberg_Uniform wurttemberg_Uniform 1  wurttemberg_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_inf_drummer wurttemberg_Uniform wurttemberg_Uniform 1  wurttemberg_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_inf_flutist wurttemberg_Uniform wurttemberg_Uniform 1  wurttemberg_fifer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg2_inf_ranker wurttemberg2_Uniform wurttemberg2_Uniform 1  wurttemberg_grenadier_private 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg2_inf_flagcarrier wurttemberg2_Uniform wurttemberg2_Uniform 1  wurttemberg_grenadier_NCO 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg2_inf_officer wurttemberg2_Uniform wurttemberg2_Uniform 1  wurttemberg_grandier_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg2_inf_drummer wurttemberg2_Uniform wurttemberg2_Uniform 1  wurttemberg_grenadier_drummer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg2_inf_flutist wurttemberg2_Uniform wurttemberg2_Uniform 1  wurttemberg_grenadier_fifer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_berg_pioneer berg_pioneer_Uniform berg_pioneer_Uniform 1  berg_pioneer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_garde_ranker Saxon_Cuirassier_Uniform Saxon_Cuirassier_Uniform 1  garde_du_corps 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_garde_colours Saxon_Cuirassier_Uniform Saxon_Cuirassier_Uniform 1  garde_du_corps_NCO 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_garde_officer Saxon_Cuirassier_Uniform Saxon_Cuirassier_Uniform 1  garde_du_corps_officer 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_garde_body_trumpeter Saxon_Trumpeter_Uniform Saxon_Trumpeter_Uniform 1  garde_du_corps_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_cuirassier_ranker Westphalian_Cuirassier_Uniform Westphalian_Cuirassier_Uniform 1  westphalian_cuirassier_body_ranker 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_cuirassier_colours Westphalian_Cuirassier_Uniform Westphalian_Cuirassier_Uniform 1  westphalian_cuirassier_NCO 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_cuirassier_officer Westphalian_Cuirassier_Uniform Westphalian_Cuirassier_Uniform 1  westphalian_cuirassier_body_officer 0  553713677 0 100 123731968 3.000000 100 0 34 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_cuirassier_body_trumpeter Westphalian_Trumpeter_Uniform Westphalian_Trumpeter_Uniform 1  westphalian_cuirassier_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_baden_dragoon_ranker Austrian_Chevau-leger_Uniform Austrian_Chevau-leger_Uniform 1  baden_dragoon_private 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_baden_dragoon_nco Austrian_Chevau-leger_Uniform Austrian_Chevau-leger_Uniform 1  baden_dragoon_NCO 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_baden_dragoon_trumpet Austrian_Chevau-leger_Uniform Austrian_Chevau-leger_Uniform 1  baden_dragoon_trumpeter 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_baden_dragoon_officer Austrian_Chevau-leger_Uniform Austrian_Chevau-leger_Uniform 1  baden_dragoon_officer 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_civil_shirt_1 Civilian_Shirt_1 Civilian_Shirt_1 1  civil_shirt_1 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_civil_shirt_2 Civilian_Shirt_1 Civilian_Shirt_1 1  civil_shirt_2 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_character_uniform {!}Character_Uniform_Dummy {!}Character_Uniform_Dummy 1  character_uniform 0  553713677 0 100 123731968 3.000000 100 0 14 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_pavlovsk_ranker Pavlovsk_Ranker_Mitras_Cap Pavlovsk_Ranker_Mitras_Cap 1  rus_pavlovsk_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_kyiv_dragoons_all Russian_Dragoon_Helmet Russian_Dragoon_Helmet 1  rus_kyiv_dragoons_all 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_kyiv_dragoons_trumpeter Russian_Dragoon_Trumpeter_Helmet Russian_Dragoon_Trumpeter_Helmet 1  rus_kyiv_dragoons_trumpeter 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_drummer_shako Russian_Infantry_Shako Russian_Infantry_Shako 1  rus_drummer_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_chevalier_hat Russian_Chevalier-Garde_Helmet Russian_Chevalier-Garde_Helmet 1  rus_chevalier_hat 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_chevalier_hat_officer Russian_Chevalier-Garde_Helmet Russian_Chevalier-Garde_Helmet 1  rus_chevalier_hat_off 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_chevalier_hat_trumpeter Russian_Chevalier-Garde_Helmet Russian_Chevalier-Garde_Helmet 1  rus_chevalier_hat_trump 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_arty_shako_officer Russian_Artillery_Shako Russian_Artillery_Shako 1  rus_arty_captain_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_arty_shako_nco Russian_Artillery_Shako Russian_Artillery_Shako 1  rus_arty_sarge_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_arty_shako_ranker Russian_Artillery_Shako Russian_Artillery_Shako 1  rus_arty_ranker_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_cossack_hat_officer Cossack_Hat Cossack_Hat 1  rus_cossacks_captain_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_cossack_hat_nco Cossack_Hat Cossack_Hat 1  rus_cossacks_sarge_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_cossack_hat_ranker Cossack_Hat Cossack_Hat 1  rus_cossacks_ranker_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_hussar_shako_officer Russian_Hussar_Shako Russian_Hussar_Shako 1  rus_hussard_captain_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_hussar_shako_nco Russian_Hussar_Shako Russian_Hussar_Shako 1  rus_hussard_sarge_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_hussar_shako_ranker Russian_Hussar_Shako Russian_Hussar_Shako 1  rus_hussard_ranker_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_hussar_shako_trumpeter Russian_Hussar_Shako Russian_Hussar_Shako 1  rus_hussard_trumpeter_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_jaeger_shako_nco Russian_Jaeger_Shako Russian_Jaeger_Shako 1  rus_jaeger_sarge_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_jaeger_shako_ranker Russian_Jaeger_Shako Russian_Jaeger_Shako 1  rus_jaeger_ranker_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kutuzov_hat Kutuzov_Hat Kutuzov_Hat 1  rus_general 0  69256413196 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_guard_shako_officer Russian_Guard_Infantry_Shako Russian_Guard_Infantry_Shako 1  rus_preobr_captain_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_guard_shako_nco Russian_Guard_Infantry_Shako Russian_Guard_Infantry_Shako 1  rus_preobr_sarge_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_guard_shako_ranker Russian_Guard_Infantry_Shako Russian_Guard_Infantry_Shako 1  rus_preobr_ranker_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_guard_shako_musician Russian_Guard_Infantry_Shako Russian_Guard_Infantry_Shako 1  rus_preobr_musician_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_infantry_officer_shako Russian_Infantry_Shako Russian_Infantry_Shako 1  rus_captain_jaeger_musketeer_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_infantry_shako_nco Russian_Infantry_Shako Russian_Infantry_Shako 1  rus_musketeer_sarge_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_pioneer_shako Russian_Pioneer_Shako Russian_Pioneer_Shako 1  shako_rus_pioneer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_partisan_hat1 Peasant's_Cap Peasant's_Cap 1  rus_random_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_partisan_hat2 Peasant's_Cap Peasant's_Cap 1  rus_random_hat1 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_partisan_hat3 Peasant's_Cap Peasant's_Cap 1  partizan_hat_1 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_partisan_hat4 Peasant's_Cap Peasant's_Cap 1  partizan_hat_2 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_partisan_hat5 Peasant's_Cap Peasant's_Cap 1  partizan_hat_3 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_uhlan_czapka_officer Russian_Uhlan_Czapka Russian_Uhlan_Czapka 1  czapka_officer_uhlan 0  553717516 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_uhlan_czapka_nco Russian_Uhlan_Czapka Russian_Uhlan_Czapka 1  czapka_nco_uhlan 0  553717516 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_uhlan_czapka_ranker Russian_Uhlan_Czapka Russian_Uhlan_Czapka 1  czapka_ranker_uhlan 0  553717516 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_uhlan_czapka_trumpeter Russian_Uhlan_Czapka Russian_Uhlan_Czapka 1  czapka_trump_uhlan 0  553717516 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_dragoon_helmet Dragoon_Helmet Dragoon_Helmet 1  french_dragons_dlG_ranker 0  553717516 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_dragoon_helmet_officer Dragoon_Helmet Dragoon_Helmet 1  french_dragons_dlG_officer 0  553717516 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_dragoon_helmet_trumpeter Dragoon_Helmet Dragoon_Helmet 1  french_dragons_dlG_trumpeter 0  553717516 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_cuirassier_helmet Cuirassier_Helmet Cuirassier_Helmet 1  french_cuirassier_helmet_ranker 0  553717516 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_cuirassier_helmet_officer Cuirassier_Helmet Cuirassier_Helmet 1  french_cuirassier_helmet_officer 0  553717516 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_cuirassier_helmet_trumpeter Cuirassier_Helmet Cuirassier_Helmet 1  french_cuirassier_helmet_trumpeter 0  536940300 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_carabineer_helmet Carbinier_Helmet Carbinier_Helmet 1  french_carabineer_ranker 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_carabineer_helmet_officer Carbinier_Helmet Carbinier_Helmet 1  french_carabineer_officer 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_carabineer_helmet_trumpeter Carbinier_Helmet Carbinier_Helmet 1  french_carabineer_trumpeter 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussar_shako_colours Hussar_Shako Hussar_Shako 1  french_hussar_shako_colours 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussar_shako_ranker Hussar_Shako Hussar_Shako 1  french_hussar_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussar_shako_trumpeter Hussar_Shako Hussar_Shako 1  french_hussar_shako_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_inf_shako_45_ranker Infantry_Shako Infantry_Shako 1  french_inf_shako_45_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_shako_colours Infantry_Shako Infantry_Shako 1  french_vistula_shako_colours 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_shako_ranker Infantry_Shako Infantry_Shako 1  french_vistula_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_shako_officer Infantry_Shako Infantry_Shako 1  french_vistula_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_inf_shako_84_colours Infantry_Shako Infantry_Shako 1  french_inf_shako_84_colours 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_inf_shako_84_ranker Infantry_Shako Infantry_Shako 1  french_inf_shako_84_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_inf_shako_84_officer Infantry_Shako Infantry_Shako 1  french_inf_shako_84_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_voltigeur_shako_officer Voltigeur_Shako Voltigeur_Shako 1  french_voltigeur_shako_captain 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_voltigeur_shako_ranker Voltigeur_Shako Voltigeur_Shako 1  french_voltigeur_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_ldlg_czapka_officer Guard_Lancer_Czapka Guard_Lancer_Czapka 1  french_LdlG_officer_czapka 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_ldlg_czapka_ranker Guard_Lancer_Czapka Guard_Lancer_Czapka 1  french_LdlG_ranker_czapka 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_ldlg_czapka_trumpeter Guard_Lancer_Czapka Guard_Lancer_Czapka 1  french_LdlG_trumpeter_czapka 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_artillery_bearskin_officer Artillery_Bearskin Artillery_Bearskin 1  french_artillery_captain_bearskin 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_artillery_bearskin_ranker Artillery_Bearskin Artillery_Bearskin 1  french_artillery_ranker_bearskin 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_gap_bearskin_officer Grenadiers_a_Pied_Bearskin Grenadiers_a_Pied_Bearskin 1  french_GaP_officer_bearskin 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_gap_bearskin_colours Grenadiers_a_Pied_Bearskin Grenadiers_a_Pied_Bearskin 1  french_GaP_flagcarrier_bearskin 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_gap_bearskin_ranker Grenadiers_a_Pied_Bearskin Grenadiers_a_Pied_Bearskin 1  french_GaP_ranker_bearskin 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_sapper_bearskin Sappeur_Bearskin Sappeur_Bearskin 1  french_sapper_bearskin 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_inf_bicorne_45_officer Infantry_Bicorne Infantry_Bicorne 1  french_inf_bicorne_45_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussar_bearskin_officer Hussar_Bearskin Hussar_Bearskin 1  french_hussar_bearskin_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_artillery_train_shako Artillery_Train_Shako Artillery_Train_Shako 1  french_artillery_train_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_nappy_hat Napoleon's_Bicorne Napoleon's_Bicorne 1  french_nappy_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_grach_bearskin_ranker Grenadiers_a_Cheval_Bearskin Grenadiers_a_Cheval_Bearskin 1  grach_bearskin_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_grach_bearskin_officer Grenadiers_a_Cheval_Bearskin Grenadiers_a_Cheval_Bearskin 1  grach_bearskin_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_grach_bearskin_trumpeter Grenadiers_a_Cheval_Bearskin Grenadiers_a_Cheval_Bearskin 1  grach_bearskin_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_captain_hat french_captain_hat french_captain_hat 1  french_captain_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_marine_hat french_marine_hat french_marine_hat 1  french_marine_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_seaman_hat french_seaman_hat french_seaman_hat 1  french_seaman_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_seaman_hat_2 french_seaman_hat_2 french_seaman_hat_2 1  french_seaman_hat_2 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_arty_bicorn Artillery_Bicorne Artillery_Bicorne 1  aus_arty_bicorn 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_arty_cap_bicorn Artillery_Bicorne Artillery_Bicorne 1  aus_arty_cap_bicorn 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_arty_train_hat Artillery_Train_Hat Artillery_Train_Hat 1  aus_arty_train_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_cavalry_helmet_officer Cavalry_Helmet Cavalry_Helmet 1  aus_cavalry_helmet_officer 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_cavalry_helmet_ranker Cavalry_Helmet Cavalry_Helmet 1  aus_cavalry_helmet_ranker 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_cavalry_helmet_trumpeter Cavalry_Helmet Cavalry_Helmet 1  aus_cavalry_helmet_trumpeter 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_uhlan_czapka Uhlan_Czapka Uhlan_Czapka 1  aus_uhlan_czapka 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_uhlan_czapka_officer Uhlan_Czapka Uhlan_Czapka 1  aus_uhlan_czapka_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_uhlan_czapka_trumpeter Uhlan_Czapka Uhlan_Czapka 1  aus_uhlan_czapka_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_shwarzenberg_bicorn Schwarzenberg's_Bicorne Schwarzenberg's_Bicorne 1  aus_shwarzenberg_bicorn 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_grenadier_bearskin Grenadier_Bearskin Grenadier_Bearskin 1  aus_grenadier_bearskin 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_tyrol_hat Tyrol_Hat Tyrol_Hat 1  aus_tyrol_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_tyrol_hat_officer Tyrol_Hat Tyrol_Hat 1  aus_tyrol_hat_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_pioneer_hat Pioneer_Hat Pioneer_Hat 1  aus_pioneer_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_grenadier_bearskin_officer Grenadier_Bearskin Grenadier_Bearskin 1  aus_grenadier_bearskin_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_grenzer_officer Grenz_Shako Grenz_Shako 1  aus_grenzer_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_grenzer_ranker Grenz_Shako Grenz_Shako 1  aus_grenzer_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_infantry_nco Infantry_Shako Infantry_Shako 1  aus_infantry_nco 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_infantry_officer Infantry_Shako Infantry_Shako 1  aus_infantry_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_infantry_ranker Infantry_Shako Infantry_Shako 1  aus_infantry_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_hussard_shako_nco Hussar_Shako Hussar_Shako 1  aus_hussard_shako_nco 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_hussard_shako_officer Hussar_Shako Hussar_Shako 1  aus_hussard_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_hussard_shako_ranker Hussar_Shako Hussar_Shako 1  aus_hussard_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_hussard_shako_trumpeter Hussar_Shako Hussar_Shako 1  aus_hussard_shako_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aus_surgeon_hat Surgeon_Hat Surgeon_Hat 1  austria_surgeon_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_artillery_shako_officer Artillery_Shako Artillery_Shako 1  british_artillery_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_artillery_shako_ranker Artillery_Shako Artillery_Shako 1  british_artillery_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rocket_tarleton Artillery_Tarleton Artillery_Tarleton 1  british_rocket_tarleton 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_shako_officer KGL_Shako KGL_Shako 1  british_kgl_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_shako_ranker KGL_Shako KGL_Shako 1  british_kgl_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_shako_ranker Light_Infantry_Shako Light_Infantry_Shako 1  british_light_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_shako_officer Light_Infantry_Shako Light_Infantry_Shako 1  british_light_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_shako_officer Rifleman_Shako Rifleman_Shako 1  british_rifle_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_shako_ranker Rifleman_Shako Rifleman_Shako 1  british_rifle_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_beret Rifleman_Beret Rifleman_Beret 1  british_rifle_beret 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_beret_2 Rifleman_Beret Rifleman_Beret 1  british_rifle_beret_2 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_bonnet_ranker Highlander_Bonnet Highlander_Bonnet 1  british_highland_bonnet_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_bonnet_ensign Highlander_Bonnet Highlander_Bonnet 1  british_highland_bonnet_ensign 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_bonnet_officer Highlander_Bonnet Highlander_Bonnet 1  british_highland_bonnet_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_bonnet_drummer Highlander_Bonnet Highlander_Bonnet 1  british_highland_bonnet_drummer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_guard_shako_officer Guard_Infantry_Shako Guard_Infantry_Shako 1  british_guard_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_guard_shako_ranker Guard_Infantry_Shako Guard_Infantry_Shako 1  british_guard_shako_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_33_stovepipe Infantry_Shako Infantry_Shako 1  33_stovepipe 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_lightdragoon_shako_ranker Light_Dragoon_Shako Light_Dragoon_Shako 1  british_23rd_lightdragoon_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_lightdragoon_shako_officer Light_Dragoon_Shako Light_Dragoon_Shako 1  british_23rd_lightdragoon_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_lightdragoon_shako_trumpeter Light_Dragoon_Shako Light_Dragoon_Shako 1  british_23rd_lightdragoon_shako_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_iniskilling_helmet_ranker Dragoon_Helmet Dragoon_Helmet 1  british_iniskilling_helmet_ranker 0  553717516 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_iniskilling_helmet_officer Dragoon_Helmet Dragoon_Helmet 1  british_iniskilling_helmet_officer 0  553717516 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_iniskilling_helmet_trumpeter Dragoon_Helmet Dragoon_Helmet 1  british_iniskilling_helmet_trumpeter 0  553717516 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_lifeguard_helmet_ranker Horse_Guard_Helmet Horse_Guard_Helmet 1  british_lifeguard_helmet_ranker 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_lifeguard_helmet_officer Horse_Guard_Helmet Horse_Guard_Helmet 1  british_lifeguard_helmet_officer 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_lifeguard_helmet_trumpeter Horse_Guard_Helmet Horse_Guard_Helmet 1  british_lifeguard_helmet_trumpeter 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_hussar_bearskin KGL_Hussar_Helmet KGL_Hussar_Helmet 1  KGL_hussar_bearskin 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_hussar_officer_bearskin KGL_Hussar_Helmet KGL_Hussar_Helmet 1  KGL_hussar_officer_bearskin 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_hussar_bearskin_trumpeter KGL_Hussar_Helmet KGL_Hussar_Helmet 1  KGL_hussar_bearskin_trumpeter 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_wellington_bicorne Wellington's_Bicorne Wellington's_Bicorne 1  british_wellington_bicorne 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_captain_hat british_captain_hat british_captain_hat 1  british_captain_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_seaman_hat british_seaman_hat british_seaman_hat 1  british_seaman_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_seaman_hat_2 british_seaman_hat_2 british_seaman_hat_2 1  british_seaman_hat_2 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_royal_marine_beret royal_marine_beret royal_marine_beret 1  royal_marine_beret 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_royal_marine_hat royal_marine_hat royal_marine_hat 1  royal_marine_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_surgeon_bicorne Surgeon_Bicorne Surgeon_Bicorne 1  british_surgeon_bicorne 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_hat Landwehr_Hat Landwehr_Hat 1  landwehr_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_hat_2 Landwehr_Hat Landwehr_Hat 1  landwehr_hat_2 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_hat_3 Landwehr_Hat Landwehr_Hat 1  landwehr_leather_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_shako Shako Shako 1  prussian_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_shako_2 Shako Shako 1  prussian_shako_2 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry_hat_officer Officer_Cap Officer_Cap 1  prussian_8th_officer_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_shako Hussar_Shako Hussar_Shako 1  prussian_deadhussars_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_officer_shako Hussar_Shako Hussar_Shako 1  prussian_hussar_officer_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_blucher_hat Blucher's_Cap Blucher's_Cap 1  prussian_bluecher_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_arty_shako_officer Artillery_Shako Artillery_Shako 1  prussian_arty_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_arty_shako_ranker Artillery_Shako Artillery_Shako 1  prussian_arty_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_dragoon_shako_officer Dragoon_Shako Dragoon_Shako 1  prussian_dragoon_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_dragoon_shako_ranker Dragoon_Shako Dragoon_Shako 1  prussian_dragoon_ranker 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_musician_shako Guard_Infantry_Shako Guard_Infantry_Shako 1  prussian_guard_musician_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_colours_shako Guard_Infantry_Shako Guard_Infantry_Shako 1  prussian_guard_NCO_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_officer_shako Guard_Infantry_Shako Guard_Infantry_Shako 1  prussian_guard_officer_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_guard_ranker_shako Guard_Infantry_Shako Guard_Infantry_Shako 1  prussian_guard_ranker_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_inf_off_shako Infantry_Shako Infantry_Shako 1  prussian_inf_off_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_jaeger_officer_shako Jaeger_Shako Jaeger_Shako 1  prussian_jaeger_officer_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_cav_shako Landwehr_Shako Landwehr_Shako 1  prussian_landwer_cav 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_cav_shako_officer Landwehr_Shako Landwehr_Shako 1  prussian_landwer_cav_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_pioneer_shako Pioneer_Shako Pioneer_Shako 1  prussian_pioneer_shako 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_shako_colours Infantry_Shako Infantry_Shako 1  prussian_shako_proper_NCO 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_shako_colours_2 Infantry_Shako Infantry_Shako 1  prussian_shako_style_2_NCO 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_cuirassier_helmet Cuirassier_Helmet Cuirassier_Helmet 1  prussian_cuirassier_helmet 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_cuirassier_helmet_trumpet Cuirassier_Helmet Cuirassier_Helmet 1  prussian_cuirassier_helmet_trumpeter 0  553713676 0 4 123731968 0.500000 100 15 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_freikorps_officer_hat Freikorps_Hat Freikorps_Hat 1  lutzov_off_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry2_hat Infantry_Cap Infantry_Cap 1  23_fourage_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_opol_hat_ranker Opolocheniye_Hat Opolocheniye_Hat 1  rus_opol_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_opol_hat_officer Opolocheniye_Hat Opolocheniye_Hat 1  rus_opol_captain_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_helmet_other_ranks bavarian_helmet_other_ranks bavarian_helmet_other_ranks 1  bavarian_helmet_other_ranks 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_helmet_flagcarrier bavarian_helmet_flagcarrier bavarian_helmet_flagcarrier 1  bavarian_helmet_flagcarrier 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_helmet_officer bavarian_helmet_officer bavarian_helmet_officer 1  bavarian_helmet_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_jaeger_helmet_other_ranks Jaeger_Helmet Jaeger_Helmet 1  bavarian_jaeger_helmet_other_ranks 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_jaeger_helmet_officer Jaeger_Helmet Jaeger_Helmet 1  bavarian_jaeger_helmet_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_helmet_artillery Artillery_Helmet Artillery_Helmet 1  bavarian_helmet_artillery_other_ranks 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_helmet_train Artillery_Helmet Artillery_Helmet 1  bavarian_helmet_train_other_ranks 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_helmet_artillery_officer Artillery_Helmet Artillery_Helmet 1  bavarian_helmet_artillery_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_inf_shako_ranker Infantry_Shako Infantry_Shako 1  saxon_infantry_shako_private 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_inf_shako_nco Infantry_Shako Infantry_Shako 1  saxon_infantry_shako_nco 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_inf_shako_officer Infantry_Shako Infantry_Shako 1  saxon_infantry_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_shako_ranker Cavalry_Shako Cavalry_Shako 1  saxon_ulan_shako_private 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_shako_ranker_alt Cavalry_Shako Cavalry_Shako 1  saxon_ulan_shako_private_2 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_shako_nco Cavalry_Shako Cavalry_Shako 1  saxon_ulan_shako_NCO 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_shako_officer Cavalry_Shako Cavalry_Shako 1  saxon_ulan_shako_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_shako_trumpeter Cavalry_Shako Cavalry_Shako 1  saxon_ulan_shako_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hessian_inf_shako_ranker Infantry_Shako Infantry_Shako 1  hessen_infantry_shako_private 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hessian_inf_shako_nco Infantry_Shako Infantry_Shako 1  hessen_infantry_shako_nco 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hessian_inf_bicorne_officer Infantry_Bicorne Infantry_Bicorne 1  hessen_infantry_officer_bicorn 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rhine_surgeon_hat Surgeon_Hat Surgeon_Hat 1  rhine_surgeon_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_hat_ranker Bearskin Bearskin 1  west_gr_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_hat_officer Bearskin Bearskin 1  west_gr_off_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxonyking_hat Friedrich_August_Hat Friedrich_August_Hat 1  saxonyking_hat 0  536936460 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nassau_jaeger_hat_ranker Bearskin Bearskin 1  nassau_ranker_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nassau_jaeger_hat_officer Bearskin Bearskin 1  nassau_off_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_helmet_other_ranks wurttemberg_helmet_other_ranks wurttemberg_helmet_other_ranks 1  wurttemberg_helmet_private 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_helmet_flagcarrier wurttemberg_helmet_flagcarrier wurttemberg_helmet_flagcarrier 1  wurttemberg_helmet_NCO 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_helmet_officer wurttemberg_helmet_officer wurttemberg_helmet_officer 1  wurttemberg_helmet_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg2_helmet_other_ranks wurttemberg_helmet_other_ranks wurttemberg_helmet_other_ranks 1  wurttemberg_helmet_grenadier 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg2_helmet_flagcarrier wurttemberg_helmet_flagcarrier wurttemberg_helmet_flagcarrier 1  wurttemberg_helmet_grenadier_NCO 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg2_helmet_officer wurttemberg_helmet_officer wurttemberg_helmet_officer 1  wurttemberg_helmet_grenadier_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_berg_pioneer_bearskin Bearskin Bearskin 1  berg_pioneer_bearskin 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_helmet_other_ranks saxon_helmet_other_ranks saxon_helmet_other_ranks 1  helmet_garde_du_corps 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_helmet_flagcarrier saxon_helmet_flagcarrier saxon_helmet_flagcarrier 1  helmet_garde_du_corps_nco 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_helmet_officer saxon_helmet_officer saxon_helmet_officer 1  helmet_garde_du_corps_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_helmet_trumpeter saxon_helmet_officer saxon_helmet_officer 1  helmet_garde_du_corps_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_helmet_other_ranks westphalian_helmet_other_ranks westphalian_helmet_other_ranks 1  westphalian_cuirassier_helmet_private 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_helmet_flagcarrier westphalian_helmet_flagcarrier westphalian_helmet_flagcarrier 1  westphalian_cuirassier_helmet_NCO 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_helmet_officer westphalian_helmet_officer westphalian_helmet_officer 1  westphalian_cuirassier_helmet_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_westphalian_helmet_trumpeter westphalian_helmet_officer westphalian_helmet_officer 1  westphalian_cuirassier_helmet_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_badner_helmet_flagcarrier badner_helmet_flagcarrier badner_helmet_flagcarrier 1  baden_dragoon_helmet_NCO 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_badner_helmet_officer badner_helmet_officer badner_helmet_officer 1  baden_dragoon_helmet_officer 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_badner_helmet_ranker badner_helmet_officer badner_helmet_officer 1  baden_dragoon_helmet_private 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_badner_helmet_trumpeter badner_helmet_officer badner_helmet_officer 1  baden_dragoon_helmet_trumpeter 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pirate_hat Pirate_Hat Pirate_Hat 1  pirate_hat 0  553713676 0 4 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_voltigeur_pants Voltigeur_Pants Voltigeur_Pants 1  french_voltigeur_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_voltigeur_officer_pants Infantry_Pants Infantry_Pants 1  french_voltigeur_officer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_dragoon_pants Cavalry_Boots Cavalry_Boots 1  french_dragoon_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_general_boots General's_Boots General's_Boots 1  french_general_boots 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_grenadiers_a_cheval_pants Cavalry_Boots Cavalry_Boots 1  french_grenadiers_a_cheval_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_vistula_pants Hessian_Boots Hessian_Boots 1  french_vistula_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_lancer_pants Cavalry_Pants Cavalry_Pants 1  french_lancer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_lancer_officer_pants Cavalry_Pants Cavalry_Pants 1  french_lancer_officer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussards_ranker_pants Cavalry_Pants Cavalry_Pants 1  french_hussards_ranker_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussards_officer_pants Cavalry_Pants Cavalry_Pants 1  french_hussards_officer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_hussards_trumpeter_pants Cavalry_Pants Cavalry_Pants 1  french_hussards_trumpeter_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_sappeur_pants Hessian_Boots Hessian_Boots 1  french_sappeur_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_art_ranker_pants Artillery_Gaiters Artillery_Gaiters 1  french_art_ranker_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_grap_pants Grenadier_Gaiters Grenadier_Gaiters 1  french_GRaP_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fr_arty_captain_bottefortes Artillery_Boots Artillery_Boots 1  fr_arty_captain_bottefortes 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fr_arty_train_bottefortes Artillery_Boots Artillery_Boots 1  fr_arty_train_bottefortes 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fr_officer_bottefortes Officer_Boots Officer_Boots 1  fr_officer_bottefortes 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_captain_pants Officer_Boots Officer_Boots 1  french_captain_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_basic_infantry_pants Infantry_Boots Infantry_Boots 1  french_basic_infantry_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_captain_pants_blue Officer_Boots Officer_Boots 1  french_captain_pants_blue 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_equipage_batallion_pants Infantry_Boots Infantry_Boots 1  french_equipage_batallion_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_sailor_pants Infantry_Boots Infantry_Boots 1  french_sailor_pants 0  536940302 0 10 123731968 4.500000 100 0 14 36 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_sailor_pants_female Infantry_Boots Infantry_Boots 1  french_sailor_pants_fem 0  536940302 0 10 123731968 4.500000 100 0 14 36 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_french_surgeon_pants Surgeon_Pants Surgeon_Pants 1  french_surgeon_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_infantry_pants1 Infantry_Gaiters Infantry_Gaiters 1  rus_musketeer_pants1 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_infantry_pants2 Infantry_Boots Infantry_Boots 1  rus_musketeer_pants2 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_hussar_pants1 Cavalry_Gaiters Cavalry_Gaiters 1  rus_hussar_pants1 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_hussar_pants2 Cavalry_Gaiters Cavalry_Gaiters 1  rus_hussar_pants2 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_hussar_pants_nco Hussar_Hessians Hussar_Hessians 1  rus_hussards_sarg_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_hussar_pants_officer Hussar_Hessians Hussar_Hessians 1  rus_hussards_off_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_horse_guard_pants Cavalry_Boots Cavalry_Boots 1  rus_chevalier_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_cossack_off_pants Cossack_Pants Cossack_Pants 1  rus_cossack_off_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_kutuzov_pants General's_Boots General's_Boots 1  rus_kutuzov_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_militia_off_pants Militia_Boots Militia_Boots 1  rus_militia_off_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_militia_ranker_pants Militia_Boots Militia_Boots 1  rus_militia_ranker_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_militia_ranker_pants1 Militia_Pants Militia_Pants 1  rus_militia_ranker_pants1 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_jaeger_pants Jaeger_Boots Jaeger_Boots 1  rus_jaeger_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_arty_pants Artillery_Boots Artillery_Boots 1  rus_arty_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_dragoon_pants1 Cavalry_Gaiters Cavalry_Gaiters 1  rus_dragoon_pants1 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_dragoon_pants2 Cavalry_Gaiters Cavalry_Gaiters 1  rus_dragoon_pants2 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_uhlan_pants Cavalry_Pants Cavalry_Pants 1  russian_uhlan_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_infantry_pants Infantry_Boots Infantry_Boots 1  austrian_infantry_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hungarian_pants Infantry_Shoes Infantry_Shoes 1  austrian_hungarian_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hungarian_pants_officer Infantry_Boots Infantry_Boots 1  austrian_hungarian_officer_boots 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_jaeger_pants Jaeger_Boots Jaeger_Boots 1  austrian_jaeger_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_jaeger_pants_officer Jaeger_Boots Jaeger_Boots 1  austrian_jaeger_officer_boots 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hungarian_hussar_pants Hussar_Hessians Hussar_Hessians 1  austrian_hussard_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hungarian_uhlan_pants Hussar_Hessians Hussar_Hessians 1  austrian_uhlan_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_schwarzenberg_pants Schwarzenberg's_Pants Schwarzenberg's_Pants 1  schwarzenberg_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_officer_boots Infantry_Boots Infantry_Boots 1  austrian_officer_boots 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_austrian_cavalry_boots Cavalry_Boots Cavalry_Boots 1  austrian_cavalry_boots 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_kilt Kilt Kilt 1  british_highland_kilt 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_kilt_2 Kilt Kilt 1  british_highland_kilt_2 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_highland_kilt_officer Kilt Kilt 1  british_highland_kilt_officer 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_captain_pants Rifleman_Gaiters Rifleman_Gaiters 1  british_rifle_captain_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_pants_green Rifleman_Boots Rifleman_Boots 1  british_rifle_pants_green 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_pants_grey Rifleman_Boots Rifleman_Boots 1  british_rifle_pants_grey 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rifle_pants_rolled Rifleman_Pants Rifleman_Pants 1  british_rifle_pants_rolled 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_coldstream_pants Infantry_Pants Infantry_Pants 1  british_coldstream_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_sapper_pants Sapper_Pants Sapper_Pants 1  British_sappeur_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_wellington_pants Wellington's_Pants Wellington's_Pants 1  wellington_boots 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_light_dragoon_pants Light_Dragoon_Pants Light_Dragoon_Pants 1  british_light_dragoon_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_rocketeer_pants Cavalry_Pants Cavalry_Pants 1  british_rocketeer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_cav_pants Cavalry_Pants Cavalry_Pants 1  british_cav_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_hussar_pants Cavalry_Pants Cavalry_Pants 1  KGL_hussar_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_kgl_hussar_officer_pants Cavalry_Pants Cavalry_Pants 1  KGL_hussar_officer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_british_captain_legs british_captain_legs british_captain_legs 1  british_captain_legs 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sailor_pants sailor_pants sailor_pants 1  sailor_pants 0  536940302 0 10 123731968 4.250000 100 0 14 36 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sailor_pants_female sailor_pants_female sailor_pants_female 1  sailor_pants_fem 0  536940302 0 10 123731968 4.250000 100 0 14 36 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_infantry_pants Infantry_Boots Infantry_Boots 1  prussian_infantry_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_jaeger_pants Infantry_Boots Infantry_Boots 1  prussian_jaeger_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_pants Landwehr_Pants Landwehr_Pants 1  prussian_landwehr_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_landwehr_pants2 Landwehr_Pants Landwehr_Pants 1  prussian_landwehr_pants_2 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_blucher_pants Blucher's_Pants Blucher's_Pants 1  blucher_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_cavalry_pants Cavalry_Pants Cavalry_Pants 1  prussian_cavalry_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_cavalry_pants2 Cavalry_Pants Cavalry_Pants 1  prussian_cavalry_pants2 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_pants Cavalry_Boots Cavalry_Boots 1  prussian_hussar_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_hussar_pants_officer Cavalry_Hessians Cavalry_Hessians 1  prussian_hussar_officer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_prussian_freikorps_pants Freikorps_Pants Freikorps_Pants 1  prussian_lutzov_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_infantry_pants Infantry_Boots Infantry_Boots 1  bavarian_infantry_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_pants_officer Infantry_Boots Infantry_Boots 1  bavarian_officer_boots 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_artillery_pants Artillery_Pants Artillery_Pants 1  bavarian_artillery_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bavarian_artillery_pants_officer Artillery_Boots Artillery_Boots 1  bavarian_artillery_officer_boots 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_pants Cavalry_Boots Cavalry_Boots 1  saxon_ulan_other_rank_parade_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_pants_alt Cavalry_Boots Cavalry_Boots 1  saxon_ulan_other_rank_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_saxon_uhlan_pants_officer Cavalry_Boots Cavalry_Boots 1  saxon_ulan_officer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hessian_infantry_pants Infantry_Boots Infantry_Boots 1  hessen_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hessian_infantry_pants_officer Infantry_Boots Infantry_Boots 1  hessen_officer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nassau_jaeger_pants Cavalry_Boots Cavalry_Boots 1  nassau_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_nassau_jaeger_pants_officer Cavalry_Boots Cavalry_Boots 1  nassau_off_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_pants_all_ranks Infantry_Boots Infantry_Boots 1  wurttemberg_pants_all_ranks 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_pants_officer Infantry_Boots Infantry_Boots 1  wurttemberg_pants_officer 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wurttemberg_grenadier_pants Infantry_Boots Infantry_Boots 1  wurttemberg_grenadier_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_berg_pioneer_pants Infantry_Boots Infantry_Boots 1  berg_pioneer_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_garde_du_corps_pants_ranker Cavalry_Boots Cavalry_Boots 1  garde_du_corps_pants_ranker 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_garde_du_corps_pants Cavalry_Boots Cavalry_Boots 1  garde_du_corps_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_baden_dragoon_pants Cavalry_Boots Cavalry_Boots 1  baden_dragoon_pants 0  536940302 0 10 123731968 1.250000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_officer_gloves Officer_Gloves Officer_Gloves 1  officer_gloves_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_drummer_gloves Drummer_Gloves Drummer_Gloves 1  drummer_gloves_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_chevgarde_gloves Gloves Gloves 1  mm_invisible_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fr_cuirassier_gloves Gloves Gloves 1  fr_cavalry_glove_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_fr_artillery_gloves Gloves Gloves 1  glove_black_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_br_cavalry_gloves Gloves Gloves 1  white_cavalry_glove_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_br_horseguard_gloves Gloves Gloves 1  hg_cavalry_glove_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_br_cavalry_gloves_short Gloves Gloves 1  white_cavalry_glove_short_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_br_horseguard_gloves_short Gloves Gloves 1  hg_cavalry_glove_short_L 0  65551 0 90 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hussar_horse_french Light_Horse Light_Horse 1  french_hussards_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_hussar_horse_french_trumpet Light_Horse Light_Horse 1  french_hussards_trumpeter_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_lancer_horse_french Light_Horse Light_Horse 1  french_lancier_polonais_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_lancer_horse_french_trumpet Light_Horse Light_Horse 1  french_lancier_polonais_horse_trumpeter 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_dragoon_horse_french Medium_Horse Medium_Horse 1  french_dragoon_horse 0  65537 0 500 110595670016 0.000000 90 0 8 0 3 100 40 40 106 0 24 0
+ 0
+0
+
+ itm_dragoon_horse_french_trumpet Medium_Horse Medium_Horse 1  french_dragoon_horse_trumpeter 0  65537 0 500 110595670016 0.000000 90 0 8 0 3 100 40 40 106 0 24 0
+ 0
+0
+
+ itm_cuirassier_horse_french Heavy_Horse Heavy_Horse 1  french_cuirassier_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_cuirassier_horse_french_officer Heavy_Horse Heavy_Horse 1  french_cuirassier_officer_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_cuirassier_horse_french_trumpet Heavy_Horse Heavy_Horse 1  french_cuirassier_trumpeter_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_carabineer_horse_french Heavy_Horse Heavy_Horse 1  french_carabineer_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_carabineer_horse_french_officer Heavy_Horse Heavy_Horse 1  french_carabineer_officer_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_carabineer_horse_french_trumpet Heavy_Horse Heavy_Horse 1  french_carabineer_trumpeter_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_heavy_horse_french Heavy_Horse Heavy_Horse 1  french_grenadier_a_cheval_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_heavy_horse_french_trumpet Heavy_Horse Heavy_Horse 1  french_grenadier_a_cheval_horse_trumpeter 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_lightdragoon_horse_britain_1 Light_Horse Light_Horse 1  british_ld_horse1 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_lightdragoon_horse_britain_2 Light_Horse Light_Horse 1  british_ld_horse2 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_lightdragoon_horse_britain_3 Light_Horse Light_Horse 1  british_ld_horse3 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_lightdragoon_horse_britain_4 Light_Horse Light_Horse 1  british_ld_horse4 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_kgl_horse_britain Light_Horse Light_Horse 1  british_kgl_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_heavydragoon_horse_britain Heavy_Horse Heavy_Horse 1  british_iniskilling_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_heavy_horse_britain Heavy_Horse Heavy_Horse 1  british_rhg_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_lancer_horse_prussia_1 Light_Horse Light_Horse 1  prussian_cuirassier_horse1 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_lancer_horse_prussia_2 Light_Horse Light_Horse 1  prussian_cuirassier_horse2 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_hussar_horse_prussia_1 Light_Horse Light_Horse 1  prussian_cuirassier_horse1 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_hussar_horse_prussia_2 Light_Horse Light_Horse 1  prussian_cuirassier_horse2 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_dragoon_horse_prussia_1 Medium_Horse Medium_Horse 1  prussian_dragoon_horse 0  65537 0 500 110595670016 0.000000 90 0 8 0 3 100 40 40 106 0 24 0
+ 0
+0
+
+ itm_dragoon_horse_prussia_2 Medium_Horse Medium_Horse 1  prussian_dragoon_horse_trumpeter 0  65537 0 500 110595670016 0.000000 90 0 8 0 3 100 40 40 106 0 24 0
+ 0
+0
+
+ itm_heavy_horse_prussia_1 Heavy_Horse Heavy_Horse 1  prussian_cuirassier_horse1 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_heavy_horse_prussia_2 Heavy_Horse Heavy_Horse 1  prussian_cuirassier_horse2 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_cossack_horse_russia_1 Light_Horse Light_Horse 1  russian_cossack_horse1 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_cossack_horse_russia_2 Light_Horse Light_Horse 1  russian_cossack_horse2 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_cossack_horse_russia_3 Light_Horse Light_Horse 1  russian_cossack_horse3 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_cossack_horse_russia_4 Light_Horse Light_Horse 1  russian_cossack_horse4 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_lancer_horse_russia Light_Horse Light_Horse 1  russian_lancer_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_hussar_horse_russia Light_Horse Light_Horse 1  russian_hussar_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_dragoon_horse_russia Medium_Horse Medium_Horse 1  russian_dragoon_horse 0  65537 0 500 110595670016 0.000000 90 0 8 0 3 100 40 40 106 0 24 0
+ 0
+0
+
+ itm_heavy_horse_russia Heavy_Horse Heavy_Horse 1  russian_chevalier_guard_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_lancer_horse_austria Light_Horse Light_Horse 1  austrian_lancer_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_hussar_horse_austria Light_Horse Light_Horse 1  austrian_hussard_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_lightcav_horse_austria Light_Horse Light_Horse 1  austrian_lightcav_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_dragoon_horse_austria Medium_Horse Medium_Horse 1  austrian_dragoon_horse 0  65537 0 500 110595670016 0.000000 90 0 8 0 3 100 40 40 106 0 24 0
+ 0
+0
+
+ itm_heavy_horse_austria Heavy_Horse Heavy_Horse 1  austrian_cuirassier_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_lancer_horse_rhine Light_Horse Light_Horse 1  saxon_ulan_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_lancer_horse_rhine_officer Light_Horse Light_Horse 1  saxon_ulan_horse_white 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_hussar_horse_rhine Light_Horse Light_Horse 1  nassau_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_hussar_horse_rhine_officer Light_Horse Light_Horse 1  nassau_horse_off 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_lightcav_horse_rhine Light_Horse Light_Horse 1  baden_dragoon_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_cuirassier_horse_rhine Heavy_Horse Heavy_Horse 1  westphalian_cuirassier_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_cuirassier_horse_rhine_officer Heavy_Horse Heavy_Horse 1  westphalian_cuirassier_horse_off 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_garde_du_corps_horse_rhine Heavy_Horse Heavy_Horse 1  garde_du_corps_horse_rank 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_garde_du_corps_horse_rhine_officer Heavy_Horse Heavy_Horse 1  garde_du_corps_horse_off 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 39 38 108 0 32 0
+ 0
+0
+
+ itm_lancer_horse_placeholder Light_Horse Light_Horse 1  austrian_hussard_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_hussar_horse_placeholder Light_Horse Light_Horse 1  austrian_hussard_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 3 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_dragoon_horse_placeholder Medium_Horse Medium_Horse 1  austrian_hussard_horse 0  65537 0 500 110595670016 0.000000 90 0 8 0 3 100 39 40 106 0 24 0
+ 0
+0
+
+ itm_heavy_horse_placeholder Heavy_Horse Heavy_Horse 1  austrian_hussard_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 3 115 37 38 108 0 32 0
+ 0
+0
+
+ itm_admin_horse Admin_Horse Admin_Horse 1  austrian_hussard_horse 0  1 0 600 34359738368 0.000000 100 0 244 0 0 100 100 400 120 0 50 0
+ 0
+0
+
+ itm_admin_lancer_horse Light_Horse Light_Horse 1  austrian_hussard_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 0 80 41 41 104 0 17 0
+ 0
+0
+
+ itm_admin_hussar_horse Light_Horse Light_Horse 1  austrian_hussard_horse 0  65537 0 400 110595670016 0.000000 70 0 6 0 0 80 50 45 104 0 19 0
+ 0
+0
+
+ itm_admin_dragoon_horse Medium_Horse Medium_Horse 1  austrian_hussard_horse 0  65537 0 500 110595670016 0.000000 90 0 8 0 0 100 39 40 106 0 24 0
+ 0
+0
+
+ itm_admin_heavy_horse Heavy_Horse Heavy_Horse 1  austrian_hussard_horse 0  65537 0 600 110595670016 0.000000 60 0 12 0 0 115 37 38 108 0 32 0
+ 0
+0
+
+ itm_arty_horse_cannon_french Artillery_Horse Artillery_Horse 1  french_carabineer_horse 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_cannon_british Artillery_Horse Artillery_Horse 1  british_iniskilling_horse 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_cannon_russian Artillery_Horse Artillery_Horse 1  russian_dragoon_horse 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_cannon_austrian Artillery_Horse Artillery_Horse 1  austrian_hussard_horse 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_cannon_prussian Artillery_Horse Artillery_Horse 1  prussian_cuirassier_horse1 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_howitzer_french Artillery_Horse Artillery_Horse 1  french_carabineer_horse 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_howitzer_british Artillery_Horse Artillery_Horse 1  british_iniskilling_horse 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_howitzer_russian Artillery_Horse Artillery_Horse 1  russian_dragoon_horse 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_howitzer_austrian Artillery_Horse Artillery_Horse 1  austrian_hussard_horse 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_arty_horse_howitzer_prussian Artillery_Horse Artillery_Horse 1  prussian_cuirassier_horse1 0  36028797019029505 0 600 110595670016 0.000000 60 0 10 0 1 200 10 22 116 0 21 0
+ 0
+0
+
+ itm_items_end Items_End Items_End 1  empty_mesh 0  0 0 1 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+

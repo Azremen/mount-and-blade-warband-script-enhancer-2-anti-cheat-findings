@@ -1,0 +1,28 @@
+dialogsfile version 2
+26
+dlga_start:companion_talk 4095 0  1 33 3 144115188075855987 511 541 Nice_to_meet_you_again_{Sir/Madam},_How_can_I_help_you?.  15  0 NO_VOICEOVER 
+dlga_companion_talk:companion_talk_equipment 69631 15  0 Let_me_see_your_equipment.  16  0 NO_VOICEOVER 
+dlga_companion_talk_equipment:companion_talk_end 4095 16  0 Very_well,_Here_it_is.  17  1 2051 0 NO_VOICEOVER 
+dlga_companion_talk_end:companion_talk 4095 17  0 Anything_else?  15  0 NO_VOICEOVER 
+dlga_companion_talk:companion_talk_opinion 69631 15  0 What_do_you_think_of_my_commanding?  18  0 NO_VOICEOVER 
+dlga_companion_talk_opinion:companion_talk 4095 18  0 It_is_very_good_{Sir/Madam}!  15  0 NO_VOICEOVER 
+dlga_companion_talk:close_window 69631 15  0 Nothing,_Carrry_on.  6  0 NO_VOICEOVER 
+dlga_start:town_merchant_talk 4095 0  3 1073741857 3 144115188075855987 551 552 1073741857 3 144115188075855987 550 551 33 3 144115188075855987 552 553 Good_day._What_can_I_do_for_you?  19  0 NO_VOICEOVER 
+dlga_town_merchant_talk:trade_requested_weapons 69631 19  1 33 3 144115188075855987 551 552 I_want_to_buy_a_new_weapon._What_do_you_have_in_stock?  20  0 NO_VOICEOVER 
+dlga_town_merchant_talk:trade_requested_armor 69631 19  1 33 3 144115188075855987 550 551 I_am_looking_for_some_new_uniforms._Show_me_what_you_have.  21  0 NO_VOICEOVER 
+dlga_town_merchant_talk:trade_requested_horse 69631 19  1 33 3 144115188075855987 552 553 I_am_thinking_of_buying_a_horse.  22  0 NO_VOICEOVER 
+dlga_trade_requested_weapons:merchant_trade 4095 20  0 Ah,_yes_{sir/madam}._These_arms_are_the_best_you'll_find_anywhere.  23  1 2042 0 NO_VOICEOVER 
+dlga_trade_requested_armor:merchant_trade 4095 21  0 Of_course,_{sir/madam}._You_won't_find_better_quality_uniforms_anywhere_in_this_army.  23  1 2042 0 NO_VOICEOVER 
+dlga_trade_requested_horse:merchant_trade 4095 22  0 You_have_a_fine_eye_for_horses,_{sir/madam}._You_won't_find_better_beasts_than_these_anywhere_else.  23  1 2042 0 NO_VOICEOVER 
+dlga_merchant_trade:town_merchant_talk 4095 23  0 Anything_else?  19  0 NO_VOICEOVER 
+dlga_town_merchant_talk:close_window 69631 19  0 Good-bye.  6  0 NO_VOICEOVER 
+dlga_start:camp_dweller_talk 4095 0  4 31 2 144115188075856110 0 33 3 144115188075855987 542 549 33 3 144115188075855987 542 545 2322 2 14 144115188075855987 {s14}_reporting_for_duty_{Sir/Madam}!  24  3 2133 2 144115188075856159 0 2133 2 144115188075856160 0 2133 2 144115188075856161 0 NO_VOICEOVER 
+dlga_start:camp_dweller_talk.1 4095 0  3 31 2 144115188075856110 0 33 3 144115188075855987 542 549 31 2 144115188075855987 545 Good_day,_{Sir/Madam}._Something_to_discuss?  24  3 2133 2 144115188075856159 0 2133 2 144115188075856160 0 2133 2 144115188075856161 0 NO_VOICEOVER 
+dlga_start:camp_dweller_talk.2 4095 0  3 31 2 144115188075856110 0 33 3 144115188075855987 542 549 31 2 144115188075855987 546 Sir,_I_bring_orders_for_you_to_take_on_the_next_mission,_are_you_prepared?  24  3 2133 2 144115188075856159 0 2133 2 144115188075856160 0 2133 2 144115188075856161 0 NO_VOICEOVER 
+dlga_start:camp_dweller_talk.3 4095 0  3 31 2 144115188075856110 0 33 3 144115188075855987 542 549 33 3 144115188075855987 547 549 It_is_a_honor_to_meet_you,_{Sir/Madam}._How_can_I_be_of_service?  24  3 2133 2 144115188075856159 0 2133 2 144115188075856160 0 2133 2 144115188075856161 0 NO_VOICEOVER 
+dlga_camp_dweller_talk:close_window 69631 24  1 33 3 144115188075855987 542 545 Nothing,_Carry_on.  6  0 NO_VOICEOVER 
+dlga_camp_dweller_talk:close_window.1 69631 24  1 31 2 144115188075855987 545 Not_at_this_time_Sir,_Have_a_nice_evening.  6  0 NO_VOICEOVER 
+dlga_camp_dweller_talk:close_window.2 69631 24  1 31 2 144115188075855987 546 Give_me_the_orders!_I_shall_leave_at_once.  6  3 2060 1 13 1935 0 1907 1 0 NO_VOICEOVER 
+dlga_camp_dweller_talk:close_window.3 69631 24  1 31 2 144115188075855987 546 I_am_not_prepared_yet.  6  0 NO_VOICEOVER 
+dlga_camp_dweller_talk:close_window.4 69631 24  1 33 3 144115188075855987 547 549 Nevermind.  6  0 NO_VOICEOVER 
+dlga_start:close_window 69631 0  0 Dialog_Error._No_dialog_found.  6  0 NO_VOICEOVER 

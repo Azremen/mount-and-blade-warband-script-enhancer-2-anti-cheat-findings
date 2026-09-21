@@ -13,7 +13,8 @@ source is authoritative.
 
 1. **Deterministic Violations (Zero-Tolerance / Immediate Action)**
    - **Seed Mismatch (`type == 16`)**: Client modified random seed. An honest client never produces a mismatch.
-   - **Action**: Immediate automated ban or kick + high-priority server/admin alert.
+   - **Action**: Immediate confirmed verdict + high-priority server/admin alert. The player is only
+     banned when `enforcement_mode == acm_enforce`; in silent mode the event is logged, not banned.
 
 2. **Heuristic / Statistical Violations (Multi-Signal Scoring)**
    - **Auto-Block (`type == 14`)**:
@@ -28,9 +29,13 @@ source is authoritative.
        - If final `autoblock_match_pct < 65%` AND `autoblock_reaction_ms > 500ms`, classify as **NOISE / LUCKY HUMAN** before suspected/confirmed autoblock rules.
      - **Alert minimums**:
        - `min_detections_suspected=6`: fewer detections are logged but do not generate suspected alerts.
-       - `min_detections_watchlist=6`: a single match-rate crossing does not create a watchlist alert.
+       - `min_detections_watchlist=6`: the watchlist branch also requires `spikes_cnt` to reach
+         `max_matchrate_spikes` (default `2`); one detection short of that count does not create an alert.
   - **Client Clock Skew / Speedhack (`type == 11`)**:
-   - *Positive Skew (`time_skew_max_pct >= 10%` in at least 2 detections)*: Client running fast. One isolated positive sample is not enough for automatic confirmation; repeated positive skew is required.
+   - *Positive Skew (`time_skew_max_pct >= 10%` in at least 2 detections)*: Client running fast.
+     `acs_time_skew_max` is a session maximum, so it does not fall back down between events; the
+     `min_clock_skew_detections=2` gate therefore requires two separate skew detection events while the
+     session maximum stays at or above the threshold, not two independent high readings.
      - *Negative Skew (`time_skew_stall_pct`)*: Lag / frame stalls / alt-tab. **Must be ignored** to prevent banning laggy players.
 
 ## 2. Module System Headers and Constants
@@ -72,6 +77,7 @@ ac_conf_clock_skew_threshold_pct = 10
 ac_conf_min_clock_skew_detections  = 2
 ac_conf_noise_max_match_pct      = 65
 ac_conf_noise_min_reaction_ms    = 500
+ac_conf_sustained_match_pct      = 85
 
 ac_reason_seed_mismatch           = 1
 ac_reason_sustained_autoblock     = 2
@@ -104,7 +110,8 @@ flags, `anticheat_player_whitelist.json` contains normal-player GUID flags, and
   "clock_skew_threshold_pct": 10,
   "min_clock_skew_detections": 2,
   "noise_max_match_pct": 65,
-  "noise_min_reaction_ms": 500
+  "noise_min_reaction_ms": 500,
+  "sustained_match_pct": 85
 }
 ```
 
@@ -164,9 +171,10 @@ multiplayer_server_anticheat = (
     (store_trigger_param, ":detection_type", 2),
     (store_trigger_param, ":value", 3),
     (store_trigger_param, ":threshold", 4),
+    # script_on_cheat_detected sets reg0 to 1 only for detection types it
+    # scores; unhandled types leave reg0 at 0 so native WSE2 action still runs.
     (call_script, "script_on_cheat_detected",
      ":player_no", ":detection_type", ":value", ":threshold"),
-    (assign, reg0, 1),
   ])
 
 multiplayer_server_ensure_anticheat_json = (
@@ -330,6 +338,7 @@ anticheat_scripts = [
      (store_script_param, ":value", 3),
      (store_script_param, ":threshold", 4),
 
+     (assign, reg0, 0), # unhandled types fall through to native WSE2 action
      (try_begin),
        (player_is_active, ":player_no"),
 
@@ -342,6 +351,7 @@ anticheat_scripts = [
        # -----------------------------------------------------------------------
        (try_begin),
          (eq, ":type", acd_seed_mismatch),
+         (assign, reg0, 1),
          
          (player_get_slot, ":seed_mismatches", ":player_no", slot_player_cheat_seed_mismatches),
          (val_add, ":seed_mismatches", 1),
@@ -356,6 +366,7 @@ anticheat_scripts = [
        (else_try),
          (eq, ":type", acd_auto_block),
          (ge, ":value", ":threshold"),
+         (assign, reg0, 1),
          (player_get_slot, ":autoblock_detections", ":player_no", slot_player_cheat_autoblock_detections),
          (val_add, ":autoblock_detections", 1),
          (player_set_slot, ":player_no", slot_player_cheat_autoblock_detections, ":autoblock_detections"),
@@ -397,6 +408,7 @@ anticheat_scripts = [
          (str_store_string, s0, "@clock_skew_threshold_pct"),
          (dict_get_int, ":clock_skew_threshold", ":config_dict", s0, ac_conf_clock_skew_threshold_pct),
          (ge, ":max_skew", ":clock_skew_threshold"),
+         (assign, reg0, 1),
          (player_get_slot, ":skew_cnt", ":player_no", slot_player_cheat_clock_skew_count),
          (val_add, ":skew_cnt", 1),
          (player_set_slot, ":player_no", slot_player_cheat_clock_skew_count, ":skew_cnt"),
@@ -453,6 +465,8 @@ anticheat_scripts = [
        (dict_get_int, ":noise_max_match_pct", ":config_dict", s0, ac_conf_noise_max_match_pct),
        (str_store_string, s0, "@noise_min_reaction_ms"),
        (dict_get_int, ":noise_min_reaction_ms", ":config_dict", s0, ac_conf_noise_min_reaction_ms),
+       (str_store_string, s0, "@sustained_match_pct"),
+       (dict_get_int, ":sustained_match_pct", ":config_dict", s0, ac_conf_sustained_match_pct),
 
        # -----------------------------------------------------------------------
       # EVALUATION RULE 1: Noise Filter
@@ -467,8 +481,9 @@ anticheat_scripts = [
       # EVALUATION RULE 2: High detection count + high live match rate = CONFIRMED
        # -----------------------------------------------------------------------
        (else_try),
+         (eq, ":detection_type", acd_auto_block),
          (ge, ":autoblock_detections", ":min_detections_confirmed"),
-         (ge, ":match_pct", 85),
+         (ge, ":match_pct", ":sustained_match_pct"),
          
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_confirmed),
          (call_script, "script_cf_anticheat_enforce", ":player_no", ac_reason_sustained_autoblock),
@@ -477,6 +492,7 @@ anticheat_scripts = [
         # EVALUATION RULE 3: Repeated offscreen + a separate corroborating signal = CONFIRMED
        # -----------------------------------------------------------------------
        (else_try),
+         (eq, ":detection_type", acd_auto_block),
          (ge, ":autoblock_detections", ":min_detections_confirmed"),
          (ge, ":offscreen_cnt", ":max_offscreen_allowed"),
          (this_or_next|gt, ":spikes_cnt", 0),
@@ -488,6 +504,7 @@ anticheat_scripts = [
       # EVALUATION RULE 4: Speedhack (Clock Skew) Positive Skew = CONFIRMED
        # -----------------------------------------------------------------------
        (else_try),
+         (eq, ":detection_type", acd_time_skew),
          (ge, ":skew_cnt", ":min_clock_skew_detections"),
          (ge, ":max_skew", ":clock_skew_threshold_pct"),
          
@@ -498,6 +515,7 @@ anticheat_scripts = [
        # EVALUATION RULE 5: Repeated Offscreen Crossings = SUSPECTED
        # -----------------------------------------------------------------------
        (else_try),
+         (eq, ":detection_type", acd_auto_block),
          (ge, ":autoblock_detections", ":min_detections_suspected"),
          (ge, ":offscreen_cnt", ":max_offscreen_allowed"),
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_suspected),
@@ -507,6 +525,7 @@ anticheat_scripts = [
       # EVALUATION RULE 6: Multi-Subsignal Crossings = SUSPECTED
        # -----------------------------------------------------------------------
        (else_try),
+         (eq, ":detection_type", acd_auto_block),
          (ge, ":autoblock_detections", ":min_detections_suspected"),
          (gt, ":offscreen_cnt", 0),
          (gt, ":spikes_cnt", 0),
@@ -519,6 +538,7 @@ anticheat_scripts = [
       # EVALUATION RULE 7: Configured Match-Rate Spike Threshold = WATCHLIST
        # -----------------------------------------------------------------------
        (else_try),
+        (eq, ":detection_type", acd_auto_block),
         (ge, ":autoblock_detections", ":min_detections_watchlist"),
         (ge, ":spikes_cnt", ":max_matchrate_spikes"),
          
@@ -544,6 +564,7 @@ anticheat_scripts = [
      (player_get_slot, ":threat_lvl", ":suspect_no", slot_player_cheat_threat_level),
      (assign, reg2, ":threat_lvl"),
 
+     (str_store_string, s13, "str_no_string"), # default for an unmapped reason code
      (try_begin),
        (eq, ":reason_code", ac_reason_seed_mismatch),
        (str_store_string, s13, "str_ac_reason_seed_mismatch"),
@@ -597,6 +618,11 @@ anticheat_scripts = [
      (dict_create, ":history_dict"),
      (str_store_string, s0, "@anticheat_player_history"),
      (dict_load_file_json, ":history_dict", s0, 0),
+     (dict_create, ":config_dict"),
+     (str_store_string, s1, "@anticheat_config"),
+     (dict_load_file_json, ":config_dict", s1, 0),
+     (str_store_string, s1, "@history_window_seconds"),
+     (dict_get_int, ":history_window", ":config_dict", s1, ac_conf_history_window_seconds),
      (player_get_unique_id, ":guid", ":player_no"),
      (assign, reg1, ":guid"),
      (str_store_string, s1, "@history_last_{reg1}"),
@@ -607,7 +633,24 @@ anticheat_scripts = [
        (ge, ":last_time", 0),
        (ge, ":elapsed", 0), # Reject data from an earlier map after timer reset.
        (le, ":elapsed", ":history_window"),
-      # Load history_total/autoblock/offscreen/spikes/feints/skew_{GUID} into player slots.
+       (str_store_string, s1, "@history_total_{reg1}"),
+       (dict_get_int, ":value", ":history_dict", s1, 0),
+       (player_set_slot, ":player_no", slot_player_cheat_total_detections, ":value"),
+       (str_store_string, s1, "@history_autoblock_{reg1}"),
+       (dict_get_int, ":value", ":history_dict", s1, 0),
+       (player_set_slot, ":player_no", slot_player_cheat_autoblock_detections, ":value"),
+       (str_store_string, s1, "@history_offscreen_{reg1}"),
+       (dict_get_int, ":value", ":history_dict", s1, 0),
+       (player_set_slot, ":player_no", slot_player_cheat_offscreen_count, ":value"),
+       (str_store_string, s1, "@history_spikes_{reg1}"),
+       (dict_get_int, ":value", ":history_dict", s1, 0),
+       (player_set_slot, ":player_no", slot_player_cheat_matchrate_spikes, ":value"),
+       (str_store_string, s1, "@history_feints_{reg1}"),
+       (dict_get_int, ":value", ":history_dict", s1, 0),
+       (player_set_slot, ":player_no", slot_player_cheat_feint_follows, ":value"),
+       (str_store_string, s1, "@history_skew_{reg1}"),
+       (dict_get_int, ":value", ":history_dict", s1, 0),
+       (player_set_slot, ":player_no", slot_player_cheat_clock_skew_count, ":value"),
      (try_end),
    ]),
 
@@ -623,7 +666,24 @@ anticheat_scripts = [
      (store_mission_timer_a, ":current_time"),
      (str_store_string, s1, "@history_last_{reg1}"),
      (dict_set_int, ":history_dict", s1, ":current_time"),
-    # Save the total/autoblock/offscreen/spikes/feints/skew player-slot counters under this GUID.
+     (str_store_string, s1, "@history_total_{reg1}"),
+     (player_get_slot, ":value", ":player_no", slot_player_cheat_total_detections),
+     (dict_set_int, ":history_dict", s1, ":value"),
+     (str_store_string, s1, "@history_autoblock_{reg1}"),
+     (player_get_slot, ":value", ":player_no", slot_player_cheat_autoblock_detections),
+     (dict_set_int, ":history_dict", s1, ":value"),
+     (str_store_string, s1, "@history_offscreen_{reg1}"),
+     (player_get_slot, ":value", ":player_no", slot_player_cheat_offscreen_count),
+     (dict_set_int, ":history_dict", s1, ":value"),
+     (str_store_string, s1, "@history_spikes_{reg1}"),
+     (player_get_slot, ":value", ":player_no", slot_player_cheat_matchrate_spikes),
+     (dict_set_int, ":history_dict", s1, ":value"),
+     (str_store_string, s1, "@history_feints_{reg1}"),
+     (player_get_slot, ":value", ":player_no", slot_player_cheat_feint_follows),
+     (dict_set_int, ":history_dict", s1, ":value"),
+     (str_store_string, s1, "@history_skew_{reg1}"),
+     (player_get_slot, ":value", ":player_no", slot_player_cheat_clock_skew_count),
+     (dict_set_int, ":history_dict", s1, ":value"),
      (dict_save_json, ":history_dict", s0),
    ]),
 
@@ -700,9 +760,11 @@ anticheat_scripts = [
   seed/skew events cannot contaminate autoblock thresholds. Time skew counts
   only when the configured `clock_skew_threshold_pct` is reached.
 5. **Evaluation**: The first matching branch in
-  `script_cf_eval_player_threat` wins: confirmed match-rate/corroborated
-  offscreen/sustained skew, then noise, suspected offscreen/multi-signal, and
-  finally watchlist spike.
+  `script_cf_eval_player_threat` wins, gated by `:detection_type` so an
+  unrelated event cannot trigger another signal's branch: noise (autoblock
+  only), then confirmed match-rate/corroborated offscreen (autoblock) or
+  sustained skew (time skew), then suspected offscreen/multi-signal
+  (autoblock), and finally watchlist spike (autoblock).
 6. **Persistence**: `script_cf_save_anticheat_player_history` writes total,
   autoblock, offscreen, spike, feint, skew, and mission-time values after every handled
   event. Restore rejects history with a negative elapsed mission time or one
@@ -719,6 +781,15 @@ anticheat_scripts = [
   the evaluator.
 - `max_matchrate_spikes` is read from JSON and is the minimum number of
   match-rate spikes required for the watchlist branch.
+- `max_offscreen_allowed`, `min_detections_confirmed`, `min_detections_suspected`,
+  and `min_detections_watchlist` are inclusive "at least N" gates (`ge`); reaching
+  the configured value triggers the branch, it is not a ceiling that only trips
+  one event past it.
+- Rule 2 (sustained autoblock) now reads its match-rate requirement from the
+  configurable `sustained_match_pct` (default `85`) instead of a hardcoded value.
+- `cf_notify_admins` defaults its alert string to `str_no_string` before the
+  reason-code chain and matches `ac_reason_matchrate_watchlist` explicitly, so
+  an unmapped reason code no longer gets silently mislabeled as a watchlist alert.
 - Noise classification is evaluated before confirmed/suspected autoblock
   rules, so low-match/slow-reaction sessions cannot bypass the noise filter.
 - The join path initializes `:player_guid` before the admission switch, so
@@ -727,9 +798,16 @@ anticheat_scripts = [
   when the file is missing or empty.
 - Admin GUID entries are used for admin authorization. They are not recipients
   of targeted anti-cheat notifications.
-- The source has not yet exercised type `10`, `12`, `13`, `15`, or `17` in the
-  available logs. These detector paths are engine-provided and remain a test
-  coverage gap, not a claim that the detectors are disabled.
+- `slot_player_cheat_last_detection_time` is reserved but not currently set or
+  read anywhere in the source.
+- Previously, the trigger suppressed native WSE2 action for every detection
+  type unconditionally, so types `10` (aim snap), `12` (spread luck), `13`
+  (attack cadence), `15` (auto attack), and `17` (aim lead) were silently
+  absorbed with no scoring and no native fallback. This is fixed: the trigger
+  now only suppresses native action for the types the module scores (`14`,
+  `11`, `16`); unhandled types leave `reg0` at `0` so the native WSE2 kick/ban
+  pipeline still runs for them. The module still does not add its own
+  sub-signal scoring for those five types.
 - `enforcement_mode=2` has not been validated against a live ban in the
   available logs. Keep enforcement opt-in until a controlled test confirms the
   `ban_player` path and configured duration.
