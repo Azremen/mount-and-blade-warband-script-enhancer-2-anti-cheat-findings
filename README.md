@@ -1,171 +1,122 @@
 # WSE2 Anti-Cheat Findings
 
-This repository brings together the design of an anti-cheat system for a non-public WSE2 1.5.2 server
-build, real server logs, and the cheater watchlist created during review.
+This repository is a documentation and evidence archive for a non-public WSE2 1.5.2 server build, the open-source Module System integration, and the findings gathered from real server logs.
 
-> **What is this repository?** It is not a ready-to-install package. It is a research archive that documents WSE2 anti-cheat behavior, preserves log evidence, and describes the Module System decision logic.
+> This is not a ready-to-install package or a public engine release. It is a research archive that documents engine behavior, module decision logic, and the evidence trail behind the conclusions.
 
 ## Start Here
 
-Choose the path that matches your goal:
-
 | Goal | Read |
 | --- | --- |
-| Enable and calibrate anti-cheat on a server | [ANTICHEAT_SERVER_GUIDE.md](ANTICHEAT_SERVER_GUIDE.md) |
-| Understand Module System integration and threat decisions | [MODULE_ANTICHEAT_SPEC.md](MODULE_ANTICHEAT_SPEC.md) |
-| Review accounts confirmed in real sessions | [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md) |
+| Learn the server-side operational model and calibration rules | [ANTICHEAT_SERVER_GUIDE.md](ANTICHEAT_SERVER_GUIDE.md) |
+| Understand the Module System threat logic and recent fixes | [MODULE_ANTICHEAT_SPEC.md](MODULE_ANTICHEAT_SPEC.md) |
+| Review confirmed accounts vs. offscreen-only observations | [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md) |
 | Inspect raw evidence | Dated logs in the [63rd Server](63rd%20Server) directory |
 
-### If you are a server owner
+## What This Project Covers
 
-- [ ] Read [ANTICHEAT_SERVER_GUIDE.md](ANTICHEAT_SERVER_GUIDE.md) first.
-- [ ] Collect data in silent mode with `iMode=1` for the first week.
-- [ ] Build a baseline for your own player population from `anticheat,summary` lines.
-- [ ] Compare thresholds against your logs before switching to enforce mode.
-- [ ] Enable kick or ban switches one at a time; do not enable all of them simultaneously.
+This work is intentionally split into two layers:
 
-### If you are a Module System developer
+1. WSE2 engine layer: the non-public WSE2 1.5.2 build generates the detectors and the server-side anti-cheat runtime.
+2. Module System layer: the module receives `ti_on_cheat_detected` events, applies scoring logic, preserves GUID-based history, and decides whether to log, notify, or enforce a ban.
 
-- [ ] Read the current source behavior section in [MODULE_ANTICHEAT_SPEC.md](MODULE_ANTICHEAT_SPEC.md).
-- [ ] Verify that `ti_on_cheat_detected` suppresses the native action with `reg0=1`.
-- [ ] Evaluate seed mismatch, offscreen autoblock, and positive clock-skew counters separately.
-- [ ] Keep JSON configuration, admin GUIDs, and player whitelist responsibilities separate.
-- [ ] Compare the documented source differences against the actual code.
+The project purpose is not to punish on a single suspicious value. It is to preserve evidence, compare live player behavior against baseline ranges, and only escalate once multiple signals point in the same direction. Deterministic issues such as seed mismatch are handled as zero-tolerance events; statistical issues such as autoblock need corroboration.
 
-### If you are reviewing a log event
+## Current Scope and Decisions
 
-1. Use the unique ID rather than the player name; names can change.
-2. Do not treat one statistical detection as conclusive evidence.
-3. Look for `autoblock_offscreen`, `seed_mismatches`, and repeated detection patterns.
-4. Treat negative clock skew as lag, not as evidence of a speedhack.
-5. Support every addition to [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md) with raw log evidence.
+- WSE2 1.5.2 is a non-public build and is not open source.
+- The Module System implementation is the open-source part of the project and is documented in [MODULE_ANTICHEAT_SPEC.md](MODULE_ANTICHEAT_SPEC.md).
+- The engine and the Module System are separate concerns; the repo documents both, but does not publish engine source.
+- Silent mode is the default observation mode for evidence collection.
+- The GUID is the identity key; names are not reliable evidence by themselves.
+- Increasing the default FOV can create offscreen detections without proving cheating.
+- Offscreen-only crossings are retained as observations, not as confirmed cheater verdicts.
+- Confirmed cheaters and offscreen observations are kept in separate sections in [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md).
+- The project documentation is intentionally in English for the WSE2 community and the server-operator audience.
 
-## Project Purpose
+## What the Module Evaluates
 
-The purpose of this work is to record server-observable behavior without installing software on the client or revealing which detector fired. The system is considered in two layers:
-
-1. **WSE2 server detector layer:** The non-public WSE2 1.5.2 engine build collects signals such as seed validation, aim snap, aim lead, spread luck, auto block, auto attack, attack cadence, and client clock skew.
-2. **Module System decision layer:** Receives `ti_on_cheat_detected` events and manages detection counters, threat levels, the whitelist, GUID-based history, and silent/enforce behavior.
-
-The central goal is not to punish a player for one suspicious action. It is to measure the statistical range of real players and make stronger decisions from repeated, mutually consistent signals. Deterministic violations such as seed mismatches are handled differently and are treated as zero-tolerance events.
-
-## What Does It Monitor?
-
-| Signal | What it indicates | Confidence note |
+| Signal | Interpretation | Confidence note |
 | --- | --- | --- |
-| Seed mismatch (`type 16`) | The client sent a value different from the server seed | Not statistical; strongest signal |
-| Auto block (`type 14`) | Match rate, instant feint-follow, and out-of-view block signals | Read multiple signals together |
-| Aim snap (`type 10`) | A sudden look-direction change followed by an attack or shot | High-DPI players can create false positives |
-| Aim lead (`type 17`) | Unusually low aim error on difficult moving-target shots | Requires server-specific calibration |
-| Spread luck (`type 12`) | Shot spread far below the honest baseline | Complements seed validation |
-| Auto attack (`type 15`) | Finding the uncovered side and reacting to feints/chambers | Strong duelists require care |
-| Attack cadence (`type 13`) | Suspicious animation speed | Disabled by default; fast weapons can trigger it |
-| Clock skew (`type 11`) | Positive client clock deviation | Negative skew is lag; ESP/wallhacks are not detected |
-| Client integrity (`types 20-24`) | SDK-defined client module, thread, hook, signature, and text-hash checks | Available in the SDK; runtime behavior is not evidenced by the logs in this archive |
+| Seed mismatch (`type 16`) | Client returned a mismatched random seed | Deterministic; strongest signal |
+| Auto block (`type 14`) | Match-rate spikes, feint-follow reactions, and offscreen crossings | Requires combined signals or corroboration |
+| Client clock skew (`type 11`) | Positive skew indicates speedhack; negative skew is lag | Negative skew must not be treated as a cheat |
+| Offscreen-only readings | Attack appears outside the assumed view cone | Low-confidence alone; FOV variance is a real source of noise |
+| Client integrity checks (`types 20-24`) | SDK-defined module/thread/hook/signature/text-hash checks | Present in the SDK but not proven by this archive |
 
-## Decision Flow
+## Key Behavioral Rules
 
-```text
-WSE2 detector
-      |
-      v
- ti_on_cheat_detected
-      |
-      +--> Module System counters and live statistics
-      |          |
-      |          +--> noise / watchlist / suspected
-      |          |
-      |          +--> confirmed --> silent: log + alert
-      |                         --> enforce: action according to kick/ban settings
-      |
-      +--> anticheat summary: baseline evidence at exit or mission_end
-```
-
-Important behavior:
-
-- `iMode=0`: No measurements are taken.
-- `iMode=1`: Measurements, logs, and the module trigger run; there are no kicks or bans.
-- `iMode=2`: Enforcement can be applied when a configured threshold is crossed.
-- There is no general anti-cheat verdict at join time; detectors need gameplay samples.
-- GUID-based history can be restored after reconnecting within a short time window.
-- When player-whitelist admission is enabled, unlisted players cannot join; the whitelist does not bypass anti-cheat.
+- `iMode=0`: no anti-cheat measurements are taken.
+- `iMode=1`: detections are collected and logged in silent mode; no enforcement is applied.
+- `iMode=2`: enforce mode can trigger the ban path when configured thresholds are crossed.
+- The module owns the `acd_auto_block`, `acd_time_skew`, and `acd_seed_mismatch` handling paths and suppresses native fallback for those types.
+- Sub-signals are counted separately: offscreen, feint-follow, and match-rate spikes are not all equal evidentiary weight.
+- History is keyed by GUID and relies on UNIX time rather than mission timer values, so reconnect history survives map changes and restarts within the configured window.
+- The join gate checks the permanent seed-mismatch blacklist before whitelist admission; a blacklisted GUID is denied even if also present in the whitelist.
 
 ## Reading the Logs
 
-Detection records generally contain these fields:
+The relevant log format is close to:
 
 ```text
 anticheat|name|unique_id|ip|type|value|threshold|action
 ```
 
-Summary records are written for every player at the end of a session:
+The end-of-session summary is also important:
 
 ```text
 anticheat|summary|reason|name|unique_id|ip|mission=...|detections=...|...
 ```
 
-Start with these fields:
+The important fields to check are:
 
-- `seed_mismatches`: Expected to be zero for an honest client.
-- `autoblock_offscreen`: Read as a repeated pattern supported by other signals, not in isolation.
-- `autoblock_match_pct` and `autoblock_reaction_ms`: Compare them with your player-population baseline.
-- `time_skew_max_pct`: Repeated positive deviation is significant.
-- `time_skew_stall_pct`: Lag or frame-stall information; it should not be a ban reason.
-
-The sample logs contain silent-mode detections recorded as `logged`, while summary lines also include players who never triggered a detector. This makes the system useful for measuring normal player behavior, not only suspected cheaters.
+- `seed_mismatches`: should stay at zero for honest clients.
+- `autoblock_offscreen`: important as a repeated pattern, not as a standalone verdict.
+- `autoblock_match_pct` and `autoblock_reaction_ms`: compare with your population baseline.
+- `time_skew_max_pct`: repeated positive skew is significant.
+- `time_skew_stall_pct`: lag or frame stall, not a speedhack signal.
 
 ## Evidence Status
 
-This repository contains 63rd Server logs dated September 11-16, 2026. They show detection records, player summaries, admin-whitelist events, and the surrounding test or operational conditions. [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md) is the short list of accounts considered confirmed from real sessions.
+This repo contains the 63rd Server logs from September 11-16, 2026. They document the detector activity, the summary lines, the admin/whitelist events, and the surrounding test or operational conditions.
 
-This list is not a universal cheat database or a legal judgment. The same name can appear with different GUIDs, so reviews should preserve both the GUID and the raw log evidence.
+The current evidence model is intentionally strict:
 
-## Known Limitations and Risks
+- [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md) contains the confirmed cheater roster.
+- The offscreen table in [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md) is a detector inventory, not a confirmed-ban list.
+- A player with repeated offscreen crossings is not automatically confirmed; corroboration is required.
+- The same nickname can appear under different GUIDs. The GUID and raw evidence remain the source of truth.
 
-- ESP and wallhacks are invisible to the server; this version does not detect them.
-- The WSE2 SDK defines client-integrity detections for client modules, threads, hooks, signatures, and text hashes (`types 20-24`). This archive does not include the non-public engine source or log evidence proving which of these checks are active in the deployed build; their runtime behavior must be verified against that build before being treated as enabled or disabled.
-- Statistical detectors can produce false positives; enforcement must not be enabled without calibration.
-- Bans are tied to the unique ID and may be bypassed with another serial key or a VPN.
-- The implementation and specification have been revised together for the previously documented issues: seed mismatch counting, the configured clock-skew threshold, `max_matchrate_spikes`, whitelist preservation, and reconnect history persistence. The non-public engine source is unavailable here, so runtime behavior should still be verified against the exact deployed build.
-- [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md) references `CHEAT_TEST_FINDINGS.md`, which is not present in the current file tree. Use the available server logs as the source for full evidence until that file is added.
+## Offscreen Caveat
+
+The offscreen signal is kept separate for a reason: higher-than-default FOV settings can create these readings without proof of cheating. The repository therefore records offscreen crossings as observations with the matching detector counts and keeps the confirmed verdicts in the separate roster above it.
+
+This was one of the major corrections in the current documentation: `Flo` and similar low-confidence examples remain in the offscreen inventory, not in the confirmed-cheater list, unless independent evidence such as match-rate spikes, feint-follow crossings, or owner confirmation is present.
 
 ## Project Status
 
-This directory is currently more of a documentation and log-evidence archive than a source distribution:
+This directory is a documentation and log-evidence archive rather than a source distribution:
 
 ```text
 .
 ├── ANTICHEAT_SERVER_GUIDE.md   # Server-owner guide
-├── MODULE_ANTICHEAT_SPEC.md    # Module System decision and integration reference
-├── CHEATER_WATCHLIST.md        # Short confirmed-account list
+├── MODULE_ANTICHEAT_SPEC.md    # Module System decision/reference document
+├── CHEATER_WATCHLIST.md        # Confirmed cheaters + offscreen observations + thanks
 ├── 63rd Server/                # Dated raw server logs
-└── README.md                   # This overview and navigation document
+├── README.md                   # Overview and navigation
+└── LICENSE                     # Project license status is described in the docs
 ```
 
-The non-public WSE2 1.5.2 engine automatically creates `server_config.ini`, `anticheat_config.json`,
-admin GUID, and player-whitelist files. WSE2 itself is not open source and its engine source will not be
-published. The open-source Module System code and its decision logic are documented in
-[MODULE_ANTICHEAT_SPEC.md](MODULE_ANTICHEAT_SPEC.md). This README is therefore a navigation point for
-the available evidence and technical decisions rather than a setup guide with installation commands.
-
-## Project Decisions
-
-The current project scope and distribution decisions are:
-
-- The project uses a non-public WSE2 1.5.2 engine build.
-- WSE2 is not open source and its engine source code will not be published.
-- Only the Module System implementation is open source; it is documented in `MODULE_ANTICHEAT_SPEC.md`.
-- The WSE2 engine creates the server configuration, anti-cheat configuration, admin GUID, and player-whitelist files automatically.
-- Silent mode is the default operating goal for observation and evidence collection.
-- IP bans, admin notifications, and log parsers are within the scope of this project.
-- The documentation will remain in English for the WSE2 community.
-- `CHEAT_TEST_FINDINGS.md` will not be added. The dated server logs and `CHEATER_WATCHLIST.md` are the maintained evidence sources.
+The open-source portion of this project is the Module System logic. The WSE2 engine itself is not open source and is not published here. The source archive therefore focuses on the module behavior, the server-side configuration model, and the raw evidence that supports the conclusions.
 
 ## License and Upstream
 
-The Module System code in this project is open source and released under the
-[Unlicense](https://unlicense.org/). WSE2 1.5.2 is a non-public, non-open-source engine build and is not
-part of this license grant.
+The Module System code in this project is released under the [Unlicense](https://unlicense.org/). The WSE2 1.5.2 engine is a non-public, non-open-source build and is not covered by this license grant.
 
 ## Forum Thread
+
 https://www.fsegames.eu/forum/index.php?topic=50194.0
+
+## Special Thanks
+
+The current watchlist also records the tester and sponsor contributions that helped validate the detector during calibration. Those names are listed separately from the confirmed cheater roster in [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md).

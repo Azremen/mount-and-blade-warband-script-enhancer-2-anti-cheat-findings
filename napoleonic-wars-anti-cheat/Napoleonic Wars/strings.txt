@@ -1,5 +1,5 @@
 stringsfile version 1
-1320
+1322
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -12,6 +12,8 @@ str_ac_reason_speedhack Client_clock_speedhack
 str_ac_reason_multisignal_autoblock Auto-block_multi-signal_suspicion
 str_ac_whitelist_join_denied Connection_denied_by_player_whitelist
 str_ac_whitelist_join_denied_player You_are_not_on_the_player_whitelist.
+str_ac_seed_blacklist_join_denied Connection_denied:_permanently_blacklisted_for_seed_mismatch
+str_ac_seed_blacklist_join_denied_player You_are_permanently_blocked_from_this_server_(seed_validation_failure).
 str_blank_string _
 str_error_string {!}ERROR!!!ERROR!!!!ERROR!!!ERROR!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!!
 str_s0 {!}{s0}

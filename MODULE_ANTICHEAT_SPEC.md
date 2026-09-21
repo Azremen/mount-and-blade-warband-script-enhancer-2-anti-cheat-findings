@@ -15,6 +15,10 @@ source is authoritative.
    - **Seed Mismatch (`type == 16`)**: Client modified random seed. An honest client never produces a mismatch.
    - **Action**: Immediate confirmed verdict + high-priority server/admin alert. The player is only
      banned when `enforcement_mode == acm_enforce`; in silent mode the event is logged, not banned.
+     Independent of `enforcement_mode`, the GUID is also added to
+     `anticheat_seed_mismatch_blacklist.json` and permanently denied admission on every future join
+     (see sections 2 and 4) — this does not expire and is not a `ban_player` call, since it must
+     survive a `ban_player` ban expiring or being lifted.
 
 2. **Heuristic / Statistical Violations (Multi-Signal Scoring)**
    - **Auto-Block (`type == 14`)**:
@@ -88,11 +92,13 @@ ac_reason_multisignal_autoblock   = 6
 
 ### JSON Configuration Files
 
-Keep the four JSON files in the server module directory. They intentionally use
+Keep the five JSON files in the server module directory. They intentionally use
 separate dictionaries: `anticheat_config.json` contains thresholds and
 enforcement settings, `anticheat_admin_guids.json` contains only admin GUID
-flags, `anticheat_player_whitelist.json` contains normal-player GUID flags, and
-`anticheat_player_history.json` contains short-lived GUID-based detection history.
+flags, `anticheat_player_whitelist.json` contains normal-player GUID flags,
+`anticheat_player_history.json` contains short-lived GUID-based detection
+history, and `anticheat_seed_mismatch_blacklist.json` contains permanently
+blacklisted GUIDs from confirmed seed mismatches.
 
 ```json
 // anticheat_config.json
@@ -158,6 +164,23 @@ joining player, including an admin, must have a GUID entry in `anticheat_player_
 sent an in-game rejection message and immediately kicked. Set it to `0` to let all players join while
 keeping anti-cheat enforcement active for every player.
 
+```json
+// anticheat_seed_mismatch_blacklist.json
+{
+  "blacklist_2226106": 1,
+  "blacklist_name_2226106": "63rd_lebrun",
+  "blacklist_time_2226106": 1758409200
+}
+```
+
+Keyed by GUID rather than a numbered index (`blacklist_{guid}`, `blacklist_name_{guid}`,
+`blacklist_time_{guid}`), this file starts empty and is only ever appended to at runtime by
+`script_cf_add_seed_mismatch_blacklist`, called from `on_cheat_detected`'s seed-mismatch case. A
+GUID never needs to be removed by the module itself; an admin can hand-edit the file to lift an entry.
+Unlike `ban_player`, an entry here has no expiry and does not depend on `enforcement_mode` — every
+join is checked against it, in silent mode too, and it overrides the player whitelist: a blacklisted
+GUID is denied even if it is also present in `anticheat_player_whitelist.json`.
+
 ---
 
 ## 3. Trigger Interception (`module_mission_templates.py`)
@@ -181,6 +204,7 @@ multiplayer_server_ensure_anticheat_json = (
   [
     (call_script, "script_ensure_admin_guid_file"),
     (call_script, "script_ensure_player_whitelist_file"),
+    (call_script, "script_ensure_seed_mismatch_blacklist_file"),
     # script_cf_cache_anticheat_config calls script_ensure_anticheat_config itself.
     (call_script, "script_cf_cache_anticheat_config"),
     (call_script, "script_ensure_anticheat_player_history"),
@@ -228,26 +252,43 @@ admin-protection scripts run.
 
   (assign, ":player_allowed", 1),
   (player_get_unique_id, ":player_guid", ":player_no"),
-  (assign, ":admission_enabled", "$g_ac_player_whitelist_admission_enabled"),
+  (call_script, "script_cf_player_guid_is_seed_blacklisted", ":player_guid"),
+  (assign, ":is_seed_blacklisted", reg0),
   (try_begin),
-    (eq, "$g_ac_config_cached", 0), # config not cached yet this boot; fail safe to whitelist-required
-    (assign, ":admission_enabled", 1),
-  (try_end),
-  (try_begin),
-    (eq, ":admission_enabled", 1),
-    (call_script, "script_cf_player_guid_is_whitelisted", ":player_guid"),
-    (assign, ":player_allowed", reg0),
+    (eq, ":is_seed_blacklisted", 1),
+    (assign, ":player_allowed", 0),
+  (else_try),
+    (assign, ":admission_enabled", "$g_ac_player_whitelist_admission_enabled"),
+    (try_begin),
+      (eq, "$g_ac_config_cached", 0), # config not cached yet this boot; fail safe to whitelist-required
+      (assign, ":admission_enabled", 1),
+    (try_end),
+    (try_begin),
+      (eq, ":admission_enabled", 1),
+      (call_script, "script_cf_player_guid_is_whitelisted", ":player_guid"),
+      (assign, ":player_allowed", reg0),
+    (try_end),
   (try_end),
   (try_begin),
     (eq, ":player_allowed", 0),
     (str_store_player_username, s2, ":player_no"),
     (assign, reg1, ":player_guid"),
-    (str_store_string, s3, "str_ac_whitelist_join_denied"),
-    (str_store_string, s4, "@[AC-WHITELIST] {s3}: {s2} (GUID: {reg1})"),
-    (server_add_message_to_log, s4),
-    (multiplayer_send_string_to_player,
-     ":player_no", multiplayer_event_return_inter_admin_chat,
-     "str_ac_whitelist_join_denied_player"),
+    (try_begin),
+      (eq, ":is_seed_blacklisted", 1),
+      (str_store_string, s3, "str_ac_seed_blacklist_join_denied"),
+      (str_store_string, s4, "@[AC-BLACKLIST] {s3}: {s2} (GUID: {reg1})"),
+      (server_add_message_to_log, s4),
+      (multiplayer_send_string_to_player,
+       ":player_no", multiplayer_event_return_inter_admin_chat,
+       "str_ac_seed_blacklist_join_denied_player"),
+    (else_try),
+      (str_store_string, s3, "str_ac_whitelist_join_denied"),
+      (str_store_string, s4, "@[AC-WHITELIST] {s3}: {s2} (GUID: {reg1})"),
+      (server_add_message_to_log, s4),
+      (multiplayer_send_string_to_player,
+       ":player_no", multiplayer_event_return_inter_admin_chat,
+       "str_ac_whitelist_join_denied_player"),
+    (try_end),
     (try_begin),
       (player_is_admin, ":player_no"),
       (player_set_is_admin, ":player_no", 0),
@@ -261,7 +302,9 @@ admin-protection scripts run.
 (try_end),
 ```
 
-After the permitted branch, the same join script checks
+The seed-mismatch blacklist check runs first and, if it matches, skips the
+whitelist check entirely — a blacklisted GUID cannot be let back in by also
+being on the whitelist. After the permitted branch, the same join script checks
 `script_cf_json_admin_guid_contains`. A player who is not in
 `anticheat_admin_guids.json` has native admin status removed and the removal
 is written to the server log. The player whitelist therefore controls entry,
@@ -283,6 +326,8 @@ prefix of `module_strings.py`:
 ("ac_reason_multisignal_autoblock", "Auto-block multi-signal suspicion"),
 ("ac_whitelist_join_denied", "Connection denied by player whitelist"),
 ("ac_whitelist_join_denied_player", "You are not on the player whitelist."),
+("ac_seed_blacklist_join_denied", "Connection denied: permanently blacklisted for seed mismatch"),
+("ac_seed_blacklist_join_denied_player", "You are permanently blocked from this server (seed validation failure)."),
 ```
 
 The corresponding generated IDs in `ID_strings.py` are:
@@ -296,6 +341,8 @@ str_ac_reason_speedhack             = 8
 str_ac_reason_multisignal_autoblock = 9
 str_ac_whitelist_join_denied        = 10
 str_ac_whitelist_join_denied_player = 11
+str_ac_seed_blacklist_join_denied        = 12
+str_ac_seed_blacklist_join_denied_player = 13
 ```
 
 ---
@@ -363,6 +410,51 @@ anticheat_scripts = [
    ]),
 
   # ============================================================================
+  # Script: script_cf_player_guid_is_seed_blacklisted / script_cf_add_seed_mismatch_blacklist
+  # Seed mismatch is deterministic, so an offender is blacklisted by GUID forever,
+  # independent of any ban_player duration or admin unban. Keyed by GUID
+  # (blacklist_{guid}), not a numbered index, so no counter bookkeeping is needed.
+  # ============================================================================
+  ("cf_player_guid_is_seed_blacklisted",
+   [
+     (store_script_param, ":guid", 1),
+     (call_script, "script_ensure_seed_mismatch_blacklist_file"),
+     (dict_create, ":blacklist_dict"),
+     (str_store_string, s0, "@anticheat_seed_mismatch_blacklist"),
+     (dict_load_file_json, ":blacklist_dict", s0, 0),
+     (assign, reg1, ":guid"),
+     (str_store_string, s1, "@blacklist_{reg1}"),
+     (dict_get_int, ":is_blacklisted", ":blacklist_dict", s1, 0),
+     (assign, reg0, ":is_blacklisted"),
+   ]),
+
+  ("cf_add_seed_mismatch_blacklist",
+   [
+     (store_script_param, ":player_no", 1),
+     (call_script, "script_ensure_seed_mismatch_blacklist_file"),
+     (dict_create, ":blacklist_dict"),
+     (str_store_string, s0, "@anticheat_seed_mismatch_blacklist"),
+     (dict_load_file_json, ":blacklist_dict", s0, 0),
+     (player_get_unique_id, ":guid", ":player_no"),
+     (assign, reg1, ":guid"),
+     (str_store_string, s1, "@blacklist_{reg1}"),
+     (dict_get_int, ":already_blacklisted", ":blacklist_dict", s1, 0),
+     (try_begin),
+       (eq, ":already_blacklisted", 0),
+       (dict_set_int, ":blacklist_dict", s1, 1),
+       (str_store_player_username, s2, ":player_no"),
+       (str_store_string, s1, "@blacklist_name_{reg1}"),
+       (dict_set_str, ":blacklist_dict", s1, s2),
+       (get_time, ":current_time"),
+       (str_store_string, s1, "@blacklist_time_{reg1}"),
+       (dict_set_int, ":blacklist_dict", s1, ":current_time"),
+       (dict_save_json, ":blacklist_dict", s0),
+       (str_store_string, s3, "@[AC-BLACKLIST] Permanently blacklisted GUID {reg1} ({s2}) after seed mismatch"),
+       (server_add_message_to_log, s3),
+     (try_end),
+   ]),
+
+  # ============================================================================
   # Script: script_cf_json_admin_guid_contains
   # Returns 1 in reg0 when the player GUID exists in the admin JSON dictionary.
   # Returns the matching admin name in s7.
@@ -427,6 +519,7 @@ anticheat_scripts = [
          (player_set_slot, ":player_no", slot_player_cheat_seed_mismatches, ":seed_mismatches"),
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_confirmed),
          (call_script, "script_cf_anticheat_enforce", ":player_no", ac_reason_seed_mismatch),
+         (call_script, "script_cf_add_seed_mismatch_blacklist", ":player_no"),
          (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
 
        # -----------------------------------------------------------------------
@@ -778,7 +871,9 @@ anticheat_scripts = [
   once and caches every value into `$g_ac_*` globals (including pushing
   `temp_ban_seconds` into the native `aco_auto_temp_ban_seconds` server option),
   finishing by setting the `$g_ac_config_cached` sentinel to `1`.
-2. **Join and restore**: `script_multiplayer_server_player_joined_common`
+2. **Join and restore**: `script_multiplayer_server_player_joined_common` first
+  denies any GUID present in `anticheat_seed_mismatch_blacklist.json`
+  unconditionally (this check cannot be overridden by the whitelist), then
   enforces `$g_ac_player_whitelist_admission_enabled` (the cached config
   value, not a per-join disk read) unless `$g_ac_config_cached` is still `0`
   (fresh server boot, first mission not yet cached), in which case it fails
@@ -940,4 +1035,15 @@ anticheat_scripts = [
   which calls `script_ensure_anticheat_config` itself as its first step. Fixed
   by removing the redundant standalone call; `cf_cache_anticheat_config` still
   guarantees the config file exists before it reads it.
+- Seed mismatch previously relied only on `ban_player`/`aco_auto_temp_ban_seconds`
+  for enforcement, both of which are time-limited and both of which do
+  nothing at all in silent mode. Since seed mismatch is deterministic (an
+  honest client can never trigger it), `on_cheat_detected` now also calls
+  `cf_add_seed_mismatch_blacklist`, which writes the GUID to
+  `anticheat_seed_mismatch_blacklist.json` unconditionally — regardless of
+  `enforcement_mode` and with no expiry. The join gate in
+  `script_multiplayer_server_player_joined_common` checks this file before the
+  player whitelist and denies admission outright on a match, so the entry
+  survives a temp-ban expiring, `enforcement_mode` being silent, or the GUID
+  also being present in `anticheat_player_whitelist.json`.
 

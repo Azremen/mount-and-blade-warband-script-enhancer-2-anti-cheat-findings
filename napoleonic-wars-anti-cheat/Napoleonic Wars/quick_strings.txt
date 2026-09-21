@@ -1,4 +1,4 @@
-177
+183
 qstr_Careful... Careful...
 qstr_{reg3} {reg3}
 qstr_0 0
@@ -63,6 +63,7 @@ qstr_Use_Prop Use_Prop
 qstr_Unknown_command_issu Unknown_command_issued!
 qstr_{s7}_opened_the_gate {s7}_opened_the_gate
 qstr_{s7}_closed_the_gate {s7}_closed_the_gate
+qstr_[AC_BLACKLIST]_{s3}: [AC-BLACKLIST]_{s3}:_{s2}_(GUID:_{reg1})
 qstr_[AC_WHITELIST]_{s3}: [AC-WHITELIST]_{s3}:_{s2}_(GUID:_{reg1})
 qstr_[AC_ADMIN]_Removed_n [AC-ADMIN]_Removed_non-whitelisted_admin:_{s2}_GUID:_{reg1}
 qstr_Centre_Inf Centre_Inf
@@ -119,6 +120,11 @@ qstr_player_guid_1 player_guid_1
 qstr_player_name_1 player_name_1
 qstr_player_guid_2 player_guid_2
 qstr_player_name_2 player_name_2
+qstr_anticheat_seed_misma anticheat_seed_mismatch_blacklist
+qstr_blacklist_{reg1} blacklist_{reg1}
+qstr_blacklist_name_{reg1 blacklist_name_{reg1}
+qstr_blacklist_time_{reg1 blacklist_time_{reg1}
+qstr_[AC_BLACKLIST]_Perma [AC-BLACKLIST]_Permanently_blacklisted_GUID_{reg1}_({s2})_after_seed_mismatch
 qstr_anticheat_config anticheat_config
 qstr_enforcement_mode enforcement_mode
 qstr_temp_ban_seconds temp_ban_seconds
