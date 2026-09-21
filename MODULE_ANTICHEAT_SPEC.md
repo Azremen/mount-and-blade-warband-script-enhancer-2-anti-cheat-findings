@@ -184,7 +184,65 @@ handler. `module_triggers.py` does not host this feature.
 
 ---
 
-## 4. Module System Evaluation & Enforcement Scripts (`module_scripts.py`)
+## 4. Player Join Admission (`module_scripts.py`)
+
+The whitelist gate is implemented inside
+`script_multiplayer_server_player_joined_common`. It runs only on the
+dedicated server for non-server player slots. A denied player is logged,
+notified, stripped of admin status if necessary, and kicked. A permitted
+player has GUID history restored before the normal initial-information and
+admin-protection scripts run.
+
+```python
+(try_begin),
+  (multiplayer_is_server),
+  (neq, ":player_no", 0),
+
+  (assign, ":player_allowed", 1),
+  (call_script, "script_ensure_anticheat_config"),
+  (dict_create, ":config_dict"),
+  (str_store_string, s0, "@anticheat_config"),
+  (dict_load_file_json, ":config_dict", s0, 0),
+  (str_store_string, s0, "@player_whitelist_admission_enabled"),
+  (dict_get_int, ":admission_enabled", ":config_dict", s0, 1),
+  (try_begin),
+    (eq, ":admission_enabled", 1),
+    (player_get_unique_id, ":player_guid", ":player_no"),
+    (call_script, "script_cf_player_guid_is_whitelisted", ":player_guid"),
+    (assign, ":player_allowed", reg0),
+  (try_end),
+  (try_begin),
+    (eq, ":player_allowed", 0),
+    (str_store_player_username, s2, ":player_no"),
+    (assign, reg1, ":player_guid"),
+    (str_store_string, s3, "str_ac_whitelist_join_denied"),
+    (str_store_string, s4, "@[AC-WHITELIST] {s3}: {s2} (GUID: {reg1})"),
+    (server_add_message_to_log, s4),
+    (multiplayer_send_string_to_player,
+     ":player_no", multiplayer_event_return_inter_admin_chat,
+     "str_ac_whitelist_join_denied_player"),
+    (try_begin),
+      (player_is_admin, ":player_no"),
+      (player_set_is_admin, ":player_no", 0),
+    (try_end),
+    (kick_player, ":player_no"),
+  (else_try),
+    (call_script, "script_cf_restore_anticheat_player_history", ":player_no"),
+    (call_script, "script_multiplayer_send_initial_information", ":player_no"),
+    (call_script, "script_multiplayer_server_protect_admin_password", ":player_no"),
+  (try_end),
+(try_end),
+```
+
+After the permitted branch, the same join script checks
+`script_cf_json_admin_guid_contains`. A player who is not in
+`anticheat_admin_guids.json` has native admin status removed and the removal
+is written to the server log. The player whitelist therefore controls entry,
+while the separate admin dictionary controls which GUIDs retain admin status.
+
+---
+
+## 5. Module System Evaluation & Enforcement Scripts (`module_scripts.py`)
 
 The records below are a decision-logic reference. The actual source appends
 the named scripts directly to `scripts = [...]`; it does not define an
@@ -581,7 +639,7 @@ anticheat_scripts = [
 
 ---
 
-## 5. Current Source Behavior
+## 6. Current Source Behavior
 
 1. **Mission start**: `multiplayer_server_ensure_anticheat_json` creates the
   admin GUID, player whitelist, configuration, and history files when absent
