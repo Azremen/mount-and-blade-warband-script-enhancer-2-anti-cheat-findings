@@ -30607,6 +30607,7 @@ scripts = [
          (player_set_slot, ":player_no", slot_player_cheat_seed_mismatches, ":seed_mismatches"),
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_confirmed),
         (call_script, "script_cf_anticheat_enforce", ":player_no", ac_reason_seed_mismatch),
+        (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
        (else_try),
          (eq, ":type", acd_auto_block),
          (assign, reg0, 1), # module owns every acd_auto_block event, even sub-threshold ones
@@ -30631,9 +30632,11 @@ scripts = [
            (player_set_slot, ":player_no", slot_player_cheat_matchrate_spikes, ":count"),
          (try_end),
          (call_script, "script_cf_eval_player_threat", ":player_no", acd_auto_block),
+         (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
        (else_try),
          (eq, ":type", acd_time_skew),
          (assign, reg0, 1), # module owns every acd_time_skew event, even sub-threshold ones
+         (set_fixed_point_multiplier, 1), # acs_* stats must be read as raw ints, not scaled by another script's multiplier
          (player_get_anticheat_stat, ":max_skew", ":player_no", acs_time_skew_max),
          (call_script, "script_ensure_anticheat_config"),
          (dict_create, ":config_dict"),
@@ -30646,8 +30649,8 @@ scripts = [
          (val_add, ":count", 1),
          (player_set_slot, ":player_no", slot_player_cheat_clock_skew_count, ":count"),
          (call_script, "script_cf_eval_player_threat", ":player_no", acd_time_skew),
+         (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
        (try_end),
-       (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
      (try_end),
    ]),
 
@@ -30684,6 +30687,7 @@ scripts = [
      (player_get_slot, ":spikes", ":player_no", slot_player_cheat_matchrate_spikes),
      (player_get_slot, ":feints", ":player_no", slot_player_cheat_feint_follows),
      (player_get_slot, ":skew_count", ":player_no", slot_player_cheat_clock_skew_count),
+     (set_fixed_point_multiplier, 1), # acs_* stats must be read as raw ints, not scaled by another script's multiplier
      (player_get_anticheat_stat, ":match_pct", ":player_no", acs_autoblock_match),
      (player_get_anticheat_stat, ":reaction_ms", ":player_no", acs_autoblock_reaction_ms),
      (player_get_anticheat_stat, ":max_skew", ":player_no", acs_time_skew_max),
