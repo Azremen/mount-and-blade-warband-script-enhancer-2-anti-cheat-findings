@@ -12,6 +12,8 @@ strings = [
   ("ac_reason_multisignal_autoblock", "Auto-block multi-signal suspicion"),
   ("ac_whitelist_join_denied", "Connection denied by player whitelist"),
   ("ac_whitelist_join_denied_player", "You are not on the player whitelist."),
+  ("ac_seed_blacklist_join_denied", "Connection denied: permanently blacklisted for seed mismatch"),
+  ("ac_seed_blacklist_join_denied_player", "You are permanently blocked from this server (seed validation failure)."),
   # Strings before this point are hardwired.  
   ("blank_string", " "),
   ("ERROR_string", "{!}ERROR!!!ERROR!!!!ERROR!!!ERROR!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!ERROR!!!ERROR!!!!!"),
