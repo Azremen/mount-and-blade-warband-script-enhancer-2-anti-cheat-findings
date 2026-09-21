@@ -4310,7 +4310,7 @@ multiplayer_server_ensure_anticheat_json = (
   [
     (call_script, "script_ensure_admin_guid_file"),
     (call_script, "script_ensure_player_whitelist_file"),
-    (call_script, "script_ensure_anticheat_config"),
+    # script_cf_cache_anticheat_config calls script_ensure_anticheat_config itself.
     (call_script, "script_cf_cache_anticheat_config"),
     (call_script, "script_ensure_anticheat_player_history"),
   ])

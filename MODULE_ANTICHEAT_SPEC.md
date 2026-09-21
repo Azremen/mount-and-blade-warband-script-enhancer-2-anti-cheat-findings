@@ -115,11 +115,11 @@ flags, `anticheat_player_whitelist.json` contains normal-player GUID flags, and
 ```
 
 `anticheat_player_history.json` is a module-managed, GUID-keyed runtime history file. On every
-anti-cheat event it stores the accumulated detection counters and the current mission time. When a
+anti-cheat event it stores the accumulated detection counters and the current UNIX time. When a
 player reconnects within `history_window_seconds` (default `1800`), the counters are restored before
-the next detection is evaluated. A map change resets the mission timer, so old history is not carried
-into a new match. This prevents reconnects from resetting a current-match detection pattern without
-making historical detections permanent.
+the next detection is evaluated. Because the elapsed time is measured with UNIX time rather than the
+mission timer, a map change or server restart does not reset the reconnect window. History remains
+eligible for restoration for up to 30 minutes across those boundaries, but older history expires.
 
 ```json
 // anticheat_admin_guids.json
@@ -181,7 +181,7 @@ multiplayer_server_ensure_anticheat_json = (
   [
     (call_script, "script_ensure_admin_guid_file"),
     (call_script, "script_ensure_player_whitelist_file"),
-    (call_script, "script_ensure_anticheat_config"),
+    # script_cf_cache_anticheat_config calls script_ensure_anticheat_config itself.
     (call_script, "script_cf_cache_anticheat_config"),
     (call_script, "script_ensure_anticheat_player_history"),
   ])
@@ -194,7 +194,21 @@ handler. `module_triggers.py` does not host this feature.
 `script_cf_cache_anticheat_config` reads `anticheat_config.json` once per
 mission and copies every value into `$g_ac_*` globals (see section 6). Every
 other anti-cheat script reads these globals instead of the JSON file, so a
-config edit takes effect on the next mission start, not instantly.
+config edit — including `enforcement_mode` — takes effect on the next mission
+start, not instantly. This is a separate switch from the native
+`set_anticheat_mode`/`iMode` console command described in
+`ANTICHEAT_SERVER_GUIDE.md`: that native mode changes live, but the module
+suppresses native action for every type it scores itself, so it has no effect
+on this module's own `ban_player` call in `cf_anticheat_enforce`.
+
+`cf_cache_anticheat_config` also sets `$g_ac_config_cached = 1` as its last
+step. Until it runs once (i.e. before the first `ti_before_mission_start` of
+a fresh server process completes), `$g_ac_player_whitelist_admission_enabled`
+reads as its uninitialized default of `0`, which would otherwise mean "no
+whitelist required" during that startup window even though the documented
+JSON default is `1` (required). The player-join admission check (section 4)
+treats `$g_ac_config_cached == 0` as "require whitelist" to fail safe instead
+of fail open during that window.
 
 ---
 
@@ -215,6 +229,10 @@ admin-protection scripts run.
   (assign, ":player_allowed", 1),
   (player_get_unique_id, ":player_guid", ":player_no"),
   (assign, ":admission_enabled", "$g_ac_player_whitelist_admission_enabled"),
+  (try_begin),
+    (eq, "$g_ac_config_cached", 0), # config not cached yet this boot; fail safe to whitelist-required
+    (assign, ":admission_enabled", 1),
+  (try_end),
   (try_begin),
     (eq, ":admission_enabled", 1),
     (call_script, "script_cf_player_guid_is_whitelisted", ":player_guid"),
@@ -341,6 +359,7 @@ anticheat_scripts = [
      (dict_get_int, "$g_ac_noise_min_reaction_ms", ":config_dict", s1, ac_conf_noise_min_reaction_ms),
      (str_store_string, s1, "@sustained_match_pct"),
      (dict_get_int, "$g_ac_sustained_match_pct", ":config_dict", s1, ac_conf_sustained_match_pct),
+     (assign, "$g_ac_config_cached", 1), # lets the join gate fail safe before this has run once
    ]),
 
   # ============================================================================
@@ -757,15 +776,19 @@ anticheat_scripts = [
   admin GUID, player whitelist, configuration, and history files when absent
   or empty, then `script_cf_cache_anticheat_config` loads `anticheat_config.json`
   once and caches every value into `$g_ac_*` globals (including pushing
-  `temp_ban_seconds` into the native `aco_auto_temp_ban_seconds` server option).
+  `temp_ban_seconds` into the native `aco_auto_temp_ban_seconds` server option),
+  finishing by setting the `$g_ac_config_cached` sentinel to `1`.
 2. **Join and restore**: `script_multiplayer_server_player_joined_common`
   enforces `$g_ac_player_whitelist_admission_enabled` (the cached config
-  value, not a per-join disk read); a permitted player restores same-mission
-  GUID history before normal join initialization proceeds. The same script
-  also resets every `slot_player_cheat_*` counter to zero for the joining
-  player slot (in `script_multiplayer_init_player_slots`, which runs before
-  the history restore), so a reused slot number from a previous disconnect
-  cannot leak one player's threat level/detection counts onto a new player.
+  value, not a per-join disk read) unless `$g_ac_config_cached` is still `0`
+  (fresh server boot, first mission not yet cached), in which case it fails
+  safe and requires the whitelist regardless of the JSON default. A permitted
+  player restores recent GUID history before normal join initialization
+  proceeds. The same script also resets every `slot_player_cheat_*` counter to
+  zero for the joining player slot (in `script_multiplayer_init_player_slots`,
+  which runs before the history restore), so a reused slot number from a
+  previous disconnect cannot leak one player's threat level/detection counts
+  onto a new player.
 3. **Detection**: `multiplayer_server_anticheat` forwards all four engine
   parameters to `script_on_cheat_detected` and sets `reg0` to `1` to suppress
   native WSE2 action.
@@ -886,4 +909,35 @@ anticheat_scripts = [
   native `aco_auto_temp_ban_seconds` server option (`ANTICHEAT_SERVER_GUIDE.md`'s
   `iAutoTempBanSeconds` INI key), which `cf_cache_anticheat_config` now sets
   via `server_set_anticheat_option` once per mission.
+- The native `set_anticheat_mode`/`iMode` console switch (`ANTICHEAT_SERVER_GUIDE.md`
+  section 2) and this module's own `anticheat_config.json` → `enforcement_mode`
+  key are two independent switches that share the same `1`/`2` (silent/enforce)
+  values, which invites confusion. Changing the native mode at the console
+  takes effect immediately, but has no effect on the module's own
+  `cf_anticheat_enforce` → `ban_player` call, since the module suppresses
+  native action for every type it scores itself. There is no console/chat
+  command in this build to force `cf_cache_anticheat_config` to re-run
+  mid-mission; a JSON `enforcement_mode` change only takes effect on the next
+  map. This is documented behavior (see section 3), not a bug, but it is an
+  easy operational mistake to run `set_anticheat_mode 2` and assume the
+  module's own bans are now live.
+- Fail-open window: before `cf_cache_anticheat_config` runs for the first time
+  in a fresh server process, `$g_ac_player_whitelist_admission_enabled` reads
+  as the engine's uninitialized default (`0`), which would otherwise mean "no
+  whitelist required" even though the documented JSON default is `1`
+  (required). Fixed: `cf_cache_anticheat_config` now sets a `$g_ac_config_cached`
+  sentinel to `1` as its last step, and the join-admission check in
+  `script_multiplayer_server_player_joined_common` treats
+  `$g_ac_config_cached == 0` as "require the whitelist", failing safe instead
+  of fail open during that window. The equivalent gap in
+  `cf_restore_anticheat_player_history` (`$g_ac_history_window_seconds` reading
+  `0` before the first cache) was not changed: it only makes history restore
+  never match (`elapsed <= 0` is effectively unreachable), which fails safe
+  already — a legitimate reconnect in that narrow window just doesn't get its
+  history restored, it does not bypass anything.
+- `multiplayer_server_ensure_anticheat_json` called `script_ensure_anticheat_config`
+  directly and then immediately called `script_cf_cache_anticheat_config`,
+  which calls `script_ensure_anticheat_config` itself as its first step. Fixed
+  by removing the redundant standalone call; `cf_cache_anticheat_config` still
+  guarantees the config file exists before it reads it.
 

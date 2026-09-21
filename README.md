@@ -126,7 +126,7 @@ This list is not a universal cheat database or a legal judgment. The same name c
 - The WSE2 SDK defines client-integrity detections for client modules, threads, hooks, signatures, and text hashes (`types 20-24`). This archive does not include the non-public engine source or log evidence proving which of these checks are active in the deployed build; their runtime behavior must be verified against that build before being treated as enabled or disabled.
 - Statistical detectors can produce false positives; enforcement must not be enabled without calibration.
 - Bans are tied to the unique ID and may be bypassed with another serial key or a VPN.
-- The source may not exactly match this archive's specification. Documented differences include the seed mismatch counter not being incremented, the JSON clock threshold not being used by the handler, the `max_matchrate_spikes` setting not being read, and the whitelist file being recreated.
+- The implementation and specification have been revised together for the previously documented issues: seed mismatch counting, the configured clock-skew threshold, `max_matchrate_spikes`, whitelist preservation, and reconnect history persistence. The non-public engine source is unavailable here, so runtime behavior should still be verified against the exact deployed build.
 - [CHEATER_WATCHLIST.md](CHEATER_WATCHLIST.md) references `CHEAT_TEST_FINDINGS.md`, which is not present in the current file tree. Use the available server logs as the source for full evidence until that file is added.
 
 ## Project Status

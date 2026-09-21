@@ -1637,3 +1637,4 @@ g_ac_min_clock_skew_detections
 g_ac_noise_max_match_pct
 g_ac_noise_min_reaction_ms
 g_ac_sustained_match_pct
+g_ac_config_cached
