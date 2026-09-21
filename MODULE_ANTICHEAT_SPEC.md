@@ -182,6 +182,7 @@ multiplayer_server_ensure_anticheat_json = (
     (call_script, "script_ensure_admin_guid_file"),
     (call_script, "script_ensure_player_whitelist_file"),
     (call_script, "script_ensure_anticheat_config"),
+    (call_script, "script_cf_cache_anticheat_config"),
     (call_script, "script_ensure_anticheat_player_history"),
   ])
 ```
@@ -189,6 +190,11 @@ multiplayer_server_ensure_anticheat_json = (
 Both triggers are entries in `mm_multiplayer_common`, so every mission
 template using that shared list receives the initialization and detection
 handler. `module_triggers.py` does not host this feature.
+
+`script_cf_cache_anticheat_config` reads `anticheat_config.json` once per
+mission and copies every value into `$g_ac_*` globals (see section 6). Every
+other anti-cheat script reads these globals instead of the JSON file, so a
+config edit takes effect on the next mission start, not instantly.
 
 ---
 
@@ -208,12 +214,7 @@ admin-protection scripts run.
 
   (assign, ":player_allowed", 1),
   (player_get_unique_id, ":player_guid", ":player_no"),
-  (call_script, "script_ensure_anticheat_config"),
-  (dict_create, ":config_dict"),
-  (str_store_string, s0, "@anticheat_config"),
-  (dict_load_file_json, ":config_dict", s0, 0),
-  (str_store_string, s0, "@player_whitelist_admission_enabled"),
-  (dict_get_int, ":admission_enabled", ":config_dict", s0, 1),
+  (assign, ":admission_enabled", "$g_ac_player_whitelist_admission_enabled"),
   (try_begin),
     (eq, ":admission_enabled", 1),
     (call_script, "script_cf_player_guid_is_whitelisted", ":player_guid"),
@@ -296,7 +297,54 @@ from module_constants import *
 anticheat_scripts = [
 
   # ============================================================================
-  # Script 0: script_cf_json_admin_guid_contains
+  # Script cf_cache_anticheat_config
+  # Called once per mission (ti_before_mission_start) after ensure_anticheat_config.
+  # Caches every anticheat_config.json value into $g_ac_* globals so
+  # on_cheat_detected/cf_eval_player_threat/cf_anticheat_enforce/
+  # cf_restore_anticheat_player_history never touch disk per-event. A config
+  # edit takes effect on the next mission start, not instantly.
+  # ============================================================================
+  ("cf_cache_anticheat_config",
+   [
+     (call_script, "script_ensure_anticheat_config"),
+     (dict_create, ":config_dict"),
+     (str_store_string, s0, "@anticheat_config"),
+     (dict_load_file_json, ":config_dict", s0, 0),
+     (str_store_string, s1, "@enforcement_mode"),
+     (dict_get_int, "$g_ac_enforcement_mode", ":config_dict", s1, acm_silent),
+     (str_store_string, s1, "@temp_ban_seconds"),
+     (dict_get_int, "$g_ac_temp_ban_seconds", ":config_dict", s1, 3600),
+     # ban_player has no duration arg; the native engine reads the temp-ban
+     # length from this option instead (see cf_anticheat_enforce below).
+     (server_set_anticheat_option, aco_auto_temp_ban_seconds, "$g_ac_temp_ban_seconds"),
+     (str_store_string, s1, "@history_window_seconds"),
+     (dict_get_int, "$g_ac_history_window_seconds", ":config_dict", s1, ac_conf_history_window_seconds),
+     (str_store_string, s1, "@player_whitelist_admission_enabled"),
+     (dict_get_int, "$g_ac_player_whitelist_admission_enabled", ":config_dict", s1, 1),
+     (str_store_string, s1, "@max_offscreen_allowed"),
+     (dict_get_int, "$g_ac_max_offscreen_allowed", ":config_dict", s1, ac_conf_max_offscreen_allowed),
+     (str_store_string, s1, "@min_detections_watchlist"),
+     (dict_get_int, "$g_ac_min_detections_watchlist", ":config_dict", s1, ac_conf_min_detections_watchlist),
+     (str_store_string, s1, "@min_detections_suspected"),
+     (dict_get_int, "$g_ac_min_detections_suspected", ":config_dict", s1, ac_conf_min_detections_suspected),
+     (str_store_string, s1, "@max_matchrate_spikes"),
+     (dict_get_int, "$g_ac_max_matchrate_spikes", ":config_dict", s1, ac_conf_max_matchrate_spikes),
+     (str_store_string, s1, "@min_detections_confirmed"),
+     (dict_get_int, "$g_ac_min_detections_confirmed", ":config_dict", s1, ac_conf_min_detections_confirmed),
+     (str_store_string, s1, "@clock_skew_threshold_pct"),
+     (dict_get_int, "$g_ac_clock_skew_threshold_pct", ":config_dict", s1, ac_conf_clock_skew_threshold_pct),
+     (str_store_string, s1, "@min_clock_skew_detections"),
+     (dict_get_int, "$g_ac_min_clock_skew_detections", ":config_dict", s1, ac_conf_min_clock_skew_detections),
+     (str_store_string, s1, "@noise_max_match_pct"),
+     (dict_get_int, "$g_ac_noise_max_match_pct", ":config_dict", s1, ac_conf_noise_max_match_pct),
+     (str_store_string, s1, "@noise_min_reaction_ms"),
+     (dict_get_int, "$g_ac_noise_min_reaction_ms", ":config_dict", s1, ac_conf_noise_min_reaction_ms),
+     (str_store_string, s1, "@sustained_match_pct"),
+     (dict_get_int, "$g_ac_sustained_match_pct", ":config_dict", s1, ac_conf_sustained_match_pct),
+   ]),
+
+  # ============================================================================
+  # Script: script_cf_json_admin_guid_contains
   # Returns 1 in reg0 when the player GUID exists in the admin JSON dictionary.
   # Returns the matching admin name in s7.
   # ============================================================================
@@ -304,21 +352,21 @@ anticheat_scripts = [
    [
      (store_script_param, ":guid", 1),
      (call_script, "script_ensure_admin_guid_file"),
-     (dict_create, ":admin_guids_dict"),
+     (dict_create, ":admin_dict"),
      (str_store_string, s0, "@anticheat_admin_guids"),
-     (dict_load_file_json, ":admin_guids_dict", s0, 0),
+     (dict_load_file_json, ":admin_dict", s0, 0),
 
-     # Iterate admin_guid_N keys; the corresponding admin_name_N is used for log context.
+     # Admin records use separate keys: admin_guid_N and admin_name_N.
      (assign, reg0, 0),
      (str_store_string, s7, "@Unknown"),
-     (try_for_dict_keys, s10, ":admin_guids_dict"),
+     (try_for_dict_keys, s10, ":admin_dict"),
        (str_starts_with, s10, "@admin_guid_"),
-       (dict_get_int, ":admin_guid", ":admin_guids_dict", s10, -1),
+       (dict_get_int, ":admin_guid", ":admin_dict", s10, -1),
        (str_store_string, s9, "@admin_name_"),
        (str_store_replace, s8, s10, "@admin_guid_", s9),
        (try_begin),
          (eq, ":guid", ":admin_guid"),
-         (dict_get_str, s7, ":admin_guids_dict", s8),
+         (dict_get_str, s7, ":admin_dict", s8),
          (str_store_trim, s7, s7),
          (assign, reg0, 1),
          (break_loop),
@@ -327,7 +375,7 @@ anticheat_scripts = [
    ]),
 
   # ============================================================================
-  # Script 1: script_on_cheat_detected
+  # Script: script_on_cheat_detected
   # Receives all ti_on_cheat_detected parameters from the trigger.
   # ============================================================================
   ("on_cheat_detected",
@@ -336,14 +384,18 @@ anticheat_scripts = [
      (store_script_param, ":type", 2),
      (store_script_param, ":value", 3),
      (store_script_param, ":threshold", 4),
-
      (assign, reg0, 0), # unhandled types fall through to native WSE2 action
      (try_begin),
        (player_is_active, ":player_no"),
-
-       (player_get_slot, ":total_dets", ":player_no", slot_player_cheat_total_detections),
-       (val_add, ":total_dets", 1),
-       (player_set_slot, ":player_no", slot_player_cheat_total_detections, ":total_dets"),
+       (try_begin),
+         (this_or_next|eq, ":type", acd_seed_mismatch),
+         (this_or_next|eq, ":type", acd_auto_block),
+         (eq, ":type", acd_time_skew),
+         # total_detections only counts scored types, so it never drifts from what history saves
+         (player_get_slot, ":detections", ":player_no", slot_player_cheat_total_detections),
+         (val_add, ":detections", 1),
+         (player_set_slot, ":player_no", slot_player_cheat_total_detections, ":detections"),
+       (try_end),
 
        # -----------------------------------------------------------------------
        # CASE 1: Seed Mismatch (Deterministic)
@@ -351,11 +403,9 @@ anticheat_scripts = [
        (try_begin),
          (eq, ":type", acd_seed_mismatch),
          (assign, reg0, 1),
-         
          (player_get_slot, ":seed_mismatches", ":player_no", slot_player_cheat_seed_mismatches),
          (val_add, ":seed_mismatches", 1),
          (player_set_slot, ":player_no", slot_player_cheat_seed_mismatches, ":seed_mismatches"),
-         
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_confirmed),
          (call_script, "script_cf_anticheat_enforce", ":player_no", ac_reason_seed_mismatch),
          (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
@@ -370,28 +420,25 @@ anticheat_scripts = [
          (player_get_slot, ":autoblock_detections", ":player_no", slot_player_cheat_autoblock_detections),
          (val_add, ":autoblock_detections", 1),
          (player_set_slot, ":player_no", slot_player_cheat_autoblock_detections, ":autoblock_detections"),
-         
          (try_begin),
            # Threshold 6 identifies the offscreen signal, including values such as 7/6 and 12/6.
            (eq, ":threshold", 6),
-           (player_get_slot, ":offscreen_cnt", ":player_no", slot_player_cheat_offscreen_count),
-           (val_add, ":offscreen_cnt", 1),
-           (player_set_slot, ":player_no", slot_player_cheat_offscreen_count, ":offscreen_cnt"),
+           (player_get_slot, ":count", ":player_no", slot_player_cheat_offscreen_count),
+           (val_add, ":count", 1),
+           (player_set_slot, ":player_no", slot_player_cheat_offscreen_count, ":count"),
          (else_try),
            # Threshold 8 identifies the feint-follow signal.
            (eq, ":threshold", 8),
-           (player_get_slot, ":feint_cnt", ":player_no", slot_player_cheat_feint_follows),
-           (val_add, ":feint_cnt", 1),
-           (player_set_slot, ":player_no", slot_player_cheat_feint_follows, ":feint_cnt"),
+           (player_get_slot, ":count", ":player_no", slot_player_cheat_feint_follows),
+           (val_add, ":count", 1),
+           (player_set_slot, ":player_no", slot_player_cheat_feint_follows, ":count"),
          (else_try),
            # Threshold 90 identifies the rolling match-rate signal.
            (eq, ":threshold", 90),
-           (player_get_slot, ":spike_cnt", ":player_no", slot_player_cheat_matchrate_spikes),
-           (val_add, ":spike_cnt", 1),
-           (player_set_slot, ":player_no", slot_player_cheat_matchrate_spikes, ":spike_cnt"),
+           (player_get_slot, ":count", ":player_no", slot_player_cheat_matchrate_spikes),
+           (val_add, ":count", 1),
+           (player_set_slot, ":player_no", slot_player_cheat_matchrate_spikes, ":count"),
          (try_end),
-
-         # Evaluate threat after sub-signal update
          (call_script, "script_cf_eval_player_threat", ":player_no", acd_auto_block),
          (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
 
@@ -401,82 +448,62 @@ anticheat_scripts = [
        (else_try),
          (eq, ":type", acd_time_skew),
          (assign, reg0, 1), # module owns every acd_time_skew event, even sub-threshold ones
-
-         (set_fixed_point_multiplier, 1), # acs_* stats must be read as raw ints
+         (set_fixed_point_multiplier, 1), # acs_* stats must be read as raw ints, not scaled by another script's multiplier
          (player_get_anticheat_stat, ":max_skew", ":player_no", acs_time_skew_max),
-         (call_script, "script_ensure_anticheat_config"),
-         (dict_create, ":config_dict"),
-         (str_store_string, s0, "@anticheat_config"),
-         (dict_load_file_json, ":config_dict", s0, 0),
-         (str_store_string, s0, "@clock_skew_threshold_pct"),
-         (dict_get_int, ":clock_skew_threshold", ":config_dict", s0, ac_conf_clock_skew_threshold_pct),
+         (assign, ":clock_skew_threshold", "$g_ac_clock_skew_threshold_pct"),
          (ge, ":max_skew", ":clock_skew_threshold"),
-         (player_get_slot, ":skew_cnt", ":player_no", slot_player_cheat_clock_skew_count),
-         (val_add, ":skew_cnt", 1),
-         (player_set_slot, ":player_no", slot_player_cheat_clock_skew_count, ":skew_cnt"),
+         (player_get_slot, ":count", ":player_no", slot_player_cheat_clock_skew_count),
+         (val_add, ":count", 1),
+         (player_set_slot, ":player_no", slot_player_cheat_clock_skew_count, ":count"),
          (call_script, "script_cf_eval_player_threat", ":player_no", acd_time_skew),
          (call_script, "script_cf_save_anticheat_player_history", ":player_no"),
-
        (try_end),
      (try_end),
    ]),
 
   # ============================================================================
-  # Script 2: script_cf_eval_player_threat
-  # Heuristic Scoring & False-Positive Filter Logic
+  # Script: script_cf_eval_player_threat
+  # Heuristic Scoring & False-Positive Filter Logic. All thresholds come from
+  # the $g_ac_* globals cached by cf_cache_anticheat_config (no disk I/O here).
   # ============================================================================
   ("cf_eval_player_threat",
    [
      (store_script_param, ":player_no", 1),
      (store_script_param, ":detection_type", 2),
+     (assign, ":min_detections", "$g_ac_min_detections_confirmed"),
+     (assign, ":max_matchrate_spikes", "$g_ac_max_matchrate_spikes"),
+     (assign, ":max_offscreen", "$g_ac_max_offscreen_allowed"),
+     (assign, ":min_detections_watchlist", "$g_ac_min_detections_watchlist"),
+     (assign, ":min_detections_suspected", "$g_ac_min_detections_suspected"),
+     (assign, ":clock_skew_threshold", "$g_ac_clock_skew_threshold_pct"),
+     (assign, ":min_clock_skew_detections", "$g_ac_min_clock_skew_detections"),
+     (assign, ":noise_max_match", "$g_ac_noise_max_match_pct"),
+     (assign, ":noise_min_reaction", "$g_ac_noise_min_reaction_ms"),
+     (assign, ":sustained_match_pct", "$g_ac_sustained_match_pct"),
 
-     (call_script, "script_ensure_anticheat_config"),
-     (dict_create, ":config_dict"),
-     (str_store_string, s0, "@anticheat_config"),
-     (dict_load_file_json, ":config_dict", s0, 0),
-     
-       # Fetch Live Summary Stats
-      (set_fixed_point_multiplier, 1), # acs_* stats must be read as raw ints
-      (player_get_anticheat_stat, ":match_pct", ":player_no", acs_autoblock_match),
-      (player_get_anticheat_stat, ":reaction_ms", ":player_no", acs_autoblock_reaction_ms),
-      (player_get_anticheat_stat, ":max_skew", ":player_no", acs_time_skew_max),
-       
-       # Fetch Accumulated Slot Counters
-      (player_get_slot, ":autoblock_detections", ":player_no", slot_player_cheat_autoblock_detections),
-       (player_get_slot, ":offscreen_cnt", ":player_no", slot_player_cheat_offscreen_count),
-       (player_get_slot, ":spikes_cnt", ":player_no", slot_player_cheat_matchrate_spikes),
-       (player_get_slot, ":feint_cnt", ":player_no", slot_player_cheat_feint_follows),
-       (player_get_slot, ":skew_cnt", ":player_no", slot_player_cheat_clock_skew_count),
+     # Fetch Accumulated Slot Counters, plus the player's current threat level
+     # so no rule below can downgrade it (see EVALUATION RULEs 1, 5, 6, 7).
+     (player_get_slot, ":autoblock_detections", ":player_no", slot_player_cheat_autoblock_detections),
+     (player_get_slot, ":offscreen", ":player_no", slot_player_cheat_offscreen_count),
+     (player_get_slot, ":spikes", ":player_no", slot_player_cheat_matchrate_spikes),
+     (player_get_slot, ":feints", ":player_no", slot_player_cheat_feint_follows),
+     (player_get_slot, ":skew_count", ":player_no", slot_player_cheat_clock_skew_count),
+     (player_get_slot, ":current_threat", ":player_no", slot_player_cheat_threat_level),
 
-       # Read evaluation thresholds from anticheat_config.json.
-       (str_store_string, s0, "@max_offscreen_allowed"),
-       (dict_get_int, ":max_offscreen_allowed", ":config_dict", s0, ac_conf_max_offscreen_allowed),
-       (str_store_string, s0, "@min_detections_watchlist"),
-       (dict_get_int, ":min_detections_watchlist", ":config_dict", s0, ac_conf_min_detections_watchlist),
-       (str_store_string, s0, "@min_detections_suspected"),
-       (dict_get_int, ":min_detections_suspected", ":config_dict", s0, ac_conf_min_detections_suspected),
-       (str_store_string, s0, "@min_detections_confirmed"),
-       (dict_get_int, ":min_detections_confirmed", ":config_dict", s0, ac_conf_min_detections_confirmed),
-      (str_store_string, s0, "@max_matchrate_spikes"),
-      (dict_get_int, ":max_matchrate_spikes", ":config_dict", s0, ac_conf_max_matchrate_spikes),
-       (str_store_string, s0, "@clock_skew_threshold_pct"),
-       (dict_get_int, ":clock_skew_threshold_pct", ":config_dict", s0, ac_conf_clock_skew_threshold_pct),
-       (str_store_string, s0, "@min_clock_skew_detections"),
-       (dict_get_int, ":min_clock_skew_detections", ":config_dict", s0, ac_conf_min_clock_skew_detections),
-       (str_store_string, s0, "@noise_max_match_pct"),
-       (dict_get_int, ":noise_max_match_pct", ":config_dict", s0, ac_conf_noise_max_match_pct),
-       (str_store_string, s0, "@noise_min_reaction_ms"),
-       (dict_get_int, ":noise_min_reaction_ms", ":config_dict", s0, ac_conf_noise_min_reaction_ms),
-       (str_store_string, s0, "@sustained_match_pct"),
-       (dict_get_int, ":sustained_match_pct", ":config_dict", s0, ac_conf_sustained_match_pct),
+     # Fetch Live Summary Stats
+     (set_fixed_point_multiplier, 1), # acs_* stats must be read as raw ints, not scaled by another script's multiplier
+     (player_get_anticheat_stat, ":match_pct", ":player_no", acs_autoblock_match),
+     (player_get_anticheat_stat, ":reaction_ms", ":player_no", acs_autoblock_reaction_ms),
+     (player_get_anticheat_stat, ":max_skew", ":player_no", acs_time_skew_max),
 
        # -----------------------------------------------------------------------
       # EVALUATION RULE 1: Noise Filter
        # -----------------------------------------------------------------------
       (try_begin),
         (eq, ":detection_type", acd_auto_block),
-        (lt, ":match_pct", ":noise_max_match_pct"),
-         (gt, ":reaction_ms", ":noise_min_reaction_ms"),
+        (lt, ":match_pct", ":noise_max_match"),
+         (gt, ":reaction_ms", ":noise_min_reaction"),
+         (gt, threat_level_noise, ":current_threat"), # threat level never downgrades
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_noise),
 
        # -----------------------------------------------------------------------
@@ -484,9 +511,8 @@ anticheat_scripts = [
        # -----------------------------------------------------------------------
        (else_try),
          (eq, ":detection_type", acd_auto_block),
-         (ge, ":autoblock_detections", ":min_detections_confirmed"),
+         (ge, ":autoblock_detections", ":min_detections"),
          (ge, ":match_pct", ":sustained_match_pct"),
-         
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_confirmed),
          (call_script, "script_cf_anticheat_enforce", ":player_no", ac_reason_sustained_autoblock),
 
@@ -495,10 +521,10 @@ anticheat_scripts = [
        # -----------------------------------------------------------------------
        (else_try),
          (eq, ":detection_type", acd_auto_block),
-         (ge, ":autoblock_detections", ":min_detections_confirmed"),
-         (ge, ":offscreen_cnt", ":max_offscreen_allowed"),
-         (this_or_next|gt, ":spikes_cnt", 0),
-         (gt, ":feint_cnt", 0),
+         (ge, ":autoblock_detections", ":min_detections"),
+         (ge, ":offscreen", ":max_offscreen"),
+         (this_or_next|gt, ":spikes", 0),
+         (gt, ":feints", 0),
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_confirmed),
          (call_script, "script_cf_anticheat_enforce", ":player_no", ac_reason_sustained_autoblock),
 
@@ -507,9 +533,9 @@ anticheat_scripts = [
        # -----------------------------------------------------------------------
        (else_try),
          (eq, ":detection_type", acd_time_skew),
-         (ge, ":skew_cnt", ":min_clock_skew_detections"),
-         (ge, ":max_skew", ":clock_skew_threshold_pct"),
-         
+         (gt, ":skew_count", 0),
+         (ge, ":skew_count", ":min_clock_skew_detections"),
+         (ge, ":max_skew", ":clock_skew_threshold"),
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_confirmed),
          (call_script, "script_cf_anticheat_enforce", ":player_no", ac_reason_speedhack),
 
@@ -519,7 +545,8 @@ anticheat_scripts = [
        (else_try),
          (eq, ":detection_type", acd_auto_block),
          (ge, ":autoblock_detections", ":min_detections_suspected"),
-         (ge, ":offscreen_cnt", ":max_offscreen_allowed"),
+         (ge, ":offscreen", ":max_offscreen"),
+         (gt, threat_level_suspected, ":current_threat"), # threat level never downgrades
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_suspected),
          (call_script, "script_cf_notify_admins", ":player_no", ac_reason_repeated_offscreen),
 
@@ -529,10 +556,10 @@ anticheat_scripts = [
        (else_try),
          (eq, ":detection_type", acd_auto_block),
          (ge, ":autoblock_detections", ":min_detections_suspected"),
-         (gt, ":offscreen_cnt", 0),
-         (gt, ":spikes_cnt", 0),
-         (gt, ":feint_cnt", 0),
-         
+         (gt, ":offscreen", 0),
+         (gt, ":spikes", 0),
+         (gt, ":feints", 0),
+         (gt, threat_level_suspected, ":current_threat"), # threat level never downgrades
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_suspected),
          (call_script, "script_cf_notify_admins", ":player_no", ac_reason_multisignal_autoblock),
 
@@ -542,8 +569,8 @@ anticheat_scripts = [
        (else_try),
         (eq, ":detection_type", acd_auto_block),
         (ge, ":autoblock_detections", ":min_detections_watchlist"),
-        (ge, ":spikes_cnt", ":max_matchrate_spikes"),
-         
+        (ge, ":spikes", ":max_matchrate_spikes"),
+         (gt, threat_level_watchlist, ":current_threat"), # threat level never downgrades
          (player_set_slot, ":player_no", slot_player_cheat_threat_level, threat_level_watchlist),
          (call_script, "script_cf_notify_admins", ":player_no", ac_reason_matchrate_watchlist),
 
@@ -551,21 +578,18 @@ anticheat_scripts = [
    ]),
 
   # ============================================================================
-  # Script 3: script_cf_notify_admins
+  # Script: script_cf_notify_admins
   # Logs alert strings and displays the same message.
   # ============================================================================
   ("cf_notify_admins",
    [
-     (store_script_param, ":suspect_no", 1),
+     (store_script_param, ":player_no", 1),
      (store_script_param, ":reason_code", 2),
-     
-     (player_get_unique_id, ":unique_id", ":suspect_no"),
-     (str_store_player_username, s1, ":suspect_no"),
-     (assign, reg1, ":unique_id"),
-     
-     (player_get_slot, ":threat_lvl", ":suspect_no", slot_player_cheat_threat_level),
-     (assign, reg2, ":threat_lvl"),
-
+     (player_get_unique_id, ":guid", ":player_no"),
+     (str_store_player_username, s12, ":player_no"),
+     (assign, reg1, ":guid"),
+     (player_get_slot, ":threat", ":player_no", slot_player_cheat_threat_level),
+     (assign, reg2, ":threat"),
      (str_store_string, s13, "str_no_string"), # default for an unmapped reason code
      (try_begin),
        (eq, ":reason_code", ac_reason_seed_mismatch),
@@ -583,16 +607,16 @@ anticheat_scripts = [
        (eq, ":reason_code", ac_reason_multisignal_autoblock),
        (str_store_string, s13, "str_ac_reason_multisignal_autoblock"),
      (else_try),
+       (eq, ":reason_code", ac_reason_matchrate_watchlist),
        (str_store_string, s13, "str_ac_reason_matchrate_watchlist"),
      (try_end),
-     (str_store_string, s3, "@[AC-ALERT] Suspect: {s1} (GUID: {reg1}) | Threat: {reg2} | Reason: {s13}"),
-
-    # Current source also calls display_message after writing this log record.
+     (str_store_string, s3, "@[AC-ALERT] Suspect: {s12} (GUID: {reg1}) | Threat: {reg2} | Reason: {s13}"),
      (server_add_message_to_log, s3),
+     (display_message, s3),
    ]),
 
   # ============================================================================
-  # Script 4: script_cf_is_designated_admin_guid
+  # Script: script_cf_is_designated_admin_guid
   # Check if player unique ID matches whitelisted referee / admin GUIDs
   # ============================================================================
   ("cf_is_designated_admin_guid",
@@ -608,32 +632,28 @@ anticheat_scripts = [
    ]),
 
   # ============================================================================
-  # Script 5: reconnect-resistant, GUID-keyed detection history.
+  # Script: reconnect-resistant, GUID-keyed detection history.
   # Called after a player passes admission; only restores same-mission history
-  # that was written within history_window_seconds.
+  # that was written within history_window_seconds. Uses get_time (UNIX time),
+  # not store_mission_timer_a, so the reconnect window survives a map change.
   # ============================================================================
   ("cf_restore_anticheat_player_history",
    [
      (store_script_param, ":player_no", 1),
      (call_script, "script_ensure_anticheat_player_history"),
-     (call_script, "script_ensure_anticheat_config"),
      (dict_create, ":history_dict"),
      (str_store_string, s0, "@anticheat_player_history"),
      (dict_load_file_json, ":history_dict", s0, 0),
-     (dict_create, ":config_dict"),
-     (str_store_string, s1, "@anticheat_config"),
-     (dict_load_file_json, ":config_dict", s1, 0),
-     (str_store_string, s1, "@history_window_seconds"),
-     (dict_get_int, ":history_window", ":config_dict", s1, ac_conf_history_window_seconds),
+     (assign, ":history_window", "$g_ac_history_window_seconds"),
      (player_get_unique_id, ":guid", ":player_no"),
      (assign, reg1, ":guid"),
      (str_store_string, s1, "@history_last_{reg1}"),
      (dict_get_int, ":last_time", ":history_dict", s1, -1),
-     (store_mission_timer_a, ":current_time"),
+     (get_time, ":current_time"), # UNIX time; unlike store_mission_timer_a this does not reset on map change
      (store_sub, ":elapsed", ":current_time", ":last_time"),
      (try_begin),
        (ge, ":last_time", 0),
-       (ge, ":elapsed", 0), # Reject data from an earlier map after timer reset.
+       (ge, ":elapsed", 0),
        (le, ":elapsed", ":history_window"),
        (str_store_string, s1, "@history_total_{reg1}"),
        (dict_get_int, ":value", ":history_dict", s1, 0),
@@ -665,7 +685,7 @@ anticheat_scripts = [
      (dict_load_file_json, ":history_dict", s0, 0),
      (player_get_unique_id, ":guid", ":player_no"),
      (assign, reg1, ":guid"),
-     (store_mission_timer_a, ":current_time"),
+     (get_time, ":current_time"), # UNIX time; unlike store_mission_timer_a this does not reset on map change
      (str_store_string, s1, "@history_last_{reg1}"),
      (dict_set_int, ":history_dict", s1, ":current_time"),
      (str_store_string, s1, "@history_total_{reg1}"),
@@ -690,7 +710,7 @@ anticheat_scripts = [
    ]),
 
   # ============================================================================
-  # Script 6: script_cf_player_guid_is_whitelisted
+  # Script: script_cf_player_guid_is_whitelisted
   # Returns 1 in reg0 when the shared whitelist dictionary contains the GUID.
   # ============================================================================
   ("cf_player_guid_is_whitelisted",
@@ -710,32 +730,20 @@ anticheat_scripts = [
    ]),
 
   # ============================================================================
-  # Script 7: script_cf_anticheat_enforce
+  # Script: script_cf_anticheat_enforce
   # Writes the alert, then bans confirmed players in enforce mode.
   # ============================================================================
   ("cf_anticheat_enforce",
    [
      (store_script_param, ":player_no", 1),
      (store_script_param, ":reason_code", 2),
-
-     (player_get_unique_id, ":unique_id", ":player_no"),
-     (str_store_player_username, s1, ":player_no"),
-     (assign, reg1, ":unique_id"),
-
      (call_script, "script_cf_notify_admins", ":player_no", ":reason_code"),
-
-     (call_script, "script_ensure_anticheat_config"),
-     (dict_create, ":config_dict"),
-     (str_store_string, s0, "@anticheat_config"),
-     (dict_load_file_json, ":config_dict", s0, 0),
-     (str_store_string, s0, "@enforcement_mode"),
-     (dict_get_int, ":ac_mode", ":config_dict", s0, acm_silent),
-     (str_store_string, s0, "@temp_ban_seconds"),
-     (dict_get_int, ":ban_seconds", ":config_dict", s0, 3600),
-     
+     (assign, ":mode", "$g_ac_enforcement_mode"),
      (try_begin),
-       (eq, ":ac_mode", 2), # Enforce Mode
-       (ban_player, ":player_no", 1, ":ban_seconds"),
+       (eq, ":mode", acm_enforce),
+       # ban_player's 3rd arg is the reporting admin's player_no (0 = server), not a duration;
+       # temp-ban length comes from the native aco_auto_temp_ban_seconds option (see cf_cache_anticheat_config).
+       (ban_player, ":player_no", 1, 0),
      (try_end),
    ]),
 ]
@@ -747,47 +755,60 @@ anticheat_scripts = [
 
 1. **Mission start**: `multiplayer_server_ensure_anticheat_json` creates the
   admin GUID, player whitelist, configuration, and history files when absent
-  or empty.
+  or empty, then `script_cf_cache_anticheat_config` loads `anticheat_config.json`
+  once and caches every value into `$g_ac_*` globals (including pushing
+  `temp_ban_seconds` into the native `aco_auto_temp_ban_seconds` server option).
 2. **Join and restore**: `script_multiplayer_server_player_joined_common`
-  enforces `player_whitelist_admission_enabled`; a permitted player restores
-  same-mission GUID history before normal join initialization proceeds.
+  enforces `$g_ac_player_whitelist_admission_enabled` (the cached config
+  value, not a per-join disk read); a permitted player restores same-mission
+  GUID history before normal join initialization proceeds. The same script
+  also resets every `slot_player_cheat_*` counter to zero for the joining
+  player slot (in `script_multiplayer_init_player_slots`, which runs before
+  the history restore), so a reused slot number from a previous disconnect
+  cannot leak one player's threat level/detection counts onto a new player.
 3. **Detection**: `multiplayer_server_anticheat` forwards all four engine
   parameters to `script_on_cheat_detected` and sets `reg0` to `1` to suppress
   native WSE2 action.
 4. **Sub-signals**: Auto-block only counts an event when `value >= threshold`.
   Thresholds `6`, `8`, and `90` increment offscreen, feint, and match-rate
-  counters respectively. `slot_player_cheat_total_detections` remains an
-  aggregate across supported detector types, while
-  `slot_player_cheat_autoblock_detections` is used for autoblock scoring so
-  seed/skew events cannot contaminate autoblock thresholds. Time skew counts
-  only when the configured `clock_skew_threshold_pct` is reached.
+  counters respectively. `slot_player_cheat_total_detections` only increments
+  for the three scored types, while `slot_player_cheat_autoblock_detections`
+  is used for autoblock scoring so seed/skew events cannot contaminate
+  autoblock thresholds. Time skew counts only when the configured
+  `clock_skew_threshold_pct` is reached.
 5. **Evaluation**: The first matching branch in
   `script_cf_eval_player_threat` wins, gated by `:detection_type` so an
   unrelated event cannot trigger another signal's branch: noise (autoblock
   only), then confirmed match-rate/corroborated offscreen (autoblock) or
   sustained skew (time skew), then suspected offscreen/multi-signal
-  (autoblock), and finally watchlist spike (autoblock).
+  (autoblock), and finally watchlist spike (autoblock). Every branch except
+  the three CONFIRMED ones (already the maximum level) first checks the
+  player's current threat level and refuses to apply a lower one, so threat
+  level can only ever go up during a session.
 6. **Persistence**: `script_cf_save_anticheat_player_history` writes total,
-  autoblock, offscreen, spike, feint, skew, and mission-time values after every handled
-  event. Restore rejects history with a negative elapsed mission time or one
-  older than `history_window_seconds`.
-7. **Alert and enforcement**: `script_cf_notify_admins` currently writes the
-  formatted alert to the server log and calls `display_message`. Enforcement
-  calls `ban_player` only when JSON `enforcement_mode == acm_enforce` (`2`).
+  autoblock, offscreen, spike, feint, skew, and current-time values after every
+  scored event, using `get_time` (UNIX time) rather than the mission timer, so
+  the reconnect window is not reset by a map change. Restore rejects history
+  with a negative elapsed time or one older than `history_window_seconds`.
+7. **Alert and enforcement**: `script_cf_notify_admins` writes the formatted
+  alert to the server log and calls `display_message`. Enforcement calls
+  `ban_player` only when the cached `$g_ac_enforcement_mode == acm_enforce`
+  (`2`); the temp-ban duration comes from the native `aco_auto_temp_ban_seconds`
+  option set at mission start, not from `ban_player`'s arguments.
 
 ### Resolved Behavior and Validation Gaps
 
 - Seed mismatches now increment `slot_player_cheat_seed_mismatches` before
   immediate enforcement.
-- The detection handler reads `clock_skew_threshold_pct` from JSON, matching
-  the evaluator.
-- `max_matchrate_spikes` is read from JSON and is the minimum number of
+- The detection handler reads `clock_skew_threshold_pct` from the cached
+  config global, matching the evaluator.
+- `max_matchrate_spikes` is read from config and is the minimum number of
   match-rate spikes required for the watchlist branch.
 - `max_offscreen_allowed`, `min_detections_confirmed`, `min_detections_suspected`,
   and `min_detections_watchlist` are inclusive "at least N" gates (`ge`); reaching
   the configured value triggers the branch, it is not a ceiling that only trips
   one event past it.
-- Rule 2 (sustained autoblock) now reads its match-rate requirement from the
+- Rule 2 (sustained autoblock) reads its match-rate requirement from the
   configurable `sustained_match_pct` (default `85`) instead of a hardcoded value.
 - `cf_notify_admins` defaults its alert string to `str_no_string` before the
   reason-code chain and matches `ac_reason_matchrate_watchlist` explicitly, so
@@ -796,8 +817,17 @@ anticheat_scripts = [
   rules, so low-match/slow-reaction sessions cannot bypass the noise filter.
 - The join path initializes `:player_guid` before the admission switch, so
   disabling admission does not invalidate the later admin-GUID check.
-- A non-empty whitelist is preserved; the ensure script only creates defaults
-  when the file is missing or empty.
+- A non-empty whitelist is preserved; `ensure_player_whitelist_file` nests its
+  `dict_is_empty` recreate-default check inside the `dict_load_file_json`
+  success branch (matching `ensure_admin_guid_file`'s pattern), so a populated
+  file is no longer silently overwritten with the two default GUIDs on every
+  mission start.
+- `multiplayer_init_player_slots` now clears all 8 `slot_player_cheat_*`
+  counters for the joining player slot, so a slot number reused after a
+  disconnect no longer inherits the previous occupant's threat level or
+  detection counts; `cf_restore_anticheat_player_history` (which runs after
+  this reset, later in the same join flow) still overwrites these zeros with
+  the correct values if the new player's own GUID has valid recent history.
 - Admin GUID entries are used for admin authorization. They are not recipients
   of targeted anti-cheat notifications.
 - Previously, the trigger suppressed native WSE2 action for every detection
@@ -819,7 +849,11 @@ anticheat_scripts = [
   handle, but that fails the module's own accumulation gate, fell through to
   native WSE2 action - bypassing the module's own `enforcement_mode` even in
   silent mode. Native fallback is now reserved strictly for the five
-  completely unscored types (`10`, `12`, `13`, `15`, `17`).
+  completely unscored types (`10`, `12`, `13`, `15`, `17`). None of
+  `cf_anticheat_enforce`, `cf_eval_player_threat`, or `cf_notify_admins`
+  (all called from inside this same `try_begin` after `reg0` is set) ever
+  assign to `reg0` themselves, so the suppression flag reliably survives
+  until the trigger reads it back.
 - `set_fixed_point_multiplier` is set to `1` immediately before every
   `player_get_anticheat_stat` read of `acs_autoblock_match`,
   `acs_autoblock_reaction_ms`, and `acs_time_skew_max`. The multiplier is
@@ -830,15 +864,26 @@ anticheat_scripts = [
   throughout this module. `ANTICHEAT_SERVER_GUIDE.md`'s documented ranges
   (e.g. `autoblock_match_pct` 50-85 honest / 95-100 bot) confirm these three
   stats are plain percent/ms values, not fixed-point-scaled, but pinning the
-  multiplier removes the dependency on that assumption entirely.
+  multiplier removes the dependency on that assumption entirely. There is no
+  corresponding "restore previous multiplier" step afterward because this
+  WSE2 build has no `get_fixed_point_multiplier` getter to read a prior value
+  from (it exists only as a commented-out line in `header_operations.py`);
+  leaving the multiplier at `1`, the documented engine default, is the safest
+  achievable outcome.
 - `script_cf_save_anticheat_player_history` (a full JSON load + save of the
-  history file) now only runs for the three types the module scores
+  history file) only runs for the three types the module scores
   (`acd_seed_mismatch`, `acd_auto_block`, `acd_time_skew`), not on every
   `ti_on_cheat_detected` firing. The five unscored types don't touch any
   slot counter, so saving history for them was a pure I/O cost with nothing
-  new to persist; `slot_player_cheat_total_detections` (which does still
-  increment for those types) is telemetry only and is not read by any
-  evaluator rule, so it may lag slightly on a reconnect that follows only
-  unscored-type events. Config is still read from disk on every scored
-  event (no caching layer); this remains a known cost under high detection
-  volume and would require a mission-start-cached config to remove.
+  new to persist. Config values used during scoring and enforcement are read
+  once per mission by `cf_cache_anticheat_config` rather than from disk on
+  every event.
+- `ban_player`'s 3rd argument is the reporting admin/referee `player_no` (`0`
+  = server), not a ban duration - this matches every other `ban_player` call
+  site in the codebase. `cf_anticheat_enforce` previously passed the
+  configured `temp_ban_seconds` value there, which had no effect on ban
+  length. The real duration for a `value=1` (temporary) ban comes from the
+  native `aco_auto_temp_ban_seconds` server option (`ANTICHEAT_SERVER_GUIDE.md`'s
+  `iAutoTempBanSeconds` INI key), which `cf_cache_anticheat_config` now sets
+  via `server_set_anticheat_option` once per mission.
+
