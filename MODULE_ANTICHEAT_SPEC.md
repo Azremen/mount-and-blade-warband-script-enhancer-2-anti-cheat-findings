@@ -33,8 +33,6 @@ source is authoritative.
    - *Positive Skew (`time_skew_max_pct >= 10%` in at least 2 detections)*: Client running fast. One isolated positive sample is not enough for automatic confirmation; repeated positive skew is required.
      - *Negative Skew (`time_skew_stall_pct`)*: Lag / frame stalls / alt-tab. **Must be ignored** to prevent banning laggy players.
 
----
-
 ## 2. Module System Headers and Constants
 
 Anti-cheat trigger, detection, statistic, and mode constants are declared in
@@ -43,24 +41,11 @@ Project-owned threat levels, player slots, thresholds, and reason codes are in
 `module_constants.py`. There is no `header_anticheat.py`.
 
 ```python
-# ==============================================================================
-# WSE2 Anti-Cheat Constants & Enums
-# ==============================================================================
+# module_constants.py
+########################################################
+##  WSE2 ANTI-CHEAT SLOTS     ##########################
+########################################################
 
-# Anti-cheat detection types and statistic codes are provided by
-# header_triggers_addon.py. Do not redefine them in module_constants.py.
-# Detection types: acd_auto_block, acd_time_skew, acd_seed_mismatch, ...
-# Statistics: acs_autoblock_match, acs_autoblock_reaction_ms,
-# acs_autoblock_offscreen, acs_time_skew_max, acs_seed_mismatches, ...
-
-# Threat Level Classifications
-threat_level_none         = 0  # Clean
-threat_level_noise        = 1  # Low-confidence spike / human variance
-threat_level_watchlist    = 2  # Flagged for admin observation
-threat_level_suspected    = 3  # High suspicion, alert admins / RCON
-threat_level_confirmed    = 4  # Confirmed cheater, auto-kick or auto-ban
-
-# Player Slot Definitions
 slot_player_cheat_threat_level        = 150
 slot_player_cheat_total_detections    = 151
 slot_player_cheat_offscreen_count     = 152
@@ -70,25 +55,29 @@ slot_player_cheat_clock_skew_count    = 155
 slot_player_cheat_seed_mismatches     = 156
 slot_player_cheat_last_detection_time = 157
 
-# Configuration & Enforcement Thresholds
-ac_conf_max_offscreen_allowed    = 3     # 3+ offscreen events = High suspicion
-ac_conf_max_matchrate_spikes     = 2     # 2+ 90%+ match rate spikes = High suspicion
-ac_conf_min_detections_watchlist = 6     # 6+ detections required for watchlist alerts
-ac_conf_min_detections_suspected = 6     # 6+ detections required for suspected alerts
-ac_conf_min_detections_confirmed = 8     # 8+ total detections = Confirmed
-ac_conf_history_window_seconds   = 1800  # Preserve detection history across reconnects for 30 min
-ac_conf_clock_skew_threshold_pct = 10    # +10% max positive skew = Speedhack
-ac_conf_min_clock_skew_detections = 2    # Two positive skew detections required to confirm
-ac_conf_noise_max_match_pct      = 65    # Below 65% match pct = likely noise if reaction is slow
-ac_conf_noise_min_reaction_ms    = 500   # Above 500ms reaction = human reaction
+threat_level_none       = 0
+threat_level_noise      = 1
+threat_level_watchlist  = 2
+threat_level_suspected  = 3
+threat_level_confirmed  = 4
 
-# Alert reason codes passed between module scripts
-ac_reason_seed_mismatch         = 1
-ac_reason_sustained_autoblock   = 2
-ac_reason_repeated_offscreen    = 3
-ac_reason_matchrate_watchlist   = 4
-ac_reason_speedhack             = 5
-ac_reason_multisignal_autoblock = 6
+ac_conf_max_offscreen_allowed    = 3
+ac_conf_max_matchrate_spikes     = 2
+ac_conf_min_detections_watchlist = 6
+ac_conf_min_detections_suspected = 6
+ac_conf_min_detections_confirmed = 8
+ac_conf_history_window_seconds   = 1800
+ac_conf_clock_skew_threshold_pct = 10
+ac_conf_min_clock_skew_detections  = 2
+ac_conf_noise_max_match_pct      = 65
+ac_conf_noise_min_reaction_ms    = 500
+
+ac_reason_seed_mismatch           = 1
+ac_reason_sustained_autoblock     = 2
+ac_reason_repeated_offscreen      = 3
+ac_reason_matchrate_watchlist     = 4
+ac_reason_speedhack               = 5
+ac_reason_multisignal_autoblock   = 6
 ```
 
 ### JSON Configuration Files
