@@ -4232,6 +4232,10 @@ scripts = [
          (player_get_unique_id, ":player_guid", ":player_no"),
          (assign, ":admission_enabled", "$g_ac_player_whitelist_admission_enabled"),
          (try_begin),
+           (eq, "$g_ac_config_cached", 0), # config not cached yet this boot; fail safe to whitelist-required
+           (assign, ":admission_enabled", 1),
+         (try_end),
+         (try_begin),
            (eq, ":admission_enabled", 1),
            (call_script, "script_cf_player_guid_is_whitelisted", ":player_guid"),
            (assign, ":player_allowed", reg0),
@@ -30451,6 +30455,7 @@ scripts = [
      (dict_get_int, "$g_ac_noise_min_reaction_ms", ":config_dict", s1, ac_conf_noise_min_reaction_ms),
      (str_store_string, s1, "@sustained_match_pct"),
      (dict_get_int, "$g_ac_sustained_match_pct", ":config_dict", s1, ac_conf_sustained_match_pct),
+     (assign, "$g_ac_config_cached", 1), # lets the join gate fail safe before this has run once
    ]),
 
   ("ensure_anticheat_player_history",
