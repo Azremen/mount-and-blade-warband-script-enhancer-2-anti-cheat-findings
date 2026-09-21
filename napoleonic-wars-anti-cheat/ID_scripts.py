@@ -302,14 +302,15 @@ script_create_default_player_whitelist_file = 300
 script_ensure_player_whitelist_file = 301
 script_create_default_anticheat_config = 302
 script_ensure_anticheat_config = 303
-script_ensure_anticheat_player_history = 304
-script_cf_restore_anticheat_player_history = 305
-script_cf_save_anticheat_player_history = 306
-script_cf_json_admin_guid_contains = 307
-script_cf_player_guid_is_whitelisted = 308
-script_cf_notify_admins = 309
-script_cf_anticheat_enforce = 310
-script_on_cheat_detected = 311
-script_cf_eval_player_threat = 312
+script_cf_cache_anticheat_config = 304
+script_ensure_anticheat_player_history = 305
+script_cf_restore_anticheat_player_history = 306
+script_cf_save_anticheat_player_history = 307
+script_cf_json_admin_guid_contains = 308
+script_cf_player_guid_is_whitelisted = 309
+script_cf_notify_admins = 310
+script_cf_anticheat_enforce = 311
+script_on_cheat_detected = 312
+script_cf_eval_player_threat = 313
 
 

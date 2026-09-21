@@ -63,8 +63,6 @@ qstr_Use_Prop Use_Prop
 qstr_Unknown_command_issu Unknown_command_issued!
 qstr_{s7}_opened_the_gate {s7}_opened_the_gate
 qstr_{s7}_closed_the_gate {s7}_closed_the_gate
-qstr_anticheat_config anticheat_config
-qstr_player_whitelist_adm player_whitelist_admission_enabled
 qstr_[AC_WHITELIST]_{s3}: [AC-WHITELIST]_{s3}:_{s2}_(GUID:_{reg1})
 qstr_[AC_ADMIN]_Removed_n [AC-ADMIN]_Removed_non-whitelisted_admin:_{s2}_GUID:_{reg1}
 qstr_Centre_Inf Centre_Inf
@@ -121,9 +119,11 @@ qstr_player_guid_1 player_guid_1
 qstr_player_name_1 player_name_1
 qstr_player_guid_2 player_guid_2
 qstr_player_name_2 player_name_2
+qstr_anticheat_config anticheat_config
 qstr_enforcement_mode enforcement_mode
 qstr_temp_ban_seconds temp_ban_seconds
 qstr_history_window_secon history_window_seconds
+qstr_player_whitelist_adm player_whitelist_admission_enabled
 qstr_max_offscreen_allowe max_offscreen_allowed
 qstr_min_detections_watch min_detections_watchlist
 qstr_min_detections_suspe min_detections_suspected
