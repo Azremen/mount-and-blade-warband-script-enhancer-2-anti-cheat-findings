@@ -38,7 +38,8 @@ GUID `1832685` used the name `63rd_lebrun`, but it is not linked to confirmed GU
 because the nickname matches. It produced 4 type `14` detections (2 offscreen, 1 match-rate, and 1
 feint-follow), below the 8-detection confirmation threshold. Its final summary reported
 `autoblock_match_pct=7`, `autoblock_reaction_ms=564`, `autoblock_offscreen=0`, and
-`autoblock_feints=0`. It therefore remains an unconfirmed observation in the inventory below.
+`autoblock_feints=0`. Under the corrected evaluator, the low match rate and slow reaction
+place this profile in the noise-prone observation category rather than the confirmed roster.
 
 | Name(s) seen | Unique ID | Offscreen | Match-rate | Feint-follow | Log date(s) |
 |---|---:|---:|---:|---:|---|
@@ -114,13 +115,6 @@ log was captured. The developer has since root-caused and fixed the clock-skew d
 `CHEAT_TEST_FINDINGS.md`, "Consequence for calibration"): `ayzox`'s case was a genuine miss caused by
 an old, too-loose threshold (now fixed and lowered).
 (auto block) evidence above.
-
-## Special Thanks
-
-Special thanks to `63rd_OZBEK`, `63rd_Kurdishim_Abo` (primarily known as `Fred`),
-`63rd_Rgl_ramadan_baighara`, and `63rd_Col_Edward` / `63rd_BOZBEK` for serving as anti-cheat testers,
-and to
-`63rd_General_Eternal` for sponsoring their testing work.
 
 ## Maintenance
 
