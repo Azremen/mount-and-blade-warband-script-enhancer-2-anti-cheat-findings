@@ -1,0 +1,1709 @@
+[07:21:48] msg,Map change.
+[07:21:48] start
+[07:58:33] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[07:58:34] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[07:58:39] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 8.
+[07:58:46] msg,63rd_General_Eternal Set the server password to 6333
+[07:58:52] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 1 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[07:58:55] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=21|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[07:58:56] msg,Map change.
+[07:58:58] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[08:00:37] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 1 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[08:00:40] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=126|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[08:00:40] msg,Map change.
+[08:00:42] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[08:04:20] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=346|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[08:04:20] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[08:04:20] msg,63rd_General_Eternal has left the game with ID: 2289446
+[08:04:26] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|regular|1150|63rd_General_Eternal
+[08:04:26] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[08:04:28] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=2|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[08:04:28] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[08:04:28] msg,63rd_General_Eternal has left the game with ID: 2289446
+[08:17:07] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|regular|1150|63rd_General_Eternal
+[08:17:08] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[08:17:28] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=20|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=154817|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=1
+[08:17:28] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[08:17:28] msg,63rd_General_Eternal has left the game with ID: 2289446
+[08:17:28] death|63rd_General_Eternal
+[08:17:28] msg,New round started.
+[08:49:35] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[08:49:35] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[08:49:42] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 4 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[08:49:45] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=9|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[08:49:45] msg,Map change.
+[08:49:51] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[09:23:14] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 5 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[09:23:17] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=2021|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=61
+[09:23:17] msg,Map change.
+[09:23:19] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[09:23:38] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=2043|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[09:23:38] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[09:23:38] msg,63rd_General_Eternal has left the game with ID: 2289446
+[10:02:13] msg,Map change.
+[10:02:13] start
+[10:21:03] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[10:21:03] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[10:21:18] msg,63rd_General_Eternal Set the server password to 6333
+[10:21:19] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 1.
+[10:21:19] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 2.
+[10:21:20] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 3.
+[10:21:20] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 4.
+[10:21:20] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 5.
+[10:21:20] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 6.
+[10:21:20] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 7.
+[10:21:21] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 8.
+[10:21:28] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 1 with gamemode Battle and with the nations Rheinbund and Rossiyskaya Imperiya.
+[10:21:31] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=28|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=3
+[10:21:31] msg,Map change.
+[10:21:33] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[10:21:39] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 1 with gamemode Battle and with the nations United Kingdom and Empire Français.
+[10:21:42] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=39|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[10:21:42] msg,Map change.
+[10:21:44] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[10:24:19] msg,63rd_General_Eternal Set the friendly fire damage to friend ratio to 100 %.
+[10:24:19] msg,63rd_General_Eternal Set the friendly fire damage to self ratio to 100 %.
+[10:24:21] msg,63rd_General_Eternal Set the friendly fire damage to self ratio to 0 %.
+[10:24:23] msg,63rd_General_Eternal Changed the map timelimit to 240 minutes.
+[10:24:24] msg,63rd_General_Eternal Changed the round timelimit to 301 seconds.
+[10:24:24] msg,63rd_General_Eternal Changed the round timelimit to 302 seconds.
+[10:24:24] msg,63rd_General_Eternal Changed the round timelimit to 303 seconds.
+[10:24:27] msg,63rd_General_Eternal Changed the round timelimit to 3600 seconds.
+[10:24:29] msg,[SERVER]: 63rd_General_Eternal Set the auto team balance limit to Unlimited.
+[10:24:31] msg,[SERVER]: 63rd_General_Eternal Set use Groupfight mode to True.
+[10:24:33] msg,[SERVER]: 63rd_General_Eternal Set use class limits to False.
+[10:24:36] msg,[SERVER]: 63rd_General_Eternal Set auto-kick/ban for teamkills to False.
+[10:24:38] msg,63rd_General_Eternal Set the friendly fire damage to self ratio to 0 %.
+[10:24:39] msg,63rd_General_Eternal Set the friendly fire damage to friend ratio to 100 %.
+[10:24:42] msg,63rd_General_Eternal Changed the map timelimit to 240 minutes.
+[10:25:30] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=267|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[10:25:30] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[10:25:30] msg,63rd_General_Eternal has left the game with ID: 2289446
+[11:24:08] connect|63rd_LCpl_Edward|REDACTED_IP_FOR_PRIVACY|2272988|admin|1137|63rd_LCpl_Edward
+[11:24:09] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:24:09] msg,[AC-ADMIN] Removed non-whitelisted admin: 63rd_LCpl_Edward GUID: 2272988
+[11:50:46] connect|Nr32_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|Nr32_Eternal
+[11:50:47] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:51:15] anticheat|summary|exit|Nr32_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=28|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=204804|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[11:51:15] disconnect|Nr32_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[11:51:15] msg,Nr32_Eternal has left the game with ID: 2289446
+[11:51:15] death|Nr32_Eternal
+[11:51:15] msg,New round started.
+[11:51:30] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[11:51:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:53:39] connect|[Legion_Svd]_Fuhrer_GIORGI|REDACTED_IP_FOR_PRIVACY|2433518|regular|0|[Legion_Svd]_Fuhrer_GIORGI
+[11:53:50] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:53:56] connect|[LegionSvD]_Igorrr_|REDACTED_IP_FOR_PRIVACY|2583313|regular|0|[LegionSvD]_Igorrr_
+[11:53:58] connect|[Legion_SvD]_Chell00212|REDACTED_IP_FOR_PRIVACY|2593302|regular|0|[Legion_SvD]_Chell00212
+[11:54:05] connect|[Legion_SvD]_Maj_Evil_Xomik|REDACTED_IP_FOR_PRIVACY|2491664|regular|0|[Legion_SvD]_Maj_Evil_Xomik
+[11:54:06] connect|[Legion_SvD]_Alter|REDACTED_IP_FOR_PRIVACY|2289436|regular|1150|[Legion_SvD]_Alter
+[11:54:06] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:54:07] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:54:09] connect|[Legion_SvD]_Mokrif|REDACTED_IP_FOR_PRIVACY|2492046|regular|0|[Legion_SvD]_Mokrif
+[11:54:09] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:54:13] connect|[Legion_SVD]Poroshenko|REDACTED_IP_FOR_PRIVACY|2508655|regular|1152|[Legion_SVD]Poroshenko
+[11:54:15] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:54:19] connect|[Legion_SvD]_k_La_Furia_Roja|REDACTED_IP_FOR_PRIVACY|1342193|regular|0|[Legion_SvD]_k_La_Furia_Roja
+[11:54:20] connect|[Legion_SvD]Amelie_Lampard|REDACTED_IP_FOR_PRIVACY|2557146|regular|1144|[Legion_SvD]Amelie_Lampard
+[11:54:21] chat|[Legion_SvD]_Alter|team|hello ma niggas
+[11:54:21] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:54:24] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:54:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:54:31] kill|63rd_General_Eternal|[Legion_SvD]_Alter|melee|Infantry Musket|hb_spine
+[11:54:32] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:54:35] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SvD]_Alter|melee|Infantry Musket|hb_abdomen
+[11:54:35] msg,New round started.
+[11:54:44] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[11:54:44] anticheat|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[11:54:48] kill|[Legion_SvD]_Mokrif|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_abdomen
+[11:54:50] kill|[Legion_SvD]_Chell00212|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_spine
+[11:54:51] connect|[Legion_SvD]_ZeroTwo|REDACTED_IP_FOR_PRIVACY|2298580|regular|1150|[Legion_SvD]_ZeroTwo
+[11:54:51] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_abdomen
+[11:54:53] kill|63rd_General_Eternal|[Legion_SvD]_Alter|melee|Infantry Musket|hb_shoulder_r
+[11:54:55] connect|[Legion_SvD]_Hm|REDACTED_IP_FOR_PRIVACY|2031011|regular|0|[Legion_SvD]_Hm
+[11:54:56] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_head
+[11:54:56] msg,New round started.
+[11:55:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:55:06] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:55:07] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[11:55:07] anticheat|[Legion_SvD]_Chell00212|2593302|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:55:08] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_forearm_r
+[11:55:10] kill|[Legion_SvD]_Mokrif|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_upperarm_r
+[11:55:10] teamkill|[Legion_SvD]_Chell00212|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_forearm_l
+[11:55:10] msg,[Legion_SVD]Poroshenko teamkilled [Legion_SvD]_Chell00212.
+[11:55:11] kill|63rd_General_Eternal|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_upperarm_r
+[11:55:12] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_shoulder_l
+[11:55:24] kill|[Legion_SvD]_Hm|[Legion_SvD]_Alter|melee|Infantry Musket|hb_shoulder_l
+[11:55:25] kill|[LegionSvD]_Igorrr_|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_forearm_l
+[11:55:30] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_thorax
+[11:55:30] msg,New round started.
+[11:55:32] chat|[Legion_Svd]_Fuhrer_GIORGI|team|ozona netu ia ego razbombil
+[11:55:44] kill|63rd_General_Eternal|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_shoulder_r
+[11:55:44] kill|[Legion_SvD]_Hm|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_l
+[11:55:45] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_head
+[11:55:47] msg,[Legion_SvD]_Alter teamhit [Legion_SvD]Amelie_Lampard 40 health.
+[11:55:48] kill|[Legion_SVD]Poroshenko|[Legion_SvD]_Mokrif|melee|Heavy Cavalry Sword|hb_abdomen
+[11:55:49] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion_SvD]_Alter|melee|Infantry Musket|hb_forearm_r
+[11:55:49] kill|[LegionSvD]_Igorrr_|[Legion_SvD]_Mokrif|melee|Heavy Cavalry Sword|hb_head
+[11:55:51] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[11:55:52] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_Hm|melee|Infantry Musket|hb_spine
+[11:55:53] kill|[LegionSvD]_Igorrr_|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_thigh_l
+[11:55:53] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_shoulder_r
+[11:55:54] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[11:55:55] kill|[Legion_SvD]_Chell00212|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_l
+[11:55:55] kill|[Legion_SvD]_Mokrif|[Legion_SvD]_Alter|melee|Infantry Musket|hb_spine
+[11:56:00] kill|[Legion_SvD]_Hm|[Legion_SvD]_Alter|melee|Infantry Musket|hb_upperarm_l
+[11:56:01] kill|[Legion_SVD]Poroshenko|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:56:01] connect|[Legion_SvD]Arafey|REDACTED_IP_FOR_PRIVACY|2518964|regular|1146|[Legion_SvD]Arafey
+[11:56:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:56:03] anticheat|summary|exit|[Legion_SvD]_Chell00212|2593302|REDACTED_IP_FOR_PRIVACY|mission=9|session=124|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=905042|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=62|autoblock_reaction_ms=440|autoblock_feints=0|autoblock_offscreen=1|autoattack_samples=15|autoattack_open_pct=40|autoattack_reaction_ms=726|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[11:56:03] disconnect|[Legion_SvD]_Chell00212|REDACTED_IP_FOR_PRIVACY|2593302
+[11:56:03] msg,[Legion_SvD]_Chell00212 has left the game with ID: 2593302
+[11:56:07] kill|63rd_General_Eternal|[Legion_SvD]_Alter|melee|Infantry Musket|hb_abdomen
+[11:56:12] kill|[Legion_SvD]_Alter|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_thigh_l
+[11:56:12] msg,New round started.
+[11:56:17] chat|[Legion_SvD]Amelie_Lampard|team|10 минут
+[11:56:23] kill|63rd_General_Eternal|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_upperarm_l
+[11:56:25] kill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_spine
+[11:56:28] chat|[Legion_SvD]_Alter|team|niggas where r u?
+[11:56:30] kill|[Legion_SvD]_Hm|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_spine
+[11:56:32] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_thorax
+[11:56:34] kill|[Legion_SvD]_Mokrif|[LegionSvD]_Igorrr_|melee|Infantry Musket|hb_forearm_l
+[11:56:36] kill|[Legion_SvD]_Alter|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_forearm_r
+[11:56:41] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_shoulder_l
+[11:56:41] msg,New round started.
+[11:56:46] chat|[Legion_SvD]Amelie_Lampard|team|ахахах
+[11:56:48] chat|[Legion_SvD]Amelie_Lampard|team|а что там
+[11:56:52] kill|[Legion_SvD]_Hm|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_upperarm_l
+[11:56:52] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[11:56:52] anticheat|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:56:54] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_head
+[11:56:55] kill|[LegionSvD]_Igorrr_|[Legion_SvD]_Mokrif|melee|Heavy Cavalry Sword|hb_head
+[11:56:56] kill|[Legion_SvD]_Mokrif|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_head
+[11:56:56] kill|63rd_General_Eternal|[Legion_SvD]_Alter|melee|Infantry Musket|hb_forearm_r
+[11:57:04] msg,[Legion_Svd]_Fuhrer_GIORGI teamhit [Legion_SvD]Amelie_Lampard 1 health.
+[11:57:05] msg,[Legion_Svd]_Fuhrer_GIORGI teamhit [Legion_SvD]Amelie_Lampard 2 health.
+[11:57:05] kill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_forearm_l
+[11:57:07] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_spine
+[11:57:13] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SvD]_Alter|melee|Infantry Musket|hb_forearm_l
+[11:57:13] msg,New round started.
+[11:57:22] kill|[Legion_SVD]Poroshenko|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[11:57:22] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SvD]_Alter|melee|Infantry Musket|hb_forearm_r
+[11:57:27] kill|[Legion_SvD]_Mokrif|[LegionSvD]_Igorrr_|melee|Infantry Musket|hb_forearm_l
+[11:57:29] kill|[Legion_SvD]_Hm|[Legion_SvD]_Alter|melee|Infantry Musket|hb_spine
+[11:57:33] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion_SvD]_Alter|melee|Infantry Musket|hb_forearm_r
+[11:57:34] kill|63rd_General_Eternal|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_r
+[11:57:34] msg,New round started.
+[11:57:43] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_Hm|melee|Infantry Musket|hb_thorax
+[11:57:44] kill|[Legion_SvD]_Alter|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:57:46] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_r
+[11:57:47] kill|[Legion_SVD]Poroshenko|[Legion_SvD]_Hm|melee|Infantry Musket|hb_thorax
+[11:57:48] teamkill|[Legion_SvD]_Mokrif|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:57:48] msg,63rd_General_Eternal teamkilled [Legion_SvD]_Mokrif.
+[11:57:50] teamkill|[Legion_SvD]_Maj_Evil_Xomik|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[11:57:50] msg,63rd_General_Eternal teamkilled [Legion_SvD]_Maj_Evil_Xomik.
+[11:57:55] kill|[LegionSvD]_Igorrr_|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[11:57:55] msg,New round started.
+[11:58:07] kill|[Legion_SvD]_Hm|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_thorax
+[11:58:08] teamkill|[Legion_SvD]_Alter|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_thorax
+[11:58:08] msg,[Legion_Svd]_Fuhrer_GIORGI teamkilled [Legion_SvD]_Alter.
+[11:58:10] kill|[Legion_SvD]_k_La_Furia_Roja|[LegionSvD]_Igorrr_|melee|Infantry Musket|hb_upperarm_l
+[11:58:15] kill|[LegionSvD]_Igorrr_|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:58:18] teamkill|[Legion_SvD]_Maj_Evil_Xomik|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_r
+[11:58:18] msg,63rd_General_Eternal teamkilled [Legion_SvD]_Maj_Evil_Xomik.
+[11:58:21] msg,[Legion_SvD]_Mokrif teamhit [Legion_SvD]Amelie_Lampard 26 health.
+[11:58:23] kill|[Legion_SvD]Amelie_Lampard|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[11:58:28] kill|63rd_General_Eternal|[Legion_SvD]_Mokrif|melee|Heavy Cavalry Sword|hb_spine
+[11:58:28] msg,New round started.
+[11:58:39] kill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]_Hm|melee|Infantry Musket|hb_shoulder_r
+[11:58:42] kill|[Legion_SvD]_Alter|[Legion_SvD]_Hm|melee|Infantry Musket|hb_thorax
+[11:58:44] kill|[Legion_SvD]_Hm|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_spine
+[11:58:46] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_r
+[11:58:54] kill|63rd_General_Eternal|[Legion_SvD]_Mokrif|melee|Heavy Cavalry Sword|hb_forearm_r
+[11:58:55] chat|[Legion_SvD]Amelie_Lampard|team|деус вульт крутой мужик!!
+[11:59:01] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_spine
+[11:59:01] msg,New round started.
+[11:59:13] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_upperarm_l
+[11:59:15] msg,[Legion_SvD]_Mokrif teamhit [LegionSvD]_Igorrr_ 1 health.
+[11:59:16] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_thorax
+[11:59:16] kill|[Legion_SvD]_Hm|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_forearm_l
+[11:59:20] connect|63rd_Kurdishim_Abo|REDACTED_IP_FOR_PRIVACY|2231675|regular|0|63rd_Kurdishim_Abo
+[11:59:20] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[11:59:23] kill|[Legion_SvD]_k_La_Furia_Roja|[LegionSvD]_Igorrr_|melee|Infantry Musket|hb_calf_l
+[11:59:23] kill|[Legion_SVD]Poroshenko|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:59:24] msg,[Legion_SvD]_Mokrif teamhit [LegionSvD]_Igorrr_ 27 health.
+[11:59:27] kill|63rd_General_Eternal|[Legion_SvD]_Alter|melee|Infantry Musket|hb_forearm_r
+[11:59:29] kill|63rd_Kurdishim_Abo|[LegionSvD]_Igorrr_|melee|Infantry Musket|hb_forearm_r
+[11:59:29] msg,New round started.
+[11:59:44] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion_SvD]_Alter|melee|Infantry Musket|hb_shoulder_l
+[11:59:44] kill|[Legion_SvD]_Mokrif|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_r
+[11:59:45] kill|63rd_Kurdishim_Abo|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_upperarm_l
+[11:59:45] teamkill|[Legion_SvD]_Alter|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_thorax
+[11:59:45] msg,[Legion_SvD]Amelie_Lampard teamkilled [Legion_SvD]_Alter.
+[11:59:46] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_forearm_l
+[11:59:48] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[11:59:48] anticheat|[LegionSvD]_Igorrr_|2583313|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:59:49] kill|63rd_General_Eternal|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_upperarm_r
+[11:59:49] kill|[LegionSvD]_Igorrr_|[Legion_SvD]_Hm|melee|Infantry Musket|hb_abdomen
+[11:59:50] kill|[Legion_SvD]_Hm|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_l
+[11:59:50] msg,New round started.
+[11:59:57] chat|[Legion_Svd]_Fuhrer_GIORGI|team|sgori
+[11:59:57] msg,[Legion_SVD]Poroshenko teamhit [Legion_SvD]_Mokrif's horse 69 health.
+[11:59:59] kill|[Legion_SvD]_Mokrif|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_thigh_l
+[12:00:02] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_Hm|melee|Infantry Musket|hb_thorax
+[12:00:05] kill|[LegionSvD]_Igorrr_|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_forearm_l
+[12:00:07] kill|[Legion_SvD]_Hm|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_abdomen
+[12:00:07] kill|63rd_Kurdishim_Abo|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_forearm_r
+[12:00:07] teamkill|[Legion_SVD]Poroshenko|[Legion_SvD]_Alter|melee|Infantry Musket|hb_shoulder_l
+[12:00:07] msg,[Legion_SvD]_Alter teamkilled [Legion_SVD]Poroshenko.
+[12:00:08] kill|63rd_General_Eternal|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_forearm_r
+[12:00:14] kill|[Legion_SvD]_Alter|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_forearm_l
+[12:00:14] kill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_upperarm_l
+[12:00:14] msg,New round started.
+[12:00:25] anticheat|summary|exit|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|mission=9|session=65|detections=0|seed_mismatches=0|time_skew_pct=-1|time_skew_windows=0|max_aim_speed=37863|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=17|autoblock_match_pct=17|autoblock_reaction_ms=477|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=5|autoattack_open_pct=60|autoattack_reaction_ms=583|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[12:00:25] disconnect|63rd_Kurdishim_Abo|REDACTED_IP_FOR_PRIVACY|2231675
+[12:00:25] msg,63rd_Kurdishim_Abo has left the game with ID: 2231675
+[12:00:25] death|63rd_Kurdishim_Abo
+[12:00:25] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SvD]_Alter|melee|Infantry Musket|hb_forearm_l
+[12:00:31] kill|[Legion_SvD]_Alter|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[12:00:31] kill|[LegionSvD]_Igorrr_|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_l
+[12:00:32] kill|[Legion_SvD]_Mokrif|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[12:00:32] chat|[Legion_SvD]Amelie_Lampard|team|сервер какашки
+[12:00:36] kill|[Legion_SvD]Amelie_Lampard|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[12:00:37] connect|63rd_Kurdishim_Abo|REDACTED_IP_FOR_PRIVACY|2231675|regular|0|63rd_Kurdishim_Abo
+[12:00:37] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:00:40] connect|63rd_lebrun|REDACTED_IP_FOR_PRIVACY|1832685|regular|1151|63rd_lebrun
+[12:00:42] kill|[Legion_SVD]Poroshenko|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:00:44] kill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_abdomen
+[12:00:44] msg,New round started.
+[12:00:48] connect|Legion_SvD_GG_SPIDI|REDACTED_IP_FOR_PRIVACY|2441522|regular|0|Legion_SvD_GG_SPIDI
+[12:00:50] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:00:53] msg,[Legion_SVD]Poroshenko teamhit [Legion_SvD]_Mokrif's horse 57 health.
+[12:00:55] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:00:55] anticheat|[Legion_Svd]_Fuhrer_GIORGI|2433518|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:00:57] kill|[Legion_SvD]_Hm|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_spine
+[12:00:58] kill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_forearm_r
+[12:00:59] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:01:01] kill|63rd_General_Eternal|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_thorax
+[12:01:01] kill|[Legion_SvD]_k_La_Furia_Roja|[LegionSvD]_Igorrr_|melee|Infantry Musket|hb_thorax
+[12:01:04] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_thorax
+[12:01:06] kill|63rd_Kurdishim_Abo|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_head
+[12:01:06] msg,[Legion_SvD]_Mokrif teamhit [Legion_SVD]Poroshenko 19 health.
+[12:01:08] kill|[Legion_SvD]_ZeroTwo|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_abdomen
+[12:01:08] msg,New round started.
+[12:01:18] chat|63rd_Kurdishim_Abo|team|eternal fast cause we have tournameny 
+[12:01:21] kill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_forearm_r
+[12:01:22] kill|[Legion_SvD]_Mokrif|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_upperarm_r
+[12:01:24] kill|[Legion_SVD]Poroshenko|63rd_lebrun|melee|Infantry Musket|hb_thorax
+[12:01:24] msg,63rd_Kurdishim_Abo teamhit [Legion_SvD]_Maj_Evil_Xomik 50 health.
+[12:01:27] kill|Legion_SvD_GG_SPIDI|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_upperarm_r
+[12:01:28] teamkill|63rd_lebrun|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_l
+[12:01:28] msg,[Legion_SvD]_Hm teamkilled 63rd_lebrun.
+[12:01:28] kill|[LegionSvD]_Igorrr_|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_forearm_r
+[12:01:30] kill|[Legion_SvD]_Alter|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_upperarm_l
+[12:01:31] msg,63rd_Kurdishim_Abo teamhit [Legion_SvD]_Hm 47 health.
+[12:01:34] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:01:34] anticheat|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:01:36] teamkill|[Legion_SvD]_Maj_Evil_Xomik|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_forearm_l
+[12:01:36] msg,63rd_Kurdishim_Abo teamkilled [Legion_SvD]_Maj_Evil_Xomik.
+[12:01:39] kill|[Legion_SvD]_ZeroTwo|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_thorax
+[12:01:40] teamkill|63rd_Kurdishim_Abo|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:01:40] msg,[Legion_SvD]_Hm teamkilled 63rd_Kurdishim_Abo.
+[12:01:41] kill|[Legion_SvD]_Hm|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_spine
+[12:01:42] chat|[Legion_SvD]_Hm|team|мда
+[12:01:44] chat|[Legion_SvD]_Hm|team|sorry
+[12:01:47] chat|[Legion_SvD]_Hm|team|weird ping
+[12:01:56] kill|63rd_General_Eternal|[Legion_SvD]Amelie_Lampard|punch
+[12:02:02] chat|[Legion_SvD]_Hm|team|you phasing through enemy somehow
+[12:02:06] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_spine
+[12:02:06] msg,New round started.
+[12:02:10] chat|[Legion_SvD]Amelie_Lampard|team|да
+[12:02:13] connect|[Legion-SvD]Verhovna_rada|REDACTED_IP_FOR_PRIVACY|2040869|regular|0|[Legion-SvD]Verhovna_rada
+[12:02:16] chat|Legion_SvD_GG_SPIDI|team|ЕTERNALLLL ПРИВЕЕЕЕЕЕЕЕЕТТТ
+[12:02:17] kill|[Legion_SvD]_Maj_Evil_Xomik|[Legion_SVD]Poroshenko|melee|Infantry Musket|hb_spine
+[12:02:19] kill|[Legion_SVD]Poroshenko|[Legion_SvD]_Hm|melee|Infantry Musket|hb_spine
+[12:02:21] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_l
+[12:02:24] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:02:24] kill|[Legion_SvD]_Mokrif|63rd_lebrun|melee|Infantry Musket|hb_forearm_l
+[12:02:25] kill|63rd_Kurdishim_Abo|[Legion_SvD]_Alter|melee|Infantry Musket|hb_forearm_l
+[12:02:27] kill|Legion_SvD_GG_SPIDI|63rd_lebrun|melee|Infantry Musket|hb_forearm_l
+[12:02:29] kill|[Legion_SvD]_ZeroTwo|[Legion_SvD]_Alter|melee|Infantry Musket|hb_spine
+[12:02:33] kill|[LegionSvD]_Igorrr_|63rd_lebrun|melee|Infantry Musket|hb_abdomen
+[12:02:36] kill|[Legion_SvD]_Alter|63rd_lebrun|melee|Infantry Musket|hb_spine
+[12:02:44] teamkill|[Legion_SvD]_Hm|63rd_lebrun|melee|Infantry Musket|hb_forearm_l
+[12:02:44] msg,63rd_lebrun teamkilled [Legion_SvD]_Hm.
+[12:02:47] msg,*Admin*[63rd_General_Eternal]: wait sec pls
+[12:02:47] kill|63rd_lebrun|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_forearm_l
+[12:02:48] msg,*Admin*[63rd_General_Eternal]: coming
+[12:02:50] kill|63rd_General_Eternal|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_thorax
+[12:02:58] kill|[Legion_SvD]_k_La_Furia_Roja|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_shoulder_l
+[12:02:58] msg,New round started.
+[12:03:03] connect|63rd_VGren_Spooky|REDACTED_IP_FOR_PRIVACY|774122|regular|1140|63rd_VGren_Spooky
+[12:03:10] anticheat|summary|exit|[Legion_SvD]_Alter|2289436|REDACTED_IP_FOR_PRIVACY|mission=9|session=543|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=52|autoblock_reaction_ms=305|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=57|autoattack_reaction_ms=813|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=14|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=3
+[12:03:10] disconnect|[Legion_SvD]_Alter|REDACTED_IP_FOR_PRIVACY|2289436
+[12:03:10] msg,[Legion_SvD]_Alter has left the game with ID: 2289436
+[12:03:10] death|[Legion_SvD]_Alter
+[12:03:10] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:03:10] anticheat|[Legion_SvD]_Mokrif|2492046|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:03:11] kill|[Legion-SvD]Verhovna_rada|63rd_lebrun|melee|Infantry Musket|hb_spine
+[12:03:12] kill|Legion_SvD_GG_SPIDI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_thorax
+[12:03:13] kill|[Legion_SvD]_Mokrif|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_spine
+[12:03:14] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:14] anticheat|summary|exit|63rd_LCpl_Edward|2272988|REDACTED_IP_FOR_PRIVACY|mission=9|session=2346|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:03:14] disconnect|63rd_LCpl_Edward|REDACTED_IP_FOR_PRIVACY|2272988
+[12:03:14] msg,63rd_LCpl_Edward has left the game with ID: 2272988
+[12:03:15] kill|[Legion_SvD]Amelie_Lampard|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:03:17] kill|[LegionSvD]_Igorrr_|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_forearm_r
+[12:03:17] msg,New round started.
+[12:03:25] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 6 with gamemode Battle and with the nations United Kingdom and Empire Français.
+[12:03:28] anticheat|summary|mission_end|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|mission=9|session=549|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=213176|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=32|autoblock_reaction_ms=345|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=65|autoattack_reaction_ms=951|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=6|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|mission=9|session=512|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=501420|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=82|autoblock_reaction_ms=654|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=644|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=11
+[12:03:28] anticheat|summary|mission_end|[Legion-SvD]Verhovna_rada|2040869|REDACTED_IP_FOR_PRIVACY|mission=9|session=74|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=538869|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=45|autoblock_reaction_ms=440|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=13|autoattack_open_pct=61|autoattack_reaction_ms=975|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:03:28] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=718|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=496574|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=50|autoblock_reaction_ms=848|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=65|autoattack_reaction_ms=748|autoattack_feints=0|autoattack_chambers=5|autoattack_chamber_pct=35|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=4
+[12:03:28] anticheat|summary|mission_end|[Legion_Svd]_Fuhrer_GIORGI|2433518|REDACTED_IP_FOR_PRIVACY|mission=9|session=588|detections=1|seed_mismatches=0|time_skew_pct=-3|time_skew_windows=0|max_aim_speed=180131|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=72|autoblock_reaction_ms=411|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=50|autoattack_reaction_ms=774|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=9|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|[Legion_SvD]_ZeroTwo|2298580|REDACTED_IP_FOR_PRIVACY|mission=9|session=517|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=575896|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=50|autoblock_reaction_ms=492|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=65|autoattack_reaction_ms=807|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=25|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|[Legion_SvD]Arafey|2518964|REDACTED_IP_FOR_PRIVACY|mission=9|session=446|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=4
+[12:03:28] anticheat|summary|mission_end|Legion_SvD_GG_SPIDI|2441522|REDACTED_IP_FOR_PRIVACY|mission=9|session=159|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=865238|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=22|autoblock_reaction_ms=545|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=10|autoattack_open_pct=40|autoattack_reaction_ms=430|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=7
+[12:03:28] anticheat|summary|mission_end|[LegionSvD]_Igorrr_|2583313|REDACTED_IP_FOR_PRIVACY|mission=9|session=572|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=538869|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=52|autoblock_reaction_ms=862|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=52|autoattack_reaction_ms=515|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=4|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|mission=9|session=563|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=530354|aim_snaps=1|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=25|autoblock_reaction_ms=469|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=65|autoattack_reaction_ms=786|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|[Legion_SvD]_Mokrif|2492046|REDACTED_IP_FOR_PRIVACY|mission=9|session=558|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=538869|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=30|autoblock_reaction_ms=653|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=75|autoattack_reaction_ms=807|autoattack_feints=2|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=2|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|[Legion_SVD]Poroshenko|2508655|REDACTED_IP_FOR_PRIVACY|mission=9|session=554|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=484645|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=97|autoblock_reaction_ms=510|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=57|autoattack_reaction_ms=680|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|mission=9|session=547|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=684750|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=77|autoblock_reaction_ms=530|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=42|autoattack_reaction_ms=784|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|mission=9|session=170|detections=0|seed_mismatches=0|time_skew_pct=-1|time_skew_windows=0|max_aim_speed=174225|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=87|autoblock_reaction_ms=672|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=24|autoattack_open_pct=54|autoattack_reaction_ms=993|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=8
+[12:03:28] anticheat|summary|mission_end|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|mission=9|session=168|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=571669|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=70|autoblock_reaction_ms=418|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=23|autoattack_open_pct=39|autoattack_reaction_ms=725|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[12:03:28] anticheat|summary|mission_end|63rd_VGren_Spooky|774122|REDACTED_IP_FOR_PRIVACY|mission=9|session=24|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=509476|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:03:28] msg,Map change.
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:30] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:40] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 5 with gamemode Battle and with the nations United Kingdom and Empire Français.
+[12:03:43] anticheat|summary|mission_end|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|mission=9|session=564|detections=1|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=135079|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:03:43] anticheat|summary|mission_end|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|mission=9|session=527|detections=0|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=76424|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=37|autoblock_reaction_ms=353|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:03:43] anticheat|summary|mission_end|[Legion-SvD]Verhovna_rada|2040869|REDACTED_IP_FOR_PRIVACY|mission=9|session=89|detections=0|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=38166|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=7|autoblock_match_pct=71|autoblock_reaction_ms=993|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:03:43] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=733|detections=0|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[12:03:43] anticheat|summary|mission_end|[Legion_Svd]_Fuhrer_GIORGI|2433518|REDACTED_IP_FOR_PRIVACY|mission=9|session=603|detections=1|seed_mismatches=0|time_skew_pct=-28|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=28
+[12:03:43] anticheat|summary|mission_end|[Legion_SvD]_ZeroTwo|2298580|REDACTED_IP_FOR_PRIVACY|mission=9|session=531|detections=0|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:03:43] anticheat|summary|mission_end|[Legion_SvD]Arafey|2518964|REDACTED_IP_FOR_PRIVACY|mission=9|session=461|detections=0|seed_mismatches=0|time_skew_pct=-22|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=22
+[12:03:43] anticheat|summary|mission_end|Legion_SvD_GG_SPIDI|2441522|REDACTED_IP_FOR_PRIVACY|mission=9|session=174|detections=0|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:03:43] anticheat|summary|mission_end|[LegionSvD]_Igorrr_|2583313|REDACTED_IP_FOR_PRIVACY|mission=9|session=587|detections=1|seed_mismatches=0|time_skew_pct=-25|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=25
+[12:03:43] anticheat|summary|mission_end|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|mission=9|session=578|detections=2|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=223366|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=33|autoblock_match_pct=27|autoblock_reaction_ms=117|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[12:03:43] anticheat|summary|mission_end|[Legion_SvD]_Mokrif|2492046|REDACTED_IP_FOR_PRIVACY|mission=9|session=573|detections=1|seed_mismatches=0|time_skew_pct=-27|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=27
+[12:03:43] anticheat|summary|mission_end|[Legion_SVD]Poroshenko|2508655|REDACTED_IP_FOR_PRIVACY|mission=9|session=569|detections=0|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[12:03:43] anticheat|summary|mission_end|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|mission=9|session=562|detections=0|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=108354|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=38|autoblock_match_pct=55|autoblock_reaction_ms=417|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:03:43] anticheat|summary|mission_end|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|mission=9|session=185|detections=0|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=1081182|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=37|autoblock_match_pct=16|autoblock_reaction_ms=100|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:03:43] anticheat|summary|mission_end|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|mission=9|session=183|detections=0|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=851840|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=82|autoblock_reaction_ms=127|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[12:03:43] anticheat|summary|mission_end|63rd_VGren_Spooky|774122|REDACTED_IP_FOR_PRIVACY|mission=9|session=39|detections=0|seed_mismatches=0|time_skew_pct=-19|time_skew_windows=0|max_aim_speed=685627|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=18|autoblock_match_pct=94|autoblock_reaction_ms=379|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=19
+[12:03:43] msg,Map change.
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:45] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:46] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:46] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:03:57] msg,63rd_General_Eternal teamhit 63rd_VGren_Spooky 2 health.
+[12:03:58] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:03:58] anticheat|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:03:58] chat|[Legion_SvD]Amelie_Lampard|all|я за них пойду
+[12:03:59] connect|63rd_LCpl_Edward|REDACTED_IP_FOR_PRIVACY|2272988|admin|1137|63rd_LCpl_Edward
+[12:03:59] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:03:59] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:04:00] anticheat|summary|exit|[Legion_SvD]_Mokrif|2492046|REDACTED_IP_FOR_PRIVACY|mission=9|session=590|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:00] disconnect|[Legion_SvD]_Mokrif|REDACTED_IP_FOR_PRIVACY|2492046
+[12:04:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:04:02] msg,[AC-ADMIN] Removed non-whitelisted admin: 63rd_LCpl_Edward GUID: 2272988
+[12:04:05] anticheat|summary|exit|[Legion_SVD]Poroshenko|2508655|REDACTED_IP_FOR_PRIVACY|mission=9|session=591|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:05] disconnect|[Legion_SVD]Poroshenko|REDACTED_IP_FOR_PRIVACY|2508655
+[12:04:05] msg,[Legion_SVD]Poroshenko has left the game with ID: 2508655
+[12:04:06] msg,[Legion_SvD]_Hm teamhit [LegionSvD]_Igorrr_ 53 health.
+[12:04:07] chat|Legion_SvD_GG_SPIDI|team|ETERNALLL ПРИВЕТТ
+[12:04:11] kill|63rd_lebrun|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:04:14] chat|63rd_General_Eternal|team|chmo
+[12:04:14] kill|63rd_VGren_Spooky|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_r
+[12:04:17] chat|[Legion_SvD]Amelie_Lampard|team|eternal ddos pols
+[12:04:17] kill|[LegionSvD]_Igorrr_|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[12:04:18] chat|[Legion_SvD]Amelie_Lampard|team|pls
+[12:04:19] chat|[Legion_SvD]_ZeroTwo|team|Change map
+[12:04:21] kill|63rd_Kurdishim_Abo|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_thorax
+[12:04:24] chat|[Legion_SvD]_ZeroTwo|team|Eteranal
+[12:04:25] kill|[Legion-SvD]Verhovna_rada|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[12:04:25] chat|Legion_SvD_GG_SPIDI|team|CHMO PETYH))
+[12:04:27] kill|Legion_SvD_GG_SPIDI|63rd_LCpl_Edward|melee|Infantry Musket|hb_thorax
+[12:04:28] chat|[Legion_SvD]_Hm|team|change the map pls, 1 of our ppl getting crush due to this exact map
+[12:04:33] msg,*Admin*[63rd_General_Eternal]: its good map for 7v7
+[12:04:35] connect|Legion_Bob|REDACTED_IP_FOR_PRIVACY|2560835|regular|1129|Legion_Bob
+[12:04:36] chat|[Legion_SvD]Amelie_Lampard|all|игорь иди за них
+[12:04:37] chat|63rd_Kurdishim_Abo|team|R
+[12:04:38] chat|[Legion_SvD]Amelie_Lampard|all|я тебе инвайт кину
+[12:04:38] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:04:39] chat|[Legion_SvD]_ZeroTwo|team|No
+[12:04:40] chat|63rd_Kurdishim_Abo|team|AMK
+[12:04:42] chat|[Legion_SvD]_Maj_Evil_Xomik|team|no
+[12:04:45] chat|[Legion_SvD]Amelie_Lampard|all|ща найду
+[12:04:46] chat|[Legion_SvD]_ZeroTwo|team|This map fo 10 vs 10
+[12:04:49] chat|[Legion_SvD]_Maj_Evil_Xomik|team|10v10 this map
+[12:04:51] kill|[Legion_SvD]_Hm|63rd_LCpl_Edward|melee|Infantry Musket|hb_upperarm_l
+[12:04:51] kill|63rd_General_Eternal|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_forearm_r
+[12:04:56] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 3 with gamemode Battle and with the nations United Kingdom and Empire Français.
+[12:04:56] chat|[Legion_SvD]Amelie_Lampard|all|ахахах
+[12:04:59] anticheat|summary|mission_end|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|mission=9|session=640|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=163441|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=77|autoblock_reaction_ms=565|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=7|autoattack_open_pct=28|autoattack_reaction_ms=719|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=100|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|mission=9|session=603|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=473591|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=577|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=26|autoattack_open_pct=30|autoattack_reaction_ms=641|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=14|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|[Legion-SvD]Verhovna_rada|2040869|REDACTED_IP_FOR_PRIVACY|mission=9|session=165|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=85|autoblock_reaction_ms=625|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=7|autoattack_open_pct=57|autoattack_reaction_ms=1325|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=809|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=150940|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=614|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=14|autoattack_open_pct=64|autoattack_reaction_ms=1003|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|Legion_Bob|2560835|REDACTED_IP_FOR_PRIVACY|mission=9|session=23|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|[Legion_Svd]_Fuhrer_GIORGI|2433518|REDACTED_IP_FOR_PRIVACY|mission=9|session=679|detections=1|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=3
+[12:04:59] anticheat|summary|mission_end|[Legion_SvD]_ZeroTwo|2298580|REDACTED_IP_FOR_PRIVACY|mission=9|session=607|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=126003|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=30|autoblock_reaction_ms=68|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=4|autoattack_open_pct=75|autoattack_reaction_ms=250|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|[Legion_SvD]Arafey|2518964|REDACTED_IP_FOR_PRIVACY|mission=9|session=537|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|Legion_SvD_GG_SPIDI|2441522|REDACTED_IP_FOR_PRIVACY|mission=9|session=250|detections=0|seed_mismatches=0|time_skew_pct=-4|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=31|autoblock_match_pct=32|autoblock_reaction_ms=373|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=4
+[12:04:59] anticheat|summary|mission_end|[LegionSvD]_Igorrr_|2583313|REDACTED_IP_FOR_PRIVACY|mission=9|session=662|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=32|autoblock_reaction_ms=641|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=13|autoattack_open_pct=53|autoattack_reaction_ms=935|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|63rd_LCpl_Edward|2272988|REDACTED_IP_FOR_PRIVACY|mission=9|session=59|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=432472|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=50|autoblock_reaction_ms=693|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=19|autoattack_open_pct=57|autoattack_reaction_ms=513|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|mission=9|session=653|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=195173|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=7|autoblock_reaction_ms=906|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=1|autoattack_open_pct=100|autoattack_reaction_ms=494|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|mission=9|session=638|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=9903|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=3
+[12:04:59] anticheat|summary|mission_end|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|mission=9|session=261|detections=1|seed_mismatches=0|time_skew_pct=-8|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=85|autoblock_reaction_ms=410|autoblock_feints=4|autoblock_offscreen=0|autoattack_samples=10|autoattack_open_pct=60|autoattack_reaction_ms=447|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=8
+[12:04:59] anticheat|summary|mission_end|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|mission=9|session=259|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=72|autoblock_reaction_ms=635|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=9|autoattack_open_pct=33|autoattack_reaction_ms=664|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:04:59] anticheat|summary|mission_end|63rd_VGren_Spooky|774122|REDACTED_IP_FOR_PRIVACY|mission=9|session=115|detections=0|seed_mismatches=0|time_skew_pct=-1|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=32|autoblock_match_pct=96|autoblock_reaction_ms=225|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=2|autoattack_open_pct=50|autoattack_reaction_ms=1413|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=1
+[12:04:59] msg,Map change.
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:05:14] kill|[LegionSvD]_Igorrr_|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_forearm_r
+[12:05:17] kill|63rd_Kurdishim_Abo|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_head
+[12:05:24] kill|63rd_General_Eternal|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_upperarm_r
+[12:05:26] kill|63rd_LCpl_Edward|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_forearm_r
+[12:05:30] kill|63rd_lebrun|Legion_Bob|melee|Infantry Musket|hb_head
+[12:05:30] msg,New round started.
+[12:05:31] msg,[Legion-SvD]Verhovna_rada teamhit Legion_Bob 48 health.
+[12:05:35] chat|63rd_Kurdishim_Abo|team|eternal
+[12:05:35] chat|[Legion_SvD]Amelie_Lampard|all|хахах
+[12:05:36] chat|Legion_Bob|team|Че.
+[12:05:36] chat|63rd_Kurdishim_Abo|team|fast amk
+[12:05:41] kill|63rd_General_Eternal|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_head
+[12:05:42] chat|63rd_General_Eternal|all|fred come discord
+[12:05:42] kill|[Legion-SvD]Verhovna_rada|63rd_LCpl_Edward|melee|Infantry Musket|hb_spine
+[12:05:50] kill|[Legion_SvD]_ZeroTwo|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_r
+[12:05:51] chat|[Legion_SvD]Amelie_Lampard|all|хахахаа
+[12:05:54] kill|Legion_Bob|63rd_lebrun|melee|Infantry Musket|hb_spine
+[12:05:55] chat|[Legion_SvD]Amelie_Lampard|all|учи турецкий
+[12:05:56] kill|63rd_LCpl_Edward|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_spine
+[12:05:56] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:05:56] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:05:58] chat|[Legion_SvD]_Maj_Evil_Xomik|team|sry
+[12:06:00] connect|63rd_blowjob|REDACTED_IP_FOR_PRIVACY|1589927|regular|1132|63rd_blowjob
+[12:06:04] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:06:05] kill|63rd_lebrun|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:06:08] chat|[Legion_SvD]Amelie_Lampard|all|sus
+[12:06:08] connect|*_[Legion_SvD]_LJE-MARAT|REDACTED_IP_FOR_PRIVACY|2492046|regular|0|*_[Legion_SvD]_LJE-MARAT
+[12:06:12] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:06:25] connect|63rd_OZBEK|REDACTED_IP_FOR_PRIVACY|2002752|admin|1126|63rd_OZBEK
+[12:06:26] kill|63rd_Kurdishim_Abo|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_forearm_l
+[12:06:26] msg,New round started.
+[12:06:29] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:06:29] msg,[AC-ADMIN] Removed non-whitelisted admin: 63rd_OZBEK GUID: 2002752
+[12:06:30] chat|63rd_Kurdishim_Abo|team|nani
+[12:06:38] kill|[Legion_SvD]_ZeroTwo|63rd_VGren_Spooky|melee|Infantry Musket|hb_upperarm_l
+[12:06:42] death|[Legion_SvD]_Maj_Evil_Xomik
+[12:06:42] kill|[Legion-SvD]Verhovna_rada|63rd_VGren_Spooky|melee|Infantry Musket|hb_thorax
+[12:06:43] kill|[Legion_SvD]Amelie_Lampard|63rd_lebrun|melee|Infantry Musket|hb_shoulder_r
+[12:06:43] kill|*_[Legion_SvD]_LJE-MARAT|Legion_Bob|melee|Infantry Musket|hb_thorax
+[12:06:44] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_blowjob|melee|Infantry Musket|hb_calf_l
+[12:06:46] kill|[LegionSvD]_Igorrr_|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[12:06:46] msg,New round started.
+[12:06:47] teamkill|63rd_LCpl_Edward|63rd_VGren_Spooky|melee|Infantry Musket|hb_upperarm_l
+[12:06:47] msg,63rd_VGren_Spooky teamkilled 63rd_LCpl_Edward.
+[12:06:47] chat|[Legion_SvD]Amelie_Lampard|all|А ОЗБЕК НЕ В АССАСИНАХ ЧТО-ЛИ???
+[12:06:50] death|Legion_Bob
+[12:06:55] msg,*Admin*[63rd_General_Eternal]: res live
+[12:06:56] death|[Legion_SvD]_ZeroTwo
+[12:06:56] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 3 with gamemode Battle and with the nations United Kingdom and Empire Français.
+[12:06:59] anticheat|summary|mission_end|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|mission=9|session=760|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=447548|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=35|autoblock_reaction_ms=453|autoblock_feints=0|autoblock_offscreen=2|autoattack_samples=14|autoattack_open_pct=57|autoattack_reaction_ms=1232|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:06:59] anticheat|summary|mission_end|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|mission=9|session=724|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=94397|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=60|autoblock_reaction_ms=984|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=24|autoattack_open_pct=20|autoattack_reaction_ms=701|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:06:59] anticheat|summary|mission_end|[Legion-SvD]Verhovna_rada|2040869|REDACTED_IP_FOR_PRIVACY|mission=9|session=286|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=232298|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=20|autoblock_reaction_ms=263|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=10|autoattack_open_pct=50|autoattack_reaction_ms=411|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:06:59] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=929|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=530391|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=42|autoblock_reaction_ms=503|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=1|autoattack_open_pct=100|autoattack_reaction_ms=748|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[12:06:59] anticheat|summary|mission_end|Legion_Bob|2560835|REDACTED_IP_FOR_PRIVACY|mission=9|session=144|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=653738|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=65|autoblock_reaction_ms=591|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=4|autoattack_open_pct=100|autoattack_reaction_ms=106|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=50|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[12:06:59] anticheat|summary|mission_end|*_[Legion_SvD]_LJE-MARAT|2492046|REDACTED_IP_FOR_PRIVACY|mission=9|session=51|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=751706|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=25|autoblock_reaction_ms=680|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=3|autoattack_open_pct=33|autoattack_reaction_ms=969|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=9
+[12:06:59] anticheat|summary|mission_end|[Legion_Svd]_Fuhrer_GIORGI|2433518|REDACTED_IP_FOR_PRIVACY|mission=9|session=800|detections=1|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=27
+[12:06:59] anticheat|summary|mission_end|[Legion_SvD]_ZeroTwo|2298580|REDACTED_IP_FOR_PRIVACY|mission=9|session=728|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=265857|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=45|autoblock_reaction_ms=386|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=23|autoattack_open_pct=65|autoattack_reaction_ms=944|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:06:59] anticheat|summary|mission_end|[Legion_SvD]Arafey|2518964|REDACTED_IP_FOR_PRIVACY|mission=9|session=658|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[12:06:59] anticheat|summary|mission_end|Legion_SvD_GG_SPIDI|2441522|REDACTED_IP_FOR_PRIVACY|mission=9|session=370|detections=0|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=27
+[12:06:59] anticheat|summary|mission_end|[LegionSvD]_Igorrr_|2583313|REDACTED_IP_FOR_PRIVACY|mission=9|session=783|detections=1|seed_mismatches=0|time_skew_pct=-9|time_skew_windows=0|max_aim_speed=181909|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=23
+[12:06:59] anticheat|summary|mission_end|63rd_LCpl_Edward|2272988|REDACTED_IP_FOR_PRIVACY|mission=9|session=180|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=614021|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=75|autoblock_reaction_ms=57|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=12|autoattack_open_pct=50|autoattack_reaction_ms=597|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[12:06:59] anticheat|summary|mission_end|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|mission=9|session=774|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=502552|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=42|autoblock_reaction_ms=161|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=21|autoattack_open_pct=38|autoattack_reaction_ms=844|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=10|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:06:59] anticheat|summary|mission_end|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|mission=9|session=759|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=213751|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=27|autoblock_reaction_ms=54|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=6|autoattack_open_pct=83|autoattack_reaction_ms=234|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=22
+[12:06:59] anticheat|summary|mission_end|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|mission=9|session=382|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=551190|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=100|autoblock_reaction_ms=480|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=25|autoattack_open_pct=36|autoattack_reaction_ms=631|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=16|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=7
+[12:06:59] anticheat|summary|mission_end|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|mission=9|session=379|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=735946|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=37|autoblock_reaction_ms=204|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=22|autoattack_open_pct=50|autoattack_reaction_ms=667|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=14|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[12:06:59] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=34|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=1081182|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=27|autoblock_reaction_ms=345|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=5|autoattack_open_pct=40|autoattack_reaction_ms=362|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:06:59] anticheat|summary|mission_end|63rd_VGren_Spooky|774122|REDACTED_IP_FOR_PRIVACY|mission=9|session=235|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=540591|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=100|autoblock_reaction_ms=574|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=3|autoattack_open_pct=66|autoattack_reaction_ms=796|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=19
+[12:06:59] anticheat|summary|mission_end|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|mission=9|session=59|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=520569|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=77|autoblock_reaction_ms=530|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=7|autoattack_open_pct=71|autoattack_reaction_ms=684|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=36
+[12:07:00] msg,Map change.
+[12:07:01] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:02] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:07:06] msg,*Admin*[63rd_General_Eternal]: FRED COME DSICORD
+[12:07:11] chat|63rd_VGren_Spooky|all|i have to go in 10min
+[12:07:11] chat|63rd_Kurdishim_Abo|team|NO
+[12:07:15] chat|Legion_Bob|team|Чего?
+[12:07:16] chat|63rd_OZBEK|all|come lan
+[12:07:17] chat|63rd_Kurdishim_Abo|team|I CANT WE PREPARING FOR TOURNAMENT 
+[12:07:18] chat|63rd_LCpl_Edward|all|bro come discord
+[12:07:19] chat|[Legion-SvD]Verhovna_rada|team|hi
+[12:07:21] chat|63rd_Kurdishim_Abo|all|sus 
+[12:07:22] chat|[Legion_SvD]Amelie_Lampard|team|Я готова освободить место тому кто хочет играть
+[12:07:22] chat|63rd_VGren_Spooky|all|can't
+[12:07:24] chat|63rd_OZBEK|all|comeeeeeee
+[12:07:24] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:07:24] anticheat|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:07:25] chat|63rd_VGren_Spooky|all|draft tourney
+[12:07:25] chat|63rd_Kurdishim_Abo|all|gogogogogo
+[12:07:27] msg,*Admin*[63rd_General_Eternal]: +1
+[12:07:28] chat|63rd_Kurdishim_Abo|all|no
+[12:07:30] chat|[Legion_SvD]Arafey|team|всем здравствуйте товарищи легионеры 
+[12:07:31] chat|Legion_Bob|team|Я могу за них зайти.
+[12:07:35] chat|63rd_OZBEK|all|why
+[12:07:36] chat|*_[Legion_SvD]_LJE-MARAT|team|turkter, kalaisyndar?
+[12:07:39] chat|Legion_Bob|team|Как в Крымскую войну.
+[12:07:42] chat|[Legion_SvD]Arafey|team|я скоро походу нахуй к вам уйду
+[12:07:43] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[12:07:45] msg,*Admin*[63rd_General_Eternal]: R
+[12:07:53] chat|[Legion_SvD]_k_La_Furia_Roja|team|r
+[12:07:55] msg,*Admin*[63rd_General_Eternal]: G
+[12:07:55] chat|[Legion-SvD]Verhovna_rada|team|r
+[12:08:00] kill|Legion_Bob|63rd_VGren_Spooky|melee|Infantry Musket|hb_shoulder_l
+[12:08:01] kill|63rd_lebrun|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_spine
+[12:08:02] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:08:02] anticheat|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|14|12|6|logged
+[12:08:03] kill|[Legion-SvD]Verhovna_rada|63rd_OZBEK|melee|Infantry Musket|hb_forearm_l
+[12:08:03] kill|[Legion_SvD]Arafey|63rd_LCpl_Edward|melee|Infantry Musket|hb_thorax
+[12:08:04] kill|[Legion_SvD]Amelie_Lampard|63rd_OZBEK|melee|Infantry Musket|hb_thorax
+[12:08:04] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_r
+[12:08:05] kill|[LegionSvD]_Igorrr_|63rd_VGren_Spooky|kick
+[12:08:07] kill|*_[Legion_SvD]_LJE-MARAT|63rd_blowjob|melee|Infantry Musket|hb_upperarm_r
+[12:08:07] msg,New round started.
+[12:08:11] chat|[Legion_SvD]Amelie_Lampard|all|ну один фраг есть
+[12:08:12] chat|63rd_General_Eternal|team|R
+[12:08:13] chat|[Legion_SvD]Amelie_Lampard|all|уже успех
+[12:08:18] msg,63rd_OZBEK teamhit 63rd_blowjob 4 health.
+[12:08:20] chat|*_[Legion_SvD]_LJE-MARAT|team|qotqbastar
+[12:08:20] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:08:23] chat|63rd_General_Eternal|team|CHMO
+[12:08:23] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:08:24] chat|63rd_General_Eternal|team|R
+[12:08:26] chat|[Legion_SvD]_k_La_Furia_Roja|team|r
+[12:08:27] chat|[Legion_SvD]Amelie_Lampard|team|sus
+[12:08:27] msg,*Admin*[63rd_General_Eternal]: G
+[12:08:32] kill|63rd_VGren_Spooky|Legion_Bob|melee|Infantry Musket|hb_forearm_l
+[12:08:33] kill|63rd_lebrun|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_head
+[12:08:33] kill|[Legion-SvD]Verhovna_rada|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_spine
+[12:08:33] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_OZBEK|melee|Infantry Musket|hb_shoulder_l
+[12:08:34] kill|*_[Legion_SvD]_LJE-MARAT|63rd_blowjob|melee|Infantry Musket|hb_upperarm_r
+[12:08:35] kill|Legion_Bob|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[12:08:35] kill|[Legion_SvD]Arafey|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_r
+[12:08:39] kill|[Legion_SvD]Amelie_Lampard|63rd_OZBEK|melee|Infantry Musket|hb_head
+[12:08:40] kill|[LegionSvD]_Igorrr_|63rd_OZBEK|melee|Infantry Musket|hb_thorax
+[12:08:40] msg,New round started.
+[12:08:48] msg,63rd_blowjob teamhit 63rd_OZBEK 3 health.
+[12:08:49] chat|[Legion_SvD]Amelie_Lampard|all|та у них сервер говна просто
+[12:08:53] chat|*_[Legion_SvD]_LJE-MARAT|team|qotqbastar
+[12:08:53] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:08:57] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:08:57] msg,[AC-ALERT] Suspect: 63rd_Kurdishim_Abo (GUID: 2231675) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:08:57] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|95|90|logged
+[12:08:57] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:08:59] chat|63rd_General_Eternal|team|R
+[12:09:00] chat|[Legion_SvD]Amelie_Lampard|all|++
+[12:09:00] chat|[Legion_SvD]_k_La_Furia_Roja|team|r
+[12:09:01] chat|[Legion_SvD]Amelie_Lampard|all|тоже самое
+[12:09:02] msg,*Admin*[63rd_General_Eternal]: G
+[12:09:07] kill|63rd_Kurdishim_Abo|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_spine
+[12:09:08] kill|Legion_Bob|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[12:09:09] kill|63rd_OZBEK|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_thorax
+[12:09:09] teamkill|63rd_LCpl_Edward|63rd_VGren_Spooky|melee|Infantry Musket|hb_head
+[12:09:09] msg,63rd_VGren_Spooky teamkilled 63rd_LCpl_Edward.
+[12:09:10] kill|*_[Legion_SvD]_LJE-MARAT|63rd_blowjob|melee|Infantry Musket|hb_upperarm_l
+[12:09:11] kill|63rd_General_Eternal|[Legion_SvD]Arafey|melee|Infantry Musket|hb_thorax
+[12:09:12] teamkill|[LegionSvD]_Igorrr_|[Legion_SvD]Arafey|melee|Infantry Musket|hb_head
+[12:09:12] msg,[Legion_SvD]Arafey teamkilled [LegionSvD]_Igorrr_.
+[12:09:19] kill|[Legion_SvD]Arafey|63rd_VGren_Spooky|melee|Infantry Musket|hb_forearm_l
+[12:09:20] teamkill|[Legion-SvD]Verhovna_rada|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_head
+[12:09:20] msg,[Legion_SvD]Amelie_Lampard teamkilled [Legion-SvD]Verhovna_rada.
+[12:09:22] chat|[Legion_SvD]Arafey|all|извини игорь
+[12:09:24] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_blowjob|melee|Infantry Musket|hb_upperarm_l
+[12:09:30] kill|[Legion_SvD]Amelie_Lampard|63rd_blowjob|melee|Infantry Musket|hb_head
+[12:09:30] msg,New round started.
+[12:09:31] anticheat|summary|exit|Legion_SvD_GG_SPIDI|2441522|REDACTED_IP_FOR_PRIVACY|mission=9|session=522|detections=0|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=10
+[12:09:31] disconnect|Legion_SvD_GG_SPIDI|REDACTED_IP_FOR_PRIVACY|2441522
+[12:09:31] msg,Legion_SvD_GG_SPIDI has left the game with ID: 2441522
+[12:09:36] chat|[Legion_SvD]Amelie_Lampard|all|хахах\
+[12:09:38] chat|63rd_VGren_Spooky|all|gtg
+[12:09:41] chat|63rd_VGren_Spooky|all|1more
+[12:09:44] chat|63rd_General_Eternal|team|R
+[12:09:44] msg,63rd_blowjob teamhit 63rd_OZBEK 3 health.
+[12:09:47] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:09:47] anticheat|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|14|7|6|logged
+[12:09:48] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:09:49] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:09:49] msg,[AC-ALERT] Suspect: 63rd_lebrun (GUID: 1832685) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:09:49] anticheat|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|14|90|90|logged
+[12:09:52] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:09:52] chat|63rd_LCpl_Edward|all|spooky
+[12:09:53] chat|Legion_Bob|team|р
+[12:09:53] chat|[Legion-SvD]Verhovna_rada|team|r
+[12:09:53] chat|[Legion_SvD]Arafey|team|р
+[12:09:53] chat|[Legion_SvD]Amelie_Lampard|team|карп давай со мной поменяешься
+[12:09:54] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:09:54] chat|63rd_LCpl_Edward|all|what you on
+[12:09:55] msg,*Admin*[63rd_General_Eternal]: G
+[12:09:57] msg,63rd_OZBEK teamhit 63rd_blowjob 3 health.
+[12:09:59] kill|[Legion_SvD]Amelie_Lampard|63rd_lebrun|melee|Infantry Musket|hb_spine
+[12:10:01] kill|[Legion-SvD]Verhovna_rada|63rd_lebrun|melee|Infantry Musket|hb_forearm_l
+[12:10:02] kill|[Legion_SvD]Arafey|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[12:10:03] chat|[Legion_SvD]Amelie_Lampard|team|я про это же
+[12:10:04] kill|Legion_Bob|63rd_VGren_Spooky|melee|Infantry Musket|hb_forearm_l
+[12:10:05] chat|[Legion_SvD]Amelie_Lampard|team|ты играть пойдёшь
+[12:10:05] msg,63rd_blowjob teamhit 63rd_OZBEK 3 health.
+[12:10:06] kill|63rd_blowjob|[LegionSvD]_Igorrr_|melee|Infantry Musket|hb_head
+[12:10:06] kill|63rd_Kurdishim_Abo|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:10:06] teamkill|[Legion_SvD]_Hm|*_[Legion_SvD]_LJE-MARAT|melee|Infantry Musket|hb_thorax
+[12:10:06] msg,*_[Legion_SvD]_LJE-MARAT teamkilled [Legion_SvD]_Hm.
+[12:10:06] chat|[Legion_SvD]Amelie_Lampard|team|а я буду
+[12:10:08] kill|*_[Legion_SvD]_LJE-MARAT|63rd_VGren_Spooky|melee|Infantry Musket|hb_forearm_l
+[12:10:10] chat|[Legion_SvD]Amelie_Lampard|team|в спеках
+[12:10:11] kill|63rd_General_Eternal|[LegionSvD]_Igorrr_|melee|Infantry Musket|hb_spine
+[12:10:12] kill|[LegionSvD]_Igorrr_|63rd_lebrun|melee|Infantry Musket|hb_thorax
+[12:10:12] msg,New round started.
+[12:10:13] connect|[Legion_SvD]_Chell00212|REDACTED_IP_FOR_PRIVACY|2593302|regular|0|[Legion_SvD]_Chell00212
+[12:10:13] anticheat|summary|exit|63rd_VGren_Spooky|774122|REDACTED_IP_FOR_PRIVACY|mission=9|session=429|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=114205|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=57|autoblock_reaction_ms=969|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=23|autoattack_open_pct=73|autoattack_reaction_ms=811|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:10:13] disconnect|63rd_VGren_Spooky|REDACTED_IP_FOR_PRIVACY|774122
+[12:10:13] msg,63rd_VGren_Spooky has left the game with ID: 774122
+[12:10:13] death|63rd_VGren_Spooky
+[12:10:16] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:10:19] chat|63rd_OZBEK|all|mal lenox XDDDDDD
+[12:10:23] msg,63rd_OZBEK teamhit 63rd_Kurdishim_Abo 1 health.
+[12:10:23] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:10:24] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:10:24] msg,[AC-ALERT] Suspect: 63rd_Kurdishim_Abo (GUID: 2231675) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:10:24] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:10:27] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:10:27] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:10:28] chat|[Legion_SvD]Amelie_Lampard|team|этернал купи нормальный сервер
+[12:10:28] chat|[Legion_SvD]Amelie_Lampard|team|пж
+[12:10:28] chat|Legion_Bob|team|Рил марат.
+[12:10:29] msg,63rd_OZBEK teamhit 63rd_Kurdishim_Abo 2 health.
+[12:10:29] chat|[Legion_SvD]Arafey|all|можем поменятся януш
+[12:10:32] msg,63rd_blowjob teamhit 63rd_lebrun 4 health.
+[12:10:39] msg,63rd_OZBEK teamhit 63rd_blowjob 4 health.
+[12:10:39] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:10:39] anticheat|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[12:10:41] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:10:44] chat|63rd_Kurdishim_Abo|team|r
+[12:10:47] msg,63rd_blowjob teamhit 63rd_OZBEK 3 health.
+[12:10:50] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:10:52] msg,63rd_OZBEK teamhit 63rd_blowjob 3 health.
+[12:10:52] chat|[Legion_SvD]_Chell00212|team|скока ждать
+[12:10:54] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:10:56] msg,63rd_OZBEK teamhit 63rd_blowjob 1 health.
+[12:10:57] chat|63rd_General_Eternal|team|-1
+[12:10:58] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:11:00] msg,63rd_OZBEK teamhit 63rd_blowjob 1 health.
+[12:11:01] chat|[Legion_SvD]Amelie_Lampard|team|+5
+[12:11:01] msg,63rd_blowjob teamhit 63rd_OZBEK 1 health.
+[12:11:03] chat|[Legion_SvD]Amelie_Lampard|team|or noobs
+[12:11:03] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:11:07] msg,63rd_OZBEK teamhit 63rd_blowjob 1 health.
+[12:11:08] chat|63rd_General_Eternal|team|zz
+[12:11:10] chat|63rd_General_Eternal|team|-1
+[12:11:10] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:11:10] chat|63rd_General_Eternal|team|-1
+[12:11:11] chat|[Legion_SvD]_Hm|team|no-1, its 7v7 min
+[12:11:11] chat|63rd_General_Eternal|team|-1
+[12:11:14] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:11:15] chat|63rd_LCpl_Edward|team|put ur berst players
+[12:11:16] msg,63rd_OZBEK teamhit 63rd_blowjob 4 health.
+[12:11:17] chat|[Legion_SvD]Arafey|team|я
+[12:11:17] chat|63rd_General_Eternal|team|R
+[12:11:18] chat|63rd_General_Eternal|team|R
+[12:11:18] chat|63rd_General_Eternal|team|R
+[12:11:21] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:11:21] death|[Legion_SvD]Arafey
+[12:11:22] chat|[Legion-SvD]Verhovna_rada|team|r
+[12:11:23] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:11:23] msg,*Admin*[63rd_General_Eternal]: G
+[12:11:24] chat|*_[Legion_SvD]_LJE-MARAT|team|men senderdin analardy nayaq ...
+[12:11:33] kill|[LegionSvD]_Igorrr_|63rd_lebrun|melee|Infantry Musket|hb_head
+[12:11:33] msg,63rd_OZBEK teamhit 63rd_blowjob 1 health.
+[12:11:37] msg,63rd_OZBEK teamhit 63rd_blowjob 3 health.
+[12:11:38] kill|63rd_blowjob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_spine
+[12:11:38] kill|*_[Legion_SvD]_LJE-MARAT|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[12:11:38] teamkill|[Legion_SvD]Amelie_Lampard|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_spine
+[12:11:38] msg,[Legion-SvD]Verhovna_rada teamkilled [Legion_SvD]Amelie_Lampard.
+[12:11:41] kill|[Legion_SvD]_Hm|63rd_lebrun|melee|Infantry Musket|hb_spine
+[12:11:43] msg,63rd_lebrun teamhit 63rd_General_Eternal 55 health.
+[12:11:43] teamkill|63rd_General_Eternal|63rd_lebrun|melee|Infantry Musket|hb_calf_r
+[12:11:43] msg,63rd_lebrun teamkilled 63rd_General_Eternal.
+[12:11:43] kill|63rd_OZBEK|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_thigh_l
+[12:11:44] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:11:44] msg,[AC-ALERT] Suspect: 63rd_Kurdishim_Abo (GUID: 2231675) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:11:44] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:11:45] chat|[Legion_SvD]Amelie_Lampard|team|кайф
+[12:11:49] chat|[Legion_SvD]Amelie_Lampard|team|не лагал бы сервак
+[12:11:50] connect|63rd_Rec_SPIDI|REDACTED_IP_FOR_PRIVACY|2441522|regular|0|63rd_Rec_SPIDI
+[12:11:50] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:11:51] chat|[Legion_SvD]Amelie_Lampard|team|какашки
+[12:11:56] kill|[Legion-SvD]Verhovna_rada|63rd_lebrun|melee|Infantry Musket|hb_spine
+[12:12:00] chat|63rd_Rec_SPIDI|all|ПРИВЕТ
+[12:12:00] chat|63rd_OZBEK|all|LENOXXXXXXXXXXXXX
+[12:12:00] chat|[Legion_SvD]Amelie_Lampard|team|у меня удары меняется 2-3 секунды и с лагами
+[12:12:02] chat|[Legion_SvD]Amelie_Lampard|team|какими-то
+[12:12:02] kill|Legion_Bob|63rd_LCpl_Edward|melee|Infantry Musket|hb_shoulder_l
+[12:12:02] msg,New round started.
+[12:12:02] chat|63rd_OZBEK|all|mal
+[12:12:04] chat|63rd_General_Eternal|team|+1
+[12:12:07] chat|Legion_Bob|all|Че с сервером.
+[12:12:09] chat|63rd_General_Eternal|team|+1
+[12:12:10] chat|63rd_Kurdishim_Abo|team|ez
+[12:12:10] chat|63rd_Rec_SPIDI|team|ДАРОВ
+[12:12:11] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:12:13] chat|*_[Legion_SvD]_LJE-MARAT|team|kakashki olar
+[12:12:14] death|[Legion-SvD]Verhovna_rada
+[12:12:15] death|Legion_Bob
+[12:12:17] chat|[Legion_SvD]Amelie_Lampard|team|сдиди я ща за вас зайду
+[12:12:17] msg,63rd_General_Eternal teamhit 63rd_Rec_SPIDI 1 health.
+[12:12:17] chat|[Legion_SvD]Amelie_Lampard|team|тоже
+[12:12:18] chat|[Legion_SvD]_Hm|all|Это Эритрейский сервер
+[12:12:19] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:12:20] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:12:20] anticheat|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:12:22] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:12:22] chat|63rd_General_Eternal|team|R
+[12:12:23] chat|63rd_General_Eternal|team|R
+[12:12:23] chat|63rd_General_Eternal|team|R
+[12:12:24] chat|63rd_General_Eternal|team|R
+[12:12:24] chat|63rd_General_Eternal|team|R
+[12:12:24] chat|63rd_General_Eternal|team|R
+[12:12:24] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:12:25] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:12:25] msg,[AC-ALERT] Suspect: 63rd_Kurdishim_Abo (GUID: 2231675) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:12:25] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:12:26] chat|[LegionSvD]_Igorrr_|team|ns ult cgblb
+[12:12:26] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:12:28] msg,63rd_blowjob teamhit 63rd_OZBEK 3 health.
+[12:12:30] msg,63rd_OZBEK teamhit 63rd_blowjob 4 health.
+[12:12:31] chat|63rd_General_Eternal|team|R
+[12:12:32] chat|[Legion_SvD]_Chell00212|team|єх опять спековий ивент но мі потерпим
+[12:12:32] chat|63rd_General_Eternal|team|R
+[12:12:33] chat|63rd_LCpl_Edward|team|r
+[12:12:34] chat|63rd_LCpl_Edward|team|r
+[12:12:34] chat|63rd_LCpl_Edward|team|r
+[12:12:34] chat|63rd_LCpl_Edward|team|r
+[12:12:35] chat|63rd_LCpl_Edward|team|r
+[12:12:35] chat|63rd_LCpl_Edward|team|r
+[12:12:36] chat|63rd_LCpl_Edward|team|r
+[12:12:36] chat|[Legion_SvD]_Hm|team|гот мит унс
+[12:12:36] chat|63rd_LCpl_Edward|team|r
+[12:12:36] msg,63rd_blowjob teamhit 63rd_OZBEK 3 health.
+[12:12:36] chat|63rd_LCpl_Edward|team|r
+[12:12:37] chat|63rd_LCpl_Edward|team|r
+[12:12:38] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:12:42] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:12:44] msg,63rd_blowjob teamhit 63rd_OZBEK 3 health.
+[12:12:45] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:12:45] chat|*_[Legion_SvD]_LJE-MARAT|all|morlif
+[12:12:46] msg,*Admin*[63rd_General_Eternal]: G
+[12:12:49] chat|[Legion_SvD]_Chell00212|team|маклиф
+[12:12:52] msg,63rd_blowjob teamhit 63rd_OZBEK 1 health.
+[12:12:52] kill|63rd_OZBEK|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_upperarm_r
+[12:12:53] kill|[Legion_SvD]_ZeroTwo|63rd_LCpl_Edward|melee|Infantry Musket|hb_head
+[12:12:54] kill|*_[Legion_SvD]_LJE-MARAT|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_r
+[12:12:54] kill|[Legion_SvD]_Hm|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_upperarm_r
+[12:12:55] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:12:55] anticheat|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:12:56] kill|[Legion_SvD]Arafey|63rd_LCpl_Edward|melee|Infantry Musket|hb_spine
+[12:12:57] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:12:57] anticheat|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:12:58] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:12:58] msg,[AC-ALERT] Suspect: 63rd_Kurdishim_Abo (GUID: 2231675) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:12:58] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:12:58] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|100|90|logged
+[12:12:59] kill|[LegionSvD]_Igorrr_|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[12:13:04] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_lebrun|melee|Infantry Musket|hb_abdomen
+[12:13:06] kill|[Legion_SvD]Amelie_Lampard|63rd_lebrun|melee|Infantry Musket|hb_thorax
+[12:13:06] msg,New round started.
+[12:13:08] chat|63rd_Kurdishim_Abo|team|ez
+[12:13:10] chat|[Legion_SvD]_ZeroTwo|all|Arafey go center 
+[12:13:12] chat|63rd_blowjob|all|xd
+[12:13:13] anticheat|summary|exit|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|mission=9|session=1134|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=512477|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=515|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=24|autoattack_open_pct=45|autoattack_reaction_ms=466|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=6
+[12:13:13] disconnect|[Legion_SvD]_k_La_Furia_Roja|REDACTED_IP_FOR_PRIVACY|1342193
+[12:13:13] msg,[Legion_SvD]_k_La_Furia_Roja has left the game with ID: 1342193
+[12:13:15] chat|[Legion_SvD]_ZeroTwo|all|kak go budet
+[12:13:16] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:13:16] anticheat|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:13:16] msg,63rd_OZBEK teamhit 63rd_blowjob 4 health.
+[12:13:18] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:13:21] msg,63rd_OZBEK teamhit 63rd_blowjob 3 health.
+[12:13:21] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:13:24] chat|63rd_General_Eternal|team|R
+[12:13:24] chat|[Legion_SvD]Amelie_Lampard|team|Я БУДУ СМЕЕТСЯ ПОСЛЕДНЕЙ
+[12:13:26] msg,*Admin*[63rd_General_Eternal]: G
+[12:13:27] connect|[Legion_SvD]_k_La_Furia_Roja|REDACTED_IP_FOR_PRIVACY|1342193|regular|0|[Legion_SvD]_k_La_Furia_Roja
+[12:13:27] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:13:30] kill|63rd_blowjob|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_thorax
+[12:13:33] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_OZBEK|melee|Infantry Musket|hb_thorax
+[12:13:34] kill|[LegionSvD]_Igorrr_|63rd_Rec_SPIDI|melee|Infantry Musket|hb_spine
+[12:13:37] kill|63rd_Rec_SPIDI|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_head
+[12:13:37] kill|[Legion_SvD]Arafey|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_forearm_r
+[12:13:39] kill|*_[Legion_SvD]_LJE-MARAT|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[12:13:40] kill|63rd_lebrun|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:13:40] kill|63rd_Kurdishim_Abo|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_forearm_r
+[12:13:42] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:13:42] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:13:43] kill|[Legion_SvD]_Hm|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[12:13:44] kill|63rd_LCpl_Edward|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_abdomen
+[12:13:45] chat|63rd_Rec_SPIDI|all|TAMAM
+[12:13:49] chat|63rd_Rec_SPIDI|team|TAMAM
+[12:13:51] kill|63rd_General_Eternal|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_head
+[12:13:54] chat|[Legion_SvD]_Hm|team|сус лан
+[12:13:58] chat|63rd_Rec_SPIDI|team|SUS LAN 
+[12:14:04] kill|63rd_OZBEK|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_r
+[12:14:04] msg,New round started.
+[12:14:09] chat|[Legion-SvD]Verhovna_rada|team|SUSLICK!
+[12:14:09] chat|63rd_Kurdishim_Abo|team|OZBEK IS AUTO 100%
+[12:14:11] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:14:11] anticheat|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:14:12] chat|63rd_Kurdishim_Abo|team|BAN HIM
+[12:14:13] chat|[Legion_SvD]Amelie_Lampard|team|начало конца
+[12:14:13] death|[LegionSvD]_Igorrr_
+[12:14:14] chat|63rd_OZBEK|team|no
+[12:14:18] chat|*_[Legion_SvD]_LJE-MARAT|team|UZBEKI SPYAN
+[12:14:21] chat|63rd_OZBEK|team|im clear
+[12:14:21] anticheat|summary|exit|[LegionSvD]_Igorrr_|2583313|REDACTED_IP_FOR_PRIVACY|mission=9|session=1225|detections=1|seed_mismatches=0|time_skew_pct=-9|time_skew_windows=0|max_aim_speed=349370|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=72|autoblock_reaction_ms=908|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=26|autoattack_open_pct=61|autoattack_reaction_ms=764|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=14|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=9
+[12:14:21] disconnect|[LegionSvD]_Igorrr_|REDACTED_IP_FOR_PRIVACY|2583313
+[12:14:21] msg,[LegionSvD]_Igorrr_ has left the game with ID: 2583313
+[12:14:23] chat|[Legion_SvD]Arafey|team|OZBEK HI
+[12:14:24] chat|[Legion_SvD]Amelie_Lampard|all|завербовали турки
+[12:14:24] msg,63rd_OZBEK teamhit 63rd_blowjob 4 health.
+[12:14:25] chat|63rd_General_Eternal|team|R
+[12:14:26] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:14:28] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:14:31] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:14:31] msg,[AC-ALERT] Suspect: 63rd_Kurdishim_Abo (GUID: 2231675) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:14:31] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:14:31] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:14:34] msg,63rd_blowjob teamhit 63rd_OZBEK 7 health.
+[12:14:34] chat|63rd_General_Eternal|team|R
+[12:14:34] chat|63rd_General_Eternal|team|R
+[12:14:39] msg,63rd_blowjob teamhit 63rd_OZBEK 1 health.
+[12:14:40] msg,63rd_blowjob teamhit 63rd_OZBEK 5 health.
+[12:14:44] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:14:47] anticheat|summary|exit|Legion_Bob|2560835|REDACTED_IP_FOR_PRIVACY|mission=9|session=611|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=85595|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=52|autoblock_reaction_ms=525|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=35|autoattack_open_pct=45|autoattack_reaction_ms=728|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:14:47] disconnect|Legion_Bob|REDACTED_IP_FOR_PRIVACY|2560835
+[12:14:47] msg,Legion_Bob has left the game with ID: 2560835
+[12:14:48] chat|*_[Legion_SvD]_LJE-MARAT|team|ozbek ykta
+[12:14:49] chat|63rd_General_Eternal|team|R
+[12:14:49] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:14:50] msg,*Admin*[63rd_General_Eternal]: G
+[12:14:55] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:14:56] kill|63rd_OZBEK|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_r
+[12:14:58] kill|63rd_Rec_SPIDI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_spine
+[12:15:00] kill|63rd_General_Eternal|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_forearm_l
+[12:15:00] kill|*_[Legion_SvD]_LJE-MARAT|63rd_lebrun|melee|Infantry Musket|hb_spine
+[12:15:01] kill|63rd_lebrun|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_spine
+[12:15:02] kill|[Legion_SvD]_ZeroTwo|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_upperarm_l
+[12:15:03] kill|63rd_Kurdishim_Abo|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_thorax
+[12:15:05] kill|63rd_LCpl_Edward|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_thorax
+[12:15:09] kill|[Legion_SvD]Amelie_Lampard|63rd_blowjob|melee|Infantry Musket|hb_forearm_l
+[12:15:13] kill|63rd_blowjob|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:15:13] msg,New round started.
+[12:15:20] chat|63rd_General_Eternal|all|lenox fdp
+[12:15:21] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:15:21] msg,[AC-ALERT] Suspect: 63rd_Kurdishim_Abo (GUID: 2231675) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:15:21] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:15:21] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:15:21] chat|63rd_OZBEK|all|lenox stop troollll
+[12:15:22] chat|63rd_General_Eternal|all|dont sell 
+[12:15:25] chat|63rd_General_Eternal|all|ı go sleep
+[12:15:27] connect|63th_Isoctober|REDACTED_IP_FOR_PRIVACY|2583313|regular|0|63th_Isoctober
+[12:15:27] chat|63rd_Kurdishim_Abo|all|its tactic 
+[12:15:27] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:15:30] chat|[Legion_SvD]Amelie_Lampard|team|о
+[12:15:32] chat|[Legion_SvD]Amelie_Lampard|team|игорь
+[12:15:32] chat|[Legion_SvD]Amelie_Lampard|team|зашла
+[12:15:33] chat|[Legion_Svd]_Fuhrer_GIORGI|team|ia vam na  kebab konchal
+[12:15:34] chat|63rd_Kurdishim_Abo|team|r
+[12:15:34] msg,63rd_OZBEK teamhit 63rd_blowjob 3 health.
+[12:15:34] chat|[Legion_SvD]Amelie_Lampard|team|за них
+[12:15:37] connect|63rd_Bob|REDACTED_IP_FOR_PRIVACY|2560835|regular|1129|63rd_Bob
+[12:15:37] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:15:38] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:15:39] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[12:15:40] anticheat|summary|exit|63th_Isoctober|2583313|REDACTED_IP_FOR_PRIVACY|mission=9|session=13|detections=0|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[12:15:40] disconnect|63th_Isoctober|REDACTED_IP_FOR_PRIVACY|2583313
+[12:15:40] msg,63th_Isoctober has left the game with ID: 2583313
+[12:15:41] chat|[Legion_SvD]_Chell00212|team| и боб
+[12:15:42] msg,*Admin*[63rd_General_Eternal]: G
+[12:15:48] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_OZBEK|melee|Infantry Musket|hb_forearm_r
+[12:15:50] msg,63rd_General_Eternal teamhit 63rd_OZBEK 50 health.
+[12:15:51] kill|63rd_General_Eternal|*_[Legion_SvD]_LJE-MARAT|melee|Infantry Musket|hb_head
+[12:15:51] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Rec_SPIDI|melee|Infantry Musket|hb_spine
+[12:15:52] kill|63rd_Rec_SPIDI|[Legion_SvD]_Hm|melee|Infantry Musket|hb_thorax
+[12:15:53] msg,63rd_lebrun teamhit 63rd_blowjob 46 health.
+[12:15:56] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:15:56] anticheat|*_[Legion_SvD]_LJE-MARAT|2492046|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:15:57] kill|63rd_LCpl_Edward|[Legion_SvD]Arafey|melee|Infantry Musket|hb_forearm_l
+[12:15:58] kill|*_[Legion_SvD]_LJE-MARAT|63rd_Bob|melee|Infantry Musket|hb_upperarm_l
+[12:15:59] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:15:59] msg,[AC-ALERT] Suspect: 63rd_Kurdishim_Abo (GUID: 2231675) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:15:59] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:15:59] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:16:00] kill|63rd_Kurdishim_Abo|[Legion_SvD]Arafey|melee|Infantry Musket|hb_forearm_l
+[12:16:00] teamkill|[Legion_SvD]Arafey|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_forearm_r
+[12:16:00] msg,[Legion_SvD]_k_La_Furia_Roja teamkilled [Legion_SvD]Arafey.
+[12:16:02] kill|[Legion_SvD]_Hm|63rd_lebrun|melee|Infantry Musket|hb_abdomen
+[12:16:07] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_blowjob|melee|Infantry Musket|hb_abdomen
+[12:16:09] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:16:09] anticheat|[Legion_SvD]_ZeroTwo|2298580|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:16:10] kill|[Legion_SvD]_ZeroTwo|63rd_lebrun|melee|Infantry Musket|hb_forearm_l
+[12:16:12] teamkill|63rd_lebrun|63rd_OZBEK|melee|Infantry Musket|hb_shoulder_r
+[12:16:12] msg,63rd_OZBEK teamkilled 63rd_lebrun.
+[12:16:13] kill|[Legion_SvD]Amelie_Lampard|63rd_Bob|melee|Infantry Musket|hb_upperarm_l
+[12:16:13] msg,New round started.
+[12:16:15] msg,63rd_blowjob teamhit 63rd_OZBEK 1 health.
+[12:16:21] msg,63rd_OZBEK teamhit 63rd_LCpl_Edward 1 health.
+[12:16:23] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:16:23] msg,[AC-ALERT] Suspect: 63rd_Rec_SPIDI (GUID: 2441522) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:16:23] anticheat|63rd_Rec_SPIDI|2441522|REDACTED_IP_FOR_PRIVACY|14|95|90|logged
+[12:16:24] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:16:24] msg,[AC-ALERT] Suspect: [Legion_SvD]_Hm (GUID: 2031011) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:16:24] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:16:24] anticheat|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:16:26] chat|[Legion_Svd]_Fuhrer_GIORGI|team|treshina v anuse
+[12:16:26] chat|[Legion_SvD]Amelie_Lampard|all|ну на этом сервере невозможно играть
+[12:16:27] chat|63rd_Kurdishim_Abo|team|fast bro plz
+[12:16:31] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:16:31] chat|[Legion_SvD]Arafey|all|+
+[12:16:34] connect|63rd_Isoctober|REDACTED_IP_FOR_PRIVACY|2583313|regular|0|63rd_Isoctober
+[12:16:34] msg,[AC-JSON] Admin GUID file loaded. Records: 4
+[12:16:35] chat|[Legion_SvD]Amelie_Lampard|all|++
+[12:16:36] chat|[Legion_SvD]Amelie_Lampard|all|тоже самое
+[12:16:36] msg,63rd_General_Eternal teamhit 63rd_Rec_SPIDI 1 health.
+[12:16:37] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:16:39] msg,63rd_blowjob teamhit 63rd_OZBEK 4 health.
+[12:16:41] msg,63rd_blowjob teamhit 63rd_OZBEK 2 health.
+[12:16:42] chat|[Legion_SvD]_k_La_Furia_Roja|team|r epta
+[12:16:43] msg,*Admin*[63rd_General_Eternal]: G
+[12:16:44] msg,63rd_OZBEK teamhit 63rd_blowjob 2 health.
+[12:16:47] chat|[Legion_SvD]_Hm|team|-1
+[12:16:49] kill|63rd_Isoctober|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_spine
+[12:16:50] kill|*_[Legion_SvD]_LJE-MARAT|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[12:16:51] kill|63rd_lebrun|[Legion_SvD]Arafey|melee|Infantry Musket|hb_upperarm_l
+[12:16:52] kill|63rd_blowjob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_thorax
+[12:16:52] kill|63rd_General_Eternal|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_spine
+[12:16:53] kill|63rd_Rec_SPIDI|[Legion_SvD]Arafey|melee|Infantry Musket|hb_upperarm_l
+[12:16:53] kill|63rd_Kurdishim_Abo|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_upperarm_l
+[12:16:54] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[12:16:58] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:16:58] anticheat|[Legion_SvD]_ZeroTwo|2298580|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:17:00] kill|63rd_LCpl_Edward|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:17:01] anticheat|summary|exit|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|mission=9|session=983|detections=10|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=95|autoblock_reaction_ms=380|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=55|autoattack_reaction_ms=767|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=10
+[12:17:01] disconnect|63rd_Kurdishim_Abo|REDACTED_IP_FOR_PRIVACY|2231675
+[12:17:01] msg,63rd_Kurdishim_Abo has left the game with ID: 2231675
+[12:17:02] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:17:02] anticheat|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:17:09] kill|63rd_Bob|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_spine
+[12:17:16] msg,[Legion_SvD]_Hm teamhit [Legion_SvD]_Maj_Evil_Xomik 3 health.
+[12:17:17] msg,[Legion_Svd]_Fuhrer_GIORGI teamhit [Legion_SvD]Amelie_Lampard 4 health.
+[12:17:17] msg,[Legion_SvD]_Hm teamhit [Legion_SvD]_Maj_Evil_Xomik 4 health.
+[12:17:19] msg,[Legion_Svd]_Fuhrer_GIORGI teamhit [Legion_SvD]Amelie_Lampard 3 health.
+[12:17:20] msg,[Legion_SvD]_Maj_Evil_Xomik teamhit [Legion_SvD]Amelie_Lampard 3 health.
+[12:17:20] chat|63rd_Bob|team|Вы че. Зачем плюсуете.
+[12:17:21] chat|*_[Legion_SvD]_LJE-MARAT|team|русско турецкая война
+[12:17:22] chat|[Legion_SvD]Arafey|all|я их в спину обошел
+[12:17:24] kill|63rd_OZBEK|[Legion_SvD]_Maj_Evil_Xomik|punch
+[12:17:24] msg,New round started.
+[12:17:24] msg,[Legion_Svd]_Fuhrer_GIORGI teamhit [Legion_SvD]_Hm 2 health.
+[12:17:25] chat|63rd_Rec_SPIDI|team|+
+[12:17:29] chat|[Legion_SvD]Amelie_Lampard|all|боде
+[12:17:36] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:17:36] anticheat|63rd_Bob|2560835|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:17:44] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:17:46] chat|*_[Legion_SvD]_LJE-MARAT|team|заебалдар
+[12:17:50] msg,*Admin*[63rd_General_Eternal]: G
+[12:17:56] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:17:56] anticheat|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:17:58] kill|63rd_Isoctober|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_l
+[12:18:00] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Bob|melee|Infantry Musket|hb_shoulder_l
+[12:18:03] kill|63rd_OZBEK|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_spine
+[12:18:05] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_Bob|melee|Infantry Musket|hb_forearm_r
+[12:18:05] kill|[Legion_SvD]Arafey|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_l
+[12:18:06] chat|[Legion_SvD]_Chell00212|team|я так понял я могу уходить из ивента
+[12:18:06] kill|63rd_General_Eternal|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_upperarm_l
+[12:18:09] kill|63rd_Rec_SPIDI|*_[Legion_SvD]_LJE-MARAT|melee|Infantry Musket|hb_head
+[12:18:10] kill|63rd_LCpl_Edward|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_upperarm_l
+[12:18:11] chat|[Legion-SvD]Verhovna_rada|team|[P
+[12:18:12] kill|[Legion_SvD]_ZeroTwo|63rd_lebrun|melee|Infantry Musket|hb_upperarm_r
+[12:18:13] chat|[Legion-SvD]Verhovna_rada|team|ХЗ
+[12:18:13] kill|[Legion_SvD]_Hm|63rd_Bob|melee|Infantry Musket|hb_forearm_r
+[12:18:14] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_lebrun|melee|Infantry Musket|hb_head
+[12:18:17] chat|[Legion_SvD]Arafey|team|ебать харош аж умер наху
+[12:18:20] kill|*_[Legion_SvD]_LJE-MARAT|63rd_blowjob|melee|Infantry Musket|hb_forearm_l
+[12:18:25] kill|[Legion_SvD]Amelie_Lampard|63rd_lebrun|melee|Infantry Musket|hb_spine
+[12:18:25] msg,New round started.
+[12:18:26] chat|[Legion-SvD]Verhovna_rada|team|шанс мелкий шо нас пустят уже
+[12:18:33] death|*_[Legion_SvD]_LJE-MARAT
+[12:18:33] chat|63rd_Bob|team|Кипр отдайте.
+[12:18:33] chat|[Legion-SvD]Verhovna_rada|team|низуя
+[12:18:40] chat|[Legion_SvD]Amelie_Lampard|team|игорь убей озбека разок
+[12:18:41] chat|[Legion_SvD]Amelie_Lampard|team|в спину
+[12:18:43] chat|[Legion-SvD]Verhovna_rada|team|привет моклиф
+[12:18:45] chat|[Legion_Svd]_Fuhrer_GIORGI|team|kipr moi
+[12:18:46] chat|63rd_General_Eternal|team|R
+[12:18:47] chat|63rd_General_Eternal|team|R
+[12:18:47] chat|63rd_General_Eternal|team|R
+[12:18:47] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:18:47] chat|63rd_Isoctober|team|no
+[12:18:48] chat|63rd_Rec_SPIDI|team|БОБ ТРОЛИТЬ МОЮ КОМАНДУ
+[12:18:48] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:18:48] msg,[AC-ALERT] Suspect: 63rd_lebrun (GUID: 1832685) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:18:48] anticheat|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:18:48] msg,*Admin*[63rd_General_Eternal]: G
+[12:18:52] chat|[Legion-SvD]Verhovna_rada|team|приветсвую в вальгале 
+[12:18:54] kill|[Legion_SvD]Amelie_Lampard|63rd_OZBEK|melee|Infantry Musket|hb_forearm_r
+[12:18:56] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_blowjob|melee|Infantry Musket|hb_abdomen
+[12:18:57] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_Bob|melee|Infantry Musket|hb_calf_l
+[12:18:58] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[12:18:58] kill|[Legion_SvD]_ZeroTwo|63rd_lebrun|melee|Infantry Musket|hb_upperarm_l
+[12:18:59] kill|63rd_Isoctober|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_r
+[12:19:01] msg,[Legion_SvD]Arafey teamhit [Legion_SvD]_Hm 51 health.
+[12:19:02] kill|[Legion_SvD]Arafey|63rd_lebrun|melee|Infantry Musket|hb_forearm_r
+[12:19:02] kill|[Legion_SvD]_Hm|63rd_blowjob|melee|Infantry Musket|hb_forearm_l
+[12:19:02] kill|[Legion_SvD]_Chell00212|63rd_Bob|melee|Infantry Musket|hb_spine
+[12:19:02] msg,New round started.
+[12:19:03] chat|*_[Legion_SvD]_LJE-MARAT|team|қотақбастар блять
+[12:19:05] msg,63rd_OZBEK teamhit 63rd_General_Eternal 4 health.
+[12:19:08] chat|[Legion_Svd]_Fuhrer_GIORGI|team|+
+[12:19:09] chat|63rd_Bob|team|И Кувейт.
+[12:19:10] chat|[Legion_SvD]_Chell00212|team|блять че случилось
+[12:19:10] chat|[Legion-SvD]Verhovna_rada|team|знал бы я что это
+[12:19:11] chat|[Legion_SvD]Amelie_Lampard|team|так не честно они озбека поставили
+[12:19:12] chat|[Legion_SvD]Amelie_Lampard|team|к стенке
+[12:19:16] chat|63rd_General_Eternal|team|R
+[12:19:17] chat|63rd_Bob|team|С Егптом.
+[12:19:17] chat|63rd_General_Eternal|team|R
+[12:19:17] chat|63rd_General_Eternal|team|R
+[12:19:17] chat|63rd_General_Eternal|team|R
+[12:19:18] chat|63rd_General_Eternal|team|R
+[12:19:18] chat|63rd_General_Eternal|team|R
+[12:19:18] chat|63rd_General_Eternal|team|R
+[12:19:18] chat|63rd_General_Eternal|team|R
+[12:19:19] chat|63rd_General_Eternal|team|R
+[12:19:19] chat|63rd_Rec_SPIDI|team|БОБ ХВАТИТ ТРОЛИТЬ МОЮ КОМАНДУ
+[12:19:22] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:19:22] msg,[AC-ALERT] Suspect: 63rd_lebrun (GUID: 1832685) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:19:22] anticheat|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[12:19:25] chat|[Legion_SvD]_Hm|team|с египтом
+[12:19:26] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:19:26] msg,63rd_blowjob teamhit 63rd_OZBEK 6 health.
+[12:19:27] msg,*Admin*[63rd_General_Eternal]: G
+[12:19:28] chat|[Legion_SvD]Amelie_Lampard|team|сборная турции
+[12:19:33] kill|[Legion_SvD]Arafey|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[12:19:34] chat|*_[Legion_SvD]_LJE-MARAT|team|шешенің балалар сука
+[12:19:36] kill|63rd_Bob|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_shoulder_l
+[12:19:38] anticheat|summary|exit|[Legion_SvD]Arafey|2518964|REDACTED_IP_FOR_PRIVACY|mission=9|session=1417|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=297708|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=52|autoblock_reaction_ms=415|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=40|autoattack_reaction_ms=937|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=4|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:19:38] disconnect|[Legion_SvD]Arafey|REDACTED_IP_FOR_PRIVACY|2518964
+[12:19:38] msg,[Legion_SvD]Arafey has left the game with ID: 2518964
+[12:19:39] kill|[Legion_SvD]_Hm|63rd_lebrun|melee|Infantry Musket|hb_upperarm_r
+[12:19:39] msg,63rd_Isoctober teamhit 63rd_lebrun 34 health.
+[12:19:40] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Rec_SPIDI|melee|Infantry Musket|hb_forearm_l
+[12:19:41] kill|63rd_General_Eternal|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_r
+[12:19:41] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[12:19:43] kill|[Legion_SvD]_Chell00212|63rd_OZBEK|melee|Infantry Musket|hb_forearm_l
+[12:19:43] teamkill|63rd_OZBEK|63rd_lebrun|melee|Infantry Musket|hb_head
+[12:19:43] msg,63rd_lebrun teamkilled 63rd_OZBEK.
+[12:19:44] anticheat|summary|exit|63rd_lebrun|1832685|REDACTED_IP_FOR_PRIVACY|mission=9|session=1144|detections=4|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=540847|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=7|autoblock_reaction_ms=564|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=469|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=9|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=12
+[12:19:44] disconnect|63rd_lebrun|REDACTED_IP_FOR_PRIVACY|1832685
+[12:19:44] msg,63rd_lebrun has left the game with ID: 1832685
+[12:19:44] death|63rd_lebrun
+[12:19:45] kill|63rd_LCpl_Edward|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_shoulder_l
+[12:19:46] kill|63rd_Rec_SPIDI|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_l
+[12:19:50] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:19:50] anticheat|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:19:55] kill|63rd_Isoctober|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_thigh_l
+[12:19:57] chat|[Legion_SvD]Amelie_Lampard|team|пиздец
+[12:19:59] kill|63rd_blowjob|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_forearm_r
+[12:19:59] msg,New round started.
+[12:20:01] chat|63rd_Bob|team|Ха-ха-ха. А они вообще ничего не говорят.
+[12:20:11] chat|[Legion_SvD]_Hm|team|там почти все потные задроты
+[12:20:11] chat|[Legion_SvD]Amelie_Lampard|team|тебе норм игорь поки ловить?
+[12:20:14] chat|63rd_General_Eternal|team|R
+[12:20:15] chat|[Legion_SvD]_Hm|team|ничего говорить им и не нужно
+[12:20:15] chat|63rd_General_Eternal|team|R
+[12:20:15] chat|63rd_General_Eternal|team|R
+[12:20:16] chat|63rd_General_Eternal|team|R
+[12:20:16] chat|63rd_General_Eternal|team|R
+[12:20:16] chat|63rd_General_Eternal|team|R
+[12:20:17] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:20:18] msg,*Admin*[63rd_General_Eternal]: G
+[12:20:19] chat|63rd_Rec_SPIDI|team|говорят ты плохой мальчик боб
+[12:20:20] chat|63rd_Isoctober|team|now
+[12:20:24] kill|63rd_Bob|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_forearm_r
+[12:20:24] kill|63rd_blowjob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_upperarm_l
+[12:20:27] kill|63rd_Rec_SPIDI|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_upperarm_r
+[12:20:28] kill|[Legion_SvD]_Chell00212|63rd_LCpl_Edward|melee|Infantry Musket|hb_upperarm_l
+[12:20:29] kill|63rd_OZBEK|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_shoulder_r
+[12:20:29] kill|63rd_General_Eternal|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:20:29] kill|63rd_Isoctober|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_head
+[12:20:30] kill|[Legion_SvD]_ZeroTwo|63rd_LCpl_Edward|melee|Infantry Musket|hb_shoulder_l
+[12:20:33] kill|63rd_LCpl_Edward|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:20:33] msg,New round started.
+[12:20:38] chat|63rd_Bob|team|Ты че на турецком шаришь?
+[12:20:44] chat|[Legion_SvD]Amelie_Lampard|team|kto
+[12:20:46] chat|[Legion_SvD]_ZeroTwo|team|yes
+[12:20:52] chat|[Legion_Svd]_Fuhrer_GIORGI|team|sirkim anan ataturk pidoras
+[12:20:52] chat|63rd_Rec_SPIDI|team|это было понятно 
+[12:20:53] chat|[Legion_SvD]_Hm|team|eternal ezeije
+[12:21:02] chat|63rd_General_Eternal|team|R
+[12:21:08] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:21:08] anticheat|[Legion_SvD]_Chell00212|2593302|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:21:08] chat|[Legion_Svd]_Fuhrer_GIORGI|team|net
+[12:21:10] chat|[Legion_SvD]_Hm|team|dur eternal
+[12:21:15] chat|[Legion_Svd]_Fuhrer_GIORGI|team|net
+[12:21:16] chat|63rd_General_Eternal|team|CABUK
+[12:21:16] chat|63rd_blowjob|all|hadi bitirek dizi izlicem
+[12:21:17] chat|63rd_LCpl_Edward|team|r
+[12:21:18] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:21:18] chat|63rd_LCpl_Edward|team|r
+[12:21:18] chat|63rd_LCpl_Edward|team|r
+[12:21:18] chat|63rd_LCpl_Edward|team|r
+[12:21:19] chat|63rd_LCpl_Edward|team|r
+[12:21:19] chat|63rd_LCpl_Edward|team|r
+[12:21:19] chat|[Legion_SvD]_k_La_Furia_Roja|team|r
+[12:21:20] chat|63rd_LCpl_Edward|team|r
+[12:21:21] msg,*Admin*[63rd_General_Eternal]: G
+[12:21:24] kill|63rd_OZBEK|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_forearm_l
+[12:21:31] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Rec_SPIDI|melee|Infantry Musket|hb_head
+[12:21:33] kill|63rd_Isoctober|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_abdomen
+[12:21:36] kill|63rd_Bob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_r
+[12:21:36] kill|63rd_General_Eternal|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_head
+[12:21:37] kill|63rd_Rec_SPIDI|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_r
+[12:21:37] kill|63rd_LCpl_Edward|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_head
+[12:21:42] msg,[Legion_SvD]_Maj_Evil_Xomik teamhit [Legion_SvD]Amelie_Lampard 52 health.
+[12:21:44] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:21:44] anticheat|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:21:44] kill|63rd_blowjob|[Legion_SvD]_Maj_Evil_Xomik|punch
+[12:21:44] msg,New round started.
+[12:21:44] msg,[Legion_SvD]_Chell00212 teamhit [Legion_SvD]_Hm 3 health.
+[12:21:56] chat|[Legion_SvD]_Chell00212|all|я его пнул кстати
+[12:21:59] chat|63rd_General_Eternal|team|R
+[12:21:59] chat|63rd_General_Eternal|team|R
+[12:21:59] chat|63rd_General_Eternal|team|R
+[12:22:00] chat|63rd_General_Eternal|team|R
+[12:22:00] chat|63rd_General_Eternal|team|R
+[12:22:01] chat|63rd_General_Eternal|team|R
+[12:22:01] chat|63rd_General_Eternal|team|R
+[12:22:01] chat|63rd_General_Eternal|team|R
+[12:22:02] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:22:03] msg,*Admin*[63rd_General_Eternal]: G
+[12:22:10] chat|*_[Legion_SvD]_LJE-MARAT|team|төріктер иттер блять, оларға тотақ бұзу керек
+[12:22:10] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_OZBEK|melee|Infantry Musket|hb_thorax
+[12:22:14] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:22:14] anticheat|[Legion_SvD]_ZeroTwo|2298580|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:22:15] kill|[Legion_SvD]_Chell00212|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[12:22:16] kill|[Legion_SvD]Amelie_Lampard|63rd_blowjob|melee|Infantry Musket|hb_shoulder_r
+[12:22:16] kill|63rd_Bob|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_l
+[12:22:17] msg,63rd_General_Eternal teamhit 63rd_Isoctober 29 health.
+[12:22:18] kill|63rd_Isoctober|[Legion_SvD]_Hm|melee|Infantry Musket|hb_shoulder_r
+[12:22:19] kill|[Legion_SvD]_Hm|63rd_blowjob|melee|Infantry Musket|hb_forearm_r
+[12:22:21] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Rec_SPIDI|melee|Infantry Musket|hb_upperarm_r
+[12:22:21] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_blowjob|melee|Infantry Musket|hb_forearm_r
+[12:22:24] teamkill|63rd_Rec_SPIDI|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_r
+[12:22:24] msg,63rd_LCpl_Edward teamkilled 63rd_Rec_SPIDI.
+[12:22:27] kill|[Legion_SvD]_ZeroTwo|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[12:22:27] msg,New round started.
+[12:22:38] chat|63rd_Bob|team|У нас минет в топах.
+[12:22:39] chat|63rd_blowjob|all|im blond sir 
+[12:22:40] chat|63rd_General_Eternal|team|R
+[12:22:40] chat|[Legion_SvD]Amelie_Lampard|all|ну 6 раундов уже больше чем я думала!!
+[12:22:43] chat|63rd_blowjob|all|im european sir
+[12:22:44] chat|[Legion_SvD]_k_La_Furia_Roja|all|+
+[12:22:46] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:22:46] chat|63rd_LCpl_Edward|all|saar
+[12:22:47] chat|63rd_LCpl_Edward|all|saar
+[12:22:47] msg,*Admin*[63rd_General_Eternal]: G
+[12:22:49] chat|*_[Legion_SvD]_LJE-MARAT|team|түріктер шешеннің балалар блять
+[12:22:53] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_blowjob|melee|Infantry Musket|hb_abdomen
+[12:22:54] chat|[Legion-SvD]Verhovna_rada|all|шо
+[12:22:55] chat|[Legion-SvD]Verhovna_rada|team|шо
+[12:22:56] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Isoctober|melee|Infantry Musket|hb_head
+[12:22:57] kill|[Legion_SvD]_Hm|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_r
+[12:22:58] kill|[Legion_SvD]Amelie_Lampard|63rd_OZBEK|melee|Infantry Musket|hb_forearm_r
+[12:23:00] teamkill|63rd_LCpl_Edward|63rd_OZBEK|melee|Infantry Musket|hb_head
+[12:23:00] msg,63rd_OZBEK teamkilled 63rd_LCpl_Edward.
+[12:23:02] kill|[Legion_SvD]_Chell00212|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[12:23:02] msg,63rd_Rec_SPIDI teamhit 63rd_General_Eternal 26 health.
+[12:23:02] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_Bob|melee|Infantry Musket|hb_calf_r
+[12:23:03] kill|[Legion_SvD]_ZeroTwo|63rd_blowjob|melee|Infantry Musket|hb_spine
+[12:23:03] msg,New round started.
+[12:23:05] msg,63rd_General_Eternal teamhit 63rd_Rec_SPIDI 3 health.
+[12:23:06] msg,63rd_General_Eternal teamhit 63rd_Rec_SPIDI 4 health.
+[12:23:07] msg,63rd_OZBEK teamhit 63rd_blowjob 1 health.
+[12:23:07] chat|[Legion_SvD]Amelie_Lampard|team|щщ
+[12:23:10] chat|*_[Legion_SvD]_LJE-MARAT|team|это маты на казахском
+[12:23:11] chat|[Legion_SvD]_Chell00212|team|блять лкм не нажимаеться
+[12:23:14] chat|63rd_Bob|team|Они рычат.
+[12:23:18] chat|63rd_General_Eternal|team|R
+[12:23:18] chat|63rd_General_Eternal|team|R
+[12:23:18] chat|63rd_Bob|team|Помогите.
+[12:23:19] chat|63rd_Rec_SPIDI|team|найс вумен ахаха
+[12:23:20] chat|[Legion_SvD]Amelie_Lampard|team|тут не какие кнопки не нажимаются
+[12:23:22] chat|[Legion_SvD]Amelie_Lampard|team|не то что лкм
+[12:23:24] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:23:25] chat|63rd_General_Eternal|team|R
+[12:23:26] msg,*Admin*[63rd_General_Eternal]: G
+[12:23:26] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:23:26] msg,[AC-ALERT] Suspect: [Legion_SvD]_Maj_Evil_Xomik (GUID: 2491664) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:23:26] anticheat|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|14|100|90|logged
+[12:23:30] chat|[Legion-SvD]Verhovna_rada|team|сижу тут блять с 3 раунда
+[12:23:34] kill|63rd_Isoctober|[Legion_SvD]_k_La_Furia_Roja|melee|Infantry Musket|hb_spine
+[12:23:36] kill|[Legion_SvD]_Chell00212|63rd_blowjob|melee|Infantry Musket|hb_head
+[12:23:36] kill|63rd_General_Eternal|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_upperarm_r
+[12:23:38] teamkill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_forearm_l
+[12:23:38] msg,[Legion_SvD]_Maj_Evil_Xomik teamkilled [Legion_Svd]_Fuhrer_GIORGI.
+[12:23:39] kill|[Legion_SvD]_Hm|63rd_OZBEK|melee|Infantry Musket|hb_head
+[12:23:39] kill|63rd_LCpl_Edward|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_upperarm_l
+[12:23:44] kill|63rd_Rec_SPIDI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_abdomen
+[12:23:47] chat|*_[Legion_SvD]_LJE-MARAT|team|оскорбление по национальным различием
+[12:23:49] kill|63rd_OZBEK|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_spine
+[12:23:53] chat|[Legion-SvD]Verhovna_rada|team|топ
+[12:23:55] kill|63rd_blowjob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_thigh_r
+[12:23:56] chat|63rd_blowjob|all|evet
+[12:24:00] msg,[Legion_SvD]_Maj_Evil_Xomik teamhit [Legion_SvD]_k_La_Furia_Roja 1 health.
+[12:24:00] kill|63rd_Bob|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_shoulder_l
+[12:24:00] msg,New round started.
+[12:24:02] chat|[Legion-SvD]Verhovna_rada|team|мы братья скифы нам можно
+[12:24:05] chat|63rd_blowjob|all|swap atmışlar
+[12:24:15] chat|[Legion_SvD]_Chell00212|team|здраник
+[12:24:20] chat|63rd_General_Eternal|team|R
+[12:24:21] chat|[Legion_SvD]_Chell00212|team|зрадник
+[12:24:22] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:24:22] chat|63rd_General_Eternal|team|R
+[12:24:23] msg,*Admin*[63rd_General_Eternal]: G
+[12:24:30] kill|63rd_OZBEK|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_forearm_l
+[12:24:31] kill|63rd_General_Eternal|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:24:31] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_Bob|melee|Infantry Musket|hb_thigh_l
+[12:24:33] teamkill|[Legion_Svd]_Fuhrer_GIORGI|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_upperarm_l
+[12:24:33] msg,[Legion_SvD]Amelie_Lampard teamkilled [Legion_Svd]_Fuhrer_GIORGI.
+[12:24:33] kill|63rd_LCpl_Edward|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_upperarm_r
+[12:24:34] kill|63rd_Rec_SPIDI|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_upperarm_r
+[12:24:35] msg,[Legion_SvD]_Maj_Evil_Xomik teamhit [Legion_SvD]_ZeroTwo 50 health.
+[12:24:36] kill|63rd_Isoctober|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_thorax
+[12:24:37] chat|*_[Legion_SvD]_LJE-MARAT|team|түріктер ваще недо қазақтар блять
+[12:24:37] kill|63rd_Bob|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_upperarm_l
+[12:24:41] kill|63rd_blowjob|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_head
+[12:24:41] msg,New round started.
+[12:24:41] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:24:41] msg,[AC-ALERT] Suspect: 63rd_blowjob (GUID: 1589927) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:24:41] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:24:41] anticheat|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:24:47] chat|[Legion_SvD]_Chell00212|team|камбек
+[12:24:53] chat|*_[Legion_SvD]_LJE-MARAT|team|кебаб
+[12:24:53] chat|[Legion_SvD]_Hm|team|кам банк
+[12:24:55] chat|[Legion_SvD]Amelie_Lampard|all|8-11
+[12:24:56] chat|63rd_Bob|team|Нам нужен Египет.
+[12:24:59] chat|63rd_Bob|team|Проиграйте.
+[12:25:00] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:25:03] msg,*Admin*[63rd_General_Eternal]: G
+[12:25:07] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_Rec_SPIDI|melee|Infantry Musket|hb_head
+[12:25:10] kill|63rd_Bob|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_head
+[12:25:15] msg,[Legion_SvD]Amelie_Lampard teamhit [Legion_SvD]_ZeroTwo 53 health.
+[12:25:15] kill|[Legion-SvD]Verhovna_rada|63rd_Rec_SPIDI|melee|Infantry Musket|hb_forearm_l
+[12:25:18] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Isoctober|melee|Infantry Musket|hb_thigh_l
+[12:25:18] kill|[Legion_SvD]_Chell00212|63rd_LCpl_Edward|melee|Infantry Musket|hb_spine
+[12:25:19] kill|63rd_LCpl_Edward|[Legion_SvD]_Hm|melee|Infantry Musket|hb_abdomen
+[12:25:20] kill|[Legion_SvD]_ZeroTwo|63rd_Isoctober|melee|Infantry Musket|hb_upperarm_l
+[12:25:20] teamkill|63rd_blowjob|63rd_Rec_SPIDI|melee|Infantry Musket|hb_upperarm_r
+[12:25:20] msg,63rd_Rec_SPIDI teamkilled 63rd_blowjob.
+[12:25:23] msg,63rd_Isoctober teamhit 63rd_Rec_SPIDI 46 health.
+[12:25:23] chat|*_[Legion_SvD]_LJE-MARAT|team|кебабтар үлтіру керек блять
+[12:25:25] kill|63rd_Rec_SPIDI|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:25:27] kill|[Legion_SvD]Amelie_Lampard|63rd_Isoctober|melee|Infantry Musket|hb_forearm_r
+[12:25:28] chat|[Legion-SvD]Verhovna_rada|team|а я говорил
+[12:25:37] kill|[Legion_SvD]_Hm|63rd_OZBEK|melee|Infantry Musket|hb_thigh_r
+[12:25:37] msg,New round started.
+[12:25:40] msg,63rd_OZBEK teamhit 63rd_General_Eternal 3 health.
+[12:25:44] chat|[Legion_SvD]_Hm|team|я тебе ногу оторву ничтожество
+[12:25:48] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:25:48] msg,[AC-ALERT] Suspect: [Legion_SvD]_Hm (GUID: 2031011) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:25:48] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:25:48] anticheat|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:25:48] chat|63rd_Bob|team|Чего пинаешься.
+[12:25:56] chat|63rd_Rec_SPIDI|team|кто
+[12:25:57] chat|[Legion_SvD]Amelie_Lampard|team| Я НАЧИНАЮ СЕРЬЕЗНО ИГРАТЬ
+[12:25:59] chat|[Legion_SvD]Amelie_Lampard|team|ВАМ КОНЕЦ
+[12:25:59] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:25:59] anticheat|[Legion_SvD]_Chell00212|2593302|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:26:00] chat|[Legion_Svd]_Fuhrer_GIORGI|team|odni toxici
+[12:26:02] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:26:03] msg,*Admin*[63rd_General_Eternal]: G
+[12:26:06] kill|63rd_Rec_SPIDI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_shoulder_l
+[12:26:08] kill|63rd_OZBEK|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_head
+[12:26:10] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Isoctober|melee|Infantry Musket|hb_spine
+[12:26:11] kill|63rd_LCpl_Edward|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_shoulder_r
+[12:26:12] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:26:12] msg,[AC-ALERT] Suspect: 63rd_blowjob (GUID: 1589927) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:26:12] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:26:13] anticheat|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:26:13] kill|63rd_Isoctober|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_shoulder_l
+[12:26:14] kill|63rd_Bob|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:26:17] kill|63rd_blowjob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_r
+[12:26:20] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:26:20] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:26:24] kill|63rd_General_Eternal|[Legion_SvD]_Hm|melee|Infantry Musket|hb_spine
+[12:26:24] msg,New round started.
+[12:26:31] chat|[Legion_SvD]Amelie_Lampard|all|он бы тебя забанил
+[12:26:31] chat|[Legion_SvD]Amelie_Lampard|all|сразу
+[12:26:38] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:26:38] msg,[AC-ALERT] Suspect: [Legion_SvD]_Hm (GUID: 2031011) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:26:38] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:26:38] anticheat|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:26:43] chat|63rd_General_Eternal|team|r
+[12:26:44] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:26:45] chat|63rd_General_Eternal|team|R
+[12:26:46] msg,*Admin*[63rd_General_Eternal]: G
+[12:26:48] chat|[Legion_SvD]Amelie_Lampard|all|9
+[12:26:49] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:26:49] anticheat|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[12:26:51] kill|63rd_Rec_SPIDI|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_r
+[12:26:52] kill|63rd_OZBEK|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:26:55] kill|[Legion_SvD]_ZeroTwo|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[12:26:56] kill|63rd_Isoctober|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:26:57] kill|63rd_Bob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_l
+[12:26:57] kill|[Legion_SvD]_Hm|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[12:26:58] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[12:26:58] kill|63rd_LCpl_Edward|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_abdomen
+[12:27:03] kill|63rd_blowjob|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_upperarm_r
+[12:27:04] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:27:04] anticheat|[Legion-SvD]Verhovna_rada|2040869|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:27:04] kill|63rd_General_Eternal|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_abdomen
+[12:27:04] msg,New round started.
+[12:27:05] chat|*_[Legion_SvD]_LJE-MARAT|team|түріктер вообще төріктер емес, олар грекілер блять
+[12:27:09] chat|[Legion_SvD]Amelie_Lampard|all|10-12
+[12:27:12] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:27:12] msg,[AC-ALERT] Suspect: [Legion_SvD]_Hm (GUID: 2031011) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:27:12] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:27:12] anticheat|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:27:13] chat|[Legion_SvD]_Chell00212|all|ого уменя счетф
+[12:27:16] chat|63rd_Bob|team|Можно мне в бок?
+[12:27:23] chat|[Legion_SvD]_Maj_Evil_Xomik|team|ок
+[12:27:24] chat|[Legion_SvD]_ZeroTwo|team|Ударить?
+[12:27:29] chat|63rd_General_Eternal|team|R
+[12:27:29] chat|[Legion_SvD]Amelie_Lampard|team|турки уже в панике
+[12:27:31] chat|*_[Legion_SvD]_LJE-MARAT|team|жоқ блять
+[12:27:33] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:27:37] msg,*Admin*[63rd_General_Eternal]: G
+[12:27:43] kill|63rd_Isoctober|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_upperarm_l
+[12:27:43] kill|[Legion_SvD]_Hm|63rd_Bob|melee|Infantry Musket|hb_forearm_l
+[12:27:47] kill|63rd_OZBEK|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_thigh_l
+[12:27:47] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:27:47] msg,[AC-ALERT] Suspect: [Legion-SvD]Verhovna_rada (GUID: 2040869) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:27:47] anticheat|[Legion-SvD]Verhovna_rada|2040869|REDACTED_IP_FOR_PRIVACY|14|95|90|logged
+[12:27:48] kill|[Legion_SvD]_ZeroTwo|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_l
+[12:27:50] kill|63rd_Rec_SPIDI|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_abdomen
+[12:27:52] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Bob|melee|Infantry Musket|hb_shoulder_r
+[12:27:52] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[12:27:53] kill|63rd_blowjob|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_forearm_l
+[12:27:54] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:27:54] anticheat|[Legion_SvD]_Chell00212|2593302|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:27:54] teamkill|[Legion_SvD]_Chell00212|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_upperarm_r
+[12:27:54] msg,[Legion-SvD]Verhovna_rada teamkilled [Legion_SvD]_Chell00212.
+[12:27:54] kill|[Legion-SvD]Verhovna_rada|63rd_Bob|melee|Infantry Musket|hb_spine
+[12:27:56] kill|[Legion_SvD]Amelie_Lampard|63rd_LCpl_Edward|melee|Infantry Musket|hb_head
+[12:27:56] msg,New round started.
+[12:28:09] chat|63rd_General_Eternal|team|R
+[12:28:11] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:28:12] chat|63rd_Bob|team|Я нанимателя обогнал.
+[12:28:13] msg,*Admin*[63rd_General_Eternal]: G
+[12:28:13] chat|[Legion_SvD]Amelie_Lampard|team|подкормка все ещё идет
+[12:28:13] chat|*_[Legion_SvD]_LJE-MARAT|team|түріктер ебать керек
+[12:28:20] kill|63rd_Rec_SPIDI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_thorax
+[12:28:23] kill|[Legion_SvD]_ZeroTwo|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[12:28:30] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_LCpl_Edward|melee|Infantry Musket|hb_spine
+[12:28:31] kill|63rd_LCpl_Edward|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_upperarm_r
+[12:28:31] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:28:31] msg,[AC-ALERT] Suspect: 63rd_blowjob (GUID: 1589927) | Admin: Unknown | Threat: 4 | Reason: NO STRING!
+[12:28:31] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:28:31] anticheat|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:28:34] kill|[Legion_SvD]_Chell00212|63rd_OZBEK|melee|Infantry Musket|hb_forearm_r
+[12:28:37] teamkill|63rd_Isoctober|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[12:28:37] msg,63rd_General_Eternal teamkilled 63rd_Isoctober.
+[12:28:37] kill|63rd_Bob|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_head
+[12:28:37] kill|63rd_blowjob|[Legion-SvD]Verhovna_rada|melee|Infantry Musket|hb_spine
+[12:28:43] kill|[Legion-SvD]Verhovna_rada|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[12:28:46] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[12:28:48] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:28:48] anticheat|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:28:49] chat|[Legion_SvD]_Chell00212|all|если мі віграем я не поверю
+[12:28:50] chat|*_[Legion_SvD]_LJE-MARAT|team|қотақбастар олар
+[12:28:55] kill|63rd_OZBEK|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:29:01] kill|63rd_General_Eternal|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_r
+[12:29:01] msg,New round started.
+[12:29:02] chat|[Legion-SvD]Verhovna_rada|all|великая победа легиона будет
+[12:29:05] chat|[Legion_Svd]_Fuhrer_GIORGI|all|ura ura ura
+[12:29:18] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:29:18] msg,[AC-ALERT] Suspect: 63rd_Rec_SPIDI (GUID: 2441522) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:29:18] anticheat|63rd_Rec_SPIDI|2441522|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:29:21] chat|63rd_General_Eternal|team|R
+[12:29:23] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:29:24] msg,*Admin*[63rd_General_Eternal]: G
+[12:29:26] chat|[Legion_SvD]_Chell00212|all|потние ладошки
+[12:29:30] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_LCpl_Edward|melee|Infantry Musket|hb_upperarm_l
+[12:29:31] kill|63rd_LCpl_Edward|[Legion_SvD]_Hm|melee|Infantry Musket|hb_spine
+[12:29:35] kill|63rd_Bob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_l
+[12:29:37] chat|*_[Legion_SvD]_LJE-MARAT|team|идите нахуй түріктер
+[12:29:37] kill|[Legion_SvD]Amelie_Lampard|63rd_OZBEK|melee|Infantry Musket|hb_shoulder_l
+[12:29:37] kill|63rd_Rec_SPIDI|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_l
+[12:29:39] kill|[Legion_SvD]_ZeroTwo|63rd_blowjob|melee|Infantry Musket|hb_forearm_r
+[12:29:39] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_OZBEK|melee|Infantry Musket|hb_thorax
+[12:29:41] kill|[Legion-SvD]Verhovna_rada|63rd_blowjob|melee|Infantry Musket|hb_forearm_l
+[12:29:44] kill|[Legion_SvD]_Chell00212|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[12:29:44] kill|63rd_Isoctober|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:29:48] kill|[Legion_SvD]_Hm|63rd_OZBEK|melee|Infantry Musket|hb_abdomen
+[12:29:48] msg,New round started.
+[12:29:55] chat|[Legion_SvD]_Chell00212|team|потние ладошки
+[12:30:00] chat|[Legion_SvD]Amelie_Lampard|all|у них все слабые
+[12:30:07] chat|63rd_General_Eternal|team|R
+[12:30:11] chat|[Legion_SvD]_Chell00212|team|стой
+[12:30:12] chat|63rd_blowjob|all|the monk 
+[12:30:19] chat|63rd_General_Eternal|team|R
+[12:30:19] chat|63rd_General_Eternal|team|R
+[12:30:20] chat|63rd_General_Eternal|team|R
+[12:30:20] chat|63rd_General_Eternal|team|R
+[12:30:25] chat|[Legion_SvD]_ZeroTwo|team|no
+[12:30:26] chat|[Legion-SvD]Verhovna_rada|team|кыш
+[12:30:27] chat|63rd_General_Eternal|team|ZZ
+[12:30:28] chat|[Legion_SvD]_ZeroTwo|team|wait
+[12:30:29] chat|[Legion_SvD]_Chell00212|team|все я витер
+[12:30:30] msg,63rd_Bob teamhit 63rd_Isoctober 2 health.
+[12:30:33] chat|*_[Legion_SvD]_LJE-MARAT|team|жаб ауызынды
+[12:30:35] chat|[Legion_Svd]_Fuhrer_GIORGI|team|osujdaiu z
+[12:30:37] chat|63rd_LCpl_Edward|team|r
+[12:30:37] chat|[Legion_SvD]_Chell00212|team|ладошки
+[12:30:37] chat|63rd_LCpl_Edward|team|r
+[12:30:37] chat|63rd_LCpl_Edward|team|r
+[12:30:38] chat|63rd_LCpl_Edward|team|r
+[12:30:38] chat|63rd_LCpl_Edward|team|r
+[12:30:40] chat|63rd_LCpl_Edward|team|r
+[12:30:42] chat|*_[Legion_SvD]_LJE-MARAT|team|спэрму
+[12:30:44] kill|63rd_General_Eternal|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:30:45] chat|[Legion_SvD]Amelie_Lampard|all|смертельная команда
+[12:30:46] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[12:30:50] kill|63rd_LCpl_Edward|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_r
+[12:30:53] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[12:30:58] chat|[Legion_SvD]Amelie_Lampard|all|подбайтили морально
+[12:30:59] chat|[Legion_SvD]Amelie_Lampard|all|врагов
+[12:31:00] chat|63rd_General_Eternal|team|R
+[12:31:00] chat|63rd_General_Eternal|team|R
+[12:31:00] chat|[Legion_SvD]_ZeroTwo|team|heal and r
+[12:31:00] chat|63rd_General_Eternal|team|R
+[12:31:01] chat|63rd_General_Eternal|team|R
+[12:31:01] chat|63rd_General_Eternal|team|R
+[12:31:01] chat|63rd_General_Eternal|team|R
+[12:31:04] msg,[SERVER]: 63rd_General_Eternal Healed Everyone.
+[12:31:05] msg,*Admin*[63rd_General_Eternal]: G
+[12:31:12] kill|63rd_Bob|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_l
+[12:31:13] kill|[Legion_SvD]_Chell00212|63rd_blowjob|melee|Infantry Musket|hb_upperarm_r
+[12:31:13] kill|63rd_Rec_SPIDI|[Legion_SvD]_ZeroTwo|melee|Infantry Musket|hb_spine
+[12:31:15] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:31:15] anticheat|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:31:16] kill|63rd_General_Eternal|[Legion_SvD]_Hm|melee|Infantry Musket|hb_forearm_r
+[12:31:16] kill|[Legion_SvD]Amelie_Lampard|63rd_Isoctober|melee|Infantry Musket|hb_forearm_l
+[12:31:17] kill|[Legion_SvD]_ZeroTwo|63rd_OZBEK|melee|Infantry Musket|hb_shoulder_l
+[12:31:18] kill|63rd_OZBEK|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_head
+[12:31:21] kill|[Legion-SvD]Verhovna_rada|63rd_blowjob|melee|Infantry Musket|hb_forearm_l
+[12:31:23] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_Isoctober|melee|Infantry Musket|hb_abdomen
+[12:31:23] kill|63rd_LCpl_Edward|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_forearm_l
+[12:31:26] kill|63rd_Isoctober|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_l
+[12:31:39] kill|63rd_blowjob|[Legion_SvD]_Hm|melee|Infantry Musket|hb_upperarm_r
+[12:31:39] msg,New round started.
+[12:31:40] chat|*_[Legion_SvD]_LJE-MARAT|team|орыстар, түркілер үлтру сендерге керек
+[12:31:52] chat|[Legion_SvD]Amelie_Lampard|all|я вообще двух турков не шотнуль
+[12:31:52] msg,63rd_General_Eternal teamhit 63rd_Rec_SPIDI 5 health.
+[12:31:54] chat|[Legion_SvD]Amelie_Lampard|all|и в итоге меня убили
+[12:32:02] chat|63rd_General_Eternal|team|R
+[12:32:03] chat|63rd_General_Eternal|team|R
+[12:32:04] chat|[Legion_SvD]Amelie_Lampard|team|тут у всех лагает
+[12:32:07] death|[Legion-SvD]Verhovna_rada
+[12:32:10] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:32:10] anticheat|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:32:13] chat|[Legion_SvD]Amelie_Lampard|all|ахах
+[12:32:16] kill|63rd_General_Eternal|63rd_General_Eternal|punch
+[12:32:16] msg,[SERVER]: 63rd_General_Eternal Slayed Player 63rd_General_Eternal.
+[12:32:17] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[12:32:19] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:32:19] msg,[AC-ALERT] Suspect: [Legion_SvD]Amelie_Lampard (GUID: 2557146) | Admin: Unknown | Threat: 2 | Reason: NO STRING!
+[12:32:19] anticheat|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|14|92|90|logged
+[12:32:21] chat|*_[Legion_SvD]_LJE-MARAT|team|карп ты мой пинг виделЖ
+[12:32:22] chat|[Legion_SvD]_Maj_Evil_Xomik|team| 
+[12:32:23] chat|[Legion_SvD]_Chell00212|all|сам себя
+[12:32:25] chat|[Legion_SvD]_ZeroTwo|team|r
+[12:32:25] chat|63rd_General_Eternal|team|R
+[12:32:26] chat|63rd_General_Eternal|team|R
+[12:32:27] msg,*Admin*[63rd_General_Eternal]: G
+[12:32:28] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:32:28] anticheat|[Legion_SvD]_Chell00212|2593302|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[12:32:32] kill|[Legion_SvD]_ZeroTwo|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_l
+[12:32:34] kill|63rd_Rec_SPIDI|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_head
+[12:32:39] kill|63rd_Isoctober|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:32:40] teamkill|[Legion_SvD]_Hm|[Legion_SvD]_Chell00212|melee|Infantry Musket|hb_abdomen
+[12:32:40] msg,[Legion_SvD]_Chell00212 teamkilled [Legion_SvD]_Hm.
+[12:32:41] kill|[Legion_SvD]_k_La_Furia_Roja|63rd_blowjob|melee|Infantry Musket|hb_thigh_r
+[12:32:43] kill|[Legion_SvD]_Maj_Evil_Xomik|63rd_Bob|melee|Infantry Musket|hb_upperarm_l
+[12:32:44] kill|63rd_General_Eternal|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_upperarm_r
+[12:32:45] kill|63rd_blowjob|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_forearm_l
+[12:32:47] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:32:47] anticheat|[Legion_Svd]_Fuhrer_GIORGI|2433518|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:32:50] kill|63rd_LCpl_Edward|[Legion_SvD]Amelie_Lampard|melee|Infantry Musket|hb_abdomen
+[12:33:03] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[12:33:06] kill|[Legion_SvD]Amelie_Lampard|63rd_Bob|melee|Infantry Musket|hb_forearm_l
+[12:33:08] kill|[Legion_SvD]_Chell00212|63rd_OZBEK|melee|Infantry Musket|hb_spine
+[12:33:08] msg,New round started.
+[12:33:08] chat|*_[Legion_SvD]_LJE-MARAT|team|Калайсын украин№?
+[12:33:09] msg,*Admin*[63rd_General_Eternal]: gg
+[12:33:10] chat|63rd_OZBEK|team|gg
+[12:33:11] anticheat|summary|exit|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|mission=9|session=1631|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=82|autoblock_reaction_ms=966|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=57|autoattack_reaction_ms=919|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=6|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=0
+[12:33:11] disconnect|63rd_blowjob|REDACTED_IP_FOR_PRIVACY|1589927
+[12:33:11] msg,63rd_blowjob has left the game with ID: 1589927
+[12:33:12] anticheat|summary|exit|[Legion_SvD]_k_La_Furia_Roja|1342193|REDACTED_IP_FOR_PRIVACY|mission=9|session=1184|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=212814|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=631|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=45|autoattack_reaction_ms=1056|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=9
+[12:33:12] disconnect|[Legion_SvD]_k_La_Furia_Roja|REDACTED_IP_FOR_PRIVACY|1342193
+[12:33:12] msg,[Legion_SvD]_k_La_Furia_Roja has left the game with ID: 1342193
+[12:33:14] chat|[Legion_SvD]_Hm|team|курва джебана
+[12:33:18] anticheat|summary|exit|[Legion_SvD]_Chell00212|2593302|REDACTED_IP_FOR_PRIVACY|mission=9|session=1385|detections=4|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=1046390|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=47|autoblock_reaction_ms=788|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=721|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:33:18] disconnect|[Legion_SvD]_Chell00212|REDACTED_IP_FOR_PRIVACY|2593302
+[12:33:18] msg,[Legion_SvD]_Chell00212 has left the game with ID: 2593302
+[12:33:18] death|[Legion_SvD]_Chell00212
+[12:33:19] msg,[AC-JSON] Config file loaded. Enforcement mode: 1
+[12:33:19] anticheat|63rd_Bob|2560835|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[12:33:20] anticheat|summary|exit|[Legion-SvD]Verhovna_rada|2040869|REDACTED_IP_FOR_PRIVACY|mission=9|session=1866|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=148674|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=55|autoblock_reaction_ms=547|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=890|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=13
+[12:33:20] disconnect|[Legion-SvD]Verhovna_rada|REDACTED_IP_FOR_PRIVACY|2040869
+[12:33:20] msg,[Legion-SvD]Verhovna_rada has left the game with ID: 2040869
+[12:33:21] chat|63rd_Rec_SPIDI|team|SUS
+[12:33:22] chat|63rd_Rec_SPIDI|team|SUS
+[12:33:22] kill|63rd_Rec_SPIDI|[Legion_SvD]_Hm|melee|Infantry Musket|hb_head
+[12:33:23] anticheat|summary|exit|[Legion_SvD]Amelie_Lampard|2557146|REDACTED_IP_FOR_PRIVACY|mission=9|session=2342|detections=4|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=426841|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=90|autoblock_reaction_ms=612|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=52|autoattack_reaction_ms=620|autoattack_feints=0|autoattack_chambers=5|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=7
+[12:33:23] disconnect|[Legion_SvD]Amelie_Lampard|REDACTED_IP_FOR_PRIVACY|2557146
+[12:33:23] msg,[Legion_SvD]Amelie_Lampard has left the game with ID: 2557146
+[12:33:23] death|[Legion_SvD]Amelie_Lampard
+[12:33:25] kill|63rd_OZBEK|[Legion_SvD]_Maj_Evil_Xomik|melee|Infantry Musket|hb_thorax
+[12:33:25] kill|63rd_General_Eternal|[Legion_Svd]_Fuhrer_GIORGI|melee|Infantry Musket|hb_upperarm_l
+[12:33:26] kill|[Legion_SvD]_Hm|63rd_Isoctober|melee|Infantry Musket|hb_forearm_l
+[12:33:27] kill|[Legion_Svd]_Fuhrer_GIORGI|63rd_Bob|melee|Infantry Musket|hb_upperarm_r
+[12:33:27] anticheat|summary|exit|[Legion_SvD]_Maj_Evil_Xomik|2491664|REDACTED_IP_FOR_PRIVACY|mission=9|session=2362|detections=5|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=301911|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=50|autoblock_reaction_ms=638|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=726|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:33:27] disconnect|[Legion_SvD]_Maj_Evil_Xomik|REDACTED_IP_FOR_PRIVACY|2491664
+[12:33:27] msg,[Legion_SvD]_Maj_Evil_Xomik has left the game with ID: 2491664
+[12:33:27] death|[Legion_SvD]_Maj_Evil_Xomik
+[12:33:29] anticheat|summary|exit|[Legion_SvD]_Hm|2031011|REDACTED_IP_FOR_PRIVACY|mission=9|session=2314|detections=8|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=3821727|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=60|autoblock_reaction_ms=995|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=472|autoattack_feints=1|autoattack_chambers=1|autoattack_chamber_pct=2|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=4
+[12:33:29] disconnect|[Legion_SvD]_Hm|REDACTED_IP_FOR_PRIVACY|2031011
+[12:33:29] msg,[Legion_SvD]_Hm has left the game with ID: 2031011
+[12:33:34] kill|*_[Legion_SvD]_LJE-MARAT|63rd_LCpl_Edward|melee|Infantry Musket|hb_head
+[12:33:34] kill|[Legion_SvD]_ZeroTwo|63rd_Bob|melee|Infantry Musket|hb_thorax
+[12:33:34] msg,New round started.
+[12:33:35] anticheat|summary|exit|[Legion_Svd]_Fuhrer_GIORGI|2433518|REDACTED_IP_FOR_PRIVACY|mission=9|session=2395|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=205475|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=65|autoblock_reaction_ms=761|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=65|autoattack_reaction_ms=632|autoattack_feints=1|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=8
+[12:33:35] disconnect|[Legion_Svd]_Fuhrer_GIORGI|REDACTED_IP_FOR_PRIVACY|2433518
+[12:33:35] msg,[Legion_Svd]_Fuhrer_GIORGI has left the game with ID: 2433518
+[12:33:35] anticheat|summary|exit|63rd_LCpl_Edward|2272988|REDACTED_IP_FOR_PRIVACY|mission=9|session=1776|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=520569|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=80|autoblock_reaction_ms=746|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=37|autoattack_reaction_ms=544|autoattack_feints=0|autoattack_chambers=3|autoattack_chamber_pct=10|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=1
+[12:33:35] disconnect|63rd_LCpl_Edward|REDACTED_IP_FOR_PRIVACY|2272988
+[12:33:35] msg,63rd_LCpl_Edward has left the game with ID: 2272988
+[12:33:35] death|63rd_LCpl_Edward
+[12:33:36] anticheat|summary|exit|[Legion_SvD]_ZeroTwo|2298580|REDACTED_IP_FOR_PRIVACY|mission=9|session=2325|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=152290|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=5|autoblock_reaction_ms=643|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=52|autoattack_reaction_ms=352|autoattack_feints=0|autoattack_chambers=4|autoattack_chamber_pct=12|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:33:36] disconnect|[Legion_SvD]_ZeroTwo|REDACTED_IP_FOR_PRIVACY|2298580
+[12:33:36] msg,[Legion_SvD]_ZeroTwo has left the game with ID: 2298580
+[12:33:43] chat|*_[Legion_SvD]_LJE-MARAT|team|қотқбастар сендер түріктер
+[12:33:45] anticheat|summary|exit|*_[Legion_SvD]_LJE-MARAT|2492046|REDACTED_IP_FOR_PRIVACY|mission=9|session=1656|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=30|autoblock_reaction_ms=523|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=35|autoattack_open_pct=71|autoattack_reaction_ms=504|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=2|time_skew_stall_pct=20
+[12:33:45] disconnect|*_[Legion_SvD]_LJE-MARAT|REDACTED_IP_FOR_PRIVACY|2492046
+[12:33:45] msg,*_[Legion_SvD]_LJE-MARAT has left the game with ID: 2492046
+[12:33:45] death|*_[Legion_SvD]_LJE-MARAT
+[12:33:45] msg,New round started.
+[12:33:51] anticheat|summary|exit|63rd_Isoctober|2583313|REDACTED_IP_FOR_PRIVACY|mission=9|session=1037|detections=0|seed_mismatches=0|time_skew_pct=-3|time_skew_windows=0|max_aim_speed=530391|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=15|autoblock_reaction_ms=821|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=50|autoattack_reaction_ms=838|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=3
+[12:33:51] disconnect|63rd_Isoctober|REDACTED_IP_FOR_PRIVACY|2583313
+[12:33:51] msg,63rd_Isoctober has left the game with ID: 2583313
+[12:33:51] death|63rd_Isoctober
+[12:33:51] msg,New round started.
+[12:33:51] anticheat|summary|exit|63rd_Rec_SPIDI|2441522|REDACTED_IP_FOR_PRIVACY|mission=9|session=1321|detections=2|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=517894|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=15|autoblock_reaction_ms=45|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=57|autoattack_reaction_ms=679|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=3|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=10
+[12:33:51] disconnect|63rd_Rec_SPIDI|REDACTED_IP_FOR_PRIVACY|2441522
+[12:33:51] msg,63rd_Rec_SPIDI has left the game with ID: 2441522
+[12:33:51] death|63rd_Rec_SPIDI
+[12:33:58] teamkill|63rd_OZBEK|63rd_Bob|melee|Infantry Musket|hb_spine
+[12:33:58] msg,63rd_Bob teamkilled 63rd_OZBEK.
+[12:33:58] msg,New round started.
+[12:33:59] teamkill|63rd_General_Eternal|63rd_Bob|melee|Infantry Musket|hb_forearm_r
+[12:33:59] msg,63rd_Bob teamkilled 63rd_General_Eternal.
+[12:34:05] teamkill|63rd_General_Eternal|63rd_Bob|melee|Infantry Musket|hb_spine
+[12:34:05] msg,63rd_Bob teamkilled 63rd_General_Eternal.
+[12:34:05] msg,New round started.
+[12:34:06] teamkill|63rd_OZBEK|63rd_Bob|melee|Infantry Musket|hb_spine
+[12:34:06] msg,63rd_Bob teamkilled 63rd_OZBEK.
+[12:34:12] teamkill|63rd_OZBEK|63rd_Bob|melee|Infantry Musket|hb_abdomen
+[12:34:12] msg,63rd_Bob teamkilled 63rd_OZBEK.
+[12:34:12] msg,New round started.
+[12:34:14] teamkill|63rd_General_Eternal|63rd_Bob|melee|Infantry Musket|hb_forearm_l
+[12:34:14] msg,63rd_Bob teamkilled 63rd_General_Eternal.
+[12:34:16] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=2565|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=1529514|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=95|autoblock_reaction_ms=523|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=868|autoattack_feints=0|autoattack_chambers=3|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=1
+[12:34:16] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[12:34:16] msg,63rd_General_Eternal has left the game with ID: 2289446
+[12:34:21] teamkill|63rd_OZBEK|63rd_Bob|melee|Infantry Musket|hb_upperarm_r
+[12:34:21] msg,63rd_Bob teamkilled 63rd_OZBEK.
+[12:34:21] msg,New round started.
+[12:34:22] anticheat|summary|exit|63rd_Bob|2560835|REDACTED_IP_FOR_PRIVACY|mission=9|session=1125|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=2190184|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=75|autoblock_reaction_ms=785|autoblock_feints=0|autoblock_offscreen=2|autoattack_samples=40|autoattack_open_pct=57|autoattack_reaction_ms=732|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=6|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=1
+[12:34:22] disconnect|63rd_Bob|REDACTED_IP_FOR_PRIVACY|2560835
+[12:34:22] msg,63rd_Bob has left the game with ID: 2560835
+[12:34:22] death|63rd_Bob
+[12:34:24] anticheat|summary|exit|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=1679|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=540591|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=90|autoblock_reaction_ms=503|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=60|autoattack_reaction_ms=757|autoattack_feints=0|autoattack_chambers=4|autoattack_chamber_pct=12|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[12:34:24] disconnect|63rd_OZBEK|REDACTED_IP_FOR_PRIVACY|2002752
+[12:34:24] msg,63rd_OZBEK has left the game with ID: 2002752

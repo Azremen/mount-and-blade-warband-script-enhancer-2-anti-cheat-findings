@@ -1,0 +1,706 @@
+[06:04:03] msg,Map change.
+[06:04:03] start
+[06:12:04] msg,Map change.
+[06:12:04] start
+[06:20:46] msg,Map change.
+[06:20:46] start
+[06:25:22] msg,Map change.
+[06:25:22] start
+[06:35:58] msg,Map change.
+[06:35:58] start
+[06:39:47] msg,Map change.
+[06:39:47] start
+[06:44:15] msg,Map change.
+[06:44:15] start
+[06:48:10] msg,Map change.
+[06:48:10] start
+[06:53:50] msg,Map change.
+[06:53:50] start
+[06:55:20] msg,Map change.
+[06:55:20] start
+[07:00:04] msg,Map change.
+[07:02:54] msg,Map change.
+[07:02:54] start
+[07:06:44] msg,Map change.
+[07:06:44] start
+[07:07:40] connect|Azremen|REDACTED_IP_FOR_PRIVACY|2575888|admin|1150|Azremen
+[07:07:45] connect|Eto|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|Eto
+[07:08:21] anticheat|modifier|Azremen|2575888|3|55
+[07:08:21] anticheat|modifier|Azremen|2575888|3|100
+[07:08:47] msg,[SERVER]: Eto Teleported to Player Azremen.
+[07:09:13] kill|Eto|Azremen|melee|Infantry Musket|hb_shoulder_l
+[07:09:13] msg,New round started.
+[07:09:31] msg,[SERVER]: Eto Teleported to Player Azremen.
+[07:09:37] kill|Eto|Azremen|ranged|Infantry Musket|Cartridges|hb_upperarm_r
+[07:09:37] msg,New round started.
+[07:09:45] msg,[SERVER]: Eto Teleported.
+[07:09:49] msg,[SERVER]: Eto Teleported to Player Azremen.
+[07:10:39] anticheat|modifier|Eto|2289446|3|55
+[07:10:44] kill|Eto|Azremen|ranged|Infantry Musket|Cartridges|hb_thorax
+[07:10:44] msg,New round started.
+[07:10:52] msg,[SERVER]: Eto Teleported to Player Azremen.
+[07:11:07] kill|Azremen|Eto|melee|Infantry Musket|hb_upperarm_l
+[07:11:07] msg,New round started.
+[07:11:23] msg,[SERVER]: Azremen Spawned a Hand Grenade.
+[07:11:23] msg,[SERVER]: And Saint Azremen raised the holy grenade up on high, saying, 'O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.' And the Lord did grin.
+[07:11:35] msg,[SERVER]: Eto Teleported to Player Azremen.
+[07:11:35] anticheat|modifier|Azremen|2575888|3|55
+[07:11:36] anticheat|modifier|Azremen|2575888|3|100
+[07:11:40] anticheat|Azremen|2575888|REDACTED_IP_FOR_PRIVACY|16|3|3|logged
+[07:11:40] kill|Eto|Azremen|melee|{!}cannon ball dummy|hb_abdomen
+[07:11:40] msg,New round started.
+[07:12:23] msg,[SERVER]: Eto Teleported to Player Azremen.
+[07:12:45] kill|Azremen|Eto|melee|Infantry Musket|hb_upperarm_l
+[07:12:45] msg,New round started.
+[07:13:05] msg,[SERVER]: Azremen Teleported Player Eto to Himself.
+[07:13:53] kill|Eto|Azremen|melee|Infantry Musket|hb_upperarm_l
+[07:13:53] msg,New round started.
+[07:14:00] msg,[SERVER]: Azremen Spawned a Ban Hammer.
+[07:14:00] msg,[SERVER]: And Saint Azremen raised the holy ban hammer up on high, saying, 'O Lord, bless this thy holy ban hammer, that with it thou mayst smash thine enemies to tiny bits, in thy mercy.' And the Lord did grin.
+[07:14:04] anticheat|summary|exit|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=379|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=267056|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=75|autoblock_reaction_ms=645|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=85|autoattack_reaction_ms=880|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=16|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:14:04] disconnect|Eto|REDACTED_IP_FOR_PRIVACY|2289446
+[07:14:04] msg,Eto has left the game with ID: 2289446
+[07:14:04] death|Eto
+[07:14:04] msg,New round started.
+[07:14:13] msg,[SERVER]: Azremen Spawned an Admin Horse.
+[07:14:28] msg,[SERVER]: Azremen Spawned a Ban Hammer.
+[07:14:28] msg,[SERVER]: And Saint Azremen raised the holy ban hammer up on high, saying, 'O Lord, bless this thy holy ban hammer, that with it thou mayst smash thine enemies to tiny bits, in thy mercy.' And the Lord did grin.
+[07:18:03] connect|Eto|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|Eto
+[07:18:10] msg,Eto Set the server password to 
+[07:18:14] msg,Eto Set the server welcome message to discord.gg/63avaria.
+[07:18:14] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 1.
+[07:18:14] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 2.
+[07:18:15] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 3.
+[07:18:15] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 4.
+[07:18:15] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 5.
+[07:18:15] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 6.
+[07:18:15] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 7.
+[07:18:15] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 8.
+[07:18:38] msg,Eto Set the server password to 
+[07:18:45] msg,Eto Set the server name to **9th_NW
+[07:18:45] msg,[SERVER]: Eto Changed the map to custom map 1 with gamemode Battle and with the nations United Kingdom and Empire Français.
+[07:18:45] anticheat|modifier|Azremen|2575888|3|100
+[07:18:48] anticheat|summary|mission_end|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=45|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:18:48] anticheat|summary|mission_end|Azremen|2575888|REDACTED_IP_FOR_PRIVACY|mission=9|session=667|detections=1|seed_mismatches=2|time_skew_pct=0|time_skew_windows=0|max_aim_speed=24579|aim_snaps=0|spread_mean_x1000=28|spread_shots=7|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=80|autoblock_reaction_ms=873|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=33|autoattack_open_pct=45|autoattack_reaction_ms=720|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:18:48] msg,Map change.
+[07:19:02] msg,[SERVER]: Eto Set auto-kick/ban for teamkills to False.
+[07:19:07] msg,Eto Changed the map timelimit to 240 minutes.
+[07:19:10] msg,Eto Changed the round timelimit to 999 seconds.
+[07:19:12] msg,[SERVER]: Eto Set the auto team balance limit to Unlimited.
+[07:19:15] msg,[SERVER]: Eto Set use class limits to False.
+[07:19:15] msg,[SERVER]: Azremen Spawned a Ban Hammer.
+[07:19:15] msg,[SERVER]: And Saint Azremen raised the holy ban hammer up on high, saying, 'O Lord, bless this thy holy ban hammer, that with it thou mayst smash thine enemies to tiny bits, in thy mercy.' And the Lord did grin.
+[07:19:34] kill|Eto|Azremen|melee|Infantry Musket|hb_thorax
+[07:19:34] msg,New round started.
+[07:19:44] msg,[SERVER]: Eto Set use Groupfight mode to True.
+[07:19:53] kill|Azremen|Eto|melee|Infantry Musket|hb_upperarm_l
+[07:19:53] msg,New round started.
+[07:19:57] msg,Eto Set the server password to 
+[07:20:05] msg,Eto Set the server name to EU_63rd_Official
+[07:20:10] kill|Azremen|Eto|melee|Infantry Musket|hb_head
+[07:20:10] msg,New round started.
+[07:20:13] msg,Eto Set the server password to 63
+[07:20:17] msg,[SERVER]: Azremen Spawned a Hand Grenade.
+[07:20:17] msg,[SERVER]: And Saint Azremen raised the holy grenade up on high, saying, 'O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.' And the Lord did grin.
+[07:20:20] msg,Eto Set the friendly fire damage to self ratio to 0 %.
+[07:20:21] msg,Eto Set the friendly fire damage to friend ratio to 100 %.
+[07:20:25] anticheat|Azremen|2575888|REDACTED_IP_FOR_PRIVACY|16|3|3|logged
+[07:20:30] kill|Azremen|Eto|melee|Infantry Musket|hb_shoulder_l
+[07:20:30] msg,New round started.
+[07:20:38] msg,[SERVER]: Azremen Spawned a Rocket Launcher.
+[07:20:55] kill|Eto|Azremen|melee|{!}cannon ball dummy|hb_abdomen
+[07:20:55] msg,New round started.
+[07:21:02] msg,[SERVER]: Azremen Spawned a Shotgun.
+[07:21:05] kill|Eto|Azremen|ranged|{!}cannon canister dummy|Cartridges|hb_thigh_l
+[07:21:05] msg,New round started.
+[07:21:13] msg,[SERVER]: Azremen Spawned a Cannonball Launcher.
+[07:21:16] anticheat|Azremen|2575888|REDACTED_IP_FOR_PRIVACY|16|3|3|logged
+[07:21:19] kill|Eto|Azremen|melee|{!}cannon ball dummy|hb_abdomen
+[07:21:19] msg,New round started.
+[07:21:31] msg,[SERVER]: Azremen Teleported.
+[07:21:38] kill|Azremen|Eto|melee|Infantry Musket|hb_forearm_l
+[07:21:38] msg,New round started.
+[07:21:45] anticheat|modifier|Azremen|2575888|3|55
+[07:21:49] anticheat|modifier|Azremen|2575888|3|100
+[07:21:57] kill|Azremen|Eto|melee|Infantry Musket|hb_spine
+[07:21:57] msg,New round started.
+[07:22:08] kill|Azremen|Eto|kick
+[07:22:08] msg,New round started.
+[07:22:19] kill|Eto|Eto|punch
+[07:22:19] msg,New round started.
+[07:22:19] msg,[SERVER]: Azremen Slayed Player Eto.
+[07:22:33] kill|Azremen|Eto|melee|Infantry Musket|hb_shoulder_l
+[07:22:33] msg,New round started.
+[07:22:55] kill|Azremen|Azremen|punch
+[07:22:55] msg,New round started.
+[07:22:55] msg,Azremen has committed suicide.
+[07:23:30] anticheat|summary|exit|Azremen|2575888|REDACTED_IP_FOR_PRIVACY|mission=9|session=949|detections=3|seed_mismatches=1|time_skew_pct=0|time_skew_windows=0|max_aim_speed=538869|aim_snaps=0|spread_mean_x1000=23|spread_shots=10|melee_attacks=0|ranged_attacks=0|autoblock_samples=31|autoblock_match_pct=61|autoblock_reaction_ms=841|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=22|autoattack_open_pct=45|autoattack_reaction_ms=876|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=16|aimlead_hard_shots=2|aimlead_err_x100=306|aimlead_flat_x100=214
+[07:23:30] disconnect|Azremen|REDACTED_IP_FOR_PRIVACY|2575888
+[07:23:30] msg,Azremen has left the game with ID: 2575888
+[07:23:30] death|Azremen
+[07:23:30] msg,New round started.
+[07:24:53] anticheat|summary|exit|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=410|detections=0|seed_mismatches=0|time_skew_pct=-59|time_skew_windows=1|max_aim_speed=270783|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=691|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=13|autoattack_open_pct=30|autoattack_reaction_ms=452|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=5|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:24:53] disconnect|Eto|REDACTED_IP_FOR_PRIVACY|2289446
+[07:24:53] msg,Eto has left the game with ID: 2289446
+[07:24:53] death|Eto
+[07:24:53] msg,New round started.
+[07:25:30] connect|Eto|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|Eto
+[07:42:33] connect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752|admin|1126|OZBEKK
+[07:43:42] kill|Eto|OZBEKK|melee|Infantry Musket|hb_upperarm_l
+[07:43:42] msg,New round started.
+[07:43:59] kill|OZBEKK|Eto|melee|Infantry Musket|hb_upperarm_l
+[07:43:59] msg,New round started.
+[07:44:20] kill|Eto|OZBEKK|melee|Infantry Musket|hb_upperarm_l
+[07:44:20] msg,New round started.
+[07:44:36] kill|Eto|OZBEKK|melee|Infantry Musket|hb_thigh_l
+[07:44:36] msg,New round started.
+[07:44:58] kill|OZBEKK|Eto|melee|Infantry Musket|hb_spine
+[07:44:58] msg,New round started.
+[07:45:10] anticheat|summary|exit|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=157|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=538869|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=82|autoblock_reaction_ms=884|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=50|autoattack_reaction_ms=593|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:45:10] disconnect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752
+[07:45:10] msg,OZBEKK has left the game with ID: 2002752
+[07:45:10] death|OZBEKK
+[07:45:10] msg,New round started.
+[07:45:43] connect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752|admin|1126|OZBEKK
+[07:46:16] kill|Eto|OZBEKK|melee|Infantry Musket|hb_forearm_l
+[07:46:16] msg,New round started.
+[07:46:30] kill|OZBEKK|Eto|melee|Infantry Musket|hb_thorax
+[07:46:30] msg,New round started.
+[07:46:42] anticheat|Eto|2289446|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[07:47:22] kill|Eto|OZBEKK|melee|Infantry Musket|hb_abdomen
+[07:47:22] msg,New round started.
+[07:47:51] kill|OZBEKK|Eto|melee|Infantry Musket|hb_upperarm_l
+[07:47:51] msg,New round started.
+[07:47:59] anticheat|summary|exit|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=136|detections=0|seed_mismatches=0|time_skew_pct=19|time_skew_windows=0|max_aim_speed=346815|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=87|autoblock_reaction_ms=685|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=30|autoattack_reaction_ms=741|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=6|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:47:59] disconnect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752
+[07:47:59] msg,OZBEKK has left the game with ID: 2002752
+[07:48:31] anticheat|summary|exit|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1380|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=288789|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=65|autoblock_reaction_ms=594|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=42|autoattack_reaction_ms=893|autoattack_feints=0|autoattack_chambers=7|autoattack_chamber_pct=8|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:48:31] disconnect|Eto|REDACTED_IP_FOR_PRIVACY|2289446
+[07:48:31] msg,Eto has left the game with ID: 2289446
+[07:48:31] death|Eto
+[07:48:31] msg,New round started.
+[07:50:55] connect|Eto|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|Eto
+[07:51:22] connect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752|admin|1126|OZBEKK
+[07:52:28] anticheat|summary|exit|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=66|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=58079|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:52:28] disconnect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752
+[07:52:28] msg,OZBEKK has left the game with ID: 2002752
+[07:52:28] death|OZBEKK
+[07:52:28] msg,New round started.
+[07:52:50] anticheat|modifier|Eto|2289446|3|55
+[07:52:51] anticheat|modifier|Eto|2289446|3|100
+[07:53:16] connect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752|admin|0|OZBEKK
+[07:53:32] anticheat|summary|exit|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=16|detections=0|seed_mismatches=0|time_skew_pct=-1|time_skew_windows=0|max_aim_speed=518911|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=47|autoblock_reaction_ms=272|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:53:32] disconnect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752
+[07:53:32] msg,OZBEKK has left the game with ID: 2002752
+[07:53:32] death|OZBEKK
+[07:53:32] msg,New round started.
+[07:55:02] connect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752|admin|0|OZBEKK
+[07:56:56] anticheat|summary|exit|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=113|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=72647|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=12|autoblock_reaction_ms=976|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=14|autoattack_open_pct=92|autoattack_reaction_ms=670|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[07:56:56] disconnect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752
+[07:56:56] msg,OZBEKK has left the game with ID: 2002752
+[07:56:56] death|OZBEKK
+[07:56:56] msg,New round started.
+[07:59:37] connect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752|admin|0|OZBEKK
+[07:59:51] anticheat|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|14|92|90|logged
+[08:00:21] anticheat|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|14|100|90|logged
+[08:00:48] anticheat|summary|exit|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=70|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=33968|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=12|autoblock_match_pct=66|autoblock_reaction_ms=36|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=75|autoattack_reaction_ms=40|autoattack_feints=1|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:00:48] disconnect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752
+[08:00:48] msg,OZBEKK has left the game with ID: 2002752
+[08:00:48] death|OZBEKK
+[08:00:48] msg,New round started.
+[08:02:15] connect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752|admin|0|OZBEKK
+[08:03:09] kill|OZBEKK|Eto|melee|Infantry Musket|hb_thigh_l
+[08:03:09] msg,New round started.
+[08:03:26] anticheat|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|11|29|25|logged
+[08:03:27] kill|OZBEKK|Eto|melee|Infantry Musket|hb_upperarm_l
+[08:03:27] msg,New round started.
+[08:03:45] kill|Eto|OZBEKK|melee|Infantry Musket|hb_calf_r
+[08:03:45] msg,New round started.
+[08:03:56] anticheat|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|11|29|25|logged
+[08:04:02] kill|Eto|OZBEKK|melee|Infantry Musket|hb_thorax
+[08:04:02] msg,New round started.
+[08:04:16] kill|Eto|OZBEKK|melee|Infantry Musket|hb_upperarm_l
+[08:04:16] msg,New round started.
+[08:04:26] anticheat|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|11|30|25|logged
+[08:04:42] kill|Eto|OZBEKK|melee|Infantry Musket|hb_upperarm_r
+[08:04:42] msg,New round started.
+[08:04:56] anticheat|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|11|30|25|logged
+[08:05:16] kill|OZBEKK|Eto|melee|Infantry Musket|hb_forearm_l
+[08:05:16] msg,New round started.
+[08:05:22] anticheat|summary|exit|OZBEKK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=187|detections=4|seed_mismatches=0|time_skew_pct=30|time_skew_windows=2|max_aim_speed=622693|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=47|autoblock_reaction_ms=750|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=42|autoattack_reaction_ms=563|autoattack_feints=0|autoattack_chambers=3|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:05:22] disconnect|OZBEKK|REDACTED_IP_FOR_PRIVACY|2002752
+[08:05:22] msg,OZBEKK has left the game with ID: 2002752
+[08:05:22] death|OZBEKK
+[08:05:22] msg,New round started.
+[08:06:12] anticheat|summary|exit|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=917|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=7496|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=42|autoblock_reaction_ms=580|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=60|autoattack_reaction_ms=609|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=5|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:06:12] disconnect|Eto|REDACTED_IP_FOR_PRIVACY|2289446
+[08:06:12] msg,Eto has left the game with ID: 2289446
+[08:06:12] death|Eto
+[08:06:12] msg,New round started.
+[08:13:54] msg,Map change.
+[08:13:54] start
+[08:14:03] connect|Eto|REDACTED_IP_FOR_PRIVACY|2289446|regular|1150|Eto
+[08:14:08] anticheat|summary|exit|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=4|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:14:08] disconnect|Eto|REDACTED_IP_FOR_PRIVACY|2289446
+[08:14:08] msg,Eto has left the game with ID: 2289446
+[08:14:22] msg,Map change.
+[08:14:22] start
+[08:14:26] connect|Eto|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|Eto
+[08:14:31] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 1.
+[08:14:32] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 2.
+[08:14:32] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 3.
+[08:14:32] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 4.
+[08:14:32] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 5.
+[08:14:32] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 6.
+[08:14:32] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 7.
+[08:14:32] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 8.
+[08:14:41] msg,Eto Set the server password to gf
+[08:14:48] msg,[SERVER]: Eto Changed the map to custom map 1 with gamemode Battle and with the nations United Kingdom and Empire Français.
+[08:14:51] anticheat|summary|mission_end|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=24|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:14:51] msg,Map change.
+[08:14:59] msg,Eto Set the friendly fire damage to self ratio to 0 %.
+[08:15:00] msg,Eto Set the friendly fire damage to friend ratio to 100 %.
+[08:15:02] msg,Eto Changed the map timelimit to 240 minutes.
+[08:15:04] msg,Eto Changed the round timelimit to 3600 seconds.
+[08:15:07] msg,[SERVER]: Eto Set the auto team balance limit to Unlimited.
+[08:15:08] msg,[SERVER]: Eto Set use Groupfight mode to True.
+[08:15:11] msg,[SERVER]: Eto Set use class limits to False.
+[08:15:13] msg,[SERVER]: Eto Set auto-kick/ban for teamkills to False.
+[08:15:22] msg,Eto Changed the map timelimit to 240 minutes.
+[08:15:26] msg,Eto Set the friendly fire damage to self ratio to 0 %.
+[08:15:27] msg,Eto Set the friendly fire damage to friend ratio to 100 %.
+[08:19:06] msg,Eto Set the server name to Assassins_Server
+[08:19:24] anticheat|summary|exit|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=297|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:19:24] disconnect|Eto|REDACTED_IP_FOR_PRIVACY|2289446
+[08:19:24] msg,Eto has left the game with ID: 2289446
+[08:23:45] msg,Map change.
+[08:23:45] start
+[08:24:45] msg,Map change.
+[08:24:45] start
+[08:35:18] msg,Map change.
+[08:35:18] start
+[08:37:39] connect|Eto|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|Eto
+[08:37:45] msg,Eto Set the server password to 63
+[08:37:45] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 1.
+[08:37:46] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 2.
+[08:37:46] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 3.
+[08:37:46] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 4.
+[08:37:46] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 5.
+[08:37:46] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 6.
+[08:37:47] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 7.
+[08:37:47] msg,[SERVER]: Eto Set the number of available custom maps to choose from to 8.
+[08:37:56] msg,[SERVER]: Eto Changed the map to custom map 1 with gamemode Battle and with the nations United Kingdom and Empire Français.
+[08:37:59] anticheat|summary|mission_end|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=19|detections=0|seed_mismatches=0|time_skew_pct=-3|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:37:59] msg,Map change.
+[08:38:04] msg,[SERVER]: Eto Set auto-kick/ban for teamkills to False.
+[08:38:08] msg,Eto Set the friendly fire damage to self ratio to 0 %.
+[08:38:09] msg,Eto Set the friendly fire damage to friend ratio to 100 %.
+[08:38:14] msg,Eto Changed the map timelimit to 240 minutes.
+[08:38:15] msg,Eto Changed the round timelimit to 3600 seconds.
+[08:38:18] msg,[SERVER]: Eto Set the auto team balance limit to Unlimited.
+[08:38:20] msg,[SERVER]: Eto Set use class limits to False.
+[08:38:23] msg,Eto Set the friendly fire damage to self ratio to 0 %.
+[08:38:24] msg,Eto Set the friendly fire damage to friend ratio to 100 %.
+[08:38:45] msg,Eto Changed the map timelimit to 240 minutes.
+[08:38:45] msg,Eto Changed the map timelimit to 240 minutes.
+[08:38:46] msg,Eto Changed the map timelimit to 240 minutes.
+[08:41:19] msg,[SERVER]: Eto Set use Groupfight mode to True.
+[08:41:39] anticheat|summary|exit|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=240|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=243591|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:41:39] disconnect|Eto|REDACTED_IP_FOR_PRIVACY|2289446
+[08:41:39] msg,Eto has left the game with ID: 2289446
+[08:41:39] death|Eto
+[08:41:39] msg,New round started.
+[08:42:13] connect|Eto|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|Eto
+[08:44:23] anticheat|summary|exit|Eto|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=130|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=318687|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[08:44:23] disconnect|Eto|REDACTED_IP_FOR_PRIVACY|2289446
+[08:44:23] msg,Eto has left the game with ID: 2289446
+[08:44:23] death|Eto
+[08:44:23] msg,New round started.
+[11:02:01] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[11:02:42] connect|KloryTear|REDACTED_IP_FOR_PRIVACY|2122761|regular|0|KloryTear
+[11:03:34] connect|[HL]*Friendly_TalatPashaa|REDACTED_IP_FOR_PRIVACY|2484125|regular|1150|[HL]*Friendly_TalatPashaa
+[11:03:40] anticheat|summary|exit|[HL]*Friendly_TalatPashaa|2484125|REDACTED_IP_FOR_PRIVACY|mission=9|session=6|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:03:40] disconnect|[HL]*Friendly_TalatPashaa|REDACTED_IP_FOR_PRIVACY|2484125
+[11:03:41] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[11:03:41] msg,New round started.
+[11:04:06] connect|asfarkes|REDACTED_IP_FOR_PRIVACY|2484125|regular|1150|asfarkes
+[11:04:23] anticheat|summary|exit|asfarkes|2484125|REDACTED_IP_FOR_PRIVACY|mission=9|session=17|detections=0|seed_mismatches=0|time_skew_pct=-100|time_skew_windows=1|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:04:23] disconnect|asfarkes|REDACTED_IP_FOR_PRIVACY|2484125
+[11:04:23] msg,asfarkes has left the game with ID: 2484125
+[11:04:53] connect|87th_Irish_Gren_TalatPashaa|REDACTED_IP_FOR_PRIVACY|2484125|regular|1150|87th_Irish_Gren_TalatPashaa
+[11:04:58] chat|87th_Irish_Gren_TalatPashaa|team|sa
+[11:04:59] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[11:04:59] msg,New round started.
+[11:05:03] chat|87th_Irish_Gren_TalatPashaa|team|sa
+[11:05:13] msg,KloryTear teamhit 87th_Irish_Gren_TalatPashaa 40 health.
+[11:05:14] teamkill|87th_Irish_Gren_TalatPashaa|KloryTear|melee|Officer Sword|hb_forearm_r
+[11:05:14] msg,KloryTear teamkilled 87th_Irish_Gren_TalatPashaa.
+[11:05:18] anticheat|summary|exit|87th_Irish_Gren_TalatPashaa|2484125|REDACTED_IP_FOR_PRIVACY|mission=9|session=25|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=509476|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:05:18] disconnect|87th_Irish_Gren_TalatPashaa|REDACTED_IP_FOR_PRIVACY|2484125
+[11:05:18] msg,87th_Irish_Gren_TalatPashaa has left the game with ID: 2484125
+[11:05:27] msg,63rd_General_Eternal Set the server password to 63
+[11:05:40] msg,63rd_General_Eternal Set the server password to 6366
+[11:05:43] msg,63rd_General_Eternal Set the server password to 633
+[11:05:44] msg,63rd_General_Eternal Set the server password to 6333
+[11:06:02] kill|63rd_General_Eternal|KloryTear|melee|Officer Sword|hb_head
+[11:06:02] msg,New round started.
+[11:06:18] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:06:18] msg,New round started.
+[11:06:27] chat|KloryTear|all|amkezi
+[11:06:32] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:06:32] msg,New round started.
+[11:06:33] connect|63rd_Rec_Fiszek|REDACTED_IP_FOR_PRIVACY|1098052|regular|0|63rd_Rec_Fiszek
+[11:06:38] chat|KloryTear|team|kolaysın
+[11:07:03] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[11:07:05] chat|KloryTear|all|kingdomclash ta 10 bin gücümvar
+[11:07:13] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:07:13] msg,New round started.
+[11:07:21] chat|KloryTear|all|kolsuz izsek
+[11:07:33] kill|63rd_General_Eternal|63rd_Rec_Fiszek|melee|Infantry Musket|hb_thorax
+[11:07:33] msg,New round started.
+[11:07:37] anticheat|modifier|63rd_General_Eternal|2289446|3|55
+[11:07:40] msg,KloryTear teamhit 63rd_Rec_Fiszek 53 health.
+[11:07:44] anticheat|modifier|63rd_General_Eternal|2289446|3|100
+[11:07:56] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:08:00] kill|63rd_General_Eternal|63rd_Rec_Fiszek|melee|Infantry Musket|hb_upperarm_l
+[11:08:00] msg,New round started.
+[11:08:12] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[11:08:16] chat|KloryTear|team|amk
+[11:08:17] chat|KloryTear|all|kolsuzu
+[11:08:19] chat|KloryTear|team|kolsuz
+[11:08:22] chat|KloryTear|team|eternal
+[11:08:38] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[11:08:38] msg,New round started.
+[11:08:43] anticheat|modifier|KloryTear|2122761|3|55
+[11:08:55] anticheat|modifier|KloryTear|2122761|3|100
+[11:08:57] kill|63rd_General_Eternal|63rd_Rec_Fiszek|melee|Infantry Musket|hb_abdomen
+[11:08:57] msg,New round started.
+[11:08:59] teamkill|63rd_Rec_Fiszek|KloryTear|melee|Infantry Musket|hb_forearm_r
+[11:08:59] msg,KloryTear teamkilled 63rd_Rec_Fiszek.
+[11:09:00] anticheat|modifier|KloryTear|2122761|3|55
+[11:09:17] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:09:35] kill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_spine
+[11:09:35] msg,New round started.
+[11:09:40] anticheat|summary|exit|63rd_Rec_Fiszek|1098052|REDACTED_IP_FOR_PRIVACY|mission=9|session=187|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=52|autoblock_reaction_ms=1962|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=60|autoattack_reaction_ms=732|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=6|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:09:40] disconnect|63rd_Rec_Fiszek|REDACTED_IP_FOR_PRIVACY|1098052
+[11:09:40] msg,63rd_Rec_Fiszek has left the game with ID: 1098052
+[11:09:40] death|63rd_Rec_Fiszek
+[11:10:08] kill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_head
+[11:10:08] msg,New round started.
+[11:10:19] kill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_head
+[11:10:19] msg,New round started.
+[11:10:35] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:10:35] msg,New round started.
+[11:10:47] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_l
+[11:10:47] msg,New round started.
+[11:11:00] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:11:00] msg,New round started.
+[11:11:14] kill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_forearm_r
+[11:11:14] msg,New round started.
+[11:11:24] connect|63rd_Rec_Fiszek|REDACTED_IP_FOR_PRIVACY|1098052|regular|0|63rd_Rec_Fiszek
+[11:11:27] kill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_head
+[11:11:27] msg,New round started.
+[11:11:37] teamkill|KloryTear|63rd_Rec_Fiszek|melee|Infantry Musket|hb_forearm_l
+[11:11:37] msg,63rd_Rec_Fiszek teamkilled KloryTear.
+[11:12:00] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:12:00] msg,New round started.
+[11:12:08] anticheat|63rd_Rec_Fiszek|1098052|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:12:11] msg,KloryTear teamhit 63rd_Rec_Fiszek 50 health.
+[11:12:14] msg,63rd_Rec_Fiszek teamhit KloryTear 4 health.
+[11:12:15] teamkill|KloryTear|63rd_Rec_Fiszek|melee|Infantry Musket|hb_forearm_l
+[11:12:15] msg,63rd_Rec_Fiszek teamkilled KloryTear.
+[11:12:31] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:12:31] msg,New round started.
+[11:12:39] msg,KloryTear teamhit 63rd_Rec_Fiszek 22 health.
+[11:12:40] msg,KloryTear teamhit 63rd_Rec_Fiszek 2 health.
+[11:12:40] msg,KloryTear teamhit 63rd_Rec_Fiszek 29 health.
+[11:12:44] teamkill|63rd_Rec_Fiszek|KloryTear|melee|Light Cavalry Sabre|hb_upperarm_r
+[11:12:44] msg,KloryTear teamkilled 63rd_Rec_Fiszek.
+[11:12:45] connect|[CER]63rd_Pte_fatihmehmet|REDACTED_IP_FOR_PRIVACY|1928336|regular|0|[CER]63rd_Pte_fatihmehmet
+[11:12:55] chat|63rd_Rec_Fiszek|team|im play many regiment i can traiing him if he wanna he so bad ;p
+[11:13:10] kill|63rd_General_Eternal|KloryTear|melee|Light Cavalry Sabre|hb_shoulder_l
+[11:13:19] kill|[CER]63rd_Pte_fatihmehmet|KloryTear|melee|Light Cavalry Sabre|hb_thorax
+[11:13:19] msg,New round started.
+[11:13:32] teamkill|KloryTear|63rd_Rec_Fiszek|melee|Infantry Musket|hb_forearm_r
+[11:13:32] msg,63rd_Rec_Fiszek teamkilled KloryTear.
+[11:13:33] connect|63rd_Col_Edward|REDACTED_IP_FOR_PRIVACY|2272988|regular|1137|63rd_Col_Edward
+[11:13:34] teamkill|63rd_General_Eternal|[CER]63rd_Pte_fatihmehmet|melee|Infantry Musket|hb_head
+[11:13:34] msg,[CER]63rd_Pte_fatihmehmet teamkilled 63rd_General_Eternal.
+[11:13:36] kill|63rd_Rec_Fiszek|[CER]63rd_Pte_fatihmehmet|melee|Infantry Musket|hb_spine
+[11:13:36] msg,New round started.
+[11:13:37] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[11:13:38] msg,63rd_General_Eternal teamhit [CER]63rd_Pte_fatihmehmet 53 health.
+[11:13:51] kill|KloryTear|[CER]63rd_Pte_fatihmehmet|melee|Infantry Musket|hb_head
+[11:13:58] kill|63rd_General_Eternal|63rd_Rec_Fiszek|melee|Infantry Musket|hb_shoulder_r
+[11:14:05] kill|[CER]63rd_Pte_fatihmehmet|63rd_Rec_Fiszek|melee|Infantry Musket|hb_thorax
+[11:14:05] msg,New round started.
+[11:14:16] kill|63rd_Rec_Fiszek|[CER]63rd_Pte_fatihmehmet|melee|Infantry Musket|hb_thorax
+[11:14:23] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_abdomen
+[11:14:23] msg,New round started.
+[11:14:32] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[11:14:37] kill|[CER]63rd_Pte_fatihmehmet|KloryTear|melee|Infantry Musket|hb_shoulder_l
+[11:14:47] anticheat|63rd_Rec_Fiszek|1098052|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:14:53] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:14:55] kill|63rd_General_Eternal|63rd_Rec_Fiszek|melee|Infantry Musket|hb_thorax
+[11:15:32] kill|63rd_Rec_Fiszek|63rd_Col_Edward|melee|Infantry Musket|hb_forearm_l
+[11:15:32] msg,New round started.
+[11:15:36] chat|63rd_Rec_Fiszek|all|lag
+[11:15:43] chat|KloryTear|all|ok
+[11:15:46] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_head
+[11:15:50] msg,63rd_Col_Edward teamhit 63rd_General_Eternal 43 health.
+[11:15:51] anticheat|63rd_Rec_Fiszek|1098052|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:15:53] teamkill|[CER]63rd_Pte_fatihmehmet|63rd_Col_Edward|melee|Infantry Musket|hb_upperarm_l
+[11:15:53] msg,63rd_Col_Edward teamkilled [CER]63rd_Pte_fatihmehmet.
+[11:15:54] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:15:54] msg,New round started.
+[11:16:07] kill|[CER]63rd_Pte_fatihmehmet|63rd_Rec_Fiszek|melee|Infantry Musket|hb_shoulder_l
+[11:16:12] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:16:13] kill|63rd_Rec_Fiszek|63rd_Col_Edward|melee|Infantry Musket|hb_shoulder_l
+[11:16:13] msg,New round started.
+[11:16:15] chat|KloryTear|all|bro
+[11:16:19] chat|KloryTear|all|nvm
+[11:16:27] kill|63rd_Rec_Fiszek|63rd_Col_Edward|melee|Infantry Musket|hb_abdomen
+[11:16:33] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:16:33] msg,New round started.
+[11:16:33] chat|63rd_Rec_Fiszek|all|he tank
+[11:16:42] chat|KloryTear|all|yeah ak
+[11:16:44] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[11:16:49] kill|[CER]63rd_Pte_fatihmehmet|63rd_Rec_Fiszek|melee|Infantry Musket|hb_abdomen
+[11:16:57] kill|63rd_General_Eternal|63rd_Rec_Fiszek|melee|Infantry Musket|hb_forearm_r
+[11:17:01] kill|63rd_Col_Edward|KloryTear|melee|Infantry Musket|hb_upperarm_l
+[11:17:01] msg,New round started.
+[11:17:04] chat|KloryTear|team|ez
+[11:17:18] kill|KloryTear|[CER]63rd_Pte_fatihmehmet|melee|Infantry Musket|hb_spine
+[11:17:18] teamkill|[CER]63rd_Pte_fatihmehmet|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:17:18] msg,63rd_General_Eternal teamkilled [CER]63rd_Pte_fatihmehmet.
+[11:17:20] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:17:20] msg,New round started.
+[11:17:40] anticheat|summary|exit|[CER]63rd_Pte_fatihmehmet|1928336|REDACTED_IP_FOR_PRIVACY|mission=9|session=294|detections=0|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=2798078|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=0|autoblock_reaction_ms=40|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=65|autoattack_reaction_ms=383|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=16|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:17:40] disconnect|[CER]63rd_Pte_fatihmehmet|REDACTED_IP_FOR_PRIVACY|1928336
+[11:17:40] msg,[CER]63rd_Pte_fatihmehmet has left the game with ID: 1928336
+[11:17:40] death|[CER]63rd_Pte_fatihmehmet
+[11:17:43] kill|63rd_Col_Edward|KloryTear|melee|Infantry Musket|hb_forearm_l
+[11:17:49] kill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_shoulder_r
+[11:17:49] msg,New round started.
+[11:17:55] chat|KloryTear|team|ez
+[11:18:05] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_upperarm_r
+[11:18:09] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[11:18:09] msg,New round started.
+[11:18:47] kill|63rd_Rec_Fiszek|63rd_Col_Edward|melee|Infantry Musket|hb_head
+[11:19:03] teamkill|63rd_Col_Edward|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:19:03] msg,63rd_General_Eternal teamkilled 63rd_Col_Edward.
+[11:19:14] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_thigh_l
+[11:19:14] msg,New round started.
+[11:19:18] chat|KloryTear|all|bro 
+[11:19:28] chat|KloryTear|all|i have to get used to this game
+[11:19:36] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_forearm_r
+[11:19:37] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|90|90|logged
+[11:19:37] kill|63rd_Rec_Fiszek|63rd_Col_Edward|melee|Infantry Musket|hb_spine
+[11:19:37] msg,New round started.
+[11:19:46] chat|63rd_Rec_Fiszek|all|this game is for kid
+[11:19:49] chat|KloryTear|all|yeah
+[11:19:54] anticheat|modifier|63rd_Col_Edward|2272988|3|55
+[11:19:54] anticheat|modifier|63rd_Col_Edward|2272988|3|55
+[11:19:55] anticheat|modifier|63rd_Col_Edward|2272988|3|100
+[11:19:55] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:19:55] anticheat|modifier|63rd_Col_Edward|2272988|3|55
+[11:19:55] kill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_forearm_r
+[11:19:56] anticheat|modifier|63rd_Col_Edward|2272988|3|100
+[11:19:56] anticheat|modifier|63rd_Col_Edward|2272988|3|55
+[11:19:56] anticheat|modifier|63rd_Col_Edward|2272988|3|100
+[11:20:07] chat|63rd_Rec_Fiszek|all|im play rust and dinozaur game xd
+[11:20:20] kill|63rd_Col_Edward|KloryTear|melee|Infantry Musket|hb_forearm_l
+[11:20:20] msg,New round started.
+[11:20:22] chat|KloryTear|all|ez
+[11:20:23] chat|KloryTear|team|ez
+[11:20:33] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_upperarm_l
+[11:20:37] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:20:37] msg,New round started.
+[11:20:54] kill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_thorax
+[11:21:00] anticheat|63rd_Col_Edward|2272988|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:21:13] teamkill|63rd_Rec_Fiszek|KloryTear|melee|Infantry Musket|hb_thorax
+[11:21:13] msg,KloryTear teamkilled 63rd_Rec_Fiszek.
+[11:21:15] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_thorax
+[11:21:15] msg,New round started.
+[11:21:20] chat|63rd_Rec_Fiszek|all|pidaros
+[11:21:24] chat|KloryTear|team|bro stu
+[11:21:28] chat|KloryTear|all|shut the uck upğ
+[11:21:36] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:21:40] kill|KloryTear|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[11:21:40] msg,New round started.
+[11:21:51] chat|63rd_Rec_Fiszek|all|this game is bugged hitbox idk how im play this shit 2 k hour xd
+[11:21:55] anticheat|modifier|63rd_Col_Edward|2272988|3|55
+[11:21:55] death|63rd_Rec_Fiszek
+[11:21:55] msg,[SERVER]: 63rd_General_Eternal Swapped Player 63rd_Rec_Fiszek to the opposite team.
+[11:21:55] anticheat|modifier|63rd_Col_Edward|2272988|3|55
+[11:21:58] anticheat|modifier|63rd_Col_Edward|2272988|3|100
+[11:21:58] death|63rd_General_Eternal
+[11:22:01] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[11:22:14] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_spine
+[11:22:21] kill|63rd_Col_Edward|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_r
+[11:22:21] msg,New round started.
+[11:22:33] connect|63rd_Cpl_fatihmehmet|REDACTED_IP_FOR_PRIVACY|1928336|regular|1125|63rd_Cpl_fatihmehmet
+[11:22:35] kill|63rd_General_Eternal|63rd_Col_Edward|melee|Infantry Musket|hb_upperarm_r
+[11:22:43] anticheat|KloryTear|2122761|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:22:46] teamkill|63rd_Rec_Fiszek|63rd_Col_Edward|melee|Infantry Musket|hb_abdomen
+[11:22:46] msg,63rd_Col_Edward teamkilled 63rd_Rec_Fiszek.
+[11:22:51] kill|63rd_Col_Edward|KloryTear|melee|Infantry Musket|hb_forearm_l
+[11:22:51] msg,New round started.
+[11:22:53] chat|KloryTear|team|ez
+[11:23:05] connect|LenoX|REDACTED_IP_FOR_PRIVACY|2226106|regular|0|LenoX
+[11:23:10] kill|KloryTear|63rd_Rec_Fiszek|melee|Infantry Musket|hb_head
+[11:23:15] kill|63rd_General_Eternal|63rd_Cpl_fatihmehmet|melee|Infantry Musket|hb_shoulder_l
+[11:23:15] msg,New round started.
+[11:23:17] msg,63rd_Col_Edward teamhit 63rd_Cpl_fatihmehmet 35 health.
+[11:23:23] teamkill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_thorax
+[11:23:23] msg,KloryTear teamkilled 63rd_General_Eternal.
+[11:23:25] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[11:23:30] teamkill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_head
+[11:23:30] msg,KloryTear teamkilled 63rd_General_Eternal.
+[11:23:31] kill|KloryTear|63rd_Cpl_fatihmehmet|melee|Infantry Musket|hb_head
+[11:23:31] msg,New round started.
+[11:23:37] msg,63rd_Col_Edward teamhit 63rd_Cpl_fatihmehmet 48 health.
+[11:23:44] teamkill|63rd_Cpl_fatihmehmet|63rd_Col_Edward|melee|Infantry Musket|hb_spine
+[11:23:44] msg,63rd_Col_Edward teamkilled 63rd_Cpl_fatihmehmet.
+[11:23:45] kill|63rd_Col_Edward|KloryTear|melee|Infantry Musket|hb_head
+[11:23:49] teamkill|63rd_General_Eternal|KloryTear|melee|Infantry Musket|hb_head
+[11:23:49] msg,KloryTear teamkilled 63rd_General_Eternal.
+[11:23:51] msg,LenoX teamhit KloryTear 52 health.
+[11:23:53] teamkill|LenoX|KloryTear|melee|Infantry Musket|hb_thorax
+[11:23:53] msg,KloryTear teamkilled LenoX.
+[11:24:01] connect|63rd_Gren_Ingemard|REDACTED_IP_FOR_PRIVACY|2551450|regular|1149|63rd_Gren_Ingemard
+[11:24:09] kill|63rd_Rec_Fiszek|KloryTear|melee|Infantry Musket|hb_thorax
+[11:24:09] msg,New round started.
+[11:24:11] chat|KloryTear|team|ez
+[11:24:15] chat|63rd_Rec_Fiszek|team|trick not work
+[11:24:20] teamkill|KloryTear|LenoX|melee|Infantry Musket|hb_thorax
+[11:24:20] msg,LenoX teamkilled KloryTear.
+[11:24:21] anticheat|LenoX|2226106|REDACTED_IP_FOR_PRIVACY|14|100|90|logged
+[11:24:28] kill|63rd_Cpl_fatihmehmet|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[11:24:34] kill|LenoX|63rd_Rec_Fiszek|melee|Infantry Musket|hb_thorax
+[11:24:38] teamkill|63rd_Col_Edward|63rd_Gren_Ingemard|melee|Infantry Musket|hb_head
+[11:24:38] msg,63rd_Gren_Ingemard teamkilled 63rd_Col_Edward.
+[11:24:41] kill|63rd_General_Eternal|63rd_Rec_Fiszek|melee|Infantry Musket|hb_spine
+[11:24:41] msg,New round started.
+[11:24:46] anticheat|modifier|63rd_Cpl_fatihmehmet|1928336|3|55
+[11:24:48] anticheat|modifier|63rd_Cpl_fatihmehmet|1928336|3|100
+[11:24:50] msg,LenoX teamhit KloryTear 48 health.
+[11:24:52] kill|63rd_Gren_Ingemard|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[11:24:56] kill|63rd_Cpl_fatihmehmet|LenoX|melee|Infantry Musket|hb_forearm_l
+[11:25:00] kill|63rd_General_Eternal|63rd_Rec_Fiszek|melee|Infantry Musket|hb_upperarm_l
+[11:25:00] teamkill|LenoX|KloryTear|melee|Infantry Musket|hb_shoulder_r
+[11:25:00] msg,KloryTear teamkilled LenoX.
+[11:25:07] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[11:25:08] kill|63rd_Cpl_fatihmehmet|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[11:25:08] kill|KloryTear|63rd_Rec_Fiszek|melee|Infantry Musket|hb_abdomen
+[11:25:12] anticheat|63rd_Rec_Fiszek|1098052|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:25:13] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[11:25:16] kill|63rd_General_Eternal|63rd_Cpl_fatihmehmet|melee|Infantry Musket|hb_upperarm_r
+[11:25:18] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[11:25:23] kill|63rd_Col_Edward|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[11:25:24] anticheat|KloryTear|2122761|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:25:26] kill|63rd_Cpl_fatihmehmet|KloryTear|melee|Infantry Musket|hb_forearm_l
+[11:25:30] kill|63rd_General_Eternal|63rd_Gren_Ingemard|melee|Infantry Musket|hb_thorax
+[11:25:39] kill|63rd_Rec_Fiszek|KloryTear|melee|Infantry Musket|hb_shoulder_l
+[11:25:40] kill|LenoX|63rd_Gren_Ingemard|melee|Infantry Musket|hb_thorax
+[11:25:58] kill|63rd_Gren_Ingemard|KloryTear|melee|Infantry Musket|hb_spine
+[11:25:58] msg,New round started.
+[11:26:00] chat|KloryTear|team|ez
+[11:26:03] chat|63rd_Rec_Fiszek|team|enought this  shit 10 m this game too much
+[11:26:05] msg,KloryTear teamhit 63rd_General_Eternal 54 health.
+[11:26:14] kill|LenoX|63rd_Rec_Fiszek|melee|Infantry Musket|hb_upperarm_r
+[11:26:19] anticheat|63rd_Rec_Fiszek|1098052|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:26:20] kill|63rd_Col_Edward|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[11:26:24] kill|63rd_Cpl_fatihmehmet|KloryTear|melee|Infantry Musket|hb_head
+[11:26:35] kill|63rd_General_Eternal|63rd_Gren_Ingemard|melee|Infantry Musket|hb_forearm_l
+[11:26:37] kill|KloryTear|63rd_Gren_Ingemard|melee|Infantry Musket|hb_thorax
+[11:26:37] msg,New round started.
+[11:26:54] kill|KloryTear|63rd_Gren_Ingemard|melee|Infantry Musket|hb_thorax
+[11:26:57] msg,63rd_Gren_Ingemard teamhit 63rd_Rec_Fiszek 28 health.
+[11:26:59] anticheat|63rd_Col_Edward|2272988|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:27:02] anticheat|LenoX|2226106|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:27:03] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_thigh_l
+[11:27:07] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[11:27:11] kill|LenoX|63rd_Gren_Ingemard|melee|Infantry Musket|hb_upperarm_l
+[11:27:13] teamkill|63rd_Col_Edward|63rd_Gren_Ingemard|melee|Infantry Musket|hb_forearm_l
+[11:27:13] msg,63rd_Gren_Ingemard teamkilled 63rd_Col_Edward.
+[11:27:20] kill|63rd_General_Eternal|63rd_Cpl_fatihmehmet|melee|Infantry Musket|hb_thorax
+[11:27:20] msg,New round started.
+[11:27:29] teamkill|KloryTear|LenoX|melee|Infantry Musket|hb_spine
+[11:27:29] msg,LenoX teamkilled KloryTear.
+[11:27:30] kill|63rd_General_Eternal|63rd_Cpl_fatihmehmet|melee|Infantry Musket|hb_head
+[11:27:35] kill|63rd_Cpl_fatihmehmet|LenoX|melee|Infantry Musket|hb_shoulder_l
+[11:27:41] kill|63rd_Gren_Ingemard|LenoX|melee|Infantry Musket|hb_thorax
+[11:27:48] kill|LenoX|63rd_Rec_Fiszek|melee|Infantry Musket|hb_forearm_r
+[11:27:48] msg,New round started.
+[11:27:51] teamkill|63rd_Rec_Fiszek|63rd_Col_Edward|melee|Infantry Musket|hb_spine
+[11:27:51] msg,63rd_Col_Edward teamkilled 63rd_Rec_Fiszek.
+[11:27:59] anticheat|LenoX|2226106|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:28:01] kill|63rd_General_Eternal|63rd_Gren_Ingemard|melee|Infantry Musket|hb_spine
+[11:28:01] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_head
+[11:28:04] kill|LenoX|63rd_Cpl_fatihmehmet|melee|Infantry Musket|hb_forearm_r
+[11:28:04] msg,New round started.
+[11:28:05] msg,63rd_Cpl_fatihmehmet teamhit 63rd_Col_Edward 3 health.
+[11:28:12] chat|63rd_Rec_Fiszek|team|im top 8 player this serwer easy
+[11:28:23] kill|63rd_Cpl_fatihmehmet|LenoX|melee|Infantry Musket|hb_abdomen
+[11:28:29] anticheat|63rd_Gren_Ingemard|2551450|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:28:29] kill|KloryTear|63rd_Col_Edward|melee|Infantry Musket|hb_abdomen
+[11:28:31] kill|LenoX|63rd_Rec_Fiszek|melee|Infantry Musket|hb_shoulder_r
+[11:28:33] kill|63rd_General_Eternal|63rd_Gren_Ingemard|melee|Infantry Musket|hb_abdomen
+[11:28:33] msg,New round started.
+[11:28:43] anticheat|KloryTear|2122761|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:28:45] kill|63rd_Col_Edward|KloryTear|melee|Infantry Musket|hb_upperarm_l
+[11:28:49] connect|63rd_blowjob|REDACTED_IP_FOR_PRIVACY|1589927|regular|1132|63rd_blowjob
+[11:28:49] chat|KloryTear|team|yat
+[11:28:51] chat|KloryTear|team|amk salgı
+[11:28:51] kill|63rd_Cpl_fatihmehmet|LenoX|melee|Infantry Musket|hb_abdomen
+[11:28:53] chat|KloryTear|team|salgı
+[11:28:56] teamkill|KloryTear|LenoX|melee|Infantry Musket|hb_forearm_r
+[11:28:56] msg,LenoX teamkilled KloryTear.
+[11:29:00] kill|63rd_Rec_Fiszek|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[11:29:00] kill|63rd_General_Eternal|63rd_Gren_Ingemard|melee|Infantry Musket|hb_forearm_l
+[11:29:07] kill|63rd_blowjob|63rd_Gren_Ingemard|melee|Infantry Musket|hb_forearm_l
+[11:29:21] chat|63rd_Cpl_fatihmehmet|team|lenox where is frends wexis
+[11:29:58] anticheat|63rd_Gren_Ingemard|2551450|REDACTED_IP_FOR_PRIVACY|14|90|90|logged
+[11:29:58] chat|63rd_Rec_Fiszek|team|Remove Emigrant
+[11:30:03] chat|63rd_blowjob|team|migrant
+[11:30:15] kill|63rd_Gren_Ingemard|LenoX|melee|Infantry Musket|hb_shoulder_l
+[11:30:15] msg,New round started.
+[11:30:29] kill|63rd_General_Eternal|63rd_Gren_Ingemard|melee|Infantry Musket|hb_upperarm_l
+[11:30:31] kill|KloryTear|63rd_Cpl_fatihmehmet|melee|Infantry Musket|hb_spine
+[11:30:32] kill|LenoX|63rd_Gren_Ingemard|melee|Infantry Musket|hb_forearm_r
+[11:30:34] kill|63rd_Col_Edward|63rd_blowjob|melee|Infantry Musket|hb_spine
+[11:30:39] chat|KloryTear|team|ban lenox pls?
+[11:30:45] chat|KloryTear|team|insulting Allah
+[11:30:45] teamkill|63rd_Cpl_fatihmehmet|63rd_Gren_Ingemard|melee|Infantry Musket|hb_head
+[11:30:45] msg,63rd_Gren_Ingemard teamkilled 63rd_Cpl_fatihmehmet.
+[11:30:46] anticheat|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[11:30:55] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1733|detections=4|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=528702|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=37|autoblock_reaction_ms=528|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=40|autoattack_reaction_ms=853|autoattack_feints=0|autoattack_chambers=10|autoattack_chamber_pct=5|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:30:55] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[11:30:55] msg,63rd_General_Eternal has left the game with ID: 2289446
+[11:31:00] anticheat|summary|exit|63rd_Cpl_fatihmehmet|1928336|REDACTED_IP_FOR_PRIVACY|mission=9|session=507|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=247156|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=40|autoblock_reaction_ms=287|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=57|autoattack_reaction_ms=587|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:31:00] disconnect|63rd_Cpl_fatihmehmet|REDACTED_IP_FOR_PRIVACY|1928336
+[11:31:00] msg,63rd_Cpl_fatihmehmet has left the game with ID: 1928336
+[11:31:01] anticheat|summary|exit|63rd_Col_Edward|2272988|REDACTED_IP_FOR_PRIVACY|mission=9|session=1048|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=357747|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=70|autoblock_reaction_ms=615|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=42|autoattack_reaction_ms=818|autoattack_feints=0|autoattack_chambers=11|autoattack_chamber_pct=21|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:31:01] disconnect|63rd_Col_Edward|REDACTED_IP_FOR_PRIVACY|2272988
+[11:31:01] msg,63rd_Col_Edward has left the game with ID: 2272988
+[11:31:02] anticheat|summary|exit|LenoX|2226106|REDACTED_IP_FOR_PRIVACY|mission=9|session=477|detections=3|seed_mismatches=0|time_skew_pct=-5|time_skew_windows=0|max_aim_speed=791055|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=100|autoblock_reaction_ms=395|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=45|autoattack_reaction_ms=768|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=22|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:31:02] disconnect|LenoX|REDACTED_IP_FOR_PRIVACY|2226106
+[11:31:02] msg,LenoX has left the game with ID: 2226106
+[11:31:03] kill|63rd_blowjob|63rd_Gren_Ingemard|melee|Infantry Musket|hb_thorax
+[11:31:03] msg,New round started.
+[11:31:05] anticheat|summary|exit|63rd_Gren_Ingemard|2551450|REDACTED_IP_FOR_PRIVACY|mission=9|session=423|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=182862|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=62|autoblock_reaction_ms=514|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=557|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:31:05] disconnect|63rd_Gren_Ingemard|REDACTED_IP_FOR_PRIVACY|2551450
+[11:31:05] msg,63rd_Gren_Ingemard has left the game with ID: 2551450
+[11:31:05] death|63rd_Gren_Ingemard
+[11:31:05] anticheat|summary|exit|63rd_blowjob|1589927|REDACTED_IP_FOR_PRIVACY|mission=9|session=136|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=1148350|aim_snaps=1|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=626|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=52|autoattack_reaction_ms=600|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:31:05] disconnect|63rd_blowjob|REDACTED_IP_FOR_PRIVACY|1589927
+[11:31:05] msg,63rd_blowjob has left the game with ID: 1589927
+[11:31:07] anticheat|summary|exit|KloryTear|2122761|REDACTED_IP_FOR_PRIVACY|mission=9|session=1704|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=848777|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=20|autoblock_reaction_ms=661|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=60|autoattack_reaction_ms=881|autoattack_feints=0|autoattack_chambers=7|autoattack_chamber_pct=12|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:31:07] disconnect|KloryTear|REDACTED_IP_FOR_PRIVACY|2122761
+[11:31:07] msg,KloryTear has left the game with ID: 2122761
+[11:31:09] anticheat|summary|exit|63rd_Rec_Fiszek|1098052|REDACTED_IP_FOR_PRIVACY|mission=9|session=1185|detections=5|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=169614|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=60|autoblock_reaction_ms=131|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=52|autoattack_reaction_ms=628|autoattack_feints=0|autoattack_chambers=3|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0
+[11:31:09] disconnect|63rd_Rec_Fiszek|REDACTED_IP_FOR_PRIVACY|1098052
+[11:31:09] msg,63rd_Rec_Fiszek has left the game with ID: 1098052
+[11:31:09] death|63rd_Rec_Fiszek
+[11:31:09] msg,New round started.

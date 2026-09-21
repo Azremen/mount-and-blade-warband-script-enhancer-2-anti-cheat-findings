@@ -1,0 +1,1496 @@
+[11:04:41] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[11:04:47] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 8 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[11:04:50] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=8|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[11:04:50] msg,Map change.
+[13:02:32] msg,Map change.
+[13:02:32] start
+[13:03:30] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|regular|1150|63rd_General_Eternal
+[13:03:31] msg,[AC-WHITELIST] Connection denied by player whitelist: 63rd_General_Eternal (GUID: 2289446)
+[13:03:32] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[13:03:32] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[13:03:32] msg,63rd_General_Eternal has left the game with ID: 2289446
+[13:04:34] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|regular|1150|63rd_General_Eternal
+[13:04:36] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=2|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[13:04:36] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[13:04:36] msg,63rd_General_Eternal has left the game with ID: 2289446
+[13:04:42] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[13:04:45] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 1.
+[13:04:53] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 1 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[13:04:56] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=13|detections=0|seed_mismatches=0|time_skew_pct=-3|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=3
+[13:04:56] msg,Map change.
+[13:06:53] msg,[SERVER]: 63rd_General_Eternal Set auto-kick/ban for teamkills to False.
+[13:06:57] msg,63rd_General_Eternal Set the friendly fire damage to self ratio to 0 %.
+[13:06:58] msg,63rd_General_Eternal Set the friendly fire damage to friend ratio to 100 %.
+[13:07:04] msg,63rd_General_Eternal Changed the map timelimit to 240 minutes.
+[13:07:06] msg,63rd_General_Eternal Changed the round timelimit to 3600 seconds.
+[13:07:11] msg,63rd_General_Eternal Changed the game max points to 9999.
+[13:07:12] msg,[SERVER]: 63rd_General_Eternal Set the auto team balance limit to Unlimited.
+[13:07:13] msg,[SERVER]: 63rd_General_Eternal Set use Groupfight mode to True.
+[13:07:15] msg,[SERVER]: 63rd_General_Eternal Set use class limits to False.
+[13:07:32] msg,63rd_General_Eternal Changed the game max points to 9999.
+[13:08:07] msg,63rd_General_Eternal Set the server name to EU_63rd_Official
+[13:08:10] msg,63rd_General_Eternal Set the server password to 6333
+[13:08:14] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=211|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=1|max_aim_speed=303831|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=11|time_skew_stall_pct=75
+[13:08:14] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[13:08:14] msg,63rd_General_Eternal has left the game with ID: 2289446
+[13:08:14] death|63rd_General_Eternal
+[13:08:14] msg,New round started.
+[19:10:13] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[19:12:39] connect|Nr31[FKR]_KFwb_Arkan|REDACTED_IP_FOR_PRIVACY|2116360|regular|1142|Nr31[FKR]_KFwb_Arkan
+[19:16:10] anticheat|summary|exit|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=211|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=100943|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[19:16:10] disconnect|Nr31[FKR]_KFwb_Arkan|REDACTED_IP_FOR_PRIVACY|2116360
+[19:16:10] msg,Nr31[FKR]_KFwb_Arkan has left the game with ID: 2116360
+[19:16:10] death|Nr31[FKR]_KFwb_Arkan
+[19:16:10] msg,New round started.
+[19:16:37] connect|Nr31[FKR]_KFwb_Arkan|REDACTED_IP_FOR_PRIVACY|2116360|regular|1142|Nr31[FKR]_KFwb_Arkan
+[19:16:50] anticheat|summary|exit|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=13|detections=0|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=66379|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[19:16:50] disconnect|Nr31[FKR]_KFwb_Arkan|REDACTED_IP_FOR_PRIVACY|2116360
+[19:16:50] msg,Nr31[FKR]_KFwb_Arkan has left the game with ID: 2116360
+[19:16:50] death|Nr31[FKR]_KFwb_Arkan
+[19:16:50] msg,New round started.
+[20:33:11] death|63rd_General_Eternal
+[20:33:11] msg,New round started.
+[20:33:19] msg,[SERVER]: 63rd_General_Eternal Has reset the Map.
+[20:33:20] death|63rd_General_Eternal
+[20:33:23] msg,[SERVER]: 63rd_General_Eternal Has reset the Map.
+[20:34:28] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=5055|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=2|max_aim_speed=127014|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=10|time_skew_stall_pct=8
+[20:34:28] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[20:34:28] msg,63rd_General_Eternal has left the game with ID: 2289446
+[20:44:11] connect|Nr31[FKR]_UJg_MrRifleman|REDACTED_IP_FOR_PRIVACY|2570456|regular|1149|Nr31[FKR]_UJg_MrRifleman
+[20:44:33] connect|Nr31[FKR]_KFwb_Arkan|REDACTED_IP_FOR_PRIVACY|2116360|regular|1142|Nr31[FKR]_KFwb_Arkan
+[20:45:16] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[20:45:16] msg,New round started.
+[20:45:28] connect|Nr31[FKR]_StObJg_Mr_DKG|REDACTED_IP_FOR_PRIVACY|2552880|regular|1138|Nr31[FKR]_StObJg_Mr_DKG
+[20:45:49] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_l
+[20:46:05] kill|Nr31[FKR]_StObJg_Mr_DKG|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_upperarm_l
+[20:46:05] msg,New round started.
+[20:46:18] kill|Nr31[FKR]_StObJg_Mr_DKG|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[20:46:24] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_spine
+[20:46:24] msg,New round started.
+[20:46:36] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[20:46:46] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_forearm_r
+[20:46:46] msg,New round started.
+[20:47:06] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_spine
+[20:47:06] msg,New round started.
+[20:47:21] teamkill|Nr31[FKR]_StObJg_Mr_DKG|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_thorax
+[20:47:21] msg,Nr31[FKR]_UJg_MrRifleman teamkilled Nr31[FKR]_StObJg_Mr_DKG.
+[20:47:24] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_shoulder_l
+[20:47:24] msg,New round started.
+[20:47:36] msg,Nr31[FKR]_UJg_MrRifleman teamhit Nr31[FKR]_StObJg_Mr_DKG 52 health.
+[20:47:37] kill|Nr31[FKR]_StObJg_Mr_DKG|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_r
+[20:47:43] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[20:47:54] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:47:54] msg,New round started.
+[20:48:06] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[20:48:08] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[20:48:15] teamkill|63rd_General_Eternal|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[20:48:15] msg,Nr31[FKR]_KFwb_Arkan teamkilled 63rd_General_Eternal.
+[20:48:17] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[20:48:27] kill|Nr31[FKR]_StObJg_Mr_DKG|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:48:32] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:48:32] msg,New round started.
+[20:48:56] teamkill|Nr31[FKR]_StObJg_Mr_DKG|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_head
+[20:48:56] msg,Nr31[FKR]_UJg_MrRifleman teamkilled Nr31[FKR]_StObJg_Mr_DKG.
+[20:48:57] kill|Nr31[FKR]_UJg_MrRifleman|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[20:48:57] msg,New round started.
+[20:48:58] anticheat|summary|exit|Nr31[FKR]_StObJg_Mr_DKG|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=210|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=417104|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=55|autoblock_reaction_ms=40|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=60|autoattack_reaction_ms=778|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=6|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=2|time_skew_stall_pct=2
+[20:48:58] disconnect|Nr31[FKR]_StObJg_Mr_DKG|REDACTED_IP_FOR_PRIVACY|2552880
+[20:48:58] msg,Nr31[FKR]_StObJg_Mr_DKG has left the game with ID: 2552880
+[20:48:59] msg,63rd_General_Eternal teamhit Nr31[FKR]_KFwb_Arkan 1 health.
+[20:49:05] chat|Nr31[FKR]_KFwb_Arkan|team|eternal naber lan manl
+[20:49:06] chat|Nr31[FKR]_KFwb_Arkan|team|mal
+[20:49:10] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:49:10] msg,New round started.
+[20:49:13] chat|Nr31[FKR]_KFwb_Arkan|team|eternal
+[20:49:18] msg,*Admin*[63rd_General_Eternal]: topcik
+[20:49:19] msg,*Admin*[63rd_General_Eternal]: da
+[20:49:25] chat|Nr31[FKR]_KFwb_Arkan|team|one of our guys doesn't see this server
+[20:49:31] msg,*Admin*[63rd_General_Eternal]: dont lie
+[20:49:33] msg,*Admin*[63rd_General_Eternal]: you beta
+[20:49:35] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_upperarm_r
+[20:49:35] msg,New round started.
+[20:49:43] chat|Nr31[FKR]_KFwb_Arkan|team|i don't
+[20:49:44] chat|Nr31[FKR]_KFwb_Arkan|team|i`m fr
+[20:49:46] kill|Nr31[FKR]_UJg_MrRifleman|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[20:49:46] msg,New round started.
+[20:49:51] msg,*Admin*[63rd_General_Eternal]: everyone played this server
+[20:49:53] msg,*Admin*[63rd_General_Eternal]: just reset game
+[20:49:55] connect|Nr31[FKR]_StObJg_Mr_DKG|REDACTED_IP_FOR_PRIVACY|2552880|regular|1138|Nr31[FKR]_StObJg_Mr_DKG
+[20:49:57] kill|63rd_General_Eternal|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_spine
+[20:49:57] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[20:50:04] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_spine
+[20:50:07] chat|Nr31[FKR]_KFwb_Arkan|team|he already
+[20:50:10] chat|Nr31[FKR]_KFwb_Arkan|team|reseted the game and pc
+[20:50:11] chat|Nr31[FKR]_KFwb_Arkan|team|rebooted
+[20:50:31] connect|Nr31[FKR]_Ujg_SiGmaSvin|REDACTED_IP_FOR_PRIVACY|2300331|regular|1145|Nr31[FKR]_Ujg_SiGmaSvin
+[20:50:34] kill|Nr31[FKR]_StObJg_Mr_DKG|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_l
+[20:50:34] msg,New round started.
+[20:50:46] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_StObJg_Mr_DKG|melee|Infantry Musket|hb_forearm_l
+[20:50:53] msg,Nr31[FKR]_Ujg_SiGmaSvin teamhit 63rd_General_Eternal 51 health.
+[20:50:58] kill|63rd_General_Eternal|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_forearm_r
+[20:51:01] kill|Nr31[FKR]_StObJg_Mr_DKG|Nr31[FKR]_Ujg_SiGmaSvin|melee|Infantry Musket|hb_abdomen
+[20:51:03] anticheat|summary|exit|Nr31[FKR]_StObJg_Mr_DKG|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=67|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=172357|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=42|autoblock_reaction_ms=609|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=31|autoattack_open_pct=45|autoattack_reaction_ms=663|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=4
+[20:51:03] disconnect|Nr31[FKR]_StObJg_Mr_DKG|REDACTED_IP_FOR_PRIVACY|2552880
+[20:51:03] msg,Nr31[FKR]_StObJg_Mr_DKG has left the game with ID: 2552880
+[20:51:03] anticheat|Nr31[FKR]_Ujg_SiGmaSvin|2300331|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[20:51:09] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_Ujg_SiGmaSvin|melee|Infantry Musket|hb_thorax
+[20:51:09] msg,New round started.
+[20:51:31] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_Ujg_SiGmaSvin|melee|Infantry Musket|hb_thigh_l
+[20:51:31] msg,New round started.
+[20:51:35] connect|Nr31[FKR]_Maj_GodyX|REDACTED_IP_FOR_PRIVACY|2515702|regular|0|Nr31[FKR]_Maj_GodyX
+[20:51:43] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:51:43] msg,New round started.
+[20:51:55] chat|Nr31[FKR]_KFwb_Arkan|team|where is ur mals
+[20:52:01] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_Ujg_SiGmaSvin|melee|Infantry Musket|hb_forearm_r
+[20:52:01] msg,New round started.
+[20:52:04] death|Nr31[FKR]_KFwb_Arkan
+[20:52:20] teamkill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[20:52:20] msg,Nr31[FKR]_KFwb_Arkan teamkilled Nr31[FKR]_UJg_MrRifleman.
+[20:52:22] kill|Nr31[FKR]_Ujg_SiGmaSvin|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_shoulder_r
+[20:52:24] kill|63rd_General_Eternal|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_upperarm_l
+[20:52:24] msg,New round started.
+[20:52:29] connect|jack|REDACTED_IP_FOR_PRIVACY|1724198|regular|1125|jack
+[20:52:39] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[20:52:40] kill|Nr31[FKR]_Ujg_SiGmaSvin|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_abdomen
+[20:52:49] kill|Nr31[FKR]_UJg_MrRifleman|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[20:52:56] kill|Nr31[FKR]_KFwb_Arkan|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[20:53:00] teamkill|jack|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_r
+[20:53:00] msg,63rd_General_Eternal teamkilled jack.
+[20:53:02] kill|63rd_General_Eternal|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_head
+[20:53:02] msg,New round started.
+[20:53:11] connect|Nr31[FKR]_StObjg_BlBA|REDACTED_IP_FOR_PRIVACY|2552880|regular|1138|Nr31[FKR]_StObjg_BlBA
+[20:53:12] chat|63rd_General_Eternal|all|alo tag
+[20:53:16] kill|Nr31[FKR]_Ujg_SiGmaSvin|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_shoulder_l
+[20:53:20] kill|Nr31[FKR]_KFwb_Arkan|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[20:53:25] kill|Nr31[FKR]_StObjg_BlBA|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[20:53:26] kill|63rd_General_Eternal|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_thorax
+[20:53:28] kill|jack|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_thorax
+[20:53:28] msg,New round started.
+[20:53:37] kill|Nr31[FKR]_UJg_MrRifleman|jack|melee|Infantry Musket|hb_forearm_l
+[20:53:40] kill|Nr31[FKR]_KFwb_Arkan|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[20:53:43] kill|Nr31[FKR]_Maj_GodyX|Nr31[FKR]_Ujg_SiGmaSvin|melee|Infantry Musket|hb_upperarm_l
+[20:53:46] teamkill|63rd_General_Eternal|jack|melee|Infantry Musket|hb_thorax
+[20:53:46] msg,jack teamkilled 63rd_General_Eternal.
+[20:53:47] kill|Nr31[FKR]_Ujg_SiGmaSvin|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_forearm_l
+[20:53:49] connect|Nr31[FKR]_StObJg_Ben|REDACTED_IP_FOR_PRIVACY|1282828|regular|1135|Nr31[FKR]_StObJg_Ben
+[20:53:55] connect|Nr31[FKR]_Hptm_BIBA|REDACTED_IP_FOR_PRIVACY|2498648|regular|1137|Nr31[FKR]_Hptm_BIBA
+[20:53:57] kill|jack|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_abdomen
+[20:53:57] msg,New round started.
+[20:54:10] kill|jack|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_thigh_l
+[20:54:11] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[20:54:13] kill|Nr31[FKR]_Ujg_SiGmaSvin|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_head
+[20:54:16] kill|63rd_General_Eternal|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_head
+[20:54:16] msg,New round started.
+[20:54:27] kill|jack|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_head
+[20:54:28] kill|63rd_General_Eternal|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_abdomen
+[20:54:29] anticheat|summary|exit|jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=119|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=538869|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=75|autoblock_reaction_ms=836|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=37|autoattack_open_pct=67|autoattack_reaction_ms=380|autoattack_feints=2|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[20:54:29] disconnect|jack|REDACTED_IP_FOR_PRIVACY|1724198
+[20:54:29] msg,jack has left the game with ID: 1724198
+[20:54:30] kill|Nr31[FKR]_Ujg_SiGmaSvin|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_abdomen
+[20:54:30] msg,New round started.
+[20:54:31] anticheat|summary|exit|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=35|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=152055|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=1|autoattack_open_pct=100|autoattack_reaction_ms=7|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[20:54:31] disconnect|Nr31[FKR]_Hptm_BIBA|REDACTED_IP_FOR_PRIVACY|2498648
+[20:54:31] msg,Nr31[FKR]_Hptm_BIBA has left the game with ID: 2498648
+[20:54:31] death|Nr31[FKR]_Hptm_BIBA
+[20:54:47] kill|63rd_General_Eternal|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_upperarm_r
+[20:54:48] connect|63rd_jack|REDACTED_IP_FOR_PRIVACY|1724198|regular|1125|63rd_jack
+[20:54:50] connect|Nr31[FKR]_Hptm_BIBA|REDACTED_IP_FOR_PRIVACY|2498648|regular|1137|Nr31[FKR]_Hptm_BIBA
+[20:54:52] anticheat|Nr31[FKR]_Ujg_SiGmaSvin|2300331|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[20:54:55] kill|Nr31[FKR]_Ujg_SiGmaSvin|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_thigh_r
+[20:54:55] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[20:55:01] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_forearm_r
+[20:55:03] anticheat|summary|exit|Nr31[FKR]_Ujg_SiGmaSvin|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=272|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=431095|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=32|autoblock_reaction_ms=306|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=62|autoattack_reaction_ms=483|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=4|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[20:55:03] disconnect|Nr31[FKR]_Ujg_SiGmaSvin|REDACTED_IP_FOR_PRIVACY|2300331
+[20:55:03] msg,Nr31[FKR]_Ujg_SiGmaSvin has left the game with ID: 2300331
+[20:55:04] kill|63rd_jack|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_abdomen
+[20:55:04] msg,New round started.
+[20:55:15] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_l
+[20:55:17] kill|63rd_jack|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_thorax
+[20:55:20] kill|Nr31[FKR]_Hptm_BIBA|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[20:55:20] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_upperarm_l
+[20:55:31] kill|Nr31[FKR]_StObjg_BlBA|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_upperarm_r
+[20:55:36] death|Nr31[FKR]_StObJg_Ben
+[20:55:37] kill|63rd_General_Eternal|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_thorax
+[20:55:37] msg,New round started.
+[20:55:49] teamkill|63rd_jack|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:55:49] msg,Nr31[FKR]_KFwb_Arkan teamkilled 63rd_jack.
+[20:55:53] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_abdomen
+[20:55:54] teamkill|Nr31[FKR]_Maj_GodyX|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_upperarm_l
+[20:55:54] msg,Nr31[FKR]_Hptm_BIBA teamkilled Nr31[FKR]_Maj_GodyX.
+[20:55:56] kill|63rd_General_Eternal|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_spine
+[20:55:56] msg,New round started.
+[20:56:05] anticheat|63rd_jack|1724198|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[20:56:09] kill|63rd_jack|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_spine
+[20:56:16] kill|63rd_General_Eternal|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_abdomen
+[20:56:26] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_spine
+[20:56:26] msg,New round started.
+[20:56:37] connect|63rd_Gren_SteeL|REDACTED_IP_FOR_PRIVACY|2065478|regular|1139|63rd_Gren_SteeL
+[20:56:39] kill|63rd_General_Eternal|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_upperarm_l
+[20:56:41] kill|Nr31[FKR]_Hptm_BIBA|63rd_jack|melee|Infantry Musket|hb_forearm_l
+[20:56:41] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[20:56:44] kill|Nr31[FKR]_Hptm_BIBA|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[20:56:45] connect|Nr31[FKR]_Albert_Epstein|REDACTED_IP_FOR_PRIVACY|2300331|regular|1145|Nr31[FKR]_Albert_Epstein
+[20:56:48] kill|Nr31[FKR]_Maj_GodyX|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:56:49] kill|Nr31[FKR]_UJg_MrRifleman|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[20:56:50] msg,63rd_Gren_SteeL teamhit Nr31[FKR]_KFwb_Arkan 53 health.
+[20:56:54] kill|Nr31[FKR]_StObjg_BlBA|63rd_Gren_SteeL|melee|Infantry Musket|hb_abdomen
+[20:56:54] msg,New round started.
+[20:56:54] teamkill|Nr31[FKR]_KFwb_Arkan|63rd_jack|melee|Infantry Musket|hb_forearm_r
+[20:56:54] msg,63rd_jack teamkilled Nr31[FKR]_KFwb_Arkan.
+[20:57:04] msg,63rd_jack teamhit Nr31[FKR]_KFwb_Arkan 4 health.
+[20:57:05] kill|Nr31[FKR]_StObjg_BlBA|63rd_Gren_SteeL|melee|Infantry Musket|hb_forearm_l
+[20:57:06] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:57:07] kill|Nr31[FKR]_Maj_GodyX|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_r
+[20:57:12] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_abdomen
+[20:57:13] kill|Nr31[FKR]_Hptm_BIBA|63rd_jack|melee|Infantry Musket|hb_head
+[20:57:13] msg,New round started.
+[20:57:15] teamkill|Nr31[FKR]_Albert_Epstein|63rd_Gren_SteeL|melee|Infantry Musket|hb_forearm_r
+[20:57:15] msg,63rd_Gren_SteeL teamkilled Nr31[FKR]_Albert_Epstein.
+[20:57:18] chat|Nr31[FKR]_KFwb_Arkan|team|steel lan
+[20:57:20] chat|Nr31[FKR]_KFwb_Arkan|team|naber mal
+[20:57:24] kill|63rd_jack|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_upperarm_r
+[20:57:28] kill|Nr31[FKR]_UJg_MrRifleman|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[20:57:28] kill|63rd_Gren_SteeL|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_abdomen
+[20:57:28] kill|Nr31[FKR]_Albert_Epstein|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_abdomen
+[20:57:28] msg,Nr31[FKR]_StObjg_BlBA teamhit Nr31[FKR]_Hptm_BIBA 43 health.
+[20:57:35] kill|63rd_General_Eternal|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[20:57:35] msg,New round started.
+[20:57:37] chat|Nr31[FKR]_KFwb_Arkan|team|hey steel
+[20:57:38] chat|63rd_Gren_SteeL|team|lan arkan 
+[20:57:42] chat|63rd_Gren_SteeL|team|whatsap 
+[20:57:42] chat|Nr31[FKR]_KFwb_Arkan|team|how u been
+[20:57:45] anticheat|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[20:57:46] kill|Nr31[FKR]_Hptm_BIBA|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[20:57:54] kill|Nr31[FKR]_StObJg_Ben|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[20:57:55] kill|Nr31[FKR]_Albert_Epstein|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_upperarm_l
+[20:57:59] kill|Nr31[FKR]_KFwb_Arkan|63rd_Gren_SteeL|melee|Infantry Musket|hb_forearm_r
+[20:58:10] kill|Nr31[FKR]_UJg_MrRifleman|63rd_jack|melee|Infantry Musket|hb_forearm_r
+[20:58:18] kill|63rd_Gren_SteeL|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_abdomen
+[20:58:19] kill|Nr31[FKR]_Maj_GodyX|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[20:58:27] kill|Nr31[FKR]_StObjg_BlBA|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_r
+[20:58:27] msg,New round started.
+[20:58:34] chat|63rd_jack|all|çok iyi oldu oyun amk
+[20:58:38] kill|Nr31[FKR]_StObjg_BlBA|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[20:58:44] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_spine
+[20:58:47] kill|Nr31[FKR]_StObJg_Ben|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_thorax
+[20:58:48] teamkill|Nr31[FKR]_Hptm_BIBA|63rd_jack|melee|Infantry Musket|hb_upperarm_l
+[20:58:48] msg,63rd_jack teamkilled Nr31[FKR]_Hptm_BIBA.
+[20:58:51] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_forearm_l
+[20:58:54] connect|63rd_OZBEK|REDACTED_IP_FOR_PRIVACY|2002752|admin|1126|63rd_OZBEK
+[20:58:56] teamkill|63rd_Gren_SteeL|63rd_jack|melee|Infantry Musket|hb_thorax
+[20:58:56] msg,63rd_jack teamkilled 63rd_Gren_SteeL.
+[20:58:57] teamkill|63rd_jack|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_head
+[20:58:57] msg,Nr31[FKR]_Albert_Epstein teamkilled 63rd_jack.
+[20:59:00] kill|Nr31[FKR]_Maj_GodyX|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_spine
+[20:59:00] msg,New round started.
+[20:59:01] teamkill|Nr31[FKR]_Albert_Epstein|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_l
+[20:59:01] msg,63rd_General_Eternal teamkilled Nr31[FKR]_Albert_Epstein.
+[20:59:03] chat|Nr31[FKR]_StObJg_Ben|all|tipi4ni turki 3 autblokom
+[20:59:11] kill|Nr31[FKR]_StObJg_Ben|63rd_Gren_SteeL|melee|Infantry Musket|hb_forearm_l
+[20:59:12] kill|63rd_jack|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_spine
+[20:59:19] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_Albert_Epstein|melee|Hunting Spear|hb_thorax
+[20:59:19] kill|Nr31[FKR]_KFwb_Arkan|63rd_Gren_SteeL|melee|Infantry Musket|hb_forearm_l
+[20:59:24] kill|Nr31[FKR]_StObjg_BlBA|63rd_Gren_SteeL|melee|Infantry Musket|hb_head
+[20:59:25] kill|Nr31[FKR]_Maj_GodyX|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[20:59:25] msg,New round started.
+[20:59:26] msg,Nr31[FKR]_Albert_Epstein teamhit 63rd_Gren_SteeL 44 health.
+[20:59:38] kill|Nr31[FKR]_Hptm_BIBA|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_head
+[20:59:38] kill|63rd_Gren_SteeL|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_l
+[20:59:42] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_Albert_Epstein|melee|Hunting Spear|hb_abdomen
+[20:59:45] teamkill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_l
+[20:59:45] msg,Nr31[FKR]_StObJg_Ben teamkilled Nr31[FKR]_KFwb_Arkan.
+[20:59:51] kill|Nr31[FKR]_Albert_Epstein|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_upperarm_r
+[20:59:57] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|90|90|logged
+[21:00:03] kill|63rd_General_Eternal|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_shoulder_l
+[21:00:09] kill|63rd_OZBEK|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_l
+[21:00:18] kill|63rd_jack|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_upperarm_l
+[21:00:18] msg,New round started.
+[21:00:28] connect|SiGma_Svinchick|REDACTED_IP_FOR_PRIVACY|2525779|regular|1137|SiGma_Svinchick
+[21:00:32] kill|Nr31[FKR]_Maj_GodyX|63rd_OZBEK|melee|Infantry Musket|hb_abdomen
+[21:00:32] kill|63rd_jack|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[21:00:32] kill|63rd_Gren_SteeL|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_head
+[21:00:35] kill|Nr31[FKR]_UJg_MrRifleman|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[21:00:35] kill|63rd_General_Eternal|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_thorax
+[21:00:37] kill|Nr31[FKR]_Hptm_BIBA|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_thorax
+[21:00:38] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_forearm_l
+[21:00:41] kill|63rd_OZBEK|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_forearm_r
+[21:00:45] kill|Nr31[FKR]_Albert_Epstein|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_upperarm_l
+[21:00:45] msg,New round started.
+[21:00:54] kill|Nr31[FKR]_UJg_MrRifleman|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_head
+[21:00:58] kill|Nr31[FKR]_Hptm_BIBA|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_forearm_l
+[21:00:59] anticheat|summary|exit|SiGma_Svinchick|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=31|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=291932|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=62|autoblock_reaction_ms=617|autoblock_feints=0|autoblock_offscreen=2|autoattack_samples=3|autoattack_open_pct=100|autoattack_reaction_ms=791|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:00:59] disconnect|SiGma_Svinchick|REDACTED_IP_FOR_PRIVACY|2525779
+[21:00:59] msg,SiGma_Svinchick has left the game with ID: 2525779
+[21:00:59] death|SiGma_Svinchick
+[21:01:03] kill|Nr31[FKR]_StObjg_BlBA|63rd_General_Eternal|melee|Infantry Musket|hb_upperarm_l
+[21:01:06] kill|Nr31[FKR]_StObJg_Ben|63rd_OZBEK|melee|Infantry Musket|hb_thorax
+[21:01:09] kill|63rd_jack|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_l
+[21:01:12] kill|Nr31[FKR]_KFwb_Arkan|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_r
+[21:01:14] connect|Nr31[FKR]_Lt_Generadier|REDACTED_IP_FOR_PRIVACY|2525779|regular|1137|Nr31[FKR]_Lt_Generadier
+[21:01:19] kill|Nr31[FKR]_Maj_GodyX|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[21:01:20] connect|63rd_Kgm_Nedim|REDACTED_IP_FOR_PRIVACY|395164|regular|0|63rd_Kgm_Nedim
+[21:01:23] kill|Nr31[FKR]_Lt_Generadier|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:01:23] msg,New round started.
+[21:01:24] teamkill|63rd_OZBEK|Nr31[FKR]_Albert_Epstein|melee|Axe|hb_thigh_l
+[21:01:24] msg,Nr31[FKR]_Albert_Epstein teamkilled 63rd_OZBEK.
+[21:01:36] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_spine
+[21:01:39] kill|Nr31[FKR]_Maj_GodyX|63rd_jack|melee|Infantry Musket|hb_thorax
+[21:01:40] kill|Nr31[FKR]_KFwb_Arkan|63rd_Gren_SteeL|melee|Infantry Musket|hb_forearm_l
+[21:01:42] kill|63rd_jack|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_forearm_l
+[21:01:46] kill|Nr31[FKR]_Lt_Generadier|63rd_OZBEK|melee|Infantry Musket|hb_forearm_l
+[21:01:46] kill|Nr31[FKR]_StObjg_BlBA|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_thorax
+[21:01:49] kill|Nr31[FKR]_StObJg_Ben|63rd_Gren_SteeL|melee|Infantry Musket|hb_upperarm_l
+[21:01:49] msg,New round started.
+[21:01:49] teamkill|63rd_Gren_SteeL|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[21:01:49] msg,63rd_OZBEK teamkilled 63rd_Gren_SteeL.
+[21:01:51] msg,Nr31[FKR]_Albert_Epstein teamhit 63rd_OZBEK 29 health.
+[21:01:56] death|Nr31[FKR]_Hptm_BIBA
+[21:01:59] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_shoulder_l
+[21:02:02] kill|63rd_OZBEK|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_shoulder_r
+[21:02:03] kill|Nr31[FKR]_StObjg_BlBA|63rd_Gren_SteeL|melee|Infantry Musket|hb_head
+[21:02:03] kill|63rd_General_Eternal|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:02:04] kill|Nr31[FKR]_Maj_GodyX|Nr31[FKR]_Albert_Epstein|melee|Axe|hb_abdomen
+[21:02:06] kill|63rd_Gren_SteeL|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_thorax
+[21:02:08] anticheat|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:02:10] kill|63rd_jack|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_l
+[21:02:14] kill|Nr31[FKR]_Albert_Epstein|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_thorax
+[21:02:21] kill|63rd_Kgm_Nedim|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_l
+[21:02:21] msg,New round started.
+[21:02:32] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_l
+[21:02:33] teamkill|63rd_Gren_SteeL|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[21:02:33] msg,63rd_General_Eternal teamkilled 63rd_Gren_SteeL.
+[21:02:35] kill|Nr31[FKR]_Lt_Generadier|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:02:37] kill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Albert_Epstein|melee|Hunting Spear|hb_forearm_l
+[21:02:40] kill|Nr31[FKR]_StObjg_BlBA|63rd_jack|melee|Infantry Musket|hb_thorax
+[21:02:41] kill|Nr31[FKR]_Maj_GodyX|63rd_Kgm_Nedim|melee|Infantry Musket|hb_spine
+[21:02:43] kill|63rd_General_Eternal|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_abdomen
+[21:02:48] teamkill|63rd_OZBEK|Nr31[FKR]_Albert_Epstein|melee|Hunting Spear|hb_head
+[21:02:48] msg,Nr31[FKR]_Albert_Epstein teamkilled 63rd_OZBEK.
+[21:02:49] kill|Nr31[FKR]_Albert_Epstein|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_abdomen
+[21:02:54] chat|Nr31[FKR]_Albert_Epstein|all|no sorry
+[21:02:59] chat|63rd_OZBEK|all|mal
+[21:02:59] kill|63rd_jack|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_thorax
+[21:02:59] chat|63rd_Gren_SteeL|all|fak you bitch
+[21:03:00] kill|63rd_Kgm_Nedim|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_abdomen
+[21:03:00] msg,New round started.
+[21:03:05] chat|63rd_Gren_SteeL|all|pedo
+[21:03:05] chat|Nr31[FKR]_Albert_Epstein|all|hate black
+[21:03:10] kill|Nr31[FKR]_Hptm_BIBA|63rd_jack|melee|Infantry Musket|hb_shoulder_l
+[21:03:12] kill|63rd_General_Eternal|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_shoulder_l
+[21:03:13] kill|Nr31[FKR]_UJg_MrRifleman|63rd_OZBEK|melee|Infantry Musket|hb_forearm_r
+[21:03:13] msg,Nr31[FKR]_Albert_Epstein teamhit 63rd_OZBEK 20 health.
+[21:03:15] kill|63rd_jack|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_upperarm_l
+[21:03:17] kill|Nr31[FKR]_StObjg_BlBA|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[21:03:18] anticheat|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|14|90|90|logged
+[21:03:20] kill|63rd_Gren_SteeL|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_shoulder_r
+[21:03:21] kill|Nr31[FKR]_Lt_Generadier|63rd_Kgm_Nedim|melee|Infantry Musket|hb_thorax
+[21:03:22] anticheat|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:03:26] kill|63rd_OZBEK|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_forearm_l
+[21:03:26] kill|63rd_Kgm_Nedim|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_l
+[21:03:31] kill|Nr31[FKR]_Albert_Epstein|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_forearm_l
+[21:03:31] msg,New round started.
+[21:03:40] kill|Nr31[FKR]_Hptm_BIBA|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[21:03:43] msg,63rd_jack teamhit 63rd_Kgm_Nedim 53 health.
+[21:03:44] kill|Nr31[FKR]_Lt_Generadier|63rd_Gren_SteeL|melee|Infantry Musket|hb_head
+[21:03:45] kill|63rd_OZBEK|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_upperarm_l
+[21:03:45] kill|Nr31[FKR]_KFwb_Arkan|63rd_Gren_SteeL|melee|Infantry Musket|hb_upperarm_l
+[21:03:45] kill|Nr31[FKR]_StObjg_BlBA|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[21:03:46] teamkill|Nr31[FKR]_Albert_Epstein|63rd_Gren_SteeL|melee|Infantry Musket|hb_upperarm_r
+[21:03:46] msg,63rd_Gren_SteeL teamkilled Nr31[FKR]_Albert_Epstein.
+[21:03:48] kill|63rd_Kgm_Nedim|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_shoulder_l
+[21:03:49] msg,[SERVER]: 63rd_General_Eternal Set use class limits to True.
+[21:03:52] kill|Nr31[FKR]_StObJg_Ben|63rd_Gren_SteeL|melee|Infantry Musket|hb_head
+[21:03:52] msg,[SERVER]: 63rd_General_Eternal Set the limit for Generals to 0 persons per nation.
+[21:03:53] msg,[SERVER]: 63rd_General_Eternal Set the limit for the Officer rank to 0 persons per Unit.
+[21:03:53] msg,[SERVER]: 63rd_General_Eternal Set the limit for the Sergeant rank to 0 persons per Unit.
+[21:03:53] msg,[SERVER]: 63rd_General_Eternal Set the limit for the Musician rank to 0 persons per Unit.
+[21:03:54] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Surgeons to 0 % of the team.
+[21:03:54] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Sappers, Partizani, Sailors, and Opolcheniye to 0 % of the team.
+[21:03:55] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Artillery Trains to 0 % of the team.
+[21:03:55] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Rocketeers to 0 % of the team.
+[21:03:56] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Artillery to 0 % of the team.
+[21:03:56] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Non-Armoured Heavy Cavalry to 0 % of the Horsemen.
+[21:03:57] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Cuirassiers to 0 % of the Horsemen.
+[21:03:58] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Dragoons to 0 % of the Horsemen.
+[21:03:58] msg,[SERVER]: 63rd_General_Eternal Set the class limit for Hussars to 0 % of the Horsemen.
+[21:03:58] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Gren_SteeL|melee|Infantry Musket|hb_thorax
+[21:04:01] kill|63rd_jack|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_shoulder_l
+[21:04:14] kill|Nr31[FKR]_Maj_GodyX|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:04:14] msg,New round started.
+[21:04:15] msg,63rd_Gren_SteeL teamhit 63rd_General_Eternal 54 health.
+[21:04:23] msg,[AC-ALERT] Suspect: Nr31[FKR]_UJg_MrRifleman (GUID: 2570456) | Threat: 3 | Reason: Repeated offscreen auto-block
+[21:04:23] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|90|90|logged
+[21:04:26] kill|Nr31[FKR]_Lt_Generadier|63rd_Gren_SteeL|melee|Infantry Musket|hb_shoulder_l
+[21:04:28] kill|63rd_General_Eternal|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_spine
+[21:04:31] kill|Nr31[FKR]_StObJg_Ben|63rd_Gren_SteeL|melee|Infantry Musket|hb_forearm_l
+[21:04:31] kill|Nr31[FKR]_Albert_Epstein|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_abdomen
+[21:04:32] kill|63rd_Kgm_Nedim|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_thigh_r
+[21:04:34] anticheat|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:04:36] kill|Nr31[FKR]_KFwb_Arkan|63rd_OZBEK|melee|Infantry Musket|hb_thigh_l
+[21:04:42] teamkill|63rd_Gren_SteeL|63rd_jack|melee|Infantry Musket|hb_forearm_r
+[21:04:42] msg,63rd_jack teamkilled 63rd_Gren_SteeL.
+[21:04:44] msg,63rd_jack teamhit 63rd_OZBEK 53 health.
+[21:04:45] kill|63rd_jack|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_forearm_r
+[21:04:45] msg,Nr31[FKR]_Maj_GodyX teamhit Nr31[FKR]_StObjg_BlBA 52 health.
+[21:04:55] kill|63rd_OZBEK|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_forearm_l
+[21:04:55] msg,New round started.
+[21:05:04] kill|Nr31[FKR]_Albert_Epstein|63rd_OZBEK|melee|Infantry Musket|hb_forearm_l
+[21:05:05] kill|Nr31[FKR]_Lt_Generadier|63rd_Gren_SteeL|melee|Infantry Musket|hb_upperarm_l
+[21:05:07] kill|63rd_Gren_SteeL|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_upperarm_l
+[21:05:09] kill|63rd_General_Eternal|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_upperarm_l
+[21:05:12] kill|63rd_Kgm_Nedim|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_upperarm_l
+[21:05:12] connect|63rd_Pwt_Klaused|REDACTED_IP_FOR_PRIVACY|1524719|regular|1150|63rd_Pwt_Klaused
+[21:05:18] kill|63rd_jack|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_upperarm_r
+[21:05:22] kill|63rd_OZBEK|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_thorax
+[21:05:22] msg,New round started.
+[21:05:23] connect|63rd_pwtRyu|REDACTED_IP_FOR_PRIVACY|2558541|regular|0|63rd_pwtRyu
+[21:05:30] chat|63rd_Gren_SteeL|team|arkan : behind
+[21:05:31] chat|Nr31[FKR]_KFwb_Arkan|team|can u restart the server
+[21:05:35] chat|Nr31[FKR]_KFwb_Arkan|team|some of my players complain about lag
+[21:05:36] kill|Nr31[FKR]_Lt_Generadier|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:05:36] anticheat|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:05:37] kill|63rd_jack|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_forearm_r
+[21:05:38] kill|63rd_OZBEK|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_thorax
+[21:05:38] anticheat|summary|exit|63rd_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=649|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=622693|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=702|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=55|autoattack_reaction_ms=665|autoattack_feints=1|autoattack_chambers=4|autoattack_chamber_pct=5|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=44
+[21:05:38] disconnect|63rd_jack|REDACTED_IP_FOR_PRIVACY|1724198
+[21:05:38] msg,63rd_jack has left the game with ID: 1724198
+[21:05:39] kill|63rd_General_Eternal|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_upperarm_l
+[21:05:40] kill|63rd_Gren_SteeL|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_forearm_l
+[21:05:43] anticheat|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:05:43] teamkill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_head
+[21:05:43] msg,Nr31[FKR]_Albert_Epstein teamkilled Nr31[FKR]_KFwb_Arkan.
+[21:05:43] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Pwt_Klaused|melee|Infantry Musket|hb_head
+[21:05:46] kill|63rd_Kgm_Nedim|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_forearm_l
+[21:05:51] chat|Nr31[FKR]_KFwb_Arkan|team|@eternal
+[21:05:52] kill|63rd_Pwt_Klaused|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_abdomen
+[21:05:52] msg,New round started.
+[21:05:54] msg,[SERVER]: 63rd_General_Eternal Set the number of available custom maps to choose from to 8.
+[21:05:59] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 5 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[21:06:02] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1075|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=500378|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=47|autoblock_reaction_ms=778|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=45|autoattack_reaction_ms=782|autoattack_feints=0|autoattack_chambers=7|autoattack_chamber_pct=9|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[21:06:02] anticheat|summary|mission_end|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=565|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=560424|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=50|autoblock_reaction_ms=509|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=52|autoattack_reaction_ms=701|autoattack_feints=0|autoattack_chambers=4|autoattack_chamber_pct=13|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[21:06:02] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=427|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=500378|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=72|autoblock_reaction_ms=756|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=25|autoattack_reaction_ms=830|autoattack_feints=0|autoattack_chambers=4|autoattack_chamber_pct=11|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:02] anticheat|summary|mission_end|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|mission=9|session=1310|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=300465|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=52|autoblock_reaction_ms=372|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=1070|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=2|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=100
+[21:06:02] anticheat|summary|mission_end|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=1288|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=143583|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=60|autoblock_reaction_ms=392|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=40|autoattack_reaction_ms=657|autoattack_feints=0|autoattack_chambers=9|autoattack_chamber_pct=19|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:02] anticheat|summary|mission_end|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|mission=9|session=867|detections=1|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=108276|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=100|autoblock_reaction_ms=759|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=52|autoattack_reaction_ms=734|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=6|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=15
+[21:06:02] anticheat|summary|mission_end|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=556|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=154186|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=40|autoblock_reaction_ms=484|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=55|autoattack_reaction_ms=512|autoattack_feints=0|autoattack_chambers=4|autoattack_chamber_pct=8|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=3
+[21:06:02] anticheat|summary|mission_end|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=771|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=189845|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=87|autoblock_reaction_ms=969|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=57|autoattack_reaction_ms=435|autoattack_feints=0|autoattack_chambers=3|autoattack_chamber_pct=5|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=2|time_skew_stall_pct=4
+[21:06:02] anticheat|summary|mission_end|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=671|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=193170|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=57|autoblock_reaction_ms=1541|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=60|autoattack_reaction_ms=630|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[21:06:02] anticheat|summary|mission_end|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|mission=9|session=732|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=364273|aim_snaps=1|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=47|autoblock_reaction_ms=1155|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=70|autoattack_reaction_ms=866|autoattack_feints=0|autoattack_chambers=4|autoattack_chamber_pct=19|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:02] anticheat|summary|mission_end|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|mission=9|session=50|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=683444|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=80|autoblock_reaction_ms=449|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=8|autoattack_open_pct=75|autoattack_reaction_ms=945|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:02] anticheat|summary|mission_end|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=287|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=269903|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=27|autoblock_reaction_ms=474|autoblock_feints=0|autoblock_offscreen=4|autoattack_samples=37|autoattack_open_pct=64|autoattack_reaction_ms=864|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=25|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=1
+[21:06:02] anticheat|summary|mission_end|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=38|detections=0|seed_mismatches=0|time_skew_pct=-7|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=7
+[21:06:02] anticheat|summary|mission_end|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=282|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=1160209|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=70|autoblock_reaction_ms=72|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=45|autoattack_reaction_ms=663|autoattack_feints=0|autoattack_chambers=3|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:02] msg,Map change.
+[21:06:03] connect|63rd_lazsiken_jack|REDACTED_IP_FOR_PRIVACY|1724198|regular|1125|63rd_lazsiken_jack
+[21:06:23] msg,*Admin*[63rd_General_Eternal]: live
+[21:06:25] chat|63rd_General_Eternal|all|back
+[21:06:27] msg,*Admin*[63rd_General_Eternal]: back
+[21:06:30] teamkill|Nr31[FKR]_Lt_Generadier|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_abdomen
+[21:06:30] msg,Nr31[FKR]_StObjg_BlBA teamkilled Nr31[FKR]_Lt_Generadier.
+[21:06:32] msg,[SERVER]: 63rd_General_Eternal Healed Everyone.
+[21:06:34] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:06:46] chat|63rd_Pwt_Klaused|team|ARKAN
+[21:06:48] chat|63rd_Pwt_Klaused|team|HELLO
+[21:06:49] chat|63rd_lazsiken_jack|team|lets 1v1
+[21:06:49] chat|63rd_Pwt_Klaused|team|MY FRİEND
+[21:06:51] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 6 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[21:06:52] chat|63rd_pwtRyu|team|ARKA
+[21:06:54] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1127|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=200691|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=10|autoblock_match_pct=0|autoblock_reaction_ms=253|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=617|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=288029|aim_snaps=1|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=20|autoblock_match_pct=40|autoblock_reaction_ms=407|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=2|autoattack_open_pct=100|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=479|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=164829|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=15|autoblock_reaction_ms=261|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|mission=9|session=1362|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=562214|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=47|autoblock_reaction_ms=1715|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=19
+[21:06:54] anticheat|summary|mission_end|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=1340|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=1479512|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|mission=9|session=919|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=598100|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=12|autoblock_match_pct=0|autoblock_reaction_ms=637|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=27
+[21:06:54] anticheat|summary|mission_end|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=608|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=540591|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=7|autoblock_reaction_ms=459|autoblock_feints=3|autoblock_offscreen=3|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=823|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=493170|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=5|autoblock_reaction_ms=447|autoblock_feints=2|autoblock_offscreen=2|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=723|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=484667|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=12|autoblock_match_pct=0|autoblock_reaction_ms=277|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|mission=9|session=784|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=163068|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=20|autoblock_reaction_ms=303|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|mission=9|session=102|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=273592|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=1|autoblock_match_pct=100|autoblock_reaction_ms=837|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=339|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=906798|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=35|autoblock_reaction_ms=494|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=1|autoattack_open_pct=100|autoattack_reaction_ms=701|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=90|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=55723|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=20|autoblock_reaction_ms=231|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=30
+[21:06:54] anticheat|summary|mission_end|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=334|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=98723|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:06:54] anticheat|summary|mission_end|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=51|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=200370|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=30
+[21:06:54] msg,Map change.
+[21:06:59] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 4 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[21:07:02] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1136|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=625|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=283|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=488|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|mission=9|session=1371|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=1349|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|mission=9|session=927|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=617|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=831|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=732|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|mission=9|session=792|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=878460|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|mission=9|session=110|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=142|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=348|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=501977|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=99|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=342|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:02] anticheat|summary|mission_end|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=59|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:03] msg,Map change.
+[21:07:09] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 7 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[21:07:12] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1145|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=635|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=497|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|mission=9|session=1380|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=1358|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|mission=9|session=937|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=626|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=841|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=741|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|mission=9|session=802|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|mission=9|session=120|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=357|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=108|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=352|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] anticheat|summary|mission_end|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=69|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:12] msg,Map change.
+[21:07:18] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 3 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[21:07:21] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1154|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=644|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=151137|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=506|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|mission=9|session=1389|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=1367|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|mission=9|session=946|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=635|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=850|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=750|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|mission=9|session=811|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=1460665|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|mission=9|session=129|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=3478|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=366|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=495582|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=117|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=361|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] anticheat|summary|mission_end|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=78|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:21] msg,Map change.
+[21:07:23] anticheat|summary|exit|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=119|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:23] disconnect|63rd_pwtRyu|REDACTED_IP_FOR_PRIVACY|2558541
+[21:07:37] connect|63rd_pwtRyu|REDACTED_IP_FOR_PRIVACY|2558541|regular|0|63rd_pwtRyu
+[21:07:39] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 6 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[21:07:42] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1175|detections=1|seed_mismatches=0|time_skew_pct=1|time_skew_windows=0|max_aim_speed=205386|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=12|autoblock_match_pct=100|autoblock_reaction_ms=130|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=0
+[21:07:42] anticheat|summary|mission_end|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=665|detections=1|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=309052|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[21:07:42] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=527|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=74282|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=30|autoblock_reaction_ms=324|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=2|autoattack_open_pct=100|autoattack_reaction_ms=444|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:42] anticheat|summary|mission_end|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|mission=9|session=1410|detections=6|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=501977|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[21:07:42] anticheat|summary|mission_end|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=1388|detections=0|seed_mismatches=0|time_skew_pct=-32|time_skew_windows=0|max_aim_speed=739756|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=32
+[21:07:42] anticheat|summary|mission_end|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|mission=9|session=967|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=540591|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=12|autoblock_match_pct=0|autoblock_reaction_ms=2159|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:42] anticheat|summary|mission_end|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=656|detections=1|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=540416|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=77|autoblock_reaction_ms=345|autoblock_feints=5|autoblock_offscreen=0|autoattack_samples=2|autoattack_open_pct=50|autoattack_reaction_ms=208|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[21:07:42] anticheat|summary|mission_end|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=4|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:42] anticheat|summary|mission_end|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=871|detections=1|seed_mismatches=0|time_skew_pct=-22|time_skew_windows=0|max_aim_speed=468406|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=17|autoblock_match_pct=23|autoblock_reaction_ms=118|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=22
+[21:07:42] anticheat|summary|mission_end|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=771|detections=0|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=501977|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[21:07:42] anticheat|summary|mission_end|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|mission=9|session=832|detections=0|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=501977|aim_snaps=1|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=1|autoblock_match_pct=0|autoblock_reaction_ms=1087|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[21:07:42] anticheat|summary|mission_end|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|mission=9|session=150|detections=0|seed_mismatches=0|time_skew_pct=-21|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=21
+[21:07:42] anticheat|summary|mission_end|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=387|detections=1|seed_mismatches=0|time_skew_pct=-19|time_skew_windows=0|max_aim_speed=493170|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=21|autoblock_match_pct=9|autoblock_reaction_ms=1641|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=19
+[21:07:42] anticheat|summary|mission_end|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=382|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:42] anticheat|summary|mission_end|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=99|detections=0|seed_mismatches=0|time_skew_pct=-20|time_skew_windows=0|max_aim_speed=305364|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=20
+[21:07:42] msg,Map change.
+[21:07:48] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 5 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[21:07:48] chat|63rd_Gren_SteeL|team|faking admin
+[21:07:51] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1184|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=673|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=4385|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=536|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|mission=9|session=1419|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=1397|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=493170|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|mission=9|session=975|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=665|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=13|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=879|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=780|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|mission=9|session=841|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=501977|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|mission=9|session=158|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=396|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=390|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] anticheat|summary|mission_end|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=107|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:07:51] msg,Map change.
+[21:07:58] chat|63rd_Gren_SteeL|team|q
+[21:08:02] connect|63rd_LCpl_Edward|REDACTED_IP_FOR_PRIVACY|2272988|admin|1137|63rd_LCpl_Edward
+[21:08:02] msg,[AC-ADMIN] Removed non-whitelisted admin: 63rd_LCpl_Edward GUID: 2272988
+[21:08:03] chat|Nr31[FKR]_KFwb_Arkan|team|qom wa da3 3anka
+[21:08:03] anticheat|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|14|7|6|logged
+[21:08:04] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1198|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=198796|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:08:04] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[21:08:04] msg,63rd_General_Eternal has left the game with ID: 2289446
+[21:08:04] death|63rd_General_Eternal
+[21:08:06] chat|Nr31[FKR]_Albert_Epstein|team|BRO CONTINUE
+[21:08:10] chat|63rd_Gren_SteeL|team|keep
+[21:08:10] chat|Nr31[FKR]_Albert_Epstein|team|WE LOVE IT
+[21:08:15] anticheat|63rd_LCpl_Edward|2272988|REDACTED_IP_FOR_PRIVACY|14|8|6|logged
+[21:08:18] anticheat|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:08:20] anticheat|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|14|10|6|logged
+[21:08:25] teamkill|63rd_lazsiken_jack|63rd_Pwt_Klaused|melee|Infantry Musket|hb_head
+[21:08:25] msg,63rd_Pwt_Klaused teamkilled 63rd_lazsiken_jack.
+[21:08:29] chat|63rd_pwtRyu|team|arkan say hello turkoıs
+[21:08:33] connect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446|admin|1150|63rd_General_Eternal
+[21:08:37] msg,[SERVER]: 63rd_OZBEK Revived Everyone.
+[21:08:38] anticheat|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|14|7|6|logged
+[21:09:16] anticheat|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|14|14|6|logged
+[21:09:21] chat|63rd_General_Eternal|team|R
+[21:09:22] chat|63rd_General_Eternal|team|R
+[21:09:22] chat|63rd_General_Eternal|team|R
+[21:09:23] chat|63rd_Pwt_Klaused|all|edward taşıyon mu beni
+[21:09:27] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:09:29] msg,*Admin*[63rd_General_Eternal]: G
+[21:09:40] teamkill|Nr31[FKR]_Hptm_BIBA|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_head
+[21:09:40] msg,Nr31[FKR]_StObjg_BlBA teamkilled Nr31[FKR]_Hptm_BIBA.
+[21:09:42] kill|Nr31[FKR]_StObJg_Ben|63rd_pwtRyu|melee|Infantry Musket|hb_thorax
+[21:09:43] kill|Nr31[FKR]_StObjg_BlBA|63rd_Kgm_Nedim|melee|Infantry Musket|hb_forearm_r
+[21:09:43] kill|63rd_Pwt_Klaused|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_upperarm_l
+[21:09:43] anticheat|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:09:44] anticheat|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:09:45] kill|Nr31[FKR]_Maj_GodyX|63rd_LCpl_Edward|melee|Infantry Musket|hb_abdomen
+[21:09:45] kill|Nr31[FKR]_Albert_Epstein|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_l
+[21:09:46] kill|Nr31[FKR]_UJg_MrRifleman|63rd_lazsiken_jack|melee|Infantry Musket|hb_head
+[21:09:46] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:09:51] kill|63rd_pwtRyu|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_spine
+[21:09:52] teamkill|63rd_General_Eternal|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_r
+[21:09:52] msg,63rd_Kgm_Nedim teamkilled 63rd_General_Eternal.
+[21:09:53] chat|Nr31[FKR]_StObjg_BlBA|all|sry Biba
+[21:09:54] kill|63rd_Kgm_Nedim|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:09:54] kill|Nr31[FKR]_KFwb_Arkan|63rd_lazsiken_jack|melee|Infantry Musket|hb_spine
+[21:09:54] kill|Nr31[FKR]_Lt_Generadier|63rd_Gren_SteeL|melee|Infantry Musket|hb_thorax
+[21:09:54] msg,New round started.
+[21:09:56] msg,63rd_OZBEK teamhit 63rd_Gren_SteeL 3 health.
+[21:10:01] msg,63rd_Gren_SteeL teamhit 63rd_Pwt_Klaused 2 health.
+[21:10:01] chat|63rd_Pwt_Klaused|all|bizim tarafa arkan gelmis
+[21:10:04] chat|63rd_Pwt_Klaused|all|sansa bak
+[21:10:13] anticheat|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|14|92|90|logged
+[21:10:14] chat|63rd_General_Eternal|team|R
+[21:10:15] chat|63rd_General_Eternal|team|R
+[21:10:16] anticheat|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|14|90|90|logged
+[21:10:20] chat|63rd_General_Eternal|team|R
+[21:10:20] chat|63rd_General_Eternal|team|R
+[21:10:25] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:10:27] msg,*Admin*[63rd_General_Eternal]: G
+[21:10:35] kill|Nr31[FKR]_KFwb_Arkan|63rd_Gren_SteeL|melee|Infantry Musket|hb_shoulder_r
+[21:10:35] teamkill|63rd_Gren_SteeL|63rd_pwtRyu|melee|Infantry Musket|hb_upperarm_r
+[21:10:35] msg,63rd_pwtRyu teamkilled 63rd_Gren_SteeL.
+[21:10:36] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_shoulder_l
+[21:10:37] teamkill|Nr31[FKR]_Hptm_BIBA|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_forearm_r
+[21:10:37] msg,Nr31[FKR]_StObjg_BlBA teamkilled Nr31[FKR]_Hptm_BIBA.
+[21:10:37] kill|Nr31[FKR]_Albert_Epstein|63rd_LCpl_Edward|melee|Infantry Musket|hb_head
+[21:10:38] kill|Nr31[FKR]_StObjg_BlBA|63rd_Kgm_Nedim|melee|Infantry Musket|hb_forearm_r
+[21:10:42] kill|Nr31[FKR]_StObJg_Ben|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[21:10:42] kill|Nr31[FKR]_Maj_GodyX|63rd_Pwt_Klaused|melee|Infantry Musket|hb_thorax
+[21:10:45] teamkill|63rd_General_Eternal|63rd_Pwt_Klaused|melee|Infantry Musket|hb_thorax
+[21:10:45] msg,63rd_Pwt_Klaused teamkilled 63rd_General_Eternal.
+[21:10:46] chat|63rd_Gren_SteeL|team|arkan behind
+[21:10:47] kill|Nr31[FKR]_Lt_Generadier|63rd_pwtRyu|melee|Infantry Musket|hb_thorax
+[21:10:47] msg,New round started.
+[21:10:51] chat|63rd_Pwt_Klaused|all|ay pardon
+[21:10:56] chat|63rd_Gren_SteeL|all|ayol
+[21:11:04] chat|63rd_pwtRyu|all|gayused
+[21:11:15] anticheat|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:11:16] msg,63rd_pwtRyu teamhit 63rd_General_Eternal 4 health.
+[21:11:17] chat|63rd_Pwt_Klaused|all|benim duvar duosuna 5 kere tk attığımı hatırlıyorum
+[21:11:19] anticheat|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:11:19] chat|63rd_Pwt_Klaused|all|kuduruyordu
+[21:11:20] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:11:21] chat|63rd_General_Eternal|team|R
+[21:11:21] chat|63rd_General_Eternal|team|R
+[21:11:21] chat|63rd_General_Eternal|team|R
+[21:11:22] msg,*Admin*[63rd_General_Eternal]: G
+[21:11:28] kill|63rd_pwtRyu|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:11:30] kill|Nr31[FKR]_StObjg_BlBA|63rd_LCpl_Edward|melee|Infantry Musket|hb_head
+[21:11:31] kill|63rd_Kgm_Nedim|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_upperarm_l
+[21:11:35] kill|Nr31[FKR]_UJg_MrRifleman|63rd_lazsiken_jack|melee|Infantry Musket|hb_upperarm_l
+[21:11:36] kill|Nr31[FKR]_Albert_Epstein|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_r
+[21:11:37] kill|63rd_General_Eternal|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:11:42] kill|63rd_LCpl_Edward|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_thigh_l
+[21:11:43] msg,Nr31[FKR]_KFwb_Arkan teamhit Nr31[FKR]_Hptm_BIBA 50 health.
+[21:11:46] kill|Nr31[FKR]_Hptm_BIBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_forearm_l
+[21:11:46] kill|Nr31[FKR]_Maj_GodyX|63rd_OZBEK|melee|Infantry Musket|hb_abdomen
+[21:11:46] kill|63rd_Gren_SteeL|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_upperarm_r
+[21:11:54] kill|63rd_Pwt_Klaused|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_upperarm_r
+[21:12:00] kill|63rd_lazsiken_jack|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_spine
+[21:12:01] kill|Nr31[FKR]_StObJg_Ben|63rd_OZBEK|melee|Infantry Musket|hb_shoulder_l
+[21:12:09] kill|Nr31[FKR]_Lt_Generadier|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_r
+[21:12:25] kill|63rd_OZBEK|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_r
+[21:12:25] msg,New round started.
+[21:12:32] msg,63rd_Gren_SteeL teamhit 63rd_Kgm_Nedim 3 health.
+[21:12:36] chat|63rd_Pwt_Klaused|all|tp atmıştır
+[21:12:38] chat|63rd_Pwt_Klaused|all|arkan seviyor
+[21:12:42] anticheat|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:12:43] chat|63rd_General_Eternal|team|R
+[21:12:44] chat|63rd_General_Eternal|team|R
+[21:12:56] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:13:03] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:13:15] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:13:20] chat|63rd_pwtRyu|team|tam
+[21:13:25] chat|Nr31[FKR]_KFwb_Arkan|team|lan
+[21:13:28] chat|63rd_Pwt_Klaused|team|lan
+[21:13:28] chat|63rd_pwtRyu|team|amk
+[21:13:38] chat|63rd_General_Eternal|team|R
+[21:13:40] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:13:41] msg,*Admin*[63rd_General_Eternal]: G
+[21:13:42] chat|Nr31[FKR]_Albert_Epstein|team|jewish ppl rules the world
+[21:13:48] kill|63rd_Gren_SteeL|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:13:49] kill|Nr31[FKR]_Albert_Epstein|63rd_OZBEK|melee|Infantry Musket|hb_spine
+[21:13:51] kill|63rd_pwtRyu|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_abdomen
+[21:13:51] kill|Nr31[FKR]_Maj_GodyX|63rd_Kgm_Nedim|melee|Infantry Musket|hb_forearm_l
+[21:13:53] teamkill|Nr31[FKR]_KFwb_Arkan|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_abdomen
+[21:13:53] msg,Nr31[FKR]_Lt_Generadier teamkilled Nr31[FKR]_KFwb_Arkan.
+[21:13:54] teamkill|Nr31[FKR]_StObJg_Ben|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_thorax
+[21:13:54] msg,Nr31[FKR]_Hptm_BIBA teamkilled Nr31[FKR]_StObJg_Ben.
+[21:13:54] kill|Nr31[FKR]_Hptm_BIBA|63rd_Kgm_Nedim|melee|Infantry Musket|hb_thorax
+[21:13:55] anticheat|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[21:13:59] kill|Nr31[FKR]_StObjg_BlBA|63rd_LCpl_Edward|melee|Infantry Musket|hb_spine
+[21:14:01] anticheat|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|14|90|90|logged
+[21:14:01] connect|Nr31[FKR]_Kpl_Fonifon|REDACTED_IP_FOR_PRIVACY|2523481|regular|1146|Nr31[FKR]_Kpl_Fonifon
+[21:14:01] kill|Nr31[FKR]_UJg_MrRifleman|63rd_OZBEK|melee|Infantry Musket|hb_abdomen
+[21:14:01] kill|Nr31[FKR]_Lt_Generadier|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[21:14:01] msg,New round started.
+[21:14:02] msg,63rd_General_Eternal teamhit 63rd_Pwt_Klaused 4 health.
+[21:14:09] chat|Nr31[FKR]_Kpl_Fonifon|team|ХРО
+[21:14:10] chat|Nr31[FKR]_KFwb_Arkan|team|where's ur guys
+[21:14:14] chat|Nr31[FKR]_KFwb_Arkan|team|+1 lan
+[21:14:21] chat|63rd_Pwt_Klaused|team|porno
+[21:14:35] chat|63rd_General_Eternal|team|R
+[21:14:35] chat|63rd_General_Eternal|team|R
+[21:14:35] chat|63rd_General_Eternal|team|R
+[21:14:36] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:14:37] msg,*Admin*[63rd_General_Eternal]: G
+[21:14:43] msg,Nr31[FKR]_KFwb_Arkan teamhit Nr31[FKR]_StObJg_Ben 44 health.
+[21:14:44] kill|Nr31[FKR]_StObJg_Ben|63rd_General_Eternal|melee|Infantry Musket|hb_thigh_l
+[21:14:44] kill|Nr31[FKR]_Albert_Epstein|63rd_Kgm_Nedim|melee|Infantry Musket|hb_head
+[21:14:44] kill|Nr31[FKR]_Maj_GodyX|63rd_OZBEK|melee|Infantry Musket|hb_thorax
+[21:14:47] kill|Nr31[FKR]_StObjg_BlBA|63rd_LCpl_Edward|melee|Infantry Musket|hb_head
+[21:14:47] kill|63rd_pwtRyu|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_head
+[21:14:51] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_r
+[21:14:52] anticheat|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:14:52] kill|Nr31[FKR]_Lt_Generadier|63rd_Kgm_Nedim|melee|Infantry Musket|hb_shoulder_r
+[21:14:53] teamkill|63rd_Kgm_Nedim|63rd_Gren_SteeL|melee|Infantry Musket|hb_forearm_r
+[21:14:53] msg,63rd_Gren_SteeL teamkilled 63rd_Kgm_Nedim.
+[21:14:53] kill|63rd_LCpl_Edward|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[21:14:54] kill|Nr31[FKR]_Hptm_BIBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_forearm_l
+[21:15:03] anticheat|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:15:06] kill|Nr31[FKR]_KFwb_Arkan|63rd_OZBEK|melee|Infantry Musket|hb_calf_r
+[21:15:06] msg,New round started.
+[21:15:08] chat|63rd_General_Eternal|team|auto dog
+[21:15:10] chat|63rd_General_Eternal|team|ahahha
+[21:15:17] chat|63rd_OZBEK|team|no best
+[21:15:22] chat|63rd_General_Eternal|team|R
+[21:15:36] chat|63rd_General_Eternal|team|R
+[21:15:37] chat|63rd_General_Eternal|team|R
+[21:15:43] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:15:43] chat|63rd_General_Eternal|team|ALOO
+[21:15:45] msg,*Admin*[63rd_General_Eternal]: G
+[21:15:46] anticheat|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[21:15:48] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:15:52] kill|Nr31[FKR]_StObJg_Ben|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[21:15:54] kill|Nr31[FKR]_KFwb_Arkan|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:15:54] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_r
+[21:15:55] kill|63rd_Gren_SteeL|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_upperarm_l
+[21:15:55] kill|Nr31[FKR]_Albert_Epstein|63rd_lazsiken_jack|melee|Infantry Musket|hb_thorax
+[21:15:58] kill|Nr31[FKR]_Maj_GodyX|63rd_Kgm_Nedim|melee|Infantry Musket|hb_thorax
+[21:15:58] kill|Nr31[FKR]_Hptm_BIBA|63rd_pwtRyu|melee|Infantry Musket|hb_spine
+[21:16:01] kill|Nr31[FKR]_StObjg_BlBA|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_r
+[21:16:06] kill|Nr31[FKR]_Lt_Generadier|63rd_pwtRyu|punch
+[21:16:06] msg,New round started.
+[21:16:07] msg,63rd_General_Eternal teamhit 63rd_pwtRyu 3 health.
+[21:16:08] msg,63rd_General_Eternal teamhit 63rd_LCpl_Edward 6 health.
+[21:16:12] chat|63rd_General_Eternal|team|R
+[21:16:13] chat|63rd_General_Eternal|team|R
+[21:16:13] msg,63rd_LCpl_Edward teamhit 63rd_Kgm_Nedim 3 health.
+[21:16:19] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:16:31] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:16:36] chat|63rd_lazsiken_jack|team|r
+[21:16:36] msg,*Admin*[63rd_General_Eternal]: G
+[21:16:43] kill|Nr31[FKR]_StObJg_Ben|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[21:16:44] teamkill|Nr31[FKR]_Lt_Generadier|Nr31[FKR]_StObjg_BlBA|melee|Infantry Musket|hb_abdomen
+[21:16:44] msg,Nr31[FKR]_StObjg_BlBA teamkilled Nr31[FKR]_Lt_Generadier.
+[21:16:45] kill|Nr31[FKR]_Maj_GodyX|63rd_Kgm_Nedim|melee|Infantry Musket|hb_spine
+[21:16:45] kill|Nr31[FKR]_Hptm_BIBA|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[21:16:47] teamkill|63rd_General_Eternal|63rd_LCpl_Edward|melee|Infantry Musket|hb_thorax
+[21:16:47] msg,63rd_LCpl_Edward teamkilled 63rd_General_Eternal.
+[21:16:47] kill|Nr31[FKR]_Albert_Epstein|63rd_Kgm_Nedim|melee|Infantry Musket|hb_forearm_r
+[21:16:48] kill|Nr31[FKR]_StObjg_BlBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_spine
+[21:16:51] kill|Nr31[FKR]_KFwb_Arkan|63rd_Kgm_Nedim|melee|Infantry Musket|hb_head
+[21:16:52] kill|Nr31[FKR]_UJg_MrRifleman|63rd_OZBEK|melee|Infantry Musket|hb_spine
+[21:16:52] msg,New round started.
+[21:16:58] msg,63rd_General_Eternal teamhit 63rd_Kgm_Nedim 2 health.
+[21:16:59] msg,63rd_pwtRyu teamhit 63rd_LCpl_Edward 4 health.
+[21:17:10] chat|63rd_General_Eternal|team|R
+[21:17:11] chat|63rd_General_Eternal|team|RR
+[21:17:11] chat|63rd_General_Eternal|team|R
+[21:17:11] chat|63rd_General_Eternal|team|R
+[21:17:13] death|Nr31[FKR]_StObjg_BlBA
+[21:17:14] msg,[SERVER]: 63rd_General_Eternal Healed Everyone.
+[21:17:19] chat|63rd_General_Eternal|team|R
+[21:17:20] chat|63rd_General_Eternal|team|R
+[21:17:20] chat|63rd_General_Eternal|team|R
+[21:17:23] chat|Nr31[FKR]_Kpl_Fonifon|all|другий
+[21:17:26] chat|Nr31[FKR]_Kpl_Fonifon|all|або любе
+[21:17:29] chat|63rd_General_Eternal|team|R
+[21:17:29] chat|63rd_General_Eternal|team|R
+[21:17:29] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:17:29] chat|63rd_General_Eternal|team|R
+[21:17:30] anticheat|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:17:31] anticheat|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:17:31] msg,*Admin*[63rd_General_Eternal]: WG
+[21:17:32] msg,*Admin*[63rd_General_Eternal]: G
+[21:17:39] kill|Nr31[FKR]_Maj_GodyX|63rd_Kgm_Nedim|melee|Infantry Musket|hb_shoulder_l
+[21:17:40] kill|Nr31[FKR]_StObJg_Ben|63rd_Gren_SteeL|melee|Infantry Musket|hb_thorax
+[21:17:41] anticheat|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:17:42] kill|63rd_pwtRyu|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_thorax
+[21:17:42] anticheat|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:17:43] kill|Nr31[FKR]_Hptm_BIBA|63rd_Gren_SteeL|melee|Infantry Musket|hb_head
+[21:17:43] kill|Nr31[FKR]_Albert_Epstein|63rd_OZBEK|melee|Infantry Musket|hb_calf_l
+[21:17:47] kill|Nr31[FKR]_Kpl_Fonifon|63rd_Pwt_Klaused|melee|Infantry Musket|hb_forearm_l
+[21:17:49] kill|63rd_lazsiken_jack|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_forearm_l
+[21:17:50] teamkill|63rd_OZBEK|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_l
+[21:17:50] msg,63rd_Kgm_Nedim teamkilled 63rd_OZBEK.
+[21:17:54] kill|Nr31[FKR]_Lt_Generadier|63rd_LCpl_Edward|melee|Infantry Musket|hb_thorax
+[21:17:56] kill|63rd_Pwt_Klaused|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_shoulder_l
+[21:18:00] kill|Nr31[FKR]_UJg_MrRifleman|63rd_General_Eternal|melee|Infantry Musket|hb_forearm_l
+[21:18:01] teamkill|63rd_General_Eternal|63rd_Gren_SteeL|melee|Infantry Musket|hb_upperarm_l
+[21:18:01] msg,63rd_Gren_SteeL teamkilled 63rd_General_Eternal.
+[21:18:23] kill|Nr31[FKR]_KFwb_Arkan|63rd_Kgm_Nedim|melee|Infantry Musket|hb_spine
+[21:18:23] msg,New round started.
+[21:18:23] chat|63rd_lazsiken_jack|all|y  need invite?
+[21:18:24] chat|63rd_Pwt_Klaused|team|XD
+[21:18:25] chat|63rd_Gren_SteeL|team|oç
+[21:18:25] chat|63rd_Pwt_Klaused|team|WTF
+[21:18:25] chat|63rd_OZBEK|team|lol
+[21:18:25] msg,63rd_LCpl_Edward teamhit 63rd_Gren_SteeL 49 health.
+[21:18:29] chat|63rd_General_Eternal|team|AKGLHJALISGKSHLJSGKLHILG,KHASIGFALJGHDIAPAG
+[21:18:39] anticheat|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:18:41] chat|63rd_General_Eternal|team|HAHAHAHAA
+[21:18:42] anticheat|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:18:42] chat|63rd_General_Eternal|team|R
+[21:18:43] chat|63rd_General_Eternal|team|R
+[21:18:43] anticheat|summary|exit|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=1532|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=501977|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=45|autoblock_reaction_ms=743|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=17|autoattack_open_pct=76|autoattack_reaction_ms=636|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=2|time_skew_stall_pct=2
+[21:18:43] disconnect|Nr31[FKR]_StObjg_BlBA|REDACTED_IP_FOR_PRIVACY|2552880
+[21:18:43] msg,Nr31[FKR]_StObjg_BlBA has left the game with ID: 2552880
+[21:18:43] chat|63rd_Pwt_Klaused|all|video alan varmı
+[21:18:45] chat|63rd_Pwt_Klaused|all|allah  için
+[21:18:46] anticheat|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:18:47] chat|63rd_Pwt_Klaused|all|atsana
+[21:18:49] chat|Nr31[FKR]_Kpl_Fonifon|all|ок
+[21:18:52] chat|63rd_General_Eternal|team|R
+[21:18:52] chat|63rd_General_Eternal|team|R
+[21:18:53] chat|63rd_General_Eternal|team|R
+[21:18:53] chat|63rd_General_Eternal|team|R
+[21:18:53] chat|63rd_General_Eternal|team|R
+[21:18:53] chat|63rd_General_Eternal|team|R
+[21:18:53] chat|63rd_General_Eternal|team|R
+[21:18:54] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:18:56] msg,*Admin*[63rd_General_Eternal]: G
+[21:19:01] kill|63rd_pwtRyu|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_upperarm_l
+[21:19:02] anticheat|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:19:03] kill|63rd_LCpl_Edward|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_spine
+[21:19:04] kill|63rd_Kgm_Nedim|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_upperarm_r
+[21:19:05] anticheat|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|14|92|90|logged
+[21:19:06] kill|63rd_General_Eternal|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_forearm_l
+[21:19:08] teamkill|Nr31[FKR]_Maj_GodyX|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_forearm_l
+[21:19:08] msg,Nr31[FKR]_Albert_Epstein teamkilled Nr31[FKR]_Maj_GodyX.
+[21:19:08] kill|63rd_Pwt_Klaused|Nr31[FKR]_Kpl_Fonifon|melee|Infantry Musket|hb_thorax
+[21:19:13] kill|63rd_Gren_SteeL|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_spine
+[21:19:13] anticheat|Nr31[FKR]_Kpl_Fonifon|2523481|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:19:15] kill|63rd_OZBEK|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_upperarm_r
+[21:19:21] kill|63rd_lazsiken_jack|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_thorax
+[21:19:21] msg,New round started.
+[21:19:26] msg,63rd_LCpl_Edward teamhit 63rd_General_Eternal 4 health.
+[21:19:33] msg,63rd_LCpl_Edward teamhit 63rd_Gren_SteeL 4 health.
+[21:19:36] msg,[SERVER]: 63rd_General_Eternal Healed Everyone.
+[21:19:36] msg,63rd_OZBEK teamhit 63rd_Gren_SteeL 2 health.
+[21:19:37] msg,63rd_Pwt_Klaused teamhit 63rd_Gren_SteeL 3 health.
+[21:19:40] msg,63rd_Pwt_Klaused teamhit 63rd_Kgm_Nedim 2 health.
+[21:19:44] teamkill|63rd_General_Eternal|63rd_LCpl_Edward|melee|Infantry Musket|hb_thorax
+[21:19:44] msg,63rd_LCpl_Edward teamkilled 63rd_General_Eternal.
+[21:19:46] chat|63rd_Pwt_Klaused|all|ASRFAÇSÖa
+[21:19:46] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:19:49] chat|63rd_General_Eternal|team|R
+[21:19:49] chat|63rd_General_Eternal|team|R
+[21:19:50] chat|63rd_General_Eternal|team|R
+[21:19:51] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:19:52] msg,*Admin*[63rd_General_Eternal]: G
+[21:19:59] kill|63rd_General_Eternal|Nr31[FKR]_Kpl_Fonifon|melee|Infantry Musket|hb_shoulder_l
+[21:19:59] kill|63rd_Kgm_Nedim|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_spine
+[21:20:00] kill|63rd_LCpl_Edward|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_upperarm_l
+[21:20:03] kill|Nr31[FKR]_Kpl_Fonifon|63rd_pwtRyu|melee|Infantry Musket|hb_forearm_l
+[21:20:03] kill|63rd_lazsiken_jack|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_spine
+[21:20:03] kill|Nr31[FKR]_Lt_Generadier|63rd_Pwt_Klaused|melee|Infantry Musket|hb_thorax
+[21:20:08] kill|63rd_OZBEK|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_abdomen
+[21:20:11] kill|63rd_Gren_SteeL|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_upperarm_l
+[21:20:13] kill|63rd_pwtRyu|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_shoulder_r
+[21:20:16] chat|63rd_lazsiken_jack|all|yolunu sıkım ryu
+[21:20:19] chat|63rd_lazsiken_jack|all|nereye gidiyon
+[21:20:19] kill|63rd_Pwt_Klaused|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_spine
+[21:20:19] msg,New round started.
+[21:20:23] chat|63rd_pwtRyu|all|adam eksildi orda
+[21:20:29] chat|63rd_lazsiken_jack|all|tekmeye oldum senin yjzunden
+[21:20:35] chat|63rd_pwtRyu|all|betasın
+[21:20:38] chat|63rd_lazsiken_jack|all|:(
+[21:20:47] chat|63rd_Pwt_Klaused|all|hayvanat bahçesinin kapısını kim açık unuttu olm
+[21:20:50] chat|63rd_General_Eternal|team|R
+[21:20:50] chat|63rd_General_Eternal|team|R
+[21:20:53] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:20:55] msg,*Admin*[63rd_General_Eternal]: G
+[21:21:02] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:21:02] kill|63rd_pwtRyu|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_r
+[21:21:02] kill|63rd_Gren_SteeL|Nr31[FKR]_Kpl_Fonifon|melee|Infantry Musket|hb_upperarm_r
+[21:21:03] kill|Nr31[FKR]_UJg_MrRifleman|63rd_lazsiken_jack|melee|Infantry Musket|hb_forearm_l
+[21:21:05] kill|63rd_General_Eternal|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_shoulder_l
+[21:21:06] kill|Nr31[FKR]_Albert_Epstein|63rd_lazsiken_jack|melee|Infantry Musket|hb_forearm_l
+[21:21:07] anticheat|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:21:08] kill|Nr31[FKR]_Maj_GodyX|63rd_lazsiken_jack|melee|Infantry Musket|hb_forearm_l
+[21:21:12] kill|63rd_LCpl_Edward|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:21:13] msg,Nr31[FKR]_Hptm_BIBA teamhit Nr31[FKR]_KFwb_Arkan 43 health.
+[21:21:13] kill|Nr31[FKR]_StObJg_Ben|63rd_Kgm_Nedim|melee|Infantry Musket|hb_spine
+[21:21:15] msg,Nr31[FKR]_Lt_Generadier teamhit Nr31[FKR]_Kpl_Fonifon 43 health.
+[21:21:16] kill|Nr31[FKR]_Hptm_BIBA|63rd_lazsiken_jack|melee|Infantry Musket|hb_thorax
+[21:21:16] kill|63rd_lazsiken_jack|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_spine
+[21:21:17] kill|Nr31[FKR]_Lt_Generadier|63rd_Pwt_Klaused|melee|Infantry Musket|hb_thorax
+[21:21:19] kill|Nr31[FKR]_Kpl_Fonifon|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_l
+[21:21:25] kill|Nr31[FKR]_KFwb_Arkan|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_l
+[21:21:25] msg,New round started.
+[21:21:30] chat|Nr31[FKR]_StObJg_Ben|team|goduras server
+[21:21:32] msg,63rd_General_Eternal teamhit 63rd_OZBEK 1 health.
+[21:21:36] connect|63rd_philip|REDACTED_IP_FOR_PRIVACY|2416952|regular|1145|63rd_philip
+[21:21:38] chat|Nr31[FKR]_KFwb_Arkan|team|gonduras server
+[21:21:38] msg,63rd_Gren_SteeL teamhit 63rd_OZBEK 2 health.
+[21:21:46] chat|63rd_Gren_SteeL|team|f8
+[21:21:49] chat|63rd_Pwt_Klaused|all|serverde falan açık değil dimi
+[21:21:52] chat|63rd_General_Eternal|team|+1
+[21:21:54] anticheat|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:21:55] chat|Nr31[FKR]_KFwb_Arkan|team|k
+[21:21:56] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:21:59] msg,*Admin*[63rd_General_Eternal]: g
+[21:22:01] msg,*Admin*[63rd_General_Eternal]: G
+[21:22:05] anticheat|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:22:06] kill|Nr31[FKR]_Kpl_Fonifon|63rd_Gren_SteeL|melee|Infantry Musket|hb_thorax
+[21:22:07] kill|Nr31[FKR]_Lt_Generadier|63rd_LCpl_Edward|melee|Infantry Musket|hb_thorax
+[21:22:08] kill|63rd_LCpl_Edward|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_forearm_r
+[21:22:08] kill|63rd_lazsiken_jack|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_thigh_r
+[21:22:08] kill|Nr31[FKR]_Albert_Epstein|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_l
+[21:22:09] kill|63rd_pwtRyu|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_l
+[21:22:10] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_l
+[21:22:12] anticheat|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|14|97|90|logged
+[21:22:13] kill|Nr31[FKR]_Hptm_BIBA|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:22:15] anticheat|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:22:16] connect|63rd_Kurdishim_Abo|REDACTED_IP_FOR_PRIVACY|2231675|regular|0|63rd_Kurdishim_Abo
+[21:22:16] msg,63rd_General_Eternal teamhit 63rd_Pwt_Klaused 2 health.
+[21:22:20] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:22:21] kill|Nr31[FKR]_KFwb_Arkan|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:22:25] kill|Nr31[FKR]_Maj_GodyX|63rd_OZBEK|melee|Infantry Musket|hb_forearm_r
+[21:22:26] chat|63rd_philip|team|lan fred
+[21:22:27] kill|Nr31[FKR]_StObJg_Ben|63rd_Kgm_Nedim|melee|Infantry Musket|hb_abdomen
+[21:22:27] msg,New round started.
+[21:22:34] msg,Nr31[FKR]_Albert_Epstein teamhit Nr31[FKR]_KFwb_Arkan 2 health.
+[21:22:34] death|63rd_General_Eternal
+[21:22:41] death|63rd_philip
+[21:22:42] chat|Nr31[FKR]_Albert_Epstein|team|heal pls
+[21:22:44] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:22:45] death|63rd_pwtRyu
+[21:22:54] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:22:55] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:22:57] chat|63rd_Pwt_Klaused|all|sup
+[21:23:03] chat|63rd_Pwt_Klaused|all|ye
+[21:23:03] teamkill|63rd_Kurdishim_Abo|63rd_LCpl_Edward|melee|Infantry Musket|hb_thorax
+[21:23:03] msg,63rd_LCpl_Edward teamkilled 63rd_Kurdishim_Abo.
+[21:23:03] msg,*Admin*[63rd_General_Eternal]: G
+[21:23:09] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_r
+[21:23:12] kill|63rd_Pwt_Klaused|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_spine
+[21:23:12] teamkill|Nr31[FKR]_Lt_Generadier|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_upperarm_l
+[21:23:12] msg,Nr31[FKR]_Hptm_BIBA teamkilled Nr31[FKR]_Lt_Generadier.
+[21:23:12] kill|Nr31[FKR]_Kpl_Fonifon|63rd_Gren_SteeL|melee|Infantry Musket|hb_upperarm_l
+[21:23:13] anticheat|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:23:16] kill|Nr31[FKR]_Albert_Epstein|63rd_Kgm_Nedim|melee|Infantry Musket|hb_forearm_r
+[21:23:17] chat|63rd_pwtRyu|all|QEEQEEEWEWQE
+[21:23:19] teamkill|63rd_Gren_SteeL|63rd_philip|melee|Infantry Musket|hb_forearm_l
+[21:23:19] msg,63rd_philip teamkilled 63rd_Gren_SteeL.
+[21:23:23] kill|Nr31[FKR]_Hptm_BIBA|63rd_LCpl_Edward|melee|Infantry Musket|hb_head
+[21:23:23] anticheat|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:23:25] connect|Nr31[FKR]_StObjg_BlBA|REDACTED_IP_FOR_PRIVACY|2552880|regular|1138|Nr31[FKR]_StObjg_BlBA
+[21:23:26] kill|Nr31[FKR]_StObJg_Ben|63rd_philip|melee|Infantry Musket|hb_spine
+[21:23:28] kill|Nr31[FKR]_Maj_GodyX|63rd_OZBEK|melee|Infantry Musket|hb_forearm_l
+[21:23:30] kill|Nr31[FKR]_KFwb_Arkan|63rd_LCpl_Edward|melee|Infantry Musket|hb_thigh_r
+[21:23:30] msg,New round started.
+[21:23:37] msg,63rd_Gren_SteeL teamhit 63rd_OZBEK 4 health.
+[21:23:38] msg,63rd_Gren_SteeL teamhit 63rd_OZBEK 1 health.
+[21:23:38] chat|63rd_OZBEK|team|+1
+[21:23:39] msg,63rd_Gren_SteeL teamhit 63rd_philip 2 health.
+[21:23:39] chat|63rd_philip|all|kb steel
+[21:23:40] msg,63rd_Gren_SteeL teamhit 63rd_OZBEK 3 health.
+[21:23:44] chat|Nr31[FKR]_KFwb_Arkan|team|wait lan
+[21:23:44] chat|63rd_Gren_SteeL|all|np
+[21:23:52] teamkill|63rd_Kurdishim_Abo|63rd_philip|melee|Infantry Musket|hb_spine
+[21:23:52] msg,63rd_philip teamkilled 63rd_Kurdishim_Abo.
+[21:23:57] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:24:09] chat|63rd_philip|all|bashıbozuk
+[21:24:20] chat|Nr31[FKR]_Albert_Epstein|team|+1 in 1 sec
+[21:24:31] chat|63rd_LCpl_Edward|team|fred kuffar
+[21:24:31] chat|Nr31[FKR]_KFwb_Arkan|team|rev
+[21:24:32] msg,[SERVER]: 63rd_OZBEK Revived Everyone.
+[21:24:34] chat|Nr31[FKR]_Lt_Generadier|team|+1
+[21:24:43] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:24:56] chat|63rd_OZBEK|team|r
+[21:25:04] anticheat|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|14|8|8|logged
+[21:25:10] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:25:12] chat|63rd_OZBEK|team|R ?
+[21:25:13] chat|63rd_Gren_SteeL|team|r
+[21:25:13] chat|63rd_LCpl_Edward|team|r
+[21:25:13] chat|63rd_Gren_SteeL|team|r
+[21:25:14] chat|63rd_philip|team|r
+[21:25:14] chat|63rd_Gren_SteeL|team|r
+[21:25:14] chat|63rd_pwtRyu|team|R
+[21:25:14] chat|63rd_Gren_SteeL|team|r
+[21:25:15] chat|63rd_Gren_SteeL|team|r
+[21:25:15] chat|63rd_pwtRyu|team|R
+[21:25:16] chat|63rd_Gren_SteeL|team|r
+[21:25:16] chat|63rd_pwtRyu|team|R
+[21:25:16] chat|63rd_Gren_SteeL|team|r
+[21:25:16] chat|63rd_Gren_SteeL|team|r
+[21:25:16] chat|63rd_pwtRyu|team|R
+[21:25:16] chat|63rd_Gren_SteeL|team|r
+[21:25:16] chat|63rd_Gren_SteeL|team|r
+[21:25:17] chat|63rd_pwtRyu|team|R
+[21:25:17] chat|63rd_Gren_SteeL|team|r
+[21:25:17] chat|63rd_Gren_SteeL|team|r
+[21:25:17] chat|63rd_Gren_SteeL|team|r
+[21:25:18] chat|63rd_Gren_SteeL|team|r
+[21:25:18] chat|63rd_Pwt_Klaused|team|r
+[21:25:18] chat|63rd_Pwt_Klaused|team|r
+[21:25:19] chat|63rd_Pwt_Klaused|team|r
+[21:25:19] chat|63rd_Pwt_Klaused|team|r
+[21:25:20] chat|63rd_Pwt_Klaused|team|r
+[21:25:20] chat|63rd_Pwt_Klaused|team|r
+[21:25:21] chat|63rd_Pwt_Klaused|team|r
+[21:25:21] chat|63rd_Pwt_Klaused|team|r
+[21:25:21] chat|63rd_Pwt_Klaused|team|r
+[21:25:22] chat|63rd_Pwt_Klaused|team|r
+[21:25:22] chat|63rd_Pwt_Klaused|team|r
+[21:25:23] chat|63rd_pwtRyu|team|R
+[21:25:23] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:25:23] chat|63rd_philip|team|r
+[21:25:23] chat|63rd_Pwt_Klaused|team|r
+[21:25:23] chat|63rd_pwtRyu|team|R
+[21:25:23] chat|63rd_Pwt_Klaused|team|r
+[21:25:23] chat|63rd_philip|team|r
+[21:25:23] chat|63rd_pwtRyu|team|R
+[21:25:24] chat|63rd_pwtRyu|team|R
+[21:25:24] chat|63rd_pwtRyu|team|R
+[21:25:24] chat|63rd_philip|team|r
+[21:25:24] msg,*Admin*[63rd_General_Eternal]: G
+[21:25:24] chat|63rd_philip|team|r
+[21:25:31] kill|63rd_Gren_SteeL|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_thorax
+[21:25:32] kill|Nr31[FKR]_UJg_MrRifleman|63rd_OZBEK|melee|Infantry Musket|hb_forearm_l
+[21:25:34] kill|Nr31[FKR]_StObjg_BlBA|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[21:25:35] kill|63rd_LCpl_Edward|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_forearm_r
+[21:25:35] kill|Nr31[FKR]_KFwb_Arkan|63rd_philip|melee|Infantry Musket|hb_abdomen
+[21:25:35] msg,63rd_pwtRyu teamhit 63rd_philip 48 health.
+[21:25:38] kill|Nr31[FKR]_Kpl_Fonifon|63rd_pwtRyu|melee|Infantry Musket|hb_upperarm_l
+[21:25:39] anticheat|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:25:39] kill|Nr31[FKR]_Hptm_BIBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_forearm_l
+[21:25:43] kill|Nr31[FKR]_Albert_Epstein|63rd_Pwt_Klaused|melee|Infantry Musket|hb_upperarm_l
+[21:25:43] kill|Nr31[FKR]_Maj_GodyX|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_l
+[21:25:44] kill|63rd_lazsiken_jack|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_thorax
+[21:25:47] kill|63rd_pwtRyu|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_r
+[21:25:50] kill|Nr31[FKR]_Lt_Generadier|63rd_Pwt_Klaused|melee|Infantry Musket|hb_head
+[21:25:52] chat|63rd_pwtRyu|all|ULAN JEK
+[21:25:54] teamkill|63rd_Pwt_Klaused|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_thorax
+[21:25:54] msg,63rd_Kurdishim_Abo teamkilled 63rd_Pwt_Klaused.
+[21:25:56] kill|Nr31[FKR]_StObJg_Ben|63rd_OZBEK|melee|Infantry Musket|hb_forearm_r
+[21:25:56] msg,New round started.
+[21:25:56] chat|63rd_lazsiken_jack|all|sen gelme yanıma
+[21:25:58] chat|63rd_lazsiken_jack|all|ritmim bozuluyo
+[21:26:00] chat|63rd_pwtRyu|all|QWEQEEQEQ
+[21:26:02] chat|63rd_Pwt_Klaused|all|nigger kurd
+[21:26:02] msg,63rd_Gren_SteeL teamhit 63rd_LCpl_Edward 2 health.
+[21:26:04] msg,63rd_LCpl_Edward teamhit 63rd_Gren_SteeL 4 health.
+[21:26:07] chat|63rd_pwtRyu|all|KOTUYUM DEMIYONDA
+[21:26:10] chat|63rd_lazsiken_jack|all|sg
+[21:26:10] teamkill|63rd_Kurdishim_Abo|63rd_philip|melee|Infantry Musket|hb_forearm_r
+[21:26:10] msg,63rd_philip teamkilled 63rd_Kurdishim_Abo.
+[21:26:13] chat|63rd_Pwt_Klaused|all|fuck apo
+[21:26:16] chat|63rd_Pwt_Klaused|all|apo is nigger
+[21:26:25] chat|Nr31[FKR]_KFwb_Arkan|team|wanna rematch after this on our server?
+[21:26:29] chat|63rd_Pwt_Klaused|all|FAST
+[21:26:30] chat|63rd_Pwt_Klaused|all|FAST
+[21:26:32] chat|63rd_Pwt_Klaused|all|FAST
+[21:26:32] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:26:34] chat|63rd_Pwt_Klaused|all|ALLAH İÇİN
+[21:26:35] chat|63rd_philip|all|fdp
+[21:26:35] chat|63rd_Pwt_Klaused|all|FAST
+[21:26:36] chat|Nr31[FKR]_KFwb_Arkan|team|@turks
+[21:26:37] chat|63rd_Pwt_Klaused|all|HADİ
+[21:26:38] anticheat|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|14|95|90|logged
+[21:26:39] chat|63rd_Kgm_Nedim|team|we have another i think
+[21:26:44] chat|Nr31[FKR]_KFwb_Arkan|team|ok
+[21:26:45] chat|63rd_Gren_SteeL|team|R
+[21:26:45] chat|63rd_pwtRyu|team|R
+[21:26:45] chat|63rd_OZBEK|team|R
+[21:26:45] chat|63rd_LCpl_Edward|team|r
+[21:26:45] chat|63rd_Gren_SteeL|team|R
+[21:26:45] chat|63rd_Gren_SteeL|team|R
+[21:26:46] chat|63rd_Gren_SteeL|team|R
+[21:26:46] chat|63rd_Gren_SteeL|team|R
+[21:26:48] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:26:49] msg,*Admin*[63rd_General_Eternal]: G
+[21:26:56] kill|Nr31[FKR]_Kpl_Fonifon|63rd_lazsiken_jack|melee|Infantry Musket|hb_forearm_l
+[21:26:56] kill|63rd_pwtRyu|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_forearm_l
+[21:26:56] kill|63rd_Kurdishim_Abo|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_upperarm_r
+[21:26:57] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_spine
+[21:27:00] kill|63rd_Gren_SteeL|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_abdomen
+[21:27:00] kill|Nr31[FKR]_StObJg_Ben|63rd_lazsiken_jack|melee|Infantry Musket|hb_spine
+[21:27:03] kill|Nr31[FKR]_Hptm_BIBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_upperarm_r
+[21:27:03] kill|Nr31[FKR]_Maj_GodyX|63rd_OZBEK|melee|Infantry Musket|hb_spine
+[21:27:04] kill|Nr31[FKR]_Albert_Epstein|63rd_philip|melee|Infantry Musket|hb_forearm_l
+[21:27:05] kill|Nr31[FKR]_StObjg_BlBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_forearm_r
+[21:27:09] kill|63rd_Pwt_Klaused|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:27:12] kill|Nr31[FKR]_Lt_Generadier|63rd_Kgm_Nedim|melee|Infantry Musket|hb_forearm_r
+[21:27:13] teamkill|63rd_lazsiken_jack|63rd_philip|melee|Infantry Musket|hb_spine
+[21:27:13] msg,63rd_philip teamkilled 63rd_lazsiken_jack.
+[21:27:17] kill|Nr31[FKR]_KFwb_Arkan|63rd_Kgm_Nedim|melee|Infantry Musket|hb_upperarm_r
+[21:27:17] msg,New round started.
+[21:27:18] teamkill|63rd_LCpl_Edward|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_r
+[21:27:18] msg,63rd_OZBEK teamkilled 63rd_LCpl_Edward.
+[21:27:19] chat|63rd_Pwt_Klaused|all|alma
+[21:27:22] msg,63rd_LCpl_Edward teamhit 63rd_philip 3 health.
+[21:27:22] msg,63rd_Gren_SteeL teamhit 63rd_philip 3 health.
+[21:27:23] msg,63rd_pwtRyu teamhit 63rd_philip 2 health.
+[21:27:24] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:27:28] teamkill|63rd_Kurdishim_Abo|63rd_OZBEK|melee|Infantry Musket|hb_thorax
+[21:27:28] msg,63rd_OZBEK teamkilled 63rd_Kurdishim_Abo.
+[21:27:30] chat|63rd_Kurdishim_Abo|team|aposi coming
+[21:27:31] msg,[SERVER]: 63rd_OZBEK Revived Everyone.
+[21:27:36] msg,63rd_philip teamhit 63rd_Kurdishim_Abo 54 health.
+[21:27:42] teamkill|63rd_philip|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_shoulder_r
+[21:27:42] msg,63rd_Kurdishim_Abo teamkilled 63rd_philip.
+[21:27:43] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:27:44] chat|Nr31[FKR]_KFwb_Arkan|team|amk server
+[21:27:45] msg,[SERVER]: 63rd_OZBEK Healed Everyone.
+[21:27:45] teamkill|63rd_Kurdishim_Abo|63rd_philip|melee|Infantry Musket|hb_head
+[21:27:45] msg,63rd_philip teamkilled 63rd_Kurdishim_Abo.
+[21:27:46] chat|63rd_Pwt_Klaused|all|KÜRT
+[21:27:46] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:27:48] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:27:51] msg,*Admin*[63rd_General_Eternal]: G
+[21:27:52] chat|63rd_Gren_SteeL|team|everyone crying abot servers
+[21:27:58] kill|63rd_Kgm_Nedim|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_forearm_r
+[21:27:59] kill|63rd_OZBEK|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_head
+[21:28:00] msg,Nr31[FKR]_Hptm_BIBA teamhit Nr31[FKR]_Albert_Epstein 52 health.
+[21:28:01] kill|Nr31[FKR]_StObJg_Ben|63rd_lazsiken_jack|melee|Infantry Musket|hb_abdomen
+[21:28:01] kill|63rd_Pwt_Klaused|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_spine
+[21:28:02] kill|Nr31[FKR]_Albert_Epstein|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_forearm_l
+[21:28:02] kill|63rd_lazsiken_jack|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_upperarm_r
+[21:28:02] kill|Nr31[FKR]_StObjg_BlBA|63rd_LCpl_Edward|melee|Infantry Musket|hb_upperarm_l
+[21:28:02] kill|Nr31[FKR]_Kpl_Fonifon|63rd_pwtRyu|melee|Infantry Musket|hb_thorax
+[21:28:05] kill|63rd_pwtRyu|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_shoulder_r
+[21:28:16] kill|63rd_Gren_SteeL|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_forearm_l
+[21:28:16] kill|63rd_Kurdishim_Abo|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_forearm_l
+[21:28:16] kill|Nr31[FKR]_KFwb_Arkan|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_r
+[21:28:17] kill|Nr31[FKR]_Hptm_BIBA|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[21:28:21] kill|Nr31[FKR]_UJg_MrRifleman|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_l
+[21:28:25] kill|63rd_LCpl_Edward|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_upperarm_r
+[21:28:30] chat|63rd_Pwt_Klaused|all|sideblock
+[21:28:32] chat|63rd_Kurdishim_Abo|team|halal son of apo
+[21:28:36] kill|63rd_philip|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_thigh_r
+[21:28:36] msg,New round started.
+[21:28:43] msg,63rd_Gren_SteeL teamhit 63rd_lazsiken_jack 1 health.
+[21:28:45] chat|63rd_philip|all|evet
+[21:28:47] chat|63rd_pwtRyu|all|-3 NE FİLİĞ
+[21:28:53] msg,63rd_Kurdishim_Abo teamhit 63rd_philip 35 health.
+[21:28:54] chat|63rd_Pwt_Klaused|team|100- social credit
+[21:28:57] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:29:00] teamkill|63rd_Kurdishim_Abo|63rd_philip|melee|Infantry Musket|hb_forearm_l
+[21:29:00] msg,63rd_philip teamkilled 63rd_Kurdishim_Abo.
+[21:29:00] chat|63rd_pwtRyu|all|NEDIMLE BEN OLMSAK GG
+[21:29:03] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:29:06] msg,*Admin*[63rd_General_Eternal]: G
+[21:29:07] chat|63rd_Kurdishim_Abo|team|its ata kurd 
+[21:29:13] teamkill|63rd_OZBEK|63rd_philip|melee|Infantry Musket|hb_head
+[21:29:13] msg,63rd_philip teamkilled 63rd_OZBEK.
+[21:29:14] kill|Nr31[FKR]_Lt_Generadier|63rd_Gren_SteeL|melee|Infantry Musket|hb_thorax
+[21:29:15] kill|63rd_pwtRyu|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:29:15] kill|63rd_philip|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_shoulder_l
+[21:29:15] kill|63rd_Pwt_Klaused|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_upperarm_r
+[21:29:16] kill|63rd_lazsiken_jack|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:29:19] teamkill|63rd_Gren_SteeL|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_upperarm_r
+[21:29:19] msg,63rd_Kurdishim_Abo teamkilled 63rd_Gren_SteeL.
+[21:29:19] anticheat|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:29:23] anticheat|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:29:24] kill|63rd_Kgm_Nedim|Nr31[FKR]_Kpl_Fonifon|melee|Infantry Musket|hb_upperarm_r
+[21:29:25] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_thorax
+[21:29:26] kill|Nr31[FKR]_Hptm_BIBA|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_forearm_r
+[21:29:29] kill|63rd_LCpl_Edward|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_head
+[21:29:30] chat|63rd_Gren_SteeL|all|fred ananı sıkeym
+[21:29:31] connect|Assassins_Khizar|REDACTED_IP_FOR_PRIVACY|2484596|regular|1146|Assassins_Khizar
+[21:29:31] kill|Nr31[FKR]_Albert_Epstein|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_upperarm_l
+[21:29:33] kill|63rd_Kurdishim_Abo|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_r
+[21:29:33] msg,New round started.
+[21:29:37] chat|63rd_Pwt_Klaused|all|sağ ne oldu olm
+[21:29:42] chat|63rd_Pwt_Klaused|all|sağ kürdistan
+[21:29:42] death|63rd_philip
+[21:29:53] connect|Assassins_Arafey|REDACTED_IP_FOR_PRIVACY|2518964|regular|1146|Assassins_Arafey
+[21:29:58] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:30:02] msg,*Admin*[63rd_General_Eternal]: G
+[21:30:03] chat|63rd_Kurdishim_Abo|team|kurdya inchallah
+[21:30:09] kill|63rd_Gren_SteeL|Nr31[FKR]_Lt_Generadier|melee|Infantry Musket|hb_forearm_l
+[21:30:10] kill|63rd_Kgm_Nedim|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_forearm_l
+[21:30:10] kill|Nr31[FKR]_Maj_GodyX|63rd_OZBEK|melee|Infantry Musket|hb_shoulder_l
+[21:30:11] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:30:13] kill|63rd_LCpl_Edward|Nr31[FKR]_Albert_Epstein|melee|Infantry Musket|hb_upperarm_l
+[21:30:15] kill|Nr31[FKR]_StObJg_Ben|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[21:30:15] kill|63rd_pwtRyu|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_spine
+[21:30:17] kill|Nr31[FKR]_Hptm_BIBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_head
+[21:30:17] kill|Nr31[FKR]_UJg_MrRifleman|63rd_OZBEK|melee|Infantry Musket|hb_forearm_l
+[21:30:21] kill|Nr31[FKR]_Kpl_Fonifon|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_spine
+[21:30:28] kill|63rd_Pwt_Klaused|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_spine
+[21:30:31] kill|Nr31[FKR]_Albert_Epstein|63rd_General_Eternal|melee|Infantry Musket|hb_thorax
+[21:30:34] kill|Nr31[FKR]_Lt_Generadier|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[21:30:35] kill|63rd_lazsiken_jack|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_forearm_r
+[21:30:42] kill|Nr31[FKR]_StObjg_BlBA|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_thorax
+[21:30:47] kill|63rd_Kurdishim_Abo|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:30:58] kill|Nr31[FKR]_KFwb_Arkan|63rd_OZBEK|melee|Infantry Musket|hb_head
+[21:30:58] msg,New round started.
+[21:31:02] chat|63rd_philip|team|fred fdp
+[21:31:06] chat|63rd_Kurdishim_Abo|team|helal atarmenian
+[21:31:16] chat|63rd_OZBEK|all|ATARMENIAN ?
+[21:31:18] chat|63rd_Pwt_Klaused|all|adam yumruk hasarı istemiyordur
+[21:31:21] chat|63rd_OZBEK|all|OROSPU
+[21:31:22] chat|63rd_Gren_SteeL|team|assasinss
+[21:31:24] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:31:24] chat|63rd_General_Eternal|team|R
+[21:31:25] chat|63rd_General_Eternal|team|R
+[21:31:26] msg,*Admin*[63rd_General_Eternal]: G
+[21:31:33] kill|63rd_lazsiken_jack|Nr31[FKR]_Kpl_Fonifon|melee|Infantry Musket|hb_thorax
+[21:31:36] kill|Nr31[FKR]_Kpl_Fonifon|63rd_General_Eternal|melee|Infantry Musket|hb_abdomen
+[21:31:39] kill|Nr31[FKR]_StObjg_BlBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_spine
+[21:31:42] anticheat|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|14|95|90|logged
+[21:31:44] kill|Nr31[FKR]_StObJg_Ben|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:31:45] kill|63rd_OZBEK|Nr31[FKR]_KFwb_Arkan|melee|Infantry Musket|hb_head
+[21:31:45] kill|Nr31[FKR]_Maj_GodyX|63rd_pwtRyu|melee|Infantry Musket|hb_head
+[21:31:47] anticheat|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:31:47] kill|Nr31[FKR]_Hptm_BIBA|63rd_Kurdishim_Abo|melee|Infantry Musket|hb_head
+[21:31:47] kill|Nr31[FKR]_UJg_MrRifleman|63rd_Kgm_Nedim|melee|Infantry Musket|hb_forearm_l
+[21:31:48] msg,[AC-ALERT] Suspect: Nr31[FKR]_Albert_Epstein (GUID: 2300331) | Threat: 3 | Reason: Repeated offscreen auto-block
+[21:31:48] anticheat|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:31:48] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:31:50] kill|Nr31[FKR]_Albert_Epstein|63rd_LCpl_Edward|melee|Infantry Musket|hb_upperarm_l
+[21:31:50] kill|Nr31[FKR]_KFwb_Arkan|63rd_pwtRyu|melee|Infantry Musket|hb_upperarm_l
+[21:31:50] teamkill|63rd_LCpl_Edward|63rd_Pwt_Klaused|melee|Infantry Musket|hb_forearm_l
+[21:31:50] msg,63rd_Pwt_Klaused teamkilled 63rd_LCpl_Edward.
+[21:31:53] kill|Nr31[FKR]_Lt_Generadier|63rd_Gren_SteeL|melee|Infantry Musket|hb_thorax
+[21:31:53] msg,New round started.
+[21:31:57] chat|63rd_Pwt_Klaused|all|AYYYYYYYYYYYYY PARDON
+[21:31:57] chat|Nr31[FKR]_KFwb_Arkan|team|man
+[21:31:58] death|63rd_General_Eternal
+[21:31:59] msg,63rd_Gren_SteeL teamhit 63rd_pwtRyu 4 health.
+[21:32:00] chat|63rd_pwtRyu|all|OYNADIK HA
+[21:32:01] chat|63rd_Kurdishim_Abo|team|we are proud german kurdish
+[21:32:02] chat|Nr31[FKR]_KFwb_Arkan|team|burn this server
+[21:32:03] chat|Nr31[FKR]_KFwb_Arkan|team|wallah
+[21:32:09] msg,[SERVER]: 63rd_OZBEK Healed Everyone.
+[21:32:12] msg,[SERVER]: 63rd_General_Eternal Revived Everyone.
+[21:32:13] chat|Nr31[FKR]_KFwb_Arkan|team|R
+[21:32:14] anticheat|summary|exit|63rd_philip|2416952|REDACTED_IP_FOR_PRIVACY|mission=9|session=637|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=81791|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=70|autoblock_reaction_ms=790|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=31|autoattack_open_pct=58|autoattack_reaction_ms=972|autoattack_feints=1|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=2|time_skew_stall_pct=2
+[21:32:14] disconnect|63rd_philip|REDACTED_IP_FOR_PRIVACY|2416952
+[21:32:14] msg,63rd_philip has left the game with ID: 2416952
+[21:32:14] chat|63rd_LCpl_Edward|team|shush noob
+[21:32:15] msg,[SERVER]: 63rd_General_Eternal Teleported.
+[21:32:15] chat|63rd_Pwt_Klaused|team|bro you have better ping than me
+[21:32:20] chat|63rd_General_Eternal|team|R
+[21:32:21] chat|Nr31[FKR]_KFwb_Arkan|team|it's not about ping
+[21:32:21] connect|qpEKAJIUC_AHTOH_JlABJIOBU4|REDACTED_IP_FOR_PRIVACY|951862|regular|1140|qpEKAJIUC_AHTOH_JlABJIOBU4
+[21:32:22] chat|Nr31[FKR]_KFwb_Arkan|team|lan
+[21:32:24] msg,*Admin*[63rd_General_Eternal]: AG
+[21:32:25] chat|63rd_Kurdishim_Abo|team|we live in kurdistan
+[21:32:25] msg,*Admin*[63rd_General_Eternal]: G
+[21:32:31] kill|63rd_Kgm_Nedim|Nr31[FKR]_Maj_GodyX|melee|Infantry Musket|hb_thorax
+[21:32:31] teamkill|Nr31[FKR]_Kpl_Fonifon|Nr31[FKR]_UJg_MrRifleman|melee|Infantry Musket|hb_head
+[21:32:31] msg,Nr31[FKR]_UJg_MrRifleman teamkilled Nr31[FKR]_Kpl_Fonifon.
+[21:32:33] kill|Nr31[FKR]_KFwb_Arkan|63rd_pwtRyu|melee|Infantry Musket|hb_abdomen
+[21:32:33] kill|63rd_General_Eternal|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_upperarm_r
+[21:32:33] kill|63rd_Gren_SteeL|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_forearm_l
+[21:32:34] kill|Nr31[FKR]_Lt_Generadier|63rd_pwtRyu|melee|Infantry Musket|hb_upperarm_r
+[21:32:34] kill|Nr31[FKR]_Albert_Epstein|63rd_Pwt_Klaused|melee|Infantry Musket|hb_upperarm_l
+[21:32:40] kill|Nr31[FKR]_StObjg_BlBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_abdomen
+[21:32:40] connect|Assassins_Connor|REDACTED_IP_FOR_PRIVACY|1738245|regular|1137|Assassins_Connor
+[21:32:40] kill|Nr31[FKR]_UJg_MrRifleman|63rd_OZBEK|melee|Infantry Musket|hb_spine
+[21:32:43] anticheat|summary|exit|Nr31[FKR]_StObjg_BlBA|2552880|REDACTED_IP_FOR_PRIVACY|mission=9|session=558|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=96176|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=77|autoblock_reaction_ms=934|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=45|autoattack_reaction_ms=908|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=4
+[21:32:43] disconnect|Nr31[FKR]_StObjg_BlBA|REDACTED_IP_FOR_PRIVACY|2552880
+[21:32:43] msg,Nr31[FKR]_StObjg_BlBA has left the game with ID: 2552880
+[21:32:44] kill|63rd_Kurdishim_Abo|Nr31[FKR]_StObJg_Ben|melee|Infantry Musket|hb_thigh_l
+[21:32:46] kill|Nr31[FKR]_StObJg_Ben|63rd_Pwt_Klaused|melee|Infantry Musket|hb_forearm_r
+[21:32:47] kill|63rd_pwtRyu|Nr31[FKR]_Hptm_BIBA|melee|Infantry Musket|hb_spine
+[21:32:49] chat|Nr31[FKR]_Kpl_Fonifon|all|ахаха
+[21:32:51] anticheat|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:32:52] chat|63rd_pwtRyu|team|ARKAN 
+[21:32:52] chat|63rd_Kurdishim_Abo|team|ez
+[21:32:52] chat|Nr31[FKR]_StObJg_Ben|team|gg pidors
+[21:32:53] kill|Nr31[FKR]_Maj_GodyX|63rd_OZBEK|melee|Infantry Musket|hb_abdomen
+[21:32:55] teamkill|63rd_LCpl_Edward|63rd_Pwt_Klaused|melee|Infantry Musket|hb_head
+[21:32:55] msg,63rd_Pwt_Klaused teamkilled 63rd_LCpl_Edward.
+[21:32:56] kill|Nr31[FKR]_Hptm_BIBA|63rd_Pwt_Klaused|melee|Infantry Musket|hb_forearm_l
+[21:32:56] msg,New round started.
+[21:32:56] msg,*Admin*[63rd_General_Eternal]: GG
+[21:32:57] anticheat|summary|exit|63rd_Gren_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=2180|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=467300|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=1743|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=528|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[21:32:57] disconnect|63rd_Gren_SteeL|REDACTED_IP_FOR_PRIVACY|2065478
+[21:32:57] msg,63rd_Gren_SteeL has left the game with ID: 2065478
+[21:32:57] chat|Nr31[FKR]_Albert_Epstein|team|gg
+[21:32:58] anticheat|summary|exit|Nr31[FKR]_StObJg_Ben|1282828|REDACTED_IP_FOR_PRIVACY|mission=9|session=2348|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=222068|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=62|autoblock_reaction_ms=991|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=50|autoattack_reaction_ms=817|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=0
+[21:32:58] disconnect|Nr31[FKR]_StObJg_Ben|REDACTED_IP_FOR_PRIVACY|1282828
+[21:32:58] msg,Nr31[FKR]_StObJg_Ben has left the game with ID: 1282828
+[21:32:58] chat|63rd_OZBEK|team|GG
+[21:32:58] chat|63rd_Pwt_Klaused|all|pardon
+[21:32:58] chat|Nr31[FKR]_Lt_Generadier|team|gg
+[21:32:59] chat|63rd_pwtRyu|team|ÖĞREN DE GEL
+[21:33:00] anticheat|summary|exit|Nr31[FKR]_Hptm_BIBA|2498648|REDACTED_IP_FOR_PRIVACY|mission=9|session=2289|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=638880|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=70|autoblock_reaction_ms=260|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=50|autoattack_reaction_ms=774|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=2|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:00] disconnect|Nr31[FKR]_Hptm_BIBA|REDACTED_IP_FOR_PRIVACY|2498648
+[21:33:00] msg,Nr31[FKR]_Hptm_BIBA has left the game with ID: 2498648
+[21:33:00] death|Nr31[FKR]_Hptm_BIBA
+[21:33:00] anticheat|summary|exit|Nr31[FKR]_Lt_Generadier|2525779|REDACTED_IP_FOR_PRIVACY|mission=9|session=1905|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=530391|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=65|autoblock_reaction_ms=756|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=55|autoattack_reaction_ms=613|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=8|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:00] disconnect|Nr31[FKR]_Lt_Generadier|REDACTED_IP_FOR_PRIVACY|2525779
+[21:33:00] msg,Nr31[FKR]_Lt_Generadier has left the game with ID: 2525779
+[21:33:00] death|Nr31[FKR]_Lt_Generadier
+[21:33:01] chat|63rd_pwtRyu|team|ARKAN
+[21:33:03] anticheat|summary|exit|Nr31[FKR]_Maj_GodyX|2515702|REDACTED_IP_FOR_PRIVACY|mission=9|session=2487|detections=7|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=487|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=55|autoattack_reaction_ms=600|autoattack_feints=0|autoattack_chambers=3|autoattack_chamber_pct=6|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=16
+[21:33:03] disconnect|Nr31[FKR]_Maj_GodyX|REDACTED_IP_FOR_PRIVACY|2515702
+[21:33:03] msg,Nr31[FKR]_Maj_GodyX has left the game with ID: 2515702
+[21:33:03] death|Nr31[FKR]_Maj_GodyX
+[21:33:03] anticheat|summary|exit|Nr31[FKR]_UJg_MrRifleman|2570456|REDACTED_IP_FOR_PRIVACY|mission=9|session=2931|detections=11|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=62|autoblock_reaction_ms=422|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=70|autoattack_reaction_ms=579|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=16|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:03] disconnect|Nr31[FKR]_UJg_MrRifleman|REDACTED_IP_FOR_PRIVACY|2570456
+[21:33:03] msg,Nr31[FKR]_UJg_MrRifleman has left the game with ID: 2570456
+[21:33:03] death|Nr31[FKR]_UJg_MrRifleman
+[21:33:03] msg,63rd_LCpl_Edward teamhit 63rd_Pwt_Klaused 46 health.
+[21:33:04] chat|qpEKAJIUC_AHTOH_JlABJIOBU4|team|gg pidors
+[21:33:05] anticheat|summary|exit|Nr31[FKR]_Albert_Epstein|2300331|REDACTED_IP_FOR_PRIVACY|mission=9|session=2179|detections=7|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=540591|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=77|autoblock_reaction_ms=796|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=45|autoattack_reaction_ms=687|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=3|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=3|time_skew_stall_pct=2
+[21:33:05] disconnect|Nr31[FKR]_Albert_Epstein|REDACTED_IP_FOR_PRIVACY|2300331
+[21:33:05] msg,Nr31[FKR]_Albert_Epstein has left the game with ID: 2300331
+[21:33:05] death|Nr31[FKR]_Albert_Epstein
+[21:33:05] teamkill|63rd_Pwt_Klaused|63rd_LCpl_Edward|melee|Infantry Musket|hb_forearm_r
+[21:33:05] msg,63rd_LCpl_Edward teamkilled 63rd_Pwt_Klaused.
+[21:33:07] anticheat|summary|exit|63rd_Pwt_Klaused|1524719|REDACTED_IP_FOR_PRIVACY|mission=9|session=1675|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=226017|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=37|autoblock_reaction_ms=735|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=55|autoattack_reaction_ms=409|autoattack_feints=1|autoattack_chambers=1|autoattack_chamber_pct=2|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=1
+[21:33:07] disconnect|63rd_Pwt_Klaused|REDACTED_IP_FOR_PRIVACY|1524719
+[21:33:07] msg,63rd_Pwt_Klaused has left the game with ID: 1524719
+[21:33:08] msg,63rd_LCpl_Edward teamhit 63rd_lazsiken_jack 49 health.
+[21:33:10] anticheat|summary|exit|Nr31[FKR]_Kpl_Fonifon|2523481|REDACTED_IP_FOR_PRIVACY|mission=9|session=1148|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=598100|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=90|autoblock_reaction_ms=554|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=47|autoattack_reaction_ms=657|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=8|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:10] disconnect|Nr31[FKR]_Kpl_Fonifon|REDACTED_IP_FOR_PRIVACY|2523481
+[21:33:10] msg,Nr31[FKR]_Kpl_Fonifon has left the game with ID: 2523481
+[21:33:10] death|Nr31[FKR]_Kpl_Fonifon
+[21:33:10] msg,New round started.
+[21:33:14] chat|qpEKAJIUC_AHTOH_JlABJIOBU4|team|gg pidors
+[21:33:18] teamkill|63rd_Kurdishim_Abo|63rd_lazsiken_jack|melee|Infantry Musket|hb_head
+[21:33:18] msg,63rd_lazsiken_jack teamkilled 63rd_Kurdishim_Abo.
+[21:33:21] msg,63rd_pwtRyu teamhit 63rd_OZBEK 3 health.
+[21:33:22] chat|63rd_Kurdishim_Abo|team|uruspu JACK
+[21:33:22] msg,[SERVER]: 63rd_OZBEK Teleported Player qpEKAJIUC_AHTOH_JlABJIOBU4 to Himself.
+[21:33:22] msg,[SERVER]: 63rd_General_Eternal Changed the map to custom map 1 with gamemode Battle and with the nations Empire Français and United Kingdom.
+[21:33:22] chat|qpEKAJIUC_AHTOH_JlABJIOBU4|team|sa
+[21:33:24] connect|63rd_SteeL|REDACTED_IP_FOR_PRIVACY|2065478|regular|1139|63rd_SteeL
+[21:33:25] anticheat|summary|mission_end|Assassins_Arafey|2518964|REDACTED_IP_FOR_PRIVACY|mission=9|session=211|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:25] anticheat|summary|mission_end|63rd_LCpl_Edward|2272988|REDACTED_IP_FOR_PRIVACY|mission=9|session=1523|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=168764|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=55|autoblock_reaction_ms=297|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=52|autoattack_reaction_ms=756|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=3|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=4
+[21:33:25] anticheat|summary|mission_end|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=2071|detections=4|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=214004|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=30|autoblock_reaction_ms=654|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=37|autoattack_reaction_ms=712|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:25] anticheat|summary|mission_end|Assassins_Khizar|2484596|REDACTED_IP_FOR_PRIVACY|mission=9|session=233|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:25] anticheat|summary|mission_end|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=2931|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=65|autoblock_reaction_ms=265|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=40|autoattack_reaction_ms=645|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=5|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:25] anticheat|summary|mission_end|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1492|detections=2|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=147609|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=97|autoblock_reaction_ms=553|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=45|autoattack_reaction_ms=436|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=4|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=1
+[21:33:25] anticheat|summary|mission_end|qpEKAJIUC_AHTOH_JlABJIOBU4|951862|REDACTED_IP_FOR_PRIVACY|mission=9|session=64|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[21:33:25] anticheat|summary|mission_end|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=1547|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=933437|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=30|autoblock_reaction_ms=726|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=72|autoattack_reaction_ms=879|autoattack_feints=0|autoattack_chambers=2|autoattack_chamber_pct=10|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=16
+[21:33:25] anticheat|summary|mission_end|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|mission=9|session=669|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=91659|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=100|autoblock_reaction_ms=554|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=50|autoattack_reaction_ms=818|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=9|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=8
+[21:33:25] anticheat|summary|mission_end|Assassins_Connor|1738245|REDACTED_IP_FOR_PRIVACY|mission=9|session=44|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[21:33:25] anticheat|summary|mission_end|63rd_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=0|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:25] anticheat|summary|mission_end|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=1925|detections=6|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=267364|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=17|autoblock_reaction_ms=803|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=75|autoattack_reaction_ms=563|autoattack_feints=0|autoattack_chambers=3|autoattack_chamber_pct=23|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=8
+[21:33:25] anticheat|summary|mission_end|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=1642|detections=4|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=582578|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=55|autoblock_reaction_ms=719|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=40|autoattack_open_pct=45|autoattack_reaction_ms=420|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=3|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:33:26] msg,Map change.
+[21:33:28] chat|63rd_Kurdishim_Abo|team|SEN GREEEK
+[21:33:43] anticheat|63rd_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|14|7|6|logged
+[21:33:44] kill|63rd_LCpl_Edward|Assassins_Khizar|melee|Infantry Musket|hb_forearm_l
+[21:33:47] teamkill|63rd_lazsiken_jack|63rd_OZBEK|melee|Infantry Musket|hb_abdomen
+[21:33:47] msg,63rd_OZBEK teamkilled 63rd_lazsiken_jack.
+[21:33:50] msg,63rd_pwtRyu teamhit 63rd_Kurdishim_Abo 47 health.
+[21:33:51] teamkill|63rd_Kurdishim_Abo|63rd_pwtRyu|melee|Infantry Musket|hb_abdomen
+[21:33:51] msg,63rd_pwtRyu teamkilled 63rd_Kurdishim_Abo.
+[21:33:53] teamkill|63rd_OZBEK|63rd_General_Eternal|melee|Infantry Musket|hb_shoulder_r
+[21:33:53] msg,63rd_General_Eternal teamkilled 63rd_OZBEK.
+[21:33:56] kill|63rd_SteeL|Assassins_Arafey|melee|Infantry Musket|hb_forearm_r
+[21:33:58] anticheat|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|14|6|6|logged
+[21:34:03] connect|63rd_GJack|REDACTED_IP_FOR_PRIVACY|2087362|regular|1150|63rd_GJack
+[21:34:04] kill|qpEKAJIUC_AHTOH_JlABJIOBU4|63rd_General_Eternal|melee|Infantry Musket|hb_spine
+[21:34:05] kill|63rd_General_Eternal|Assassins_Khizar|melee|Infantry Musket|hb_forearm_l
+[21:34:09] chat|qpEKAJIUC_AHTOH_JlABJIOBU4|team|amk
+[21:34:13] anticheat|summary|exit|Assassins_Connor|1738245|REDACTED_IP_FOR_PRIVACY|mission=9|session=93|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=74
+[21:34:13] disconnect|Assassins_Connor|REDACTED_IP_FOR_PRIVACY|1738245
+[21:34:13] msg,Assassins_Connor has left the game with ID: 1738245
+[21:34:14] msg,[SERVER]: 63rd_OZBEK Revived Everyone.
+[21:34:19] kill|Assassins_Arafey|63rd_LCpl_Edward|melee|Infantry Musket|hb_head
+[21:34:19] msg,63rd_pwtRyu teamhit 63rd_Kurdishim_Abo 53 health.
+[21:34:19] kill|63rd_lazsiken_jack|qpEKAJIUC_AHTOH_JlABJIOBU4|melee|Infantry Musket|hb_head
+[21:34:20] teamkill|63rd_Kurdishim_Abo|63rd_pwtRyu|melee|Infantry Musket|hb_spine
+[21:34:20] msg,63rd_pwtRyu teamkilled 63rd_Kurdishim_Abo.
+[21:34:24] kill|qpEKAJIUC_AHTOH_JlABJIOBU4|63rd_pwtRyu|melee|Infantry Musket|hb_head
+[21:34:27] kill|Assassins_Khizar|63rd_pwtRyu|melee|Infantry Musket|hb_abdomen
+[21:34:27] msg,New round started.
+[21:34:37] kill|qpEKAJIUC_AHTOH_JlABJIOBU4|63rd_GJack|melee|Infantry Musket|hb_head
+[21:34:40] anticheat|63rd_GJack|2087362|REDACTED_IP_FOR_PRIVACY|14|10|6|logged
+[21:34:46] kill|Assassins_Arafey|63rd_General_Eternal|melee|Infantry Musket|hb_head
+[21:34:48] msg,63rd_lazsiken_jack teamhit 63rd_General_Eternal 4 health.
+[21:34:49] kill|Assassins_Khizar|63rd_GJack|melee|Infantry Musket|hb_shoulder_l
+[21:34:49] msg,New round started.
+[21:34:50] teamkill|63rd_GJack|63rd_pwtRyu|melee|Infantry Musket|hb_upperarm_r
+[21:34:50] msg,63rd_pwtRyu teamkilled 63rd_GJack.
+[21:34:51] msg,63rd_lazsiken_jack teamhit 63rd_General_Eternal 31 health.
+[21:34:54] anticheat|summary|exit|63rd_Kgm_Nedim|395164|REDACTED_IP_FOR_PRIVACY|mission=9|session=2013|detections=6|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[21:34:54] disconnect|63rd_Kgm_Nedim|REDACTED_IP_FOR_PRIVACY|395164
+[21:34:54] msg,63rd_Kgm_Nedim has left the game with ID: 395164
+[21:34:57] anticheat|summary|exit|63rd_GJack|2087362|REDACTED_IP_FOR_PRIVACY|mission=9|session=54|detections=1|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=622693|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=42|autoblock_reaction_ms=479|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=6|autoattack_open_pct=50|autoattack_reaction_ms=396|autoattack_feints=1|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:34:57] disconnect|63rd_GJack|REDACTED_IP_FOR_PRIVACY|2087362
+[21:34:57] msg,63rd_GJack has left the game with ID: 2087362
+[21:34:57] death|63rd_GJack
+[21:35:00] kill|Assassins_Khizar|63rd_SteeL|melee|Infantry Musket|hb_abdomen
+[21:35:03] kill|qpEKAJIUC_AHTOH_JlABJIOBU4|63rd_OZBEK|melee|Infantry Musket|hb_upperarm_l
+[21:35:04] kill|63rd_pwtRyu|Assassins_Arafey|melee|Infantry Musket|hb_upperarm_l
+[21:35:05] anticheat|summary|exit|63rd_General_Eternal|2289446|REDACTED_IP_FOR_PRIVACY|mission=9|session=1591|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=518911|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=67|autoblock_reaction_ms=647|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=22|autoattack_open_pct=63|autoattack_reaction_ms=910|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=7|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:35:05] disconnect|63rd_General_Eternal|REDACTED_IP_FOR_PRIVACY|2289446
+[21:35:05] msg,63rd_General_Eternal has left the game with ID: 2289446
+[21:35:05] death|63rd_General_Eternal
+[21:35:05] kill|Assassins_Arafey|63rd_OZBEK|melee|Infantry Musket|hb_forearm_l
+[21:35:05] msg,New round started.
+[21:35:05] anticheat|summary|exit|63rd_pwtRyu|2558541|REDACTED_IP_FOR_PRIVACY|mission=9|session=1647|detections=0|seed_mismatches=0|time_skew_pct=-10|time_skew_windows=0|max_aim_speed=4003030|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=25|autoblock_reaction_ms=661|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=14|autoattack_open_pct=28|autoattack_reaction_ms=570|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=10
+[21:35:05] disconnect|63rd_pwtRyu|REDACTED_IP_FOR_PRIVACY|2558541
+[21:35:05] msg,63rd_pwtRyu has left the game with ID: 2558541
+[21:35:06] anticheat|summary|exit|63rd_lazsiken_jack|1724198|REDACTED_IP_FOR_PRIVACY|mission=9|session=1743|detections=4|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=939312|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=65|autoblock_reaction_ms=577|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=16|autoattack_open_pct=81|autoattack_reaction_ms=487|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:35:06] disconnect|63rd_lazsiken_jack|REDACTED_IP_FOR_PRIVACY|1724198
+[21:35:06] msg,63rd_lazsiken_jack has left the game with ID: 1724198
+[21:35:06] death|63rd_lazsiken_jack
+[21:35:12] anticheat|summary|exit|63rd_OZBEK|2002752|REDACTED_IP_FOR_PRIVACY|mission=9|session=2177|detections=4|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=718492|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=52|autoblock_reaction_ms=457|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=18|autoattack_open_pct=44|autoattack_reaction_ms=938|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:35:12] disconnect|63rd_OZBEK|REDACTED_IP_FOR_PRIVACY|2002752
+[21:35:12] msg,63rd_OZBEK has left the game with ID: 2002752
+[21:35:12] death|63rd_OZBEK
+[21:35:12] anticheat|summary|exit|63rd_SteeL|2065478|REDACTED_IP_FOR_PRIVACY|mission=9|session=107|detections=1|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=596196|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=47|autoblock_reaction_ms=163|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=4|autoattack_open_pct=25|autoattack_reaction_ms=1628|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=2
+[21:35:12] disconnect|63rd_SteeL|REDACTED_IP_FOR_PRIVACY|2065478
+[21:35:12] msg,63rd_SteeL has left the game with ID: 2065478
+[21:35:12] death|63rd_SteeL
+[21:35:18] anticheat|summary|exit|Assassins_Khizar|2484596|REDACTED_IP_FOR_PRIVACY|mission=9|session=347|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=474984|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=45|autoblock_reaction_ms=294|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=29|autoattack_open_pct=48|autoattack_reaction_ms=861|autoattack_feints=0|autoattack_chambers=1|autoattack_chamber_pct=33|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=86
+[21:35:18] disconnect|Assassins_Khizar|REDACTED_IP_FOR_PRIVACY|2484596
+[21:35:18] msg,Assassins_Khizar has left the game with ID: 2484596
+[21:35:18] death|Assassins_Khizar
+[21:35:19] anticheat|summary|exit|Assassins_Arafey|2518964|REDACTED_IP_FOR_PRIVACY|mission=9|session=325|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=342900|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=42|autoblock_reaction_ms=432|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=12|autoattack_open_pct=50|autoattack_reaction_ms=982|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=76
+[21:35:19] disconnect|Assassins_Arafey|REDACTED_IP_FOR_PRIVACY|2518964
+[21:35:19] msg,Assassins_Arafey has left the game with ID: 2518964
+[21:35:19] death|Assassins_Arafey
+[21:35:22] kill|63rd_Kurdishim_Abo|qpEKAJIUC_AHTOH_JlABJIOBU4|melee|Infantry Musket|hb_upperarm_l
+[21:35:22] anticheat|summary|exit|63rd_LCpl_Edward|2272988|REDACTED_IP_FOR_PRIVACY|mission=9|session=1640|detections=1|seed_mismatches=0|time_skew_pct=-1|time_skew_windows=0|max_aim_speed=538869|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=70|autoblock_reaction_ms=469|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=9|autoattack_open_pct=11|autoattack_reaction_ms=700|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=1
+[21:35:22] disconnect|63rd_LCpl_Edward|REDACTED_IP_FOR_PRIVACY|2272988
+[21:35:22] msg,63rd_LCpl_Edward has left the game with ID: 2272988
+[21:35:22] death|63rd_LCpl_Edward
+[21:35:22] msg,New round started.
+[21:35:41] kill|63rd_Kurdishim_Abo|qpEKAJIUC_AHTOH_JlABJIOBU4|melee|Infantry Musket|hb_forearm_l
+[21:35:41] msg,New round started.
+[21:35:42] anticheat|summary|exit|qpEKAJIUC_AHTOH_JlABJIOBU4|951862|REDACTED_IP_FOR_PRIVACY|mission=9|session=201|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=210982|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=50|autoblock_reaction_ms=616|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=18|autoattack_open_pct=55|autoattack_reaction_ms=516|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=1|time_skew_stall_pct=80
+[21:35:42] disconnect|qpEKAJIUC_AHTOH_JlABJIOBU4|REDACTED_IP_FOR_PRIVACY|951862
+[21:35:42] msg,qpEKAJIUC_AHTOH_JlABJIOBU4 has left the game with ID: 951862
+[21:35:42] death|qpEKAJIUC_AHTOH_JlABJIOBU4
+[21:35:51] anticheat|summary|exit|63rd_Kurdishim_Abo|2231675|REDACTED_IP_FOR_PRIVACY|mission=9|session=815|detections=3|seed_mismatches=0|time_skew_pct=-2|time_skew_windows=0|max_aim_speed=2547383|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=40|autoblock_match_pct=92|autoblock_reaction_ms=705|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=6|autoattack_open_pct=50|autoattack_reaction_ms=685|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=7
+[21:35:51] disconnect|63rd_Kurdishim_Abo|REDACTED_IP_FOR_PRIVACY|2231675
+[21:35:51] msg,63rd_Kurdishim_Abo has left the game with ID: 2231675
+[21:35:51] death|63rd_Kurdishim_Abo
+[21:35:51] msg,New round started.
+[21:36:22] connect|qpEKAJIUC_AHTOH_JlABJIOBU4|REDACTED_IP_FOR_PRIVACY|951862|regular|1140|qpEKAJIUC_AHTOH_JlABJIOBU4
+[21:36:32] chat|qpEKAJIUC_AHTOH_JlABJIOBU4|team|87th pw 74
+[21:36:33] anticheat|summary|exit|qpEKAJIUC_AHTOH_JlABJIOBU4|951862|REDACTED_IP_FOR_PRIVACY|mission=9|session=11|detections=0|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=1474800|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:36:33] disconnect|qpEKAJIUC_AHTOH_JlABJIOBU4|REDACTED_IP_FOR_PRIVACY|951862
+[21:36:33] msg,qpEKAJIUC_AHTOH_JlABJIOBU4 has left the game with ID: 951862
+[21:36:33] death|qpEKAJIUC_AHTOH_JlABJIOBU4
+[21:36:33] msg,New round started.
+[21:36:57] anticheat|summary|exit|Nr31[FKR]_KFwb_Arkan|2116360|REDACTED_IP_FOR_PRIVACY|mission=9|session=3144|detections=3|seed_mismatches=0|time_skew_pct=0|time_skew_windows=0|max_aim_speed=0|aim_snaps=0|spread_mean_x1000=0|spread_shots=0|melee_attacks=0|ranged_attacks=0|autoblock_samples=0|autoblock_match_pct=0|autoblock_reaction_ms=0|autoblock_feints=0|autoblock_offscreen=0|autoattack_samples=0|autoattack_open_pct=0|autoattack_reaction_ms=0|autoattack_feints=0|autoattack_chambers=0|autoattack_chamber_pct=0|aimlead_hard_shots=0|aimlead_err_x100=0|aimlead_flat_x100=0|time_skew_max_pct=0|time_skew_stall_pct=0
+[21:36:57] disconnect|Nr31[FKR]_KFwb_Arkan|REDACTED_IP_FOR_PRIVACY|2116360
+[21:36:57] msg,Nr31[FKR]_KFwb_Arkan has left the game with ID: 2116360
