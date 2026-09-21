@@ -50,6 +50,12 @@ log was captured. The developer has since root-caused and fixed the clock-skew d
 an old, too-loose threshold (now fixed and lowered).
 (auto block) evidence above.
 
+## Special Thanks
+
+Special thanks to `63rd_OZBEK`, `63rd_Kurdishim_Abo` (primarily known as `Fred`), and
+`63rd_Rgl_ramadan_baighara` for serving as anti-cheat testers, and to
+`63rd_General_Eternal` for sponsoring their testing work.
+
 ## Maintenance
 
 When a new session is reviewed:
