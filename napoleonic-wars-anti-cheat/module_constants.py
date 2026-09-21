@@ -176,7 +176,6 @@ slot_player_cheat_matchrate_spikes    = 153
 slot_player_cheat_feint_follows       = 154
 slot_player_cheat_clock_skew_count    = 155
 slot_player_cheat_seed_mismatches     = 156
-slot_player_cheat_last_detection_time = 157
 slot_player_cheat_autoblock_detections = 158
 
 threat_level_none       = 0

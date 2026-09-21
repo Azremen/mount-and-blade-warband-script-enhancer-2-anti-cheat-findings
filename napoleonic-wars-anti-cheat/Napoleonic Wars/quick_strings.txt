@@ -114,7 +114,7 @@ qstr_admin_name_1 admin_name_1
 qstr_Azremen Azremen
 qstr_admin_guid_2 admin_guid_2
 qstr_admin_name_2 admin_name_2
-qstr_Eto Eto
+qstr_63rd_General_Eternal 63rd_General_Eternal
 qstr_[AC_JSON]_Admin_GUID [AC-JSON]_Admin_GUID_file_created
 qstr_anticheat_player_whi anticheat_player_whitelist
 qstr_player_guid_1 player_guid_1
