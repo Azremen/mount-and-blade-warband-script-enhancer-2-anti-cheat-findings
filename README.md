@@ -1,6 +1,7 @@
 # WSE2 Anti-Cheat Findings
 
-This repository brings together the design of an anti-cheat system for Mount & Blade: Warband Script Enhancer 2 (WSE2) servers, real server logs, and the cheater watchlist created during review.
+This repository brings together the design of an anti-cheat system for a non-public WSE2 1.5.2 server
+build, real server logs, and the cheater watchlist created during review.
 
 > **What is this repository?** It is not a ready-to-install package. It is a research archive that documents WSE2 anti-cheat behavior, preserves log evidence, and describes the Module System decision logic.
 
@@ -43,7 +44,7 @@ Choose the path that matches your goal:
 
 The purpose of this work is to record server-observable behavior without installing software on the client or revealing which detector fired. The system is considered in two layers:
 
-1. **WSE2 server detector layer:** Collects signals such as seed validation, aim snap, aim lead, spread luck, auto block, auto attack, attack cadence, and client clock skew.
+1. **WSE2 server detector layer:** The non-public WSE2 1.5.2 engine build collects signals such as seed validation, aim snap, aim lead, spread luck, auto block, auto attack, attack cadence, and client clock skew.
 2. **Module System decision layer:** Receives `ti_on_cheat_detected` events and manages detection counters, threat levels, the whitelist, GUID-based history, and silent/enforce behavior.
 
 The central goal is not to punish a player for one suspicious action. It is to measure the statistical range of real players and make stronger decisions from repeated, mutually consistent signals. Deterministic violations such as seed mismatches are handled differently and are treated as zero-tolerance events.
@@ -140,18 +141,19 @@ This directory is currently more of a documentation and log-evidence archive tha
 └── README.md                   # This overview and navigation document
 ```
 
-The WSE2 engine automatically creates `server_config.ini`, `anticheat_config.json`, admin GUID, and
-player-whitelist files. The actual WSE2 engine source will not be published; the Module System code and
-its decision logic are documented in [MODULE_ANTICHEAT_SPEC.md](MODULE_ANTICHEAT_SPEC.md). This README is
-therefore a navigation point for the available evidence and technical decisions rather than a setup guide
-with installation commands.
+The non-public WSE2 1.5.2 engine automatically creates `server_config.ini`, `anticheat_config.json`,
+admin GUID, and player-whitelist files. WSE2 itself is not open source and its engine source will not be
+published. The open-source Module System code and its decision logic are documented in
+[MODULE_ANTICHEAT_SPEC.md](MODULE_ANTICHEAT_SPEC.md). This README is therefore a navigation point for
+the available evidence and technical decisions rather than a setup guide with installation commands.
 
 ## Project Decisions
 
 The current project scope and distribution decisions are:
 
-- The WSE2 engine source code will not be published.
-- The Module System implementation is documented in `MODULE_ANTICHEAT_SPEC.md`.
+- The project uses a non-public WSE2 1.5.2 engine build.
+- WSE2 is not open source and its engine source code will not be published.
+- Only the Module System implementation is open source; it is documented in `MODULE_ANTICHEAT_SPEC.md`.
 - The WSE2 engine creates the server configuration, anti-cheat configuration, admin GUID, and player-whitelist files automatically.
 - Silent mode is the default operating goal for observation and evidence collection.
 - IP bans, admin notifications, and log parsers are within the scope of this project.
@@ -160,4 +162,6 @@ The current project scope and distribution decisions are:
 
 ## License and Upstream
 
-This README is based on the contents of the current directory. The project license and upstream WSE2 version are not specified in this archive and should be added before distribution.
+The Module System code in this project is open source and released under the
+[Unlicense](https://unlicense.org/). WSE2 1.5.2 is a non-public, non-open-source engine build and is not
+part of this license grant.
