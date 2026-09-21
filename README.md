@@ -165,3 +165,6 @@ The current project scope and distribution decisions are:
 The Module System code in this project is open source and released under the
 [Unlicense](https://unlicense.org/). WSE2 1.5.2 is a non-public, non-open-source engine build and is not
 part of this license grant.
+
+## Forum Thread
+https://www.fsegames.eu/forum/index.php?topic=50194.0
